@@ -10,8 +10,13 @@ export default defineUserConfig({
 
   base: '/survive-in-scut/',
 
+  head: [
+    ['link', { rel: 'icon', href: '/survive-in-scut/root-assets/logo/scut-cat-1.ico' }],
+  ],
+
   theme: defaultTheme({
-    logo: '/root-assets/scut-logo.png',
+    // logo: '/root-assets/scut-logo.png',
+    logo: '/root-assets/logo/scut-cat-1.jpg',
 
     navbar: [
       '/get-started',
@@ -28,8 +33,9 @@ export default defineUserConfig({
             text: '大学城',
             prefix: 'hemc/',
             children: [
-              'foo.md', // 解析为 `/guide/group/sub1/bar.md`
-              'bar.md', // 解析为 `/guide/group/sub1/bar.md`
+              'map',
+              'suishi',
+              'nearby',
 
               // 一个外部链接
               {
@@ -42,10 +48,8 @@ export default defineUserConfig({
             text: '五山',
             prefix: 'wushan/',
             children: [
-              'foo', // 解析为 `/guide/group/sub2/foo.md`
-              'bar', // 解析为 `/guide/group/sub2/bar.md`
-
-              '/baz/', // 解析为 `/baz/README.md`
+              'map',
+              'nearby',
             ],
           },
           {
@@ -53,11 +57,8 @@ export default defineUserConfig({
             prefix: 'gzic/',
             // 项目内链接的 .md 或 .html 后缀是可以省略的
             children: [
-              'foo', // 解析为 `/guide/group/sub2/foo.md`
-              'bar', // 解析为 `/guide/group/sub2/bar.md`
-
-              // 不在 SubGroup2 内的链接
-              '/baz/', // 解析为 `/baz/README.md`
+              'map',
+              'nearby',
             ],
           },
         ],
@@ -68,29 +69,35 @@ export default defineUserConfig({
         prefix: '/life/',
         children: [
           {
-            text: 'SubGroup1',
-            prefix: 'sub1/',
+            text: '时间',
+            prefix: 'time/',
             children: [
-              'foo.md', // 解析为 `/guide/group/sub1/bar.md`
-              'bar.md', // 解析为 `/guide/group/sub1/bar.md`
-
+              'hemc_gzic',
+              'wushan',
               // 一个外部链接
               {
-                text: 'Example',
+                text: '夏令时',
                 link: 'https://example.com',
               },
             ],
           },
           {
-            text: 'SubGroup2',
-            prefix: 'sub2/',
+            text: '吃饭',
+            prefix: 'eat/',
             // 项目内链接的 .md 或 .html 后缀是可以省略的
             children: [
-              'foo', // 解析为 `/guide/group/sub2/foo.md`
-              'bar', // 解析为 `/guide/group/sub2/bar.md`
-
-              // 不在 SubGroup2 内的链接
-              '/baz/', // 解析为 `/baz/README.md`
+              'hemc',
+              'wushan',
+              'gzic',
+            ],
+          },
+          {
+            text: '娱乐',
+            prefix: 'entertainment/',
+            // 项目内链接的 .md 或 .html 后缀是可以省略的
+            children: [
+              'hemc_gzic',
+              'wushan',
             ],
           },
         ],
@@ -104,14 +111,9 @@ export default defineUserConfig({
             text: '课内',
             prefix: 'curricular/',
             children: [
-              'foo.md', // 解析为 `/guide/group/sub1/bar.md`
-              'bar.md', // 解析为 `/guide/group/sub1/bar.md`
-
-              // 一个外部链接
-              {
-                text: 'Example',
-                link: 'https://example.com',
-              },
+              'majors',
+              'gpa',
+              'exam',
             ],
           },
           {
@@ -128,7 +130,36 @@ export default defineUserConfig({
           },
         ],
       },
+
+      {
+        text: '飞跃',
+        prefix: '/beyond/',
+        children: [
+          {
+            text: '境内',
+            prefix: 'mainland/',
+            children: [
+              'recommend_graduate',
+              'unified_admission',
+              'phd',
+            ],
+          },
+          {
+            text: '境外',
+            prefix: 'abroad/',
+            // 项目内链接的 .md 或 .html 后缀是可以省略的
+            children: [
+              'master',
+              'phd',
+            ],
+          },
+        ],
+      },
     ],
+
+    locales: {
+      contributors: true,
+    }
   }),
 
   bundler: viteBundler(),
