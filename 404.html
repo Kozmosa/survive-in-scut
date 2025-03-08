@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="VuePress 2.0.0-rc.20" />
+    <style>
+      :root {
+        --vp-c-bg: #fff;
+      }
+
+      [data-theme='dark'] {
+        --vp-c-bg: #1b1b1f;
+      }
+
+      html,
+      body {
+        background-color: var(--vp-c-bg);
+      }
+    </style>
+    <script>
+      const useChoice = localStorage.getItem('vuepress-color-scheme')
+      const systemStatus =
+        'matchMedia' in window
+          ? window.matchMedia('(prefers-color-scheme: dark)').matches
+          : false
+
+      if (useChoice === 'light') {
+        document.documentElement.dataset.theme = 'light'
+      } else if (useChoice === 'dark' || systemStatus) {
+        document.documentElement.dataset.theme = 'dark'
+      }
+    </script>
+    <title>华工生存手册</title><meta name="description" content="你不为我而来，但我为你而写">
+    <link rel="preload" href="/assets/style-DYL3pjl1.css" as="style"><link rel="stylesheet" href="/assets/style-DYL3pjl1.css">
+    <link rel="modulepreload" href="/assets/app-Co0NlsJW.js"><link rel="modulepreload" href="/assets/404.html-CDraTeWh.js">
+    <link rel="prefetch" href="/assets/index.html-CKkh2WJA.js" as="script"><link rel="prefetch" href="/assets/get-started.html-D-ZJvl6K.js" as="script"><link rel="prefetch" href="/assets/introduction.html-BY3eLjDA.js" as="script"><link rel="prefetch" href="/assets/index.html-BPd01PvS.js" as="script"><link rel="prefetch" href="/assets/setupDevtools-QXEOFQJV-2d2dBY64.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="vp-theme-container" vp-container data-v-ec9917b8><main class="page" data-v-ec9917b8><div vp-content data-v-ec9917b8><h1 data-v-ec9917b8>404</h1><blockquote data-v-ec9917b8>There&#39;s nothing here.</blockquote><a class="route-link" href="/" data-v-ec9917b8>Take me home</a></div></main></div><!--[--><!----><!--]--><!--]--></div>
+    <script type="module" src="/assets/app-Co0NlsJW.js" defer></script>
+  </body>
+</html>
