@@ -8,6 +8,8 @@ export default defineUserConfig({
   title: '华工生存手册',
   description: '你不为我而来，但我为你而写',
 
+  base: '/survive-in-scut/',
+
   theme: defaultTheme({
     logo: '/root-assets/scut-logo.png',
 
