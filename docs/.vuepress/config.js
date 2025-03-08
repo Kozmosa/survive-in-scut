@@ -171,6 +171,7 @@ export default defineUserConfig({
     contributors: true,
     repo: 'Kozmosa/survive-in-scut',
     editLink: true,
+    docsDir: 'docs',
     search: true,
     searchMaxSuggestions: 10,
     
