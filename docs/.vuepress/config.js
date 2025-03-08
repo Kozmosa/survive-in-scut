@@ -89,6 +89,10 @@ export default defineUserConfig({
               'hemc',
               'wushan',
               'gzic',
+              {
+                text: '鳕鱼美食指南',
+                link: 'https://example.com',
+              },
             ],
           },
           {
@@ -112,8 +116,8 @@ export default defineUserConfig({
             prefix: 'curricular/',
             children: [
               'majors',
-              'gpa',
               'exam',
+              'gpa',
             ],
           },
           {
@@ -121,11 +125,7 @@ export default defineUserConfig({
             prefix: 'extra/',
             // 项目内链接的 .md 或 .html 后缀是可以省略的
             children: [
-              'foo', // 解析为 `/guide/group/sub2/foo.md`
-              'bar', // 解析为 `/guide/group/sub2/bar.md`
-
-              // 不在 SubGroup2 内的链接
-              '/baz/', // 解析为 `/baz/README.md`
+              'srp',
             ],
           },
         ],
@@ -153,6 +153,14 @@ export default defineUserConfig({
               'phd',
             ],
           },
+        ],
+      },
+
+      {
+        text: '立命',
+        prefix: '/health/',
+        children: [
+          'alive_first'
         ],
       },
     ],
