@@ -7,7 +7,7 @@ import { readingTimePlugin } from '@vuepress/plugin-reading-time'
 export default defineUserConfig({
   lang: 'zh-CN',
 
-  title: '华工生存手册',
+  title: '华南理工生存手册',
   description: '你不为我而来，但我为你而写',
 
   base: '/survive-in-scut/',
@@ -54,12 +54,6 @@ export default defineUserConfig({
               'map',
               'suishi',
               'nearby',
-
-              // 一个外部链接
-              {
-                text: 'Example',
-                link: 'https://example.com',
-              },
             ],
           },
           {
@@ -92,17 +86,11 @@ export default defineUserConfig({
             children: [
               'hemc_gzic',
               'wushan',
-              // 一个外部链接
-              {
-                text: '夏令时',
-                link: 'https://example.com',
-              },
             ],
           },
           {
             text: '吃饭',
             prefix: 'eat/',
-            // 项目内链接的 .md 或 .html 后缀是可以省略的
             children: [
               'hemc',
               'wushan',
@@ -116,7 +104,6 @@ export default defineUserConfig({
           {
             text: '娱乐',
             prefix: 'entertainment/',
-            // 项目内链接的 .md 或 .html 后缀是可以省略的
             children: [
               'hemc_gzic',
               'wushan',
@@ -141,7 +128,6 @@ export default defineUserConfig({
           {
             text: '课外',
             prefix: 'extra/',
-            // 项目内链接的 .md 或 .html 后缀是可以省略的
             children: [
               'srp',
             ],
@@ -165,7 +151,6 @@ export default defineUserConfig({
           {
             text: '境外',
             prefix: 'abroad/',
-            // 项目内链接的 .md 或 .html 后缀是可以省略的
             children: [
               'master',
               'phd',
