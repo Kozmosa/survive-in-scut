@@ -349,12 +349,12 @@ export default defineUserConfig({
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: '华工生存手册',
+      title: '华南理工生存手册',
       description: '你不为我而来，但我为你而写',
     },
     '/en/': {
       lang: 'en-US',
-      title: 'SCUT Survival Manual',
+      title: 'Survive in SCUT',
       description: 'You did not come for me, but I wrote for you',
     },
   },
