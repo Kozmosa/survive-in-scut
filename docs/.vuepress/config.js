@@ -23,11 +23,11 @@ export default defineUserConfig({
   title: '华南理工生存手册',
   description: '你不为我而来，但我为你而写',
 
-  base: '/survive-in-scut/',
+  base: '/',
 
   head: [
-    ['link', { rel: 'icon', href: '/survive-in-scut/root-assets/logo/scut-cat-1.ico' }],
-    ['link', { rel: 'stylesheet', href: '/survive-in-scut/styles/global.css' }],
+    ['link', { rel: 'icon', href: '/root-assets/logo/scut-cat-1.ico' }],
+    ['link', { rel: 'stylesheet', href: '/styles/global.css' }],
   ],
 
   plugins: [
