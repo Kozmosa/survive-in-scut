@@ -11,18 +11,18 @@
     "docs:update-package": "npx vp-update"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "^2.0.0-rc.7",
-    "@vuepress/plugin-back-to-top": "2.0.0-rc.108",
-    "@vuepress/plugin-comment": "2.0.0-rc.108",
-    "@vuepress/plugin-copy-code": "^2.0.0-rc.6",
-    "@vuepress/plugin-prismjs": "^2.0.0-rc.0",
-    "@vuepress/plugin-reading-time": "^2.0.0-rc.82",
-    "@vuepress/plugin-search": "^2.0.0-rc.82",
-    "@vuepress/theme-default": "2.0.0-rc.108",
+    "@vuepress/bundler-vite": "^2.0.0-rc.23",
+    "@vuepress/plugin-back-to-top": "^2.0.0-rc.108",
+    "@vuepress/plugin-comment": "^2.0.0-rc.108",
+    "@vuepress/plugin-copy-code": "^2.0.0-rc.108",
+    "@vuepress/plugin-prismjs": "^2.0.0-rc.108",
+    "@vuepress/plugin-reading-time": "^2.0.0-rc.108",
+    "@vuepress/plugin-search": "^2.0.0-rc.108",
+    "@vuepress/theme-default": "^2.0.0-rc.108",
     "@waline/client": "^3.5.7",
     "sass": "^1.89.2",
     "sass-embedded": "^1.89.2",
     "vue": "^3.5.16",
-    "vuepress": "2.0.0-rc.23"
+    "vuepress": "^2.0.0-rc.23"
   }
 }
