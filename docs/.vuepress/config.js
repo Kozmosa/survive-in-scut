@@ -123,6 +123,7 @@ export default defineUserConfig({
               'majors',
               'exam',
               'gpa',
+              'transfer_major'
             ],
           },
           {
