@@ -1,8 +1,21 @@
-import { defaultTheme } from '@vuepress/theme-default'
-import { defineUserConfig } from 'vuepress/cli'
-import { viteBundler } from '@vuepress/bundler-vite'
-import { searchPlugin } from '@vuepress/plugin-search'
+// import { defaultTheme } from '@vuepress/theme-default'
+// import { defineUserConfig } from 'vuepress/cli'
+// import { viteBundler } from '@vuepress/bundler-vite'
+// import { searchPlugin } from '@vuepress/plugin-search'
+// import { readingTimePlugin } from '@vuepress/plugin-reading-time'
+
+// 导入 VuePress 核心配置
+import { defineUserConfig } from 'vuepress'; // 从 vuepress 直接导入，无需指定 cli
+
+// 导入主题
+import { defaultTheme } from '@vuepress/theme-default'; // 导入主题模块的默认导出
+// 导入 Vite 打包器
+import { viteBundler } from '@vuepress/bundler-vite'; // 保持不变（若使用默认打包器可省略）
+
+// 导入插件
+import { searchPlugin } from '@vuepress/plugin-search'; // 直接导入默认导出（searchPlugin 是默认导出）
 import { readingTimePlugin } from '@vuepress/plugin-reading-time'
+import { commentPlugin } from '@vuepress/plugin-comment'
 
 export default defineUserConfig({
   lang: 'zh-CN',
@@ -30,6 +43,9 @@ export default defineUserConfig({
       },
     }),
     readingTimePlugin(),
+    commentPlugin({
+      provider: 'Waline'
+    })
   ],
 
   theme: defaultTheme({
@@ -167,6 +183,14 @@ export default defineUserConfig({
           'alive_first'
         ],
       },
+
+      {
+        text: '其他',
+        prefix: '/others/',
+        children: [
+          'contributing'
+        ]
+      }
     ],
 
     contributors: true,
