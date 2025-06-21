@@ -119,7 +119,7 @@ export default defineUserConfig({
           },
           {
             text: '娱乐',
-            prefix: 'entertainment/',
+            prefix: '/entertainment/',
             children: [
               'hemc_gzic',
               'wushan',
