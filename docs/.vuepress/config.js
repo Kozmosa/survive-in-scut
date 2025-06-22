@@ -16,6 +16,9 @@ import { viteBundler } from '@vuepress/bundler-vite'; // 保持不变（若使�
 import { searchPlugin } from '@vuepress/plugin-search'; // 直接导入默认导出（searchPlugin 是默认导出）
 import { readingTimePlugin } from '@vuepress/plugin-reading-time'
 import { commentPlugin } from '@vuepress/plugin-comment'
+import { languageMarkdown } from '@vuepress/plugin-prismjs';
+
+// 导入monaco editor
 
 export default defineUserConfig({
   lang: 'zh-CN',
@@ -113,7 +116,7 @@ export default defineUserConfig({
               'gzic',
               {
                 text: '鳕鱼美食指南',
-                link: 'https://example.com',
+                link: 'xueyu/index',
               },
             ],
           },
@@ -147,6 +150,7 @@ export default defineUserConfig({
             prefix: 'extra/',
             children: [
               'srp',
+              'innovation_humanities_scores'
             ],
           },
         ],
@@ -386,4 +390,18 @@ export default defineUserConfig({
   },
 
   bundler: viteBundler(),
+  vite: {
+    resolve: {
+      alias: {
+        '@vueuse/core': '@vueuse/core', // 确保正确解析
+      },
+      dedupe: [
+        // 确保所有 CodeMirror 依赖使用相同实例
+        '@codemirror/state',
+        '@codemirror/view',
+        '@codemirror/basic-setup',
+        '@codemirror/lang-markdown'
+      ]
+    }
+  }
 })

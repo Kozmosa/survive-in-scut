@@ -3,6 +3,7 @@ import {
 } from '@vuepress/plugin-comment/client'
 import { defineClientConfig } from 'vuepress/client'
 import Layout from './layouts/Layout.vue'
+import MarkdownEditor from './components/MarkdownEditor.vue'
 
 // 定义Waline评论配置
 const walineComment = defineWalineConfig({
@@ -17,6 +18,7 @@ export default defineClientConfig({
   // 注册评论插件
   enhance: ({ app, router, siteData }) => {
     // 注册Waline评论组件
-    app.use(walineComment)
+    app.use(walineComment),
+    app.component('MarkdownEditor', MarkdownEditor)
   },
 })
