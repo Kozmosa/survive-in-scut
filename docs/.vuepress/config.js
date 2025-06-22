@@ -114,10 +114,6 @@ export default defineUserConfig({
               'hemc',
               'wushan',
               'gzic',
-              {
-                text: '鳕鱼美食指南',
-                link: 'xueyu/index',
-              },
             ],
           },
           {
