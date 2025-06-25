@@ -4,6 +4,7 @@ import {
 import { defineClientConfig } from 'vuepress/client'
 import Layout from './layouts/Layout.vue'
 import MarkdownEditor from './components/MarkdownEditor.vue'
+import ExpandableCard from './components/ExpandableCard.vue'
 
 // 定义Waline评论配置
 const walineComment = defineWalineConfig({
@@ -19,6 +20,7 @@ export default defineClientConfig({
   enhance: ({ app, router, siteData }) => {
     // 注册Waline评论组件
     app.use(walineComment),
-    app.component('MarkdownEditor', MarkdownEditor)
+    app.component('MarkdownEditor', MarkdownEditor),
+    app.component('ExpandableCard', ExpandableCard)
   },
 })
