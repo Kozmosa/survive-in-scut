@@ -146,6 +146,7 @@ export default defineUserConfig({
             prefix: 'extra/',
             children: [
               'srp',
+              'contest',
               'innovation_humanities_scores'
             ],
           },
@@ -330,6 +331,7 @@ export default defineUserConfig({
                 // 项目内链接的 .md 或 .html 后缀是可以省略的
                 children: [
                   'srp',
+                  'contest'
                 ],
               },
             ],
