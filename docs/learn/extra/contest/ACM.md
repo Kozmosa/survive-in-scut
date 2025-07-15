@@ -178,7 +178,7 @@ ACM国际大学生程序设计竞赛（ACM International Collegiate Programming 
 
 - 《深入浅出程序设计竞赛》（洛谷出版）
 - 《算法竞赛入门经典》（刘汝佳著）
-- ![[深入浅出程序设计竞赛.jpg|inl|150]] ![[算法竞赛入门经典.jpg|inl|150]]
+- ![[ACM/深入浅出程序设计竞赛.jpg|inl|150]] ![[ACM/算法竞赛入门经典.jpg|inl|150]]
 
 
 ### 提升方向

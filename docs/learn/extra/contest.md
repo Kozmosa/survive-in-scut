@@ -8,3 +8,4 @@ description: 目前华南理工大学加分的竞赛
 
 学术类：
 - [中国大学生数学竞赛（CMC）](contest/cmc.md)
+- [ACM/ICPC](contest/ACM.md)
