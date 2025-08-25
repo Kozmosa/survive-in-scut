@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-plugin-todo-collector",
+  "version": "1.0.0",
+  "description": "A VuePress 2 plugin to collect TODOs from markdown files",
+  "type": "module",
+  "main": "src/index.js",
+  "keywords": [
+    "vuepress-plugin",
+    "vuepress",
+    "todo",
+    "collector"
+  ],
+  "author": "Kozmosa",
+  "license": "MIT",
+  "dependencies": {},
+  "peerDependencies": {
+    "vuepress": "^2.0.0-rc.23"
+  }
+}

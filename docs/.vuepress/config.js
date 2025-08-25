@@ -17,8 +17,8 @@ import { searchPlugin } from '@vuepress/plugin-search'; // 直接导入默认导
 import { readingTimePlugin } from '@vuepress/plugin-reading-time'
 import { commentPlugin } from '@vuepress/plugin-comment'
 import { languageMarkdown } from '@vuepress/plugin-prismjs';
-
-// 导入monaco editor
+import pdfviewer from './plugins/pdfviewer'
+import todoCollector from 'vuepress-plugin-todo-collector'
 
 export default defineUserConfig({
   lang: 'zh-CN',
@@ -48,7 +48,17 @@ export default defineUserConfig({
     readingTimePlugin(),
     commentPlugin({
       provider: 'Waline'
-    })
+    }),
+    pdfviewer,
+    todoCollector({
+      // 配置选项
+      outputDir: 'others',
+      outputFile: 'todo.md',
+      todoKeywords: ['TODO', 'FIXME'],
+      fileExtensions: ['.md', '.vue'],
+      excludeDirs: ['node_modules', '.git', 'dist', 'others', '.temp'],
+      addToNavbar: false
+    }),
   ],
 
   theme: defaultTheme({
@@ -189,7 +199,8 @@ export default defineUserConfig({
         text: '其他',
         prefix: '/others/',
         children: [
-          'contributing'
+          'contributing',
+          'todo'
         ]
       }
     ],
