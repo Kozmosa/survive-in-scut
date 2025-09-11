@@ -191,7 +191,8 @@ export default defineUserConfig({
         text: '立命',
         prefix: '/health/',
         children: [
-          'alive_first'
+          'alive_first',
+          'medical_care'
         ],
       },
 
