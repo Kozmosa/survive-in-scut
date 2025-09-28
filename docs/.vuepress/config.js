@@ -20,6 +20,11 @@ import { languageMarkdown } from '@vuepress/plugin-prismjs';
 import pdfviewer from './plugins/pdfviewer'
 import todoCollector from 'vuepress-plugin-todo-collector'
 
+// 黑白模式配置
+const blackWhiteMode = {
+  enabled: false, // 设置为 true 启用黑白模式
+}
+
 export default defineUserConfig({
   lang: 'zh-CN',
 
@@ -28,9 +33,14 @@ export default defineUserConfig({
 
   base: '/',
 
+  // 全站黑白模式配置
+  blackWhiteMode,
+
   head: [
     ['link', { rel: 'icon', href: '/root-assets/logo/scut-cat-1.ico' }],
     ['link', { rel: 'stylesheet', href: '/styles/global.css' }],
+    // 如果启用黑白模式，则包含对应的CSS文件
+    ...(blackWhiteMode.enabled ? [['link', { rel: 'stylesheet', href: '/styles/black-white-mode.css' }]] : []),
   ],
 
   plugins: [

@@ -1,0 +1,29 @@
+/* 全站黑白模式样式 */
+.black-white-mode {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+}
+
+/* 确保所有元素都应用黑白效果 */
+.black-white-mode * {
+  filter: inherit;
+}
+
+/* 针对特定元素的优化 */
+.black-white-mode img,
+.black-white-mode video,
+.black-white-mode canvas,
+.black-white-mode iframe,
+.black-white-mode svg {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+}
+
+/* 确保背景图像也应用黑白效果 */
+.black-white-mode [style*="background-image"] {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+}
