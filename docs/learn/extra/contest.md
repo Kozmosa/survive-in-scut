@@ -12,6 +12,9 @@ description: 目前华南理工大学加分的竞赛
 - [中国大学生数学竞赛（CMC）](contest/cmc.md)
 - [ACM/ICPC](contest/ACM.md)
 
+技术类：
+- [第二十一届鼎甲杯软件设计大赛（软件学院举办）](https://mp.weixin.qq.com/s/AhzhDdbl0COusLIMRNFPkA)
+
 **特注：蓝桥杯系列赛事于2025年10月20日之后，工信部不再参与举办，由国信蓝桥教育科技股份有限公司独立举办[^1]，请审慎评估参加该比赛的收益预期！**
 ![蓝桥杯与工信部联合通告](lanqiao-notice.png)
 
