@@ -2,11 +2,12 @@
 import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
 </script>
 
-<style>
+<!-- Gray filter for special moments and events -->
+<!-- <style>
 html {
   filter: grayscale(100%);
 }
-</style>
+</style> -->
 
 <template>
   <ParentLayout>
