@@ -1,12 +1,11 @@
 ---
-sidebar: auto
 title: TODO 汇总
-description: 项目中的 TODO 列表汇总
+outline: [2,3]
 ---
 
 # TODO 汇总
 
-> 最后更新时间: 2025-09-28 16:14:06
+> 最后更新时间: 2026-01-02 08:47:14
 
 共找到 13 个 TODO 项
 
@@ -67,7 +66,7 @@ description: 项目中的 TODO 列表汇总
 
 ## learn/extra/contest.md
 
-- **第 18 行**: TODO: 需要进一步完善，添加更多竞赛内容的指引
+- **第 24 行**: TODO: 需要进一步完善，添加更多竞赛内容的指引
   - [查看源文件](/learn/extra/contest.md)
 
 ## learn/extra/srp.md

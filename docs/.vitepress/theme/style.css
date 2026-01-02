@@ -1,0 +1,8 @@
+:root {
+  --vp-font-family-base: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+/* Keep search input right-aligned to match previous VuePress behavior */
+.VPNavBarSearch input {
+  text-align: right;
+}
