@@ -20,3 +20,5 @@ description: 华南理工大学的校徽图片资源
 | 国际校区标识        | <img src="./branding_assets/international_colored_with_name.png" height="80" alt="国际校区标识">                                                                                   | [PNG](./branding_assets/international_colored_with_name.png)                                                          |
 | 国际校区标识白字版  | <img src="./branding_assets/international_colored_with_white_name.png" height="80" style="background-color: #2b2b2b; padding: 10px; border-radius: 4px;" alt="国际校区标识白字版"> | [PNG](./branding_assets/international_colored_with_white_name.png)                                                    |
 | 国际校区标识描边版  | <img src="./branding_assets/international_outline_with_name.jpg" height="80" alt="国际校区标识描边版">                                                                             | [JPG](./branding_assets/international_outline_with_name.jpg)                                                          |
+
+来源：[课程中心 - PPT 学习与交流网站](https://ecourse.scut.edu.cn/web/gt/1/index.html?id=18117)
