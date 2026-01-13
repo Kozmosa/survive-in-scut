@@ -1,7 +1,7 @@
 ---
 home: true
 title: 首页
-heroImage: /root-assets/scut-logo.png
+heroImage: /root-assets/scut-logo.svg
 actions:
   - text: 启程
     link: /get-started.html

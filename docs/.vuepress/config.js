@@ -62,7 +62,7 @@ export default defineUserConfig({
   ],
 
   theme: defaultTheme({
-    // logo: '/root-assets/scut-logo.png',
+    // logo: '/root-assets/scut-logo.svg',
     logo: '/root-assets/logo/scut-cat-1.jpg',
 
     navbar: [
