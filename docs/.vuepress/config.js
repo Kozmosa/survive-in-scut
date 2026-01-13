@@ -160,7 +160,7 @@ export default defineUserConfig({
       {
         text: "其他",
         prefix: "/others/",
-        children: ["contributing", "todo"],
+        children: ["contributing", "todo", "branding"],
       },
     ],
 
