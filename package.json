@@ -30,6 +30,7 @@
     "highlight.js": "^11.11.1",
     "marked": "^15.0.12",
     "pdfjs-dist": "^3.11.174",
+    "prettier": "^3.7.4",
     "vuepress-plugin-todo-collector": "file:packages/vuepress-plugin-todo"
   }
 }
