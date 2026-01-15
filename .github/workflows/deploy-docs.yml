@@ -23,7 +23,7 @@ jobs:
       - name: 设置 Bun
         uses: oven-sh/setup-bun@v1
         with:
-          bun-version: latest  # 可以指定具体版本如 1.0.0
+          bun-version: latest # 可以指定具体版本如 1.0.0
 
       - name: 缓存依赖
         uses: actions/cache@v3
@@ -31,7 +31,7 @@ jobs:
           path: |
             .bun
             node_modules
-          key: ${{ runner.os }}-bun-${{ hashFiles('**/bun.lockb') }}
+          key: ${{ runner.os }}-bun-${{ hashFiles('**/bun.lock') }}
           restore-keys: |
             ${{ runner.os }}-bun-
 
@@ -44,7 +44,7 @@ jobs:
         run: |-
           bun run docs:build
           > docs/.vuepress/dist/.nojekyll
-          
+
       - name: 部署网站
         uses: JamesIves/github-pages-deploy-action@v4
         with:
