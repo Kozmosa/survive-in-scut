@@ -8,7 +8,8 @@
     "docs:build": "vuepress build docs",
     "docs:clean-dev": "vuepress dev docs --clean-cache",
     "docs:dev": "vuepress dev docs",
-    "docs:update-package": "bunx vp-update"
+    "docs:update-package": "bunx vp-update",
+    "docs:fmt": "bunx prettier --check \"**/*.{js,json,md}\" --write # also in .github/workflows/format.yml"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-rc.23",
