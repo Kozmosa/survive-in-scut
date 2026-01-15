@@ -1,0 +1,24 @@
+name: "Setup Bun and Install dependencies"
+description: "Setup Bun and Install dependencies"
+
+runs:
+  using: "composite"
+  steps:
+    - name: Setup Bun
+      uses: oven-sh/setup-bun@v1
+      with:
+        bun-version: latest
+
+    - name: Cache Dependencies
+      uses: actions/cache@v3
+      with:
+        path: |
+          .bun
+          node_modules
+        key: ${{ runner.os }}-bun-${{ hashFiles('**/bun.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-bun-
+
+    - name: Install Dependencies
+      run: bun install
+      shell: bash
