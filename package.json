@@ -8,7 +8,8 @@
     "docs:build": "vuepress build docs",
     "docs:clean-dev": "vuepress dev docs --clean-cache",
     "docs:dev": "vuepress dev docs",
-    "docs:update-package": "npx vp-update"
+    "docs:update-package": "bunx vp-update",
+    "docs:fmt": "bunx prettier --check \"**/*.{js,json,md}\" --write # also in .github/workflows/format.yml"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-rc.23",
@@ -30,6 +31,7 @@
     "highlight.js": "^11.11.1",
     "marked": "^15.0.12",
     "pdfjs-dist": "^3.11.174",
+    "prettier": "^3.7.4",
     "vuepress-plugin-todo-collector": "file:packages/vuepress-plugin-todo"
   }
 }
