@@ -22,6 +22,18 @@ export default function todoCollector(options: TodoOptions = {}): Plugin {
   const cfg = { ...DEFAULTS, ...options }
 
   const generate = (rootDir: string) => {
+    const formatToUtc8 = (date: Date) =>
+      new Intl.DateTimeFormat('sv-SE', {
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: false,
+        timeZone: 'Asia/Shanghai',
+      }).format(date)
+
     const sourceDir = rootDir
     const outputDirPath = path.resolve(sourceDir, cfg.outputDir)
     if (!fs.existsSync(outputDirPath)) {
@@ -83,7 +95,7 @@ export default function todoCollector(options: TodoOptions = {}): Plugin {
       '',
       '# TODO 汇总',
       '',
-      `> 最后更新时间: ${new Date().toISOString().replace('T', ' ').slice(0, 19)}`,
+      `> 最后更新时间: ${formatToUtc8(new Date())} (UTC+8)`,
       '',
       `共找到 ${todoList.length} 个 TODO 项`,
       '',

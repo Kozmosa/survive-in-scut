@@ -11,7 +11,7 @@ const navZh = [
         text: '大学城',
         items: [
           { text: '地图', link: '/infra/hemc/map' },
-          { text: '隧食', link: '/infra/hemc/suishi' },
+          { text: '穗石', link: '/infra/hemc/suishi' },
           { text: '周边', link: '/infra/hemc/nearby' },
         ],
       },
@@ -86,8 +86,8 @@ const navZh = [
       {
         text: '境内',
         items: [
-          { text: '推免', link: '/beyond/mainland/recommend_graduate' },
-          { text: '统招', link: '/beyond/mainland/unified_admission' },
+          { text: '保研', link: '/beyond/mainland/recommend_graduate' },
+          { text: '考研', link: '/beyond/mainland/unified_admission' },
           { text: '博士', link: '/beyond/mainland/phd' },
         ],
       },
@@ -103,7 +103,7 @@ const navZh = [
   {
     text: '立命',
     items: [
-      { text: '急救与安全', link: '/health/alive_first' },
+      { text: '先活下去再说', link: '/health/alive_first' },
       { text: '就医指南', link: '/health/medical_care' },
     ],
   },
@@ -276,7 +276,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'CC-BY-SA 2.0 Licensed',
-      copyright: 'Copyright © 2025-present Kozumi & 转群',
+      copyright: 'Copyright © 2025-present Kozumi & 转群 & 卷群',
     },
 
     locales: {
