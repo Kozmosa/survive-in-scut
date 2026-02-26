@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "docs:build": "vuepress build docs",
+    "docs:build:platform": "node scripts/docs-build-platform.js",
     "docs:clean-dev": "vuepress dev docs --clean-cache",
     "docs:dev": "vuepress dev docs",
     "docs:update-package": "bunx vp-update",
