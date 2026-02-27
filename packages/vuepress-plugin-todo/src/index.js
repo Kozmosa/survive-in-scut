@@ -5,6 +5,8 @@ export default (options = {}) => {
   const {
     outputDir = "others", // 默认输出到 others 目录
     outputFile = "todo.md",
+    jsonOutputDir = ".vuepress/public",
+    jsonOutputFile = "todo.json",
     todoKeywords = ["TODO"],
     fileExtensions = [".md", ".vue"],
     excludeDirs = ["node_modules", ".git", "dist", ".vuepress/dist"],
@@ -22,8 +24,13 @@ export default (options = {}) => {
       if (!fs.existsSync(outputDirPath)) {
         fs.mkdirSync(outputDirPath, { recursive: true });
       }
+      const jsonOutputDirPath = path.resolve(sourceDir, jsonOutputDir);
+      if (!fs.existsSync(jsonOutputDirPath)) {
+        fs.mkdirSync(jsonOutputDirPath, { recursive: true });
+      }
 
       const outputPath = path.resolve(outputDirPath, outputFile);
+      const jsonOutputPath = path.resolve(jsonOutputDirPath, jsonOutputFile);
 
       // 扫描TODO列表
       const todoList = [];
@@ -125,9 +132,26 @@ export default (options = {}) => {
       // 写入文件
       try {
         fs.writeFileSync(outputPath, todoContent.join("\n"), "utf-8");
+
+        const normalizedTodoList = todoList.map((item) => ({
+          ...item,
+          file: item.file.replace(/\\/g, "/"),
+        }));
+        const todoJson = {
+          generatedAt: new Date().toISOString(),
+          total: normalizedTodoList.length,
+          items: normalizedTodoList,
+        };
+        fs.writeFileSync(
+          jsonOutputPath,
+          JSON.stringify(todoJson, null, 2),
+          "utf-8",
+        );
+
         console.log(
           `[Todo Collector] 生成了 ${todoList.length} 个TODO项到: ${outputPath}`,
         );
+        console.log(`[Todo Collector] 生成 JSON 到: ${jsonOutputPath}`);
 
         // 获取相对路径用于URL
         const relativePath = path

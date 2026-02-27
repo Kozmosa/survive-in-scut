@@ -18,6 +18,7 @@ import { readingTimePlugin } from "@vuepress/plugin-reading-time";
 import { commentPlugin } from "@vuepress/plugin-comment";
 import { languageMarkdown } from "@vuepress/plugin-prismjs";
 import pdfviewer from "./plugins/pdfviewer";
+import contributorsCollector from "./plugins/contributors";
 import todoCollector from "vuepress-plugin-todo-collector";
 
 export default defineUserConfig({
@@ -54,10 +55,16 @@ export default defineUserConfig({
       // 配置选项
       outputDir: "others",
       outputFile: "todo.md",
+      jsonOutputDir: ".vuepress/public",
+      jsonOutputFile: "todo.json",
       todoKeywords: ["TODO", "FIXME"],
       fileExtensions: [".md", ".vue"],
       excludeDirs: ["node_modules", ".git", "dist", "others", ".temp"],
       addToNavbar: false,
+    }),
+    contributorsCollector({
+      jsonOutputDir: ".vuepress/public",
+      jsonOutputFile: "contributors.json",
     }),
   ],
 
