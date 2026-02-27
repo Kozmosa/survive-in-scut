@@ -11,6 +11,10 @@ actions:
     link: /introduction.html
     type: secondary
 
+  - text: App
+    link: /others/app.html
+    type: secondary
+
 features:
   - title: 编者贡献
     details: 本手册内容均来源于华南理工大学的往届学生（本科生、硕士研究生、博士研究生）编写贡献

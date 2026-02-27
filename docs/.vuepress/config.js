@@ -17,6 +17,7 @@ import { searchPlugin } from "@vuepress/plugin-search"; // 直接导入默认导
 import { readingTimePlugin } from "@vuepress/plugin-reading-time";
 import { commentPlugin } from "@vuepress/plugin-comment";
 import { languageMarkdown } from "@vuepress/plugin-prismjs";
+import appReleaseMetadata from "./plugins/app-release";
 import pdfviewer from "./plugins/pdfviewer";
 import contributorsCollector from "./plugins/contributors";
 import todoCollector from "vuepress-plugin-todo-collector";
@@ -65,6 +66,14 @@ export default defineUserConfig({
     contributorsCollector({
       jsonOutputDir: ".vuepress/public",
       jsonOutputFile: "contributors.json",
+    }),
+    appReleaseMetadata({
+      apkSource: "ManualPrj",
+      sourceUrl:
+        "https://raw.githubusercontent.com/Kozmosa/survive-in-scut/refs/heads/main/versions.json",
+      provider: "fastgit",
+      outputDir: ".vuepress/public/assets/app",
+      outputFile: "release.json",
     }),
   ],
 
@@ -167,7 +176,7 @@ export default defineUserConfig({
       {
         text: "其他",
         prefix: "/others/",
-        children: ["contributing", "todo", "branding"],
+        children: ["contributing", "todo", "app", "branding"],
       },
     ],
 

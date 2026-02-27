@@ -145,3 +145,4 @@ docs/.vitepress/cache/
 # Generated public JSON artifacts
 docs/.vuepress/public/todo.json
 docs/.vuepress/public/contributors.json
+docs/.vuepress/public/assets/app/release.json
