@@ -1,0 +1,71 @@
+{
+  "generatedAt": "2026-02-27T08:15:03.834Z",
+  "total": 13,
+  "items": [
+    {
+      "file": "get-started.md",
+      "line": 99,
+      "text": "TODO: 重写2025版本的迎新指南"
+    },
+    {
+      "file": "infra/gzic/map.md",
+      "line": 10,
+      "text": "TODO: 国际指北"
+    },
+    {
+      "file": "infra/gzic/nearby.md",
+      "line": 7,
+      "text": "TODO: 国际周边的简介页面"
+    },
+    {
+      "file": "infra/hemc/map.md",
+      "line": 9,
+      "text": "TODO: 大学城指南"
+    },
+    {
+      "file": "infra/hemc/nearby.md",
+      "line": 9,
+      "text": "TODO: 大学城周边"
+    },
+    {
+      "file": "infra/hemc/suishi.md",
+      "line": 9,
+      "text": "TODO: 碎石简介尚未编写"
+    },
+    {
+      "file": "infra/wushan/map.md",
+      "line": 7,
+      "text": "TODO: 五山校区基础设施的概览页面"
+    },
+    {
+      "file": "infra/wushan/nearby.md",
+      "line": 7,
+      "text": "TODO: 五山校区周边去处的简介页面"
+    },
+    {
+      "file": "learn/curricular/exam.md",
+      "line": 9,
+      "text": "TODO: 华南理工大学与考试相关的规章制度，及应对考试可供参考的一些告诫"
+    },
+    {
+      "file": "learn/curricular/gpa.md",
+      "line": 9,
+      "text": "TODO: 什么是GPA，如何提高GPA，GPA有什么用，GPA要多少才够"
+    },
+    {
+      "file": "learn/curricular/lessons.md",
+      "line": 7,
+      "text": "TODO: 介绍华南理工大学的各类课程与各专业的培养方案"
+    },
+    {
+      "file": "learn/extra/contest.md",
+      "line": 26,
+      "text": "TODO: 需要进一步完善，添加更多竞赛内容的指引"
+    },
+    {
+      "file": "learn/extra/srp.md",
+      "line": 11,
+      "text": "TODO: SRP相关内容尚未有人编写"
+    }
+  ]
+}
