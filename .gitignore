@@ -128,3 +128,20 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Local agent instructions
+AGENTS.md
+
+# Local npm lockfile (Bun is primary)
+package-lock.json
+
+# Platform build outputs
+vue-platform-dist/
+vite-platform-dist/
+
+# VitePress cache artifacts
+docs/.vitepress/cache/
+
+# Generated public JSON artifacts
+docs/.vuepress/public/todo.json
+docs/.vuepress/public/contributors.json
