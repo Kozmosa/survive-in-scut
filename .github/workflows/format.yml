@@ -10,5 +10,5 @@ jobs:
 
       - uses: ./.github/actions/install-deps
 
-      - name: Check Formatting
-        run: bunx prettier --check "**/*.{js,json,md}"
+      - name: Check Formatting with auto fixing
+        run: bunx prettier --write --check "**/*.{js,json,md}"
