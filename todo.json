@@ -1,16 +1,41 @@
 {
-  "generatedAt": "2026-02-27T18:36:34.163Z",
-  "total": 13,
+  "generatedAt": "2026-03-01T13:53:52.048Z",
+  "total": 22,
   "items": [
+    {
+      "file": "beyond/abroad/phd.md",
+      "line": 11,
+      "text": "TODO: 境外申请直博及其他博士项目相关"
+    },
+    {
+      "file": "beyond/mainland/phd.md",
+      "line": 11,
+      "text": "TODO: 申请境内高校博士项目相关"
+    },
+    {
+      "file": "beyond/mainland/recommend_graduate.md",
+      "line": 11,
+      "text": "TODO: 保研政策、经验等等"
+    },
+    {
+      "file": "beyond/mainland/unified_admission.md",
+      "line": 11,
+      "text": "TODO: 考研相关内容"
+    },
     {
       "file": "get-started.md",
       "line": 99,
       "text": "TODO: 重写2025版本的迎新指南"
     },
     {
+      "file": "health/alive_first.md",
+      "line": 11,
+      "text": "TODO: 生命观、日常安全（交通、反诈）、心理健康援助、灾害应急指南"
+    },
+    {
       "file": "infra/gzic/map.md",
       "line": 10,
-      "text": "TODO: 国际指北"
+      "text": "TODO: 国际基础设施介绍"
     },
     {
       "file": "infra/gzic/nearby.md",
@@ -20,7 +45,7 @@
     {
       "file": "infra/hemc/map.md",
       "line": 9,
-      "text": "TODO: 大学城指南"
+      "text": "TODO: 大学城校区基础设施介绍"
     },
     {
       "file": "infra/hemc/nearby.md",
@@ -58,6 +83,11 @@
       "text": "TODO: 介绍华南理工大学的各类课程与各专业的培养方案"
     },
     {
+      "file": "learn/curricular/majors.md",
+      "line": 11,
+      "text": "TODO: 其他学院的专业学习攻略"
+    },
+    {
       "file": "learn/extra/contest.md",
       "line": 26,
       "text": "TODO: 需要进一步完善，添加更多竞赛内容的指引"
@@ -66,6 +96,21 @@
       "file": "learn/extra/srp.md",
       "line": 11,
       "text": "TODO: SRP相关内容尚未有人编写"
+    },
+    {
+      "file": "life/eat/gzic.md",
+      "line": 11,
+      "text": "TODO: 广州国际校区的觅食指南"
+    },
+    {
+      "file": "life/entertainment/hemc_gzic.md",
+      "line": 11,
+      "text": "TODO: 大学城校区与广州国际校区周边商圈及娱乐设施，公园啥的我觉得也可以写写"
+    },
+    {
+      "file": "life/entertainment/wushan.md",
+      "line": 11,
+      "text": "TODO: 五山校区周边的娱乐去处"
     }
   ]
 }
