@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "0.3.0",
-    "tag": "v0.3.0",
-    "publishedAt": "2026-03-01T15:50:01.502Z",
-    "releaseUrl": "https://github.com/Kozmosa/MySCUT/releases/tag/v0.3.0",
+    "version": "0.3.1",
+    "tag": "v0.3.1",
+    "publishedAt": "2026-03-03T16:38:20.171Z",
+    "releaseUrl": "https://github.com/Kozmosa/MySCUT/releases/tag/v0.3.1",
     "assets": {
-      "apk": "https://github.com/Kozmosa/MySCUT/releases/download/v0.3.0/qmm-v0.3.0.apk",
-      "versions": "https://github.com/Kozmosa/MySCUT/releases/download/v0.3.0/versions.json"
+      "apk": "https://github.com/Kozmosa/MySCUT/releases/download/v0.3.1/qmm-v0.3.1.apk",
+      "versions": "https://github.com/Kozmosa/MySCUT/releases/download/v0.3.1/versions.json"
     }
   },
   "versions": {
@@ -28,6 +28,16 @@
       "assets": {
         "apk": "https://github.com/Kozmosa/MySCUT/releases/download/v0.3.0/qmm-v0.3.0.apk",
         "versions": "https://github.com/Kozmosa/MySCUT/releases/download/v0.3.0/versions.json"
+      }
+    },
+    "0.3.1": {
+      "version": "0.3.1",
+      "tag": "v0.3.1",
+      "publishedAt": "2026-03-03T16:38:20.171Z",
+      "releaseUrl": "https://github.com/Kozmosa/MySCUT/releases/tag/v0.3.1",
+      "assets": {
+        "apk": "https://github.com/Kozmosa/MySCUT/releases/download/v0.3.1/qmm-v0.3.1.apk",
+        "versions": "https://github.com/Kozmosa/MySCUT/releases/download/v0.3.1/versions.json"
       }
     }
   }
