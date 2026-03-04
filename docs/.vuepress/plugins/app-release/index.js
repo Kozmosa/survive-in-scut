@@ -16,6 +16,9 @@ const APK_SOURCES = {
   MANUAL_PRJ: "ManualPrj",
 };
 
+const MANUAL_LATEST_APK_URL =
+  "https://manual.xn--xkrsa0ti6rf4cf98d.com/root-assets/qmm-latest.apk";
+
 export default (options = {}) => {
   const {
     apkSource = APK_SOURCES.MY_SCUT_PRJ,
@@ -105,6 +108,7 @@ export default (options = {}) => {
 
 function transformReleaseData(input, providerFn) {
   const latest = transformVersionNode(input?.latest, providerFn);
+  normalizeLatestApk(latest);
   const versions = {};
 
   const rawVersions = input?.versions;
@@ -115,6 +119,21 @@ function transformReleaseData(input, providerFn) {
   }
 
   return { latest, versions };
+}
+
+function normalizeLatestApk(latest) {
+  if (!latest || typeof latest !== "object") {
+    return;
+  }
+
+  const latestAssets =
+    latest.assets && typeof latest.assets === "object" ? latest.assets : {};
+  const sourceApk = latestAssets.apk;
+  latest.assets = {
+    ...latestAssets,
+    source_apk: sourceApk,
+    apk: MANUAL_LATEST_APK_URL,
+  };
 }
 
 function transformVersionNode(versionNode, providerFn) {
