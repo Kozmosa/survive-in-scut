@@ -11,20 +11,16 @@ const LINK_PROVIDERS = {
   },
 };
 
-const APK_SOURCES = {
-  MY_SCUT_PRJ: "MySCUTPrj",
-  MANUAL_PRJ: "ManualPrj",
-};
+const DEFAULT_SOURCE_URL =
+  "https://raw.githubusercontent.com/Kozmosa/survive-in-scut/refs/heads/main/docs/.vuepress/public/root-assets/versions.json";
 
-const MANUAL_LATEST_APK_URL =
-  "https://manual.xn--xkrsa0ti6rf4cf98d.com/root-assets/qmm-latest.apk";
+const DEFAULT_PREFERRED_SOURCES = ["r2", "github", "manual", "legacy"];
 
 export default (options = {}) => {
   const {
-    apkSource = APK_SOURCES.MY_SCUT_PRJ,
-    manualApkUrl = "/root-assets/qmm-latest.apk",
-    sourceUrl = "https://raw.githubusercontent.com/Kozmosa/survive-in-scut/refs/heads/main/versions.json",
+    sourceUrl = DEFAULT_SOURCE_URL,
     provider = "fastgit",
+    preferredSources = DEFAULT_PREFERRED_SOURCES,
     outputDir = ".vuepress/public/assets/app",
     outputFile = "release.json",
   } = options;
@@ -42,43 +38,20 @@ export default (options = {}) => {
       const outputPath = path.resolve(outputDirPath, outputFile);
       const providerFn = LINK_PROVIDERS[provider] || LINK_PROVIDERS.none;
       const sourceFetchUrl = transformGithubUrl(sourceUrl, providerFn);
-      const resolvedApkSource = Object.values(APK_SOURCES).includes(apkSource)
-        ? apkSource
-        : APK_SOURCES.MY_SCUT_PRJ;
-
-      if (resolvedApkSource === APK_SOURCES.MANUAL_PRJ) {
-        const manualPayload = {
-          generatedAt: new Date().toISOString(),
-          apkSource: resolvedApkSource,
-          sourceUrl,
-          sourceFetchUrl,
-          provider,
-          latest: {
-            assets: {
-              apk: manualApkUrl,
-            },
-          },
-          versions: {},
-        };
-        fs.writeFileSync(
-          outputPath,
-          JSON.stringify(manualPayload, null, 2),
-          "utf-8",
-        );
-        console.log(`[App Release] 使用 ManualPrj APK 链接: ${manualApkUrl}`);
-        return;
-      }
 
       try {
         const upstream = await fetchReleaseJson(sourceFetchUrl, sourceUrl);
-        const transformed = transformReleaseData(upstream, providerFn);
+        const transformed = transformReleaseData(upstream, {
+          providerFn,
+          preferredSources,
+        });
 
         const payload = {
           generatedAt: new Date().toISOString(),
-          apkSource: resolvedApkSource,
           sourceUrl,
           sourceFetchUrl,
           provider,
+          preferredSources,
           latest: transformed.latest,
           versions: transformed.versions,
         };
@@ -89,10 +62,10 @@ export default (options = {}) => {
         console.error(`[App Release] 拉取或转换版本数据失败: ${err.message}`);
         const fallbackPayload = {
           generatedAt: new Date().toISOString(),
-          apkSource: resolvedApkSource,
           sourceUrl,
           sourceFetchUrl,
           provider,
+          preferredSources,
           latest: null,
           versions: {},
         };
@@ -106,37 +79,21 @@ export default (options = {}) => {
   };
 };
 
-function transformReleaseData(input, providerFn) {
-  const latest = transformVersionNode(input?.latest, providerFn);
-  normalizeLatestApk(latest);
+function transformReleaseData(input, context) {
+  const latest = transformVersionNode(input?.latest, context);
   const versions = {};
 
   const rawVersions = input?.versions;
   if (rawVersions && typeof rawVersions === "object") {
     for (const [versionKey, versionNode] of Object.entries(rawVersions)) {
-      versions[versionKey] = transformVersionNode(versionNode, providerFn);
+      versions[versionKey] = transformVersionNode(versionNode, context);
     }
   }
 
   return { latest, versions };
 }
 
-function normalizeLatestApk(latest) {
-  if (!latest || typeof latest !== "object") {
-    return;
-  }
-
-  const latestAssets =
-    latest.assets && typeof latest.assets === "object" ? latest.assets : {};
-  const sourceApk = latestAssets.apk;
-  latest.assets = {
-    ...latestAssets,
-    source_apk: sourceApk,
-    apk: MANUAL_LATEST_APK_URL,
-  };
-}
-
-function transformVersionNode(versionNode, providerFn) {
+function transformVersionNode(versionNode, context) {
   if (!versionNode || typeof versionNode !== "object") {
     return null;
   }
@@ -146,13 +103,94 @@ function transformVersionNode(versionNode, providerFn) {
   };
 
   if (versionNode.assets && typeof versionNode.assets === "object") {
-    transformed.assets = {};
-    for (const [assetKey, assetUrl] of Object.entries(versionNode.assets)) {
-      transformed.assets[assetKey] = transformGithubUrl(assetUrl, providerFn);
+    const nextAssets = {};
+    for (const [assetKey, assetValue] of Object.entries(versionNode.assets)) {
+      if (assetKey === "apk") {
+        const candidates = normalizeAssetList(assetValue).map((item) => ({
+          source: item.source,
+          url: transformUrlBySource(item.url, item.source, context.providerFn),
+        }));
+
+        nextAssets.apk_candidates = candidates;
+        nextAssets.apk = pickPreferredUrl(candidates, context.preferredSources);
+        continue;
+      }
+
+      if (typeof assetValue === "string") {
+        nextAssets[assetKey] = transformGithubUrl(assetValue, context.providerFn);
+        continue;
+      }
+
+      nextAssets[assetKey] = assetValue;
     }
+    transformed.assets = nextAssets;
   }
 
   return transformed;
+}
+
+function normalizeAssetList(assetValue) {
+  if (typeof assetValue === "string") {
+    const url = assetValue.trim();
+    return url ? [{ source: "legacy", url }] : [];
+  }
+
+  if (!Array.isArray(assetValue)) {
+    return [];
+  }
+
+  const list = [];
+  for (const item of assetValue) {
+    if (!item || typeof item !== "object") {
+      continue;
+    }
+
+    const source = typeof item.source === "string" ? item.source.trim() : "";
+    const url = typeof item.url === "string" ? item.url.trim() : "";
+    if (!url) {
+      continue;
+    }
+
+    list.push({
+      source: source || "unknown",
+      url,
+    });
+  }
+
+  return list;
+}
+
+function pickPreferredUrl(candidates, preferredSources) {
+  if (!Array.isArray(candidates) || candidates.length === 0) {
+    return "";
+  }
+
+  const priority = Array.isArray(preferredSources)
+    ? preferredSources.map((item) => String(item).toLowerCase())
+    : [];
+  if (priority.length > 0) {
+    for (const source of priority) {
+      const matched = candidates.find((item) => item.source.toLowerCase() === source);
+      if (matched && matched.url) {
+        return matched.url;
+      }
+    }
+  }
+
+  return candidates[0].url || "";
+}
+
+function transformUrlBySource(url, source, providerFn) {
+  if (typeof url !== "string") {
+    return url;
+  }
+
+  const normalizedSource = typeof source === "string" ? source.toLowerCase() : "";
+  if (normalizedSource === "github") {
+    return transformGithubUrl(url, providerFn);
+  }
+
+  return url;
 }
 
 function transformGithubUrl(url, providerFn) {

@@ -54,7 +54,22 @@ const PLATFORM_TEXT = {
 };
 
 const latestVersion = computed(() => releaseData.value?.latest?.version || "");
-const apkUrl = computed(() => releaseData.value?.latest?.assets?.apk || "");
+const apkUrl = computed(() => {
+  const apkAsset = releaseData.value?.latest?.assets?.apk;
+  if (typeof apkAsset === "string") {
+    return apkAsset;
+  }
+
+  const apkCandidates = releaseData.value?.latest?.assets?.apk_candidates;
+  if (Array.isArray(apkCandidates) && apkCandidates.length > 0) {
+    const firstCandidate = apkCandidates.find(
+      (item) => item && typeof item.url === "string" && item.url.trim(),
+    );
+    return firstCandidate?.url || "";
+  }
+
+  return "";
+});
 
 const recommendedButtonText = computed(() => {
   const platformText = PLATFORM_TEXT[recommendedPlatform.value] || "Android";

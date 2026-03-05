@@ -68,10 +68,10 @@ export default defineUserConfig({
       jsonOutputFile: "contributors.json",
     }),
     appReleaseMetadata({
-      apkSource: "ManualPrj",
       sourceUrl:
-        "https://raw.githubusercontent.com/Kozmosa/survive-in-scut/refs/heads/main/versions.json",
+        "https://raw.githubusercontent.com/Kozmosa/survive-in-scut/refs/heads/main/docs/.vuepress/public/root-assets/versions.json",
       provider: "fastgit",
+      preferredSources: ["r2", "github"],
       outputDir: ".vuepress/public/assets/app",
       outputFile: "release.json",
     }),
