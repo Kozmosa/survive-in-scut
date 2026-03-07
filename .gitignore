@@ -142,6 +142,9 @@ vite-platform-dist/
 # VitePress cache artifacts
 docs/.vitepress/cache/
 
+# Temporary platform build workspace
+.platform-build-tmp-*/
+
 # Generated public JSON artifacts
 docs/.vuepress/public/todo.json
 docs/.vuepress/public/contributors.json
