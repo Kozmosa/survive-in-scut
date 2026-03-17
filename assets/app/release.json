@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T15:37:12.194Z",
+  "generatedAt": "2026-03-17T16:00:42.702Z",
   "sourceUrl": "https://raw.githubusercontent.com/Kozmosa/survive-in-scut/refs/heads/main/docs/.vuepress/public/root-assets/versions.json",
   "sourceFetchUrl": "https://fastgit.cc/https://raw.githubusercontent.com/Kozmosa/survive-in-scut/refs/heads/main/docs/.vuepress/public/root-assets/versions.json",
   "provider": "fastgit",
@@ -8,23 +8,23 @@
     "github"
   ],
   "latest": {
-    "version": "0.4.6",
-    "tag": "v0.4.6",
-    "publishedAt": "2026-03-17T15:35:04.846Z",
-    "releaseUrl": "https://github.com/Kozmosa/MySCUT/releases/tag/v0.4.6",
+    "version": "0.4.7",
+    "tag": "v0.4.7",
+    "publishedAt": "2026-03-17T15:52:09.261Z",
+    "releaseUrl": "https://github.com/Kozmosa/MySCUT/releases/tag/v0.4.7",
     "assets": {
-      "versions": "https://fastgit.cc/https://github.com/Kozmosa/MySCUT/releases/download/v0.4.6/versions.json",
+      "versions": "https://fastgit.cc/https://github.com/Kozmosa/MySCUT/releases/download/v0.4.7/versions.json",
       "apk_candidates": [
         {
           "source": "r2",
-          "url": "https://pub-2d4ca40983644b4295125ec388670de9.r2.dev/kozmos/releases/v0.4.6/qmm-v0.4.6.apk"
+          "url": "https://pub-2d4ca40983644b4295125ec388670de9.r2.dev/kozmos/releases/v0.4.7/qmm-v0.4.7.apk"
         },
         {
           "source": "github",
-          "url": "https://fastgit.cc/https://github.com/Kozmosa/MySCUT/releases/download/v0.4.6/qmm-v0.4.6.apk"
+          "url": "https://fastgit.cc/https://github.com/Kozmosa/MySCUT/releases/download/v0.4.7/qmm-v0.4.7.apk"
         }
       ],
-      "apk": "https://pub-2d4ca40983644b4295125ec388670de9.r2.dev/kozmos/releases/v0.4.6/qmm-v0.4.6.apk"
+      "apk": "https://pub-2d4ca40983644b4295125ec388670de9.r2.dev/kozmos/releases/v0.4.7/qmm-v0.4.7.apk"
     }
   },
   "versions": {
@@ -214,6 +214,26 @@
           }
         ],
         "apk": "https://pub-2d4ca40983644b4295125ec388670de9.r2.dev/kozmos/releases/v0.4.6/qmm-v0.4.6.apk"
+      }
+    },
+    "0.4.7": {
+      "version": "0.4.7",
+      "tag": "v0.4.7",
+      "publishedAt": "2026-03-17T15:52:09.261Z",
+      "releaseUrl": "https://github.com/Kozmosa/MySCUT/releases/tag/v0.4.7",
+      "assets": {
+        "versions": "https://fastgit.cc/https://github.com/Kozmosa/MySCUT/releases/download/v0.4.7/versions.json",
+        "apk_candidates": [
+          {
+            "source": "r2",
+            "url": "https://pub-2d4ca40983644b4295125ec388670de9.r2.dev/kozmos/releases/v0.4.7/qmm-v0.4.7.apk"
+          },
+          {
+            "source": "github",
+            "url": "https://fastgit.cc/https://github.com/Kozmosa/MySCUT/releases/download/v0.4.7/qmm-v0.4.7.apk"
+          }
+        ],
+        "apk": "https://pub-2d4ca40983644b4295125ec388670de9.r2.dev/kozmos/releases/v0.4.7/qmm-v0.4.7.apk"
       }
     }
   }
