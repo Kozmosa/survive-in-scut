@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-07T06:40:28.987Z",
-  "total": 21,
+  "generatedAt": "2026-03-17T07:35:12.838Z",
+  "total": 24,
   "items": [
     {
       "file": "beyond/abroad/phd.md",
@@ -63,6 +63,21 @@
       "text": "TODO: 五山校区周边去处的简介页面"
     },
     {
+      "file": "learn/curricular/common_basic_lessons.md",
+      "line": 74,
+      "text": "TODO: 完善线代的课程描述与学习资料"
+    },
+    {
+      "file": "learn/curricular/common_basic_lessons.md",
+      "line": 83,
+      "text": "TODO: 完善概率论的课程描述与学习资料"
+    },
+    {
+      "file": "learn/curricular/common_basic_lessons.md",
+      "line": 89,
+      "text": "TODO: 完善复变的课程描述与学习资料"
+    },
+    {
       "file": "learn/curricular/exam.md",
       "line": 9,
       "text": "TODO: 华南理工大学与考试相关的规章制度，及应对考试可供参考的一些告诫"
@@ -89,8 +104,8 @@
     },
     {
       "file": "learn/extra/srp.md",
-      "line": 11,
-      "text": "TODO: SRP相关内容尚未有人编写"
+      "line": 13,
+      "text": "TODO: 完善SRP相关内容编写"
     },
     {
       "file": "life/eat/gzic.md",
