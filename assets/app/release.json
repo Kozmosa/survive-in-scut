@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T07:35:14.157Z",
+  "generatedAt": "2026-03-17T14:45:30.206Z",
   "sourceUrl": "https://raw.githubusercontent.com/Kozmosa/survive-in-scut/refs/heads/main/docs/.vuepress/public/root-assets/versions.json",
   "sourceFetchUrl": "https://fastgit.cc/https://raw.githubusercontent.com/Kozmosa/survive-in-scut/refs/heads/main/docs/.vuepress/public/root-assets/versions.json",
   "provider": "fastgit",
@@ -8,19 +8,19 @@
     "github"
   ],
   "latest": {
-    "version": "0.4.2",
-    "tag": "v0.4.2",
-    "publishedAt": "2026-03-04T16:24:39.829Z",
-    "releaseUrl": "https://github.com/Kozmosa/MySCUT/releases/tag/v0.4.2",
+    "version": "0.4.3",
+    "tag": "v0.4.3",
+    "publishedAt": "2026-03-17T14:30:13.550Z",
+    "releaseUrl": "https://github.com/Kozmosa/MySCUT/releases/tag/v0.4.3",
     "assets": {
-      "versions": "https://fastgit.cc/https://github.com/Kozmosa/MySCUT/releases/download/v0.4.2/versions.json",
+      "versions": "https://fastgit.cc/https://github.com/Kozmosa/MySCUT/releases/download/v0.4.3/versions.json",
       "apk_candidates": [
         {
-          "source": "legacy",
-          "url": "https://github.com/Kozmosa/MySCUT/releases/download/v0.4.2/qmm-v0.4.2.apk"
+          "source": "github",
+          "url": "https://fastgit.cc/https://github.com/Kozmosa/MySCUT/releases/download/v0.4.3/qmm-v0.4.3.apk"
         }
       ],
-      "apk": "https://github.com/Kozmosa/MySCUT/releases/download/v0.4.2/qmm-v0.4.2.apk"
+      "apk": "https://fastgit.cc/https://github.com/Kozmosa/MySCUT/releases/download/v0.4.3/qmm-v0.4.3.apk"
     }
   },
   "versions": {
@@ -134,6 +134,22 @@
           }
         ],
         "apk": "https://github.com/Kozmosa/MySCUT/releases/download/v0.4.2/qmm-v0.4.2.apk"
+      }
+    },
+    "0.4.3": {
+      "version": "0.4.3",
+      "tag": "v0.4.3",
+      "publishedAt": "2026-03-17T14:30:13.550Z",
+      "releaseUrl": "https://github.com/Kozmosa/MySCUT/releases/tag/v0.4.3",
+      "assets": {
+        "versions": "https://fastgit.cc/https://github.com/Kozmosa/MySCUT/releases/download/v0.4.3/versions.json",
+        "apk_candidates": [
+          {
+            "source": "github",
+            "url": "https://fastgit.cc/https://github.com/Kozmosa/MySCUT/releases/download/v0.4.3/qmm-v0.4.3.apk"
+          }
+        ],
+        "apk": "https://fastgit.cc/https://github.com/Kozmosa/MySCUT/releases/download/v0.4.3/qmm-v0.4.3.apk"
       }
     }
   }
