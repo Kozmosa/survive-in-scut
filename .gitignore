@@ -149,3 +149,9 @@ docs/.vitepress/cache/
 docs/.vuepress/public/todo.json
 docs/.vuepress/public/contributors.json
 docs/.vuepress/public/assets/app/release.json
+
+# Local macOS metadata
+.DS_Store
+
+# Generated TODO summary page
+docs/others/todo.md
