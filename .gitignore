@@ -149,3 +149,6 @@ docs/.vitepress/cache/
 docs/.vuepress/public/todo.json
 docs/.vuepress/public/contributors.json
 docs/.vuepress/public/assets/app/release.json
+
+# Keep generated markdown todo page tracked
+!docs/others/todo.md
