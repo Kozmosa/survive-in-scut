@@ -117,7 +117,10 @@ function transformVersionNode(versionNode, context) {
       }
 
       if (typeof assetValue === "string") {
-        nextAssets[assetKey] = transformGithubUrl(assetValue, context.providerFn);
+        nextAssets[assetKey] = transformGithubUrl(
+          assetValue,
+          context.providerFn,
+        );
         continue;
       }
 
@@ -170,7 +173,9 @@ function pickPreferredUrl(candidates, preferredSources) {
     : [];
   if (priority.length > 0) {
     for (const source of priority) {
-      const matched = candidates.find((item) => item.source.toLowerCase() === source);
+      const matched = candidates.find(
+        (item) => item.source.toLowerCase() === source,
+      );
       if (matched && matched.url) {
         return matched.url;
       }
@@ -185,7 +190,8 @@ function transformUrlBySource(url, source, providerFn) {
     return url;
   }
 
-  const normalizedSource = typeof source === "string" ? source.toLowerCase() : "";
+  const normalizedSource =
+    typeof source === "string" ? source.toLowerCase() : "";
   if (normalizedSource === "github") {
     return transformGithubUrl(url, providerFn);
   }

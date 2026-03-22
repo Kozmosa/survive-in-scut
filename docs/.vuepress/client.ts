@@ -5,6 +5,8 @@ import MarkdownEditor from "./components/MarkdownEditor.vue";
 import ExpandableCard from "./components/ExpandableCard.vue";
 import ContributorsList from "./components/ContributorsList.vue";
 import AppLanding from "./components/AppLanding.vue";
+import ProbabilityDistributionGallery from "./components/ProbabilityDistributionGallery.vue";
+import ImmersiveShell from "./components/ImmersiveShell.vue";
 
 // 定义Waline评论配置
 const walineComment = defineWalineConfig({
@@ -22,5 +24,10 @@ export default defineClientConfig({
     app.component("ExpandableCard", ExpandableCard);
     app.component("ContributorsList", ContributorsList);
     app.component("AppLanding", AppLanding);
+    app.component(
+      "ProbabilityDistributionGallery",
+      ProbabilityDistributionGallery,
+    );
+    app.component("ImmersiveShell", ImmersiveShell);
   },
 });
