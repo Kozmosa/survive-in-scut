@@ -6,9 +6,9 @@ description: 项目中的 TODO 列表汇总
 
 # TODO 汇总
 
-> 最后更新时间: 2026-03-22 10:57:24
+> 最后更新时间: 2026-03-22 13:41:24
 
-共找到 24 个 TODO 项
+共找到 23 个 TODO 项
 
 ## beyond\abroad\phd.md
 
@@ -103,11 +103,6 @@ description: 项目中的 TODO 列表汇总
 
 - **第 26 行**: TODO: 需要进一步完善，添加更多竞赛内容的指引
   - [查看源文件](/learn/extra/contest.md)
-
-## learn\extra\srp.md
-
-- **第 14 行**: TODO: 完善SRP相关内容编写
-  - [查看源文件](/learn/extra/srp.md)
 
 ## life\eat\gzic.md
 
