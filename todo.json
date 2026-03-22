@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-22T11:06:16.900Z",
-  "total": 24,
+  "generatedAt": "2026-03-22T14:04:05.623Z",
+  "total": 23,
   "items": [
     {
       "file": "beyond/abroad/phd.md",
@@ -101,11 +101,6 @@
       "file": "learn/extra/contest.md",
       "line": 26,
       "text": "TODO: 需要进一步完善，添加更多竞赛内容的指引"
-    },
-    {
-      "file": "learn/extra/srp.md",
-      "line": 14,
-      "text": "TODO: 完善SRP相关内容编写"
     },
     {
       "file": "life/eat/gzic.md",
