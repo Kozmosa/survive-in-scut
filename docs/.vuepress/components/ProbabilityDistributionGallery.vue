@@ -15,7 +15,8 @@
 
 <script setup>
 import { computed, ref } from "vue";
-import galleryHtml from "../../../probability_distribution_gallery.html?raw";
+import galleryHtml from "./probability/gallerySource.html?raw";
+import { buildIntegratedGalleryHtml } from "./probability/galleryAdapter";
 
 const loaded = ref(false);
 const errorMessage = ref("");
@@ -25,7 +26,7 @@ const gallerySrcDoc = computed(() => {
     errorMessage.value = "概率论学习工具内容缺失，请检查资源文件后重试。";
     return "";
   }
-  return galleryHtml;
+  return buildIntegratedGalleryHtml(galleryHtml);
 });
 
 function handleLoaded() {
