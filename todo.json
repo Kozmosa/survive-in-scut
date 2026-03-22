@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T15:19:01.672Z",
+  "generatedAt": "2026-03-22T11:06:16.900Z",
   "total": 24,
   "items": [
     {
@@ -64,17 +64,17 @@
     },
     {
       "file": "learn/curricular/common_basic_lessons.md",
-      "line": 74,
+      "line": 76,
       "text": "TODO: 完善线代的课程描述与学习资料"
     },
     {
       "file": "learn/curricular/common_basic_lessons.md",
-      "line": 83,
+      "line": 87,
       "text": "TODO: 完善概率论的课程描述与学习资料"
     },
     {
       "file": "learn/curricular/common_basic_lessons.md",
-      "line": 89,
+      "line": 93,
       "text": "TODO: 完善复变的课程描述与学习资料"
     },
     {
@@ -104,7 +104,7 @@
     },
     {
       "file": "learn/extra/srp.md",
-      "line": 13,
+      "line": 14,
       "text": "TODO: 完善SRP相关内容编写"
     },
     {

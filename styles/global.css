@@ -1,3 +1,38 @@
 .search-box input {
-    text-align: right;
+  text-align: right;
+}
+
+.immersive-page .vp-theme-container .vp-page {
+  padding-inline-start: 0;
+  padding-bottom: 0;
+  overflow: hidden;
+}
+
+.immersive-page .vp-theme-container [vp-content] {
+  max-width: none;
+  padding: 0;
+  overflow: hidden;
+}
+
+.immersive-page .vp-theme-container [vp-content] > h1,
+.immersive-page .vp-theme-container [vp-content] > p {
+  display: none;
+}
+
+.immersive-page .vp-theme-container .theme-default-content:not(.custom),
+.immersive-page .vp-theme-container .theme-default-content {
+  margin: 0;
+  max-width: none;
+  padding: 0;
+}
+
+.immersive-page .vp-theme-container .vp-page-meta,
+.immersive-page .vp-theme-container .vp-page-nav,
+.immersive-page .vp-theme-container .waline-wrapper,
+.immersive-page .vp-theme-container .comment-service {
+  display: none;
+}
+
+.immersive-page .vp-theme-container .probability-gallery-page {
+  margin: 0;
 }
