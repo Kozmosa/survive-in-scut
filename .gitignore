@@ -150,6 +150,9 @@ docs/.vuepress/public/todo.json
 docs/.vuepress/public/contributors.json
 docs/.vuepress/public/assets/app/release.json
 
+# Keep generated todo JSON tracked
+!docs/.vuepress/public/todo.json
+
 # Local macOS metadata
 .DS_Store
 
