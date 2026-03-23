@@ -153,5 +153,5 @@ docs/.vuepress/public/assets/app/release.json
 # Local macOS metadata
 .DS_Store
 
-# Generated TODO summary page
-docs/others/todo.md
+# Keep generated markdown todo page tracked
+!docs/others/todo.md
