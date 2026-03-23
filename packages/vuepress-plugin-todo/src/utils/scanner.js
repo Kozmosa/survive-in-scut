@@ -36,7 +36,9 @@ export function scanDirectory(directory, options) {
   function scanFile(filePath, sourceDir) {
     try {
       const content = fs.readFileSync(filePath, "utf-8");
-      const relativePath = path.relative(sourceDir, filePath);
+      const relativePath = path
+        .relative(sourceDir, filePath)
+        .replace(/\\/g, "/");
 
       content.split("\n").forEach((line, index) => {
         // 检查是否包含TODO关键词

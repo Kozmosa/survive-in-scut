@@ -38,9 +38,8 @@ export function generateTodoMarkdown(todoList, sourceDir) {
     todoContent.push("");
 
     items.forEach((item) => {
-      const linkPath = file.replace(/\\/g, "/");
       todoContent.push(`- **第 ${item.line} 行**: ${item.text}`);
-      todoContent.push(`  - [查看源文件](/${linkPath})`);
+      todoContent.push(`  - [查看源文件](/${file})`);
     });
 
     todoContent.push("");

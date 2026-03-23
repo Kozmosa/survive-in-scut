@@ -54,7 +54,9 @@ export default (options = {}) => {
             } else if (fileExtensions.some((ext) => file.endsWith(ext))) {
               try {
                 const content = fs.readFileSync(fullPath, "utf-8");
-                const relativePath = path.relative(sourceDir, fullPath);
+                const relativePath = path
+                  .relative(sourceDir, fullPath)
+                  .replace(/\\/g, "/");
 
                 content.split("\n").forEach((line, index) => {
                   // 检查是否包含TODO关键词
@@ -121,9 +123,8 @@ export default (options = {}) => {
         todoContent.push("");
 
         items.forEach((item) => {
-          const linkPath = file.replace(/\\/g, "/");
           todoContent.push(`- **第 ${item.line} 行**: ${item.text}`);
-          todoContent.push(`  - [查看源文件](/${linkPath})`);
+          todoContent.push(`  - [查看源文件](/${file})`);
         });
 
         todoContent.push("");
@@ -133,14 +134,10 @@ export default (options = {}) => {
       try {
         fs.writeFileSync(outputPath, todoContent.join("\n"), "utf-8");
 
-        const normalizedTodoList = todoList.map((item) => ({
-          ...item,
-          file: item.file.replace(/\\/g, "/"),
-        }));
         const todoJson = {
           generatedAt: new Date().toISOString(),
-          total: normalizedTodoList.length,
-          items: normalizedTodoList,
+          total: todoList.length,
+          items: todoList,
         };
         fs.writeFileSync(
           jsonOutputPath,
