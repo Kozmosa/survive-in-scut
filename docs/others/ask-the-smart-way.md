@@ -8,7 +8,9 @@ description: How To Ask Questions The Smart Way (SCUT Ver.)
 
 > 在黑客的世界里，你所提技术问题的解答很大程度上取决于你提问的方式与解决此问题的难度。
 >
-> By [Eric Steven Raymond](http://www.catb.org/~esr/faqs/smart-questions.html)
+> From _[How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)_ By Eric Steven Raymond.
+>
+> 除另有注明外，本页其余新增内容按本仓库根目录 LICENSE 所述的 CC0 许可发布
 
 平庸的提问只能得到平庸的回答，好的提问才能得到靠谱的好回答；而一些充满取巧或焦虑心态的“烂”提问，得到的是看起来很美的“糖衣炮弹”。**本文将教你如何提问才更有可能得到满意的答复**。
 
