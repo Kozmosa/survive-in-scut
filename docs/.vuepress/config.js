@@ -182,7 +182,13 @@ export default defineUserConfig({
       {
         text: "其他",
         prefix: "/others/",
-        children: ["contributing", "todo", "app", "branding"],
+        children: [
+          "contributing",
+          "todo",
+          "app",
+          "branding",
+          "ask-the-smart-way",
+        ],
       },
     ],
 
