@@ -118,7 +118,7 @@ export default defineUserConfig({
           {
             text: "时间",
             prefix: "time/",
-            children: ["hemc_gzic", "wushan"],
+            children: ["hemc_gzic", "wushan", "bus"],
           },
           {
             text: "吃饭",
