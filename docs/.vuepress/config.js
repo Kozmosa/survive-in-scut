@@ -118,7 +118,7 @@ export default defineUserConfig({
           {
             text: "时间",
             prefix: "time/",
-            children: ["hemc_gzic", "wushan"],
+            children: ["hemc_gzic", "wushan", "bus"],
           },
           {
             text: "吃饭",
@@ -182,7 +182,13 @@ export default defineUserConfig({
       {
         text: "其他",
         prefix: "/others/",
-        children: ["contributing", "todo", "app", "branding"],
+        children: [
+          "contributing",
+          "todo",
+          "app",
+          "branding",
+          "ask-the-smart-way",
+        ],
       },
     ],
 
