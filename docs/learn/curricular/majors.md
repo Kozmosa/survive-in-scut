@@ -14,7 +14,7 @@ TODO: 其他学院的专业学习攻略
 
 ### 未来技术学院课程攻略
 
-未来技术学院（华南理工大学未来技术学院人工智能协会）的学长及其他贡献者创立了改仓库以共享和交流华工未院课程相关资源
+未来技术学院（华南理工大学未来技术学院人工智能协会）的学长及其他贡献者创立了该仓库以共享和交流华工未院课程相关资源
 
 [华南理工未来技术学院课程攻略 - 网页链接](https://openfutech.github.io/SCUT-FT-Guide/)
 
@@ -29,3 +29,10 @@ TODO: 其他学院的专业学习攻略
 [GitHub 项目地址](https://github.com/oplisty/SCUT-AIdiy)
 
 [网页访问地址](https://lin-ze-pengsorganization.gitbook.io/aidiy/)
+
+### SCUTEEE 华南理工电力电子类专业知识库
+SCUTEEE 类似于 IEEE，SCUT 是华南理工大学（South China University of Technology），EEE 则是电气与电子工程师（Electrical and Electronics Engineers）。SCUTEEE 关注的领域与 IEEE 类似，集中于电气、电子、微电子、计算机、自动化等领域。这些领域存在大量交叉，许多课程大体上是相同的，可以相互借鉴。
+
+[Github 项目地址](https://github.com/scuteee/scuteee)
+
+[网页访问地址](https://scuteee.com/)
