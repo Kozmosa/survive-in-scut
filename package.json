@@ -6,9 +6,13 @@
   "type": "module",
   "scripts": {
     "docs:build": "vuepress build docs",
+    "docs:sync:vitepress-public": "node scripts/sync-vitepress-public.js",
+    "docs:build:vitepress": "npm run docs:sync:vitepress-public && vitepress build docs",
     "docs:build:platform": "node scripts/docs-build-platform.js",
     "docs:clean-dev": "vuepress dev docs --clean-cache",
     "docs:dev": "vuepress dev docs",
+    "docs:dev:vitepress": "npm run docs:sync:vitepress-public && vitepress dev docs",
+    "docs:preview:vitepress": "npm run docs:sync:vitepress-public && vitepress preview docs",
     "docs:update-package": "bunx vp-update",
     "docs:fmt": "bunx prettier --check \"**/*.{js,json,md}\" --write # also in .github/workflows/format.yml"
   },
@@ -25,6 +29,7 @@
     "sass": "^1.89.2",
     "sass-embedded": "^1.89.2",
     "vue": "^3.5.16",
+    "vitepress": "^1.6.4",
     "vuepress": "^2.0.0-rc.23"
   },
   "dependencies": {
