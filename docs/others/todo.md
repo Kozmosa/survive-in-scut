@@ -6,9 +6,9 @@ description: 项目中的 TODO 列表汇总
 
 # TODO 汇总
 
-> 最后更新时间: 2026-06-03 13:44:23
+> 最后更新时间: 2026-06-03 14:34:27
 
-共找到 38 个 TODO 项
+共找到 37 个 TODO 项
 
 ## beyond/abroad/phd.md
 
@@ -167,8 +167,3 @@ description: 项目中的 TODO 列表汇总
   - [查看源文件](/others/contributing.md)
 - **第 176 行**: TODO: 建立年度更新流程（迎新、校巴、地图、转专业、校医院、周边信息等高时效页面每学年至少核对一次）。
   - [查看源文件](/others/contributing.md)
-
-## others/roadmap.md
-
-- **第 64 行**: - TODO 收集
-  - [查看源文件](/others/roadmap.md)
