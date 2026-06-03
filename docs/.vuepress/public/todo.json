@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-02T15:29:29.922Z",
-  "total": 37,
+  "generatedAt": "2026-06-03T13:44:24.005Z",
+  "total": 38,
   "items": [
     {
       "file": "beyond/abroad/phd.md",
@@ -186,6 +186,11 @@
       "file": "others/contributing.md",
       "line": 176,
       "text": "TODO: 建立年度更新流程（迎新、校巴、地图、转专业、校医院、周边信息等高时效页面每学年至少核对一次）。"
+    },
+    {
+      "file": "others/roadmap.md",
+      "line": 64,
+      "text": "- TODO 收集"
     }
   ]
 }

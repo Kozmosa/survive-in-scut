@@ -1,100 +1,107 @@
 ---
 lang: zh-CN
 title: 维护路线图
-description: survive-in-scut 的内容与工程维护路线图
+description: survive-in-scut 的近期维护顺序
 ---
 
 # 维护路线图
 
-> 更新时间：2026-06-02
+> 更新时间：2026-06-03
 > 适用对象：仓库维护者、准备提 PR 的贡献者
-> 结论先行：这是一个“内容优先、工程支撑”的文档站。短期最有价值的工作不是换框架，而是补齐高频页面、厘清版权口径，并建立稳定的更新流程。
+
+这页只记近期维护顺序，不写愿景口号。
 
 ## 当前判断
 
-- 项目主体是 VuePress 2 文档站，工程代码主要服务于文档呈现，而不是独立业务系统。
-- 自定义能力已经不少，包括 TODO 自动收集、贡献者列表生成、App 版本元数据拉取、PDF 查看器、沉浸式全屏工具页。
-- 公开协作面当前有待处理事项，包括 1 个开放 PR（#22）和 1 个开放 Issue（#23）。
-- 英文区覆盖明显不完整，且部分页面仍是中文草稿、空白页或未建立对应英文页。
-- 当前 TODO 页面更像“占位汇总”，还不是一个可直接执行的优先级列表。
+- 这个仓库首先是文档站。当前主要问题是入口页、版权页和英文页还不够稳，不是框架本身挡住了维护。
+- 仓库已经绑了不少自定义能力：TODO 收集、contributors 生成、App release metadata、PDF 查看器、沉浸式工具页。迁框架不是改一份配置就能结束。
+- 因此近期顺序应该是：先修读者直接会看到的内容，再拆构建耦合，最后再评估是否切到 `VitePress`。
 
-## 维护原则
+## 近期优先级
 
-- 先修公开可见的空白页、过期页、口径冲突页，再做锦上添花的功能。
-- 时间敏感信息优先于通用介绍，尤其是迎新、校巴、转专业、校医院、地图与周边信息。
-- 中文源页面先稳定，再推进英文页，不做长期失真的“伪双语同步”。
-- 框架迁移只在内容 backlog 缩小、构建链可验证之后推进。
+### P0
 
-## P0：立即推进
+1. 补齐版权说明与来源口径。
 
-1. 版权说明与授权口径清理。
+要求：`copyrights` 中英文页不再留空；`LICENSE`、站内版权页、第三方素材来源之间的关系写清楚。
 
-验收：`copyrights` 中英文页面不再为空；仓库 `LICENSE`、首页 footer、单页例外声明、第三方素材来源之间的关系写清楚。
+2. 处理入口页和高流量说明页。
 
-2. 重写 `get-started` 的年度迎新信息。
+优先文件：
 
-验收：去掉只适用于 2024 的表述，改成可按年份替换的结构；把时间敏感字段集中到更容易年度更新的位置。
+- `docs/get-started.md`
+- `docs/introduction.md`
+- `docs/health/medical_care.md`
+- `docs/learn/curricular/common_basic_lessons.md`
+- `docs/learn/curricular/transfer_major.md`
 
-3. 重写 `introduction`。
+要求：先去掉明显过期、空白占位或容易误导新生的内容，再谈补全。
 
-验收：从“学校百科简介”改成“这本手册是什么、给谁看、如何使用、哪些信息可能过期、如何参与贡献”。
+3. 明确 Issue #23 的范围。
 
-4. 处理现有开放 PR #22。
+要先定三件事：
 
-验收：给出合并、修改请求或拆分建议，避免开放 PR 长期悬挂。
+- 只支持 WebVPN 入口，还是允许自定义 URL
+- 哪些平台要支持
+- 文档里怎么写限制和风险
 
-5. 明确 App 方向与 Issue #23 的范围。
+4. 补最小可用的英文入口。
 
-验收：决定是支持 WebVPN 链接、允许自定义 URL，还是两者都做；同时把当前平台支持范围和能力边界写进文档。
+优先顺序：
 
-## P1：内容补完批次
+- `en/get-started`
+- `en/introduction`
+- `en/others/contributing`
+- `en/health/medical_care`
+- `en/life/time/bus`
 
-- 校区与生活信息：优先补齐 `infra/*/map|nearby`、`life/eat/gzic.md`、`life/entertainment/*` 这类高频入口页。
-- 学习模块：优先补齐 `learn/curricular/lessons.md`、`gpa.md`、`exam.md`、`majors.md`、`common_basic_lessons.md` 中的占位内容。
-- 飞跃与立命：`beyond/*` 与 `health/alive_first.md` 应先从“占位句子”升级到最小可用版本，再求完整。
-- App 与工具页：补文档说明、来源说明、已知限制和维护指引，不要只保留下载按钮或交互入口。
+要求：宁可明确写“待补”，也不要继续把中文正文放进英文页里。
 
-## P2：编辑规范与维护流程
+5. 继续把会复用的生成步骤从 VuePress 生命周期里拆出来。
 
-- 在 `contributing` 中补齐写作规范：附件命名、来源标注、时间敏感信息标记、外链选择、翻译同步规则。
-- 建立年度 review 清单：迎新、校巴、地图、转专业、医保、周边餐饮等页面每学年至少核对一次。
-- 为高时效页面增加“最后核对日期”或“适用学年”标注，降低过期内容误导风险。
+优先是：
 
-## P3：英文区策略
+- TODO 收集
+- contributors 生成
+- app release metadata 同步
 
-- 不追求一口气全量翻译，先覆盖高流量入口页：`get-started`、`introduction`、`contributing`、`app`、`bus`、`medical_care`。
-- 对暂未翻译的页面，宁可明确标注“待翻译”，也不要保留中文正文冒充英文页。
-- 中英文页应建立同步规则：中文先更新，英文随后补齐；若暂不同步，要在页面上写明。
+要求：这些步骤最终要能以独立 prebuild 的方式运行，不继续绑定在单一框架钩子上。
 
-## P4：工程治理
+### P1
 
-- 构建链先恢复到“本地可验证”。当前仓库依赖 `bun`，维护环境中是否能顺利完成依赖安装和构建，需要先确认。
-- `TODO` 收集器应继续保留，但最好把“占位提醒”和“维护任务”区分开，避免 TODO 页面噪声过高。
-- 后续可考虑补一个轻量检查脚本，专门找出空白页、中文混入英文页、年份过期页和无版权说明的资源页。
+- 补 `infra/*/map|nearby`、`life/eat/*`、`life/entertainment/*` 这类高频生活页。
+- 补 `learn/curricular/lessons.md`、`gpa.md`、`exam.md`、`majors.md` 这类学习入口页。
+- 在 `contributing` 中补写作规范：附件命名、来源标注、时间敏感信息标记、翻译同步规则。
+- 给高时效页面增加“最后核对日期”或“适用学年”标注。
 
-## LOW：迁移到 VitePress
+## 暂时不要做
 
-当前不建议立刻切换；不过截至 2026-06-02，仓库里已经有了可并行试构建的 `docs/.vitepress/` scaffold、`docs/public` 同步脚本和独立的 `VitePress` 构建命令。
+- 不要把 TODO 汇总页当正式 backlog。它适合找缺口，不适合直接代替维护判断。
+- 不要在一个 PR 里同时混内容改写、构建改造和导航重排。范围一杂，review 成本就会上去。
+- 不要在中文源内容还没稳定时追求全量双语同步，否则只会得到两份一起过期的页面。
 
-原因也很现实：
+## 关于 VitePress
 
-- 现在没有 `docs/.vitepress` 配置，迁移尚未开始。
-- 现有站点依赖 VuePress 侧的自定义插件和组件注册机制。
-- 沉浸式页面、PDF 查看器、TODO/贡献者/App 元数据生成都要重做或改写。
-- 在内容 backlog 仍然很大的情况下，先换框架只会让维护面同时扩张。
+当前可以做准备，但不建议现在切生产默认框架。
 
-更稳妥的迁移顺序：
+原因很直接：
 
-1. 先把内容主线和版权口径稳定下来。
-2. 为 TODO、contributors、app release metadata 改成独立 prebuild 脚本，降低对 VuePress 生命周期钩子的耦合。
-3. 新建 `docs/.vitepress`，只先迁移基础导航、主题和静态页面。
-4. 验证自定义组件、沉浸式工具页、PDF 组件和多语言路由是否都能等价工作。
-5. 用现有 `docs:build:platform` 思路做双平台构建对比，确认输出质量后再切 CI。
+- 现有 VuePress 自定义逻辑还没拆干净。
+- 入口页和规则页本身还有 backlog。
+- 迁移后需要重新验证组件、工具页、PDF、多语言路由是否等价。
 
-## 建议的首批 PR 队列
+更稳的顺序：
 
-1. `roadmap + copyrights + contributing + TODO refresh`
-2. `get-started annual refresh`
-3. `introduction rewrite + English onboarding cleanup`
-4. `app docs + issue #23 solution design`
-5. `placeholder batch for infra/life/learn`
+1. 先把入口页、版权页、贡献说明补稳。
+2. 再把 TODO、contributors、app metadata 之类的生成逻辑改成独立 prebuild。
+3. 然后再做双平台构建对照，检查导航、组件和工具页行为是否一致。
+4. 最后才决定是否切换默认文档框架。
+
+## 建议的 PR 划分
+
+1. `copyrights + contributing`
+2. `get-started` 年度清理或重写
+3. `introduction` 重写
+4. 英文入口页补完
+5. `app` 文档和 Issue #23 方案说明
+6. `infra / life / learn` 的占位页补完批次
