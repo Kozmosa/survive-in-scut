@@ -1,95 +1,113 @@
-# 启程，华南理工大学
+---
+lang: en-US
+title: Getting Started
+description: A stable onboarding checklist for new SCUT students
+---
 
-相信在你读到这一段文字的时候，应该已在、或将要踏上华园的这片土地。
+# Getting Started at SCUT
 
-## 报到时间
+> This page keeps only the parts of onboarding that are relatively stable across years.
+> Exact reporting dates, shuttle arrangements, gate rules, and fee policies change from year to year. Always verify them against your admission package, the freshman system, your school notices, and your department announcements.
 
-**2024年8月31日至9月1日（星期六和星期日）8:30-17:30**
+This page is meant to help you avoid the most common first-week mistakes: forgetting the wrong documents, missing the real reporting step, or wasting time on low-priority tasks on day one.
 
-请新同学按照本人录取通知书指引，在指定日期到相应校区报到。
+## Before you leave for campus
 
-## 入学报到准备指南
+### Check the official entry points
 
-### ✦ 入学报到前
+These are the links you should verify first:
 
-新同学须携带**录取通知书、身份证原件**（未办理身份证者需携带**户口簿**）、**校园一卡通**来校报到。
+- Freshman system: <https://freshman.scut.edu.cn/>
+- Mypass / arrival reporting related entry: <https://enroll.scut.edu.cn/door/index_h5.html>
+- Campus map: <https://map.scut.edu.cn/login_home.html>
 
-请新同学在来校报到前登录**迎新系统**（[https://freshman.scut.edu.cn/](https://freshman.scut.edu.cn/)），激活个人统一认证账号并完成相关信息采集。具体操作方法参见随录取通知书寄送的《华南理工大学2024年本科新生入学指南》，如若登录遇到问题，请及时联系辅导员协助解决。
+If this page conflicts with the current official flow, trust the official flow.
 
-### ✦ 入学报到途中
+### Prepare the essentials
 
-（1）乘坐公共交通工具来校的新同学及陪同亲友注意人身、财物安全，不乘坐非正规营运车辆。自驾来校者勿疲劳驾驶，注意行车安全。
-（2）正值返校高峰期，来校途中，倡导做好个人健康防护。
-（3）**接站安排**。对于2024年8月30日至31日（22点30分至次日凌晨5点30分）到达广州（广州火车站、广州火车东站、广州火车南站）存在到校困难或不便情况的新生及家长，可提前在华南理工大学企业微信号Mypass系统（[https://enroll.scut.edu.cn/door/index_h5.html](https://enroll.scut.edu.cn/door/index_h5.html)）的接站模块提出申请。深夜进入校门后若去往宿舍存在困难可在“华工安全卫士”公众号预约校内护送服务。
+At minimum, keep these ready and easy to reach:
 
-### ✦ 市内公共交通指引
+- admission letter
+- ID card or other accepted identity document
+- phone number and common payment methods
+- a few digital and printed ID photos
+- any department-specific documents requested for your year
 
-（以下乘车指引仅供参考，请关注实际路况结合导航使用。）
+Do not bury all original documents inside large luggage.
 
-#### 五山校区
+### Finish the account setup early
 
-- ① 公交车**华工大总站**：32路、230路、775路、大学城专线2路；
-- ② 公交车**华工大站**：20路、218路、B10路、78路、78A路、197路、405路、775路、41路、高峰快线32路、夜23路、夜53路。
-- ③ 地铁**3号线五山站**，近五山校区东门；
-- ④ 地铁**3号线、6号线天河客运站**，近五山校区北区东门。
+Before arrival, try to complete these tasks:
 
-#### 大学城校区
+- activate your unified account
+- sign in to the freshman system
+- review which arrival steps must be completed online
+- join the official class / department communication channels
 
-- ① 公交车**华工站、华工生活区站**：大学城专线 1路、大学城专线2路、大学城专线 3路、86 路、大学城环线 1路、大学城环线 2路、387路、番 201路、番202路、332路、夜 50路。
-- ② 地铁**4号线、7号线大学城南站D出口**，近大学城校区生活区。
+A lot of students do not get blocked by transportation. They get blocked by missing accounts, missed notices, or not knowing which system is authoritative.
 
-#### 广州国际校区
+## What to do on day one
 
-- ① 公交车**华工国际校区公交总站（广州国际校区）**：番 10路、番 17路、番 87路、番 88路
-- ② 公交车**华工国际校区南门站（珠江灯光高新科技园站）**：番51B路
-- ③ 地铁**4号线新造站**，转乘公交番87路到华工国际校区；
-- ④ 地铁**7号线员岗站**，转乘公交番17路到华工国际校区。
+A practical order is usually:
 
-## 入校指引
+1. reach the dorm or the welcome point first
+2. complete reporting, identity verification, room check-in, and card / key collection
+3. only then start buying supplies, exploring campus, or joining social activities
 
-新同学及陪同亲友凭**录取通知书和身份证原件（或校园卡）**进入校园。学校在各校区主要通道设有迎新接待点，为新同学提供报到指引服务。
+Day one should be about closing the mandatory loop, not doing everything at once.
 
-迎新期间，前往五山校区、广州国际校区送新生的车辆可以进入部分指定区域（通道），前往大学城校区的车辆按照指引停放在生活区周边临时停车点。
+## How to judge transportation and arrival details
 
-**附图：各校区校门开放及进出指引**（请同时参照校园电子地图[https://map.scut.edu.cn/login_home.html](https://map.scut.edu.cn/login_home.html)）
+We intentionally do not hardcode one specific year's gate rules or pickup schedule here.
 
-### 五山校区
+Instead, confirm three things:
 
-迎新期间设置**6个新生步行入校通道**，分别是南门、东门、南侧门、北门、北区南门、北区东门。其中**5个通道可供新生家长自驾或乘坐车辆通行**的入口，分别是南门、南侧门、北门、北南门、北东门。
+- which campus you are going to
+- which gate / drop-off point your current notice expects you to use
+- whether you must report to the dorm area first or to a welcome desk first
 
-**各入口开放时间**：南门、东门、北门、北区南门**全天24小时开放**，南侧门和北区东门**7:00-23:00开放**。
+Useful follow-up pages:
 
-### 大学城校区
+- [Facilities](/en/infra/)
+- [HEMC map](/en/infra/hemc/map)
+- [Wushan map](/en/infra/wushan/map)
+- [GZIC map](/en/infra/gzic/map)
 
-迎新期间设置**10个出入口**，分别是生活区东一门、西一门、西二门、西三门、西四门、北一门，教学区南门、西门、北门、东门，迎新期间各出入口**24小时开放**。接送新同学的车辆根据现场指引停放在**华工北路、华工南路、内环路临时停车点**。
+## Common mistakes to avoid
 
-### 广州国际校区
+### Arriving is not the same as reporting successfully
 
-迎新期间设置**4个出入口**，分别是南大门、西南门、西北门、北大门，其中**2个允许车辆通行**，分别是南大门、北大门。迎新期间上述各出入口**24小时开放**。
+You may already be on campus, inside the dorm, and still not be officially marked as reported. Always check the actual system status or department confirmation.
 
-## 入校后指南
+### Treat student advice as guidance, not final policy
 
-1.  **入住宿舍**
+Peer experience is useful, but fees, delayed payment, financial aid, registration, archive transfer, and other formal procedures must follow the current official notice.
 
-    新同学可通过迎新系统查看宿舍安排，刷校园一卡通进入宿舍楼，凭**录取通知书、校园一卡通或身份证原件**在宿舍楼管理员处登记、领取宿舍钥匙后入住宿舍。
+### Do not overbuy on the first day
 
-2.  **报到注册**
+Move in first. Understand the room, storage, and roommate arrangement first. Then buy what you actually need.
 
-    新同学到校后，在校园内通过Mypass系统（[https://enroll.scut.edu.cn/door/index_h5.html](https://enroll.scut.edu.cn/door/index_h5.html)）的“开学报到”功能完成入学报到注册。“**手机定位在学校范围内**”且“**人脸识别成功**”两个条件同时满足方能报到成功，识别后可以查看报到状态，如果显示“已报到”，则说明报到成功。具体操作方法参见随录取通知书寄送的《华南理工大学2024年本科新生入学指南》，如若登录遇到问题，请及时联系辅导员协助解决。
+### Be cautious with sales pitches and informal "helpers"
 
-3.  **“绿色通道”服务**
+Anything that sounds like "internal channel", "today only", or "pay first" should raise your guard immediately.
 
-    家庭经济特别困难学生可通过线上或线下“绿色通道”申请缓交学费和住宿费。
-    - **线上办理方式**：登录学校迎新系统（[https://freshman.scut.edu.cn/](https://freshman.scut.edu.cn/)）选择‘绿色通道”完成学费、住宿费缓交申请手续；
+## What to read next
 
-    - **线下办理方式**：报到期间，新同学携带身份证、校园一卡通，前往所在校区“绿色通道”服务点办理。各校区服务点：五山校区北一学生宿舍，大学城校区C11架空层尚学馆，广州国际校区E5a二楼。
+If you only keep going with a few pages, start here:
 
-    以上两种方式只需办理一种即可。
+1. [Majors](/en/learn/curricular/majors)
+2. [SRP](/en/learn/extra/srp)
+3. [Transfer Major](/en/learn/curricular/transfer_major)
+4. [Health and safety](/en/health/alive_first)
 
-## 其他事项指南
+## Why this page stays generic
 
-（1）学籍档案、党团关系转接、户口迁移、学费和住宿费缴纳、行李邮寄与快递领取等事项请参照随录取通知书寄送的入学指南（可在迎新系统下载电子版）。
+These items are too year-specific to hardcode here long-term:
 
-（2）**防范诈骗**。请务必提高警惕，不要相信任何推销、办卡、办会员等，切勿轻信陌生人的来信来电，谨防各类诈骗。如有疑问，应第一时间向学院辅导员等了解，切勿盲目转账或者支付。
+- exact reporting date and time
+- temporary pickup schedules
+- gate opening rules and vehicle arrangements
+- one-off QR codes, group chats, or forms
+- department notices that only apply to one cohort
 
-（3）**新生行李领取地点**（具体地点以快递公司的通知信息为准）
+If you update this page in the future, prefer stable decision rules and official entry points first. Add year-specific details only when you clearly label the applicable year.

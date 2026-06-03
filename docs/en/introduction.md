@@ -1,25 +1,73 @@
-# 简介
+---
+lang: en-US
+title: Introduction
+description: What this handbook is, how to use it, and how to contribute
+---
 
-## 历史
+# Introduction
 
-华南理工大学成立于1952年，原名为华南工学院。1993年，学校更名为华南理工大学。学校的前身是华南地区最早的高等学府之一，具有深厚的历史文化底蕴。
+This is not the official SCUT website, and it is not a handbook that stays correct forever.
 
-## 地位与规模
+It is a student-maintained survival manual for South China University of Technology. Think of it as a practical index of student knowledge: common pitfalls, useful links, study resources, and the kinds of information people usually learn only after asking around.
 
-华南理工大学是中国教育部直属的全国重点大学，也是国家“211工程”和“985工程”的首批重点建设高校之一。学校在工程科学、材料科学、环境科学、信息科学等领域具有较高的学术地位。
+## What this handbook is for
 
-## 学科设置
+The handbook is mainly useful for three kinds of questions:
 
-华南理工大学设有多个学院，提供包括工学、理学、管理学、经济学、法学、文学、艺术学、教育学等在内的多个学科专业。学校拥有多个国家级重点学科和实验室，以及多个国际合作项目。
+- **arrival and adaptation**: what to do first, where to look, and which official entry points matter
+- **study and planning**: courses, competitions, SRP, transfer major, graduate paths, and research entry points
+- **daily life and support**: food, transportation, health care, nearby services, and common mistakes
 
-## 国际交流
+It is optimized for usefulness, not for encyclopedic completeness.
 
-华南理工大学注重国际交流与合作，与多国的高等学府建立了合作关系。学校在国际学术交流和科研合作方面有着广泛的影响。
+## What it is not
 
-## 校园环境
+- not an official rulebook
+- not a guaranteed action manual for every case
+- not a substitute for current university notices
+- not a timeless archive where every detail stays fresh automatically
 
-学校位于广州市，校园环境优美，拥有多个现代化的教学楼、科研楼、图书馆和学生宿舍。校园内有湖泊、树林和花园，为学生提供了一个良好的学习和生活场所。
+Time-sensitive topics should always be rechecked, especially onboarding logistics, shuttle schedules, policy details, office hours, and medical reimbursement rules.
 
-## 综合实力
+## Who should read it
 
-华南理工大学以其综合实力在国内外享有较高声誉，特别是在工程领域，学校的研究成果和人才培养都处于国内领先地位。
+This handbook is most directly aimed at:
+
+- newly admitted undergraduates
+- current students trying to build a working map of campus life
+- students preparing for competitions, SRP, transfer major, research, or postgraduate plans
+- older students who want to leave useful notes for the next cohort
+
+## How to use it well
+
+Do not read it like a book from page one to the end. Start from the problem you actually have:
+
+- just admitted: go to [Getting Started](/en/get-started)
+- trying to orient yourself: go to [Facilities](/en/infra/)
+- looking for daily life info: go to [Life](/en/life/time/hemc_gzic)
+- looking for course and study resources: go to [Learn](/en/learn/curricular/majors)
+- planning for what comes next: go to [Beyond](/en/beyond/mainland/recommend_graduate)
+
+Use it as a navigation layer and a practical index, not as a document to obey blindly.
+
+## What goes stale fastest
+
+Treat the following categories as likely to expire first:
+
+- onboarding dates, pickup plans, gate rules, and temporary logistics
+- system links, forms, QR codes, and chat groups
+- course policies, credit rules, and department-specific details
+- shuttle schedules, dining options, shop status, and nearby businesses
+- reimbursement, health care, office windows, and service hours
+
+If something matters to you, look for the latest update date or the applicable academic year. If there is no such label, treat it as experience rather than final authority.
+
+## How to contribute
+
+The easiest ways to help are:
+
+- send a pull request
+- report outdated or incorrect information to the maintainers
+- add missing context that would have saved you time as a new student
+
+For contribution workflow and writing expectations, see [Contributing](/others/contributing).
