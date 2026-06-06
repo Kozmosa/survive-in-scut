@@ -23,3 +23,5 @@
 ## 综合实力
 
 华南理工大学以其综合实力在国内外享有较高声誉，特别是在工程领域，学校的研究成果和人才培养都处于国内领先地位。
+
+TODO: Rewrite this page as a handbook introduction for readers and contributors, instead of keeping it as a generic university encyclopedia summary.

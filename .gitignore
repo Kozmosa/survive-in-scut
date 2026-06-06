@@ -142,6 +142,9 @@ vite-platform-dist/
 # VitePress cache artifacts
 docs/.vitepress/cache/
 
+# Generated VitePress public mirror
+/docs/public/
+
 # Temporary platform build workspace
 .platform-build-tmp-*/
 

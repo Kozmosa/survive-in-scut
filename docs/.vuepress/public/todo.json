@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-23T03:29:56.021Z",
-  "total": 23,
+  "generatedAt": "2026-06-03T14:34:27.672Z",
+  "total": 37,
   "items": [
     {
       "file": "beyond/abroad/phd.md",
@@ -21,6 +21,46 @@
       "file": "beyond/mainland/unified_admission.md",
       "line": 11,
       "text": "TODO: 考研相关内容"
+    },
+    {
+      "file": "copyrights.md",
+      "line": 22,
+      "text": "TODO: 对齐仓库根目录 `LICENSE`、首页 footer 中的 `CC-BY-SA` 文案、`others/ask-the-smart-way.md` 的 `CC0` 说明，以及其他单页例外声明，给出统一且可执行的授权口径。"
+    },
+    {
+      "file": "copyrights.md",
+      "line": 24,
+      "text": "TODO: 为第三方素材补充来源、授权方式和复用限制，尤其是图片、PDF、嵌入组件、App 相关资源和外部网页内容。"
+    },
+    {
+      "file": "copyrights.md",
+      "line": 26,
+      "text": "TODO: 明确贡献者提交文本、图片、表格和脚本时默认采用什么授权，以及维护者在合并前需要检查哪些版权信息。"
+    },
+    {
+      "file": "en/copyrights.md",
+      "line": 22,
+      "text": "TODO: Align the repository root `LICENSE`, the homepage footer text that says `CC-BY-SA`, the `CC0` note in `others/ask-the-smart-way.md`, and any other page-level exception statements."
+    },
+    {
+      "file": "en/copyrights.md",
+      "line": 24,
+      "text": "TODO: Add source, license, and reuse notes for third-party assets, especially images, PDFs, embedded components, app-related resources, and mirrored external content."
+    },
+    {
+      "file": "en/copyrights.md",
+      "line": 26,
+      "text": "TODO: Document the default contribution license for text, images, tables, and scripts, plus the copyright checks maintainers should perform before merging."
+    },
+    {
+      "file": "en/get-started.md",
+      "line": 97,
+      "text": "TODO: Replace this Chinese draft with a real English onboarding page, and keep year-specific logistics synchronized with the Chinese source page each admission cycle."
+    },
+    {
+      "file": "en/introduction.md",
+      "line": 27,
+      "text": "TODO: Rewrite this page as a handbook introduction for readers and contributors, instead of keeping it as a generic university encyclopedia summary."
     },
     {
       "file": "get-started.md",
@@ -63,6 +103,11 @@
       "text": "TODO: 五山校区周边去处的简介页面"
     },
     {
+      "file": "introduction.md",
+      "line": 27,
+      "text": "TODO: 将本页从“学校百科简介”重写为“这本手册是什么、适合谁、怎么使用、哪些内容可能过期、如何参与共建”的项目介绍页。"
+    },
+    {
       "file": "learn/curricular/common_basic_lessons.md",
       "line": 76,
       "text": "TODO: 完善线代的课程描述与学习资料"
@@ -100,6 +145,11 @@
     {
       "file": "learn/extra/contest.md",
       "line": 26,
+      "text": "TODO: 后续可将竞赛目录进一步结构化，区分“校内创新分导向”“学科竞赛导向”“就业技能导向”三类入口。"
+    },
+    {
+      "file": "learn/extra/contest.md",
+      "line": 28,
       "text": "TODO: 需要进一步完善，添加更多竞赛内容的指引"
     },
     {
@@ -116,6 +166,26 @@
       "file": "life/entertainment/wushan.md",
       "line": 11,
       "text": "TODO: 五山校区周边的娱乐去处"
+    },
+    {
+      "file": "others/app.md",
+      "line": 9,
+      "text": "TODO: 补充 App 的能力边界、平台支持矩阵、版本来源和已知限制说明，避免页面只剩下载入口。"
+    },
+    {
+      "file": "others/app.md",
+      "line": 11,
+      "text": "TODO: 跟进 Issue #23，明确课表导入是否支持 WebVPN 链接、用户自定义 URL，还是两者都支持。"
+    },
+    {
+      "file": "others/contributing.md",
+      "line": 174,
+      "text": "TODO: 补充文档编撰规范（附件命名、来源标注、外链规范、时间敏感信息标记、翻译同步规则、引用官方信息的写法）。"
+    },
+    {
+      "file": "others/contributing.md",
+      "line": 176,
+      "text": "TODO: 建立年度更新流程（迎新、校巴、地图、转专业、校医院、周边信息等高时效页面每学年至少核对一次）。"
     }
   ]
 }

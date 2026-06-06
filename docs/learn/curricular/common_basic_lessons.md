@@ -81,8 +81,8 @@ TODO: 完善线代的课程描述与学习资料
 
 **学习资料**
 
-- 华工概率论笔记：[概率论与数理统计手写笔记](common/probalistics_and_statistics/plt_note.md)
-- 交互图像工具：[概率分布图像工具](common/probalistics_and_statistics/distribution_gallery.md)
+- 华工概率论笔记：[概率论与数理统计手写笔记](./common/probalistics_and_statistics/plt_note.md)
+- 交互图像工具：[概率分布图像工具](./common/probalistics_and_statistics/distribution_gallery.md)
 
 TODO: 完善概率论的课程描述与学习资料
 

@@ -93,3 +93,5 @@
 （2）**防范诈骗**。请务必提高警惕，不要相信任何推销、办卡、办会员等，切勿轻信陌生人的来信来电，谨防各类诈骗。如有疑问，应第一时间向学院辅导员等了解，切勿盲目转账或者支付。
 
 （3）**新生行李领取地点**（具体地点以快递公司的通知信息为准）
+
+TODO: Replace this Chinese draft with a real English onboarding page, and keep year-specific logistics synchronized with the Chinese source page each admission cycle.

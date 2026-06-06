@@ -31,9 +31,60 @@ export default (options = {}) => {
 
       const outputPath = path.resolve(outputDirPath, outputFile);
       const jsonOutputPath = path.resolve(jsonOutputDirPath, jsonOutputFile);
+      const ignoredFiles = new Set([
+        path.relative(sourceDir, outputPath).replace(/\\/g, "/"),
+        path.relative(sourceDir, jsonOutputPath).replace(/\\/g, "/"),
+      ]);
 
       // 扫描TODO列表
       const todoList = [];
+
+      const matchesTodoLine = (line, keyword) => {
+        const trimmed = line.trimStart();
+        const candidates = [
+          `${keyword}:`,
+          `${keyword} `,
+          `// ${keyword}:`,
+          `// ${keyword} `,
+          `/* ${keyword}:`,
+          `/* ${keyword} `,
+          `* ${keyword}:`,
+          `* ${keyword} `,
+          `<!-- ${keyword}:`,
+          `<!-- ${keyword} `,
+          `- ${keyword}:`,
+          `- ${keyword} `,
+          `* ${keyword}:`,
+          `* ${keyword} `,
+          `+ ${keyword}:`,
+          `+ ${keyword} `,
+          `> ${keyword}:`,
+          `> ${keyword} `,
+        ];
+        return candidates.some((candidate) => trimmed.startsWith(candidate));
+      };
+
+      const normalizeRelativePath = (fullPath) =>
+        path.relative(sourceDir, fullPath).replace(/\\/g, "/");
+
+      const shouldExcludePath = (fullPath) => {
+        const relativePath = normalizeRelativePath(fullPath);
+        if (ignoredFiles.has(relativePath)) {
+          return true;
+        }
+
+        return excludeDirs.some((excludeDir) => {
+          const normalizedDir = String(excludeDir || "")
+            .replace(/\\/g, "/")
+            .replace(/^\.\//, "")
+            .replace(/\/$/, "");
+          return (
+            normalizedDir &&
+            (relativePath === normalizedDir ||
+              relativePath.startsWith(`${normalizedDir}/`))
+          );
+        });
+      };
 
       // 扫描目录函数
       const scanDir = (dir) => {
@@ -42,10 +93,7 @@ export default (options = {}) => {
           files.forEach((file) => {
             const fullPath = path.join(dir, file);
 
-            // 检查是否为排除目录
-            if (
-              excludeDirs.some((excludeDir) => fullPath.includes(excludeDir))
-            ) {
+            if (shouldExcludePath(fullPath)) {
               return;
             }
 
@@ -54,17 +102,12 @@ export default (options = {}) => {
             } else if (fileExtensions.some((ext) => file.endsWith(ext))) {
               try {
                 const content = fs.readFileSync(fullPath, "utf-8");
-                const relativePath = path
-                  .relative(sourceDir, fullPath)
-                  .replace(/\\/g, "/");
+                const relativePath = normalizeRelativePath(fullPath);
 
                 content.split("\n").forEach((line, index) => {
                   // 检查是否包含TODO关键词
                   for (const keyword of todoKeywords) {
-                    if (
-                      line.includes(keyword + ":") ||
-                      line.includes(keyword + " ")
-                    ) {
+                    if (matchesTodoLine(line, keyword)) {
                       const todoText = line.trim();
                       todoList.push({
                         file: relativePath,

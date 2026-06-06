@@ -60,7 +60,7 @@ export default defineUserConfig({
       jsonOutputFile: "todo.json",
       todoKeywords: ["TODO", "FIXME"],
       fileExtensions: [".md", ".vue"],
-      excludeDirs: ["node_modules", ".git", "dist", "others", ".temp"],
+      excludeDirs: ["node_modules", ".git", "dist", ".temp"],
       addToNavbar: false,
     }),
     contributorsCollector({
@@ -184,6 +184,7 @@ export default defineUserConfig({
         prefix: "/others/",
         children: [
           "contributing",
+          "roadmap",
           "todo",
           "app",
           "branding",
