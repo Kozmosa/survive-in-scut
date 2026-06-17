@@ -147,6 +147,7 @@ export default defineConfig({
   title: "华南理工生存手册",
   description: "你不为我而来，但我为你而写",
   cleanUrls: true,
+  ignoreDeadLinks: true,
   lastUpdated: true,
   rewrites: {
     "README.md": "index.md",
