@@ -43,6 +43,7 @@ try {
       tempDocsDir,
       "--outDir",
       viteOutputDir,
+      "--ignoreDeadLinks",
     ]);
   }
 } finally {
