@@ -132,8 +132,8 @@ dist
 # Local agent instructions
 AGENTS.md
 
-# Local npm lockfile (Bun is primary)
-package-lock.json
+# Non-primary package manager lockfiles
+bun.lock
 
 # Platform build outputs
 vue-platform-dist/

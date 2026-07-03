@@ -11,4 +11,4 @@ jobs:
       - uses: ./.github/actions/install-deps
 
       - name: Check Formatting with auto fixing
-        run: bunx prettier --write --check "**/*.{js,json,md}"
+        run: npm run docs:fmt

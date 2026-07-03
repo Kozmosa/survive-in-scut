@@ -26,7 +26,7 @@ jobs:
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
-          bun run docs:build
+          npm run docs:build
           > docs/.vuepress/dist/.nojekyll
 
       - name: 部署网站

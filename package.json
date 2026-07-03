@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "A survive manual for freshman to South China University of Technology",
   "license": "CC",
+  "packageManager": "npm@11.18.0",
   "type": "module",
   "scripts": {
     "docs:build": "vuepress build docs",
@@ -13,8 +14,8 @@
     "docs:dev": "vuepress dev docs",
     "docs:dev:vitepress": "npm run docs:sync:vitepress-public && vitepress dev docs",
     "docs:preview:vitepress": "npm run docs:sync:vitepress-public && vitepress preview docs",
-    "docs:update-package": "bunx vp-update",
-    "docs:fmt": "bunx prettier --check \"**/*.{js,json,md}\" --write # also in .github/workflows/format.yml"
+    "docs:update-package": "npx vp-update",
+    "docs:fmt": "prettier --write --check \"**/*.{js,json,md}\""
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-rc.23",
