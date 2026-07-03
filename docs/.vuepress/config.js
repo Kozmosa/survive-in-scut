@@ -356,19 +356,36 @@ export default defineUserConfig({
     },
   },
 
-  bundler: viteBundler(),
-  vite: {
-    resolve: {
-      alias: {
-        "@vueuse/core": "@vueuse/core", // 确保正确解析
+  bundler: viteBundler({
+    viteOptions: {
+      build: {
+        rollupOptions: {
+          onwarn(warning, warn) {
+            const warningId = warning.id?.replaceAll("\\", "/") ?? "";
+            const isPdfjsEvalWarning =
+              warning.code === "EVAL" &&
+              warningId.includes("node_modules/pdfjs-dist/legacy/build/pdf.js");
+
+            if (isPdfjsEvalWarning) {
+              return;
+            }
+
+            warn(warning);
+          },
+        },
       },
-      dedupe: [
-        // 确保所有 CodeMirror 依赖使用相同实例
-        "@codemirror/state",
-        "@codemirror/view",
-        "@codemirror/basic-setup",
-        "@codemirror/lang-markdown",
-      ],
+      resolve: {
+        alias: {
+          "@vueuse/core": "@vueuse/core", // 确保正确解析
+        },
+        dedupe: [
+          // 确保所有 CodeMirror 依赖使用相同实例
+          "@codemirror/state",
+          "@codemirror/view",
+          "@codemirror/basic-setup",
+          "@codemirror/lang-markdown",
+        ],
+      },
     },
-  },
+  }),
 });

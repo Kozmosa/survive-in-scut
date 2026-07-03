@@ -14,22 +14,32 @@
 </template>
 
 <script setup>
-import { computed, ref } from "vue";
-import galleryHtml from "./probability/gallerySource.html?raw";
+import { onMounted, ref } from "vue";
+import galleryHtmlUrl from "./probability/gallerySource.html?url";
 import { buildIntegratedGalleryHtml } from "./probability/galleryAdapter";
 
 const loaded = ref(false);
 const errorMessage = ref("");
+const gallerySrcDoc = ref("");
 
-const gallerySrcDoc = computed(() => {
-  if (!galleryHtml || typeof galleryHtml !== "string") {
+onMounted(async () => {
+  try {
+    const response = await fetch(galleryHtmlUrl);
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+    const galleryHtml = await response.text();
+    gallerySrcDoc.value = buildIntegratedGalleryHtml(galleryHtml);
+  } catch (error) {
+    console.error("[ProbabilityDistributionGallery] 加载资源失败", error);
     errorMessage.value = "概率论学习工具内容缺失，请检查资源文件后重试。";
-    return "";
   }
-  return buildIntegratedGalleryHtml(galleryHtml);
 });
 
 function handleLoaded() {
+  if (!gallerySrcDoc.value) {
+    return;
+  }
   loaded.value = true;
   try {
     errorMessage.value = "";
