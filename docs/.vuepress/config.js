@@ -364,9 +364,14 @@ export default defineUserConfig({
             const warningId = warning.id?.replaceAll("\\", "/") ?? "";
             const isPdfjsEvalWarning =
               warning.code === "EVAL" &&
-              warningId.includes("node_modules/pdfjs-dist/legacy/build/pdf.js");
+              warningId.includes(
+                "node_modules/pdfjs-dist/legacy/build/pdf.mjs",
+              );
+            const isVueusePureAnnotationWarning =
+              warning.code === "INVALID_ANNOTATION" &&
+              warningId.includes("node_modules/@vueuse/core/dist/index.js");
 
-            if (isPdfjsEvalWarning) {
+            if (isPdfjsEvalWarning || isVueusePureAnnotationWarning) {
               return;
             }
 

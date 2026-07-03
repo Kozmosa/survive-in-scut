@@ -92,8 +92,14 @@ const enNav = [
   {
     text: "Beyond",
     items: [
-      { text: "Mainland Grad School", link: "/en/beyond/mainland/unified_admission" },
-      { text: "Recommended Admission", link: "/en/beyond/mainland/recommend_graduate" },
+      {
+        text: "Mainland Grad School",
+        link: "/en/beyond/mainland/unified_admission",
+      },
+      {
+        text: "Recommended Admission",
+        link: "/en/beyond/mainland/recommend_graduate",
+      },
       { text: "Master Abroad", link: "/en/beyond/abroad/master" },
       { text: "PhD Abroad", link: "/en/beyond/abroad/phd" },
     ],
@@ -146,6 +152,24 @@ export default defineConfig({
   lang: "zh-CN",
   title: "华南理工生存手册",
   description: "你不为我而来，但我为你而写",
+  vite: {
+    build: {
+      rollupOptions: {
+        onwarn(warning, warn) {
+          const warningId = warning.id?.replaceAll("\\", "/") ?? "";
+          const isVueusePureAnnotationWarning =
+            warning.code === "INVALID_ANNOTATION" &&
+            warningId.includes("node_modules/@vueuse/core/dist/index.js");
+
+          if (isVueusePureAnnotationWarning) {
+            return;
+          }
+
+          warn(warning);
+        },
+      },
+    },
+  },
   cleanUrls: true,
   ignoreDeadLinks: true,
   lastUpdated: true,

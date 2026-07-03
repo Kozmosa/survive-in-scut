@@ -32,10 +32,10 @@ export default {
 
       try {
         // 动态导入 PDF.js
-        const pdfjs = await import("pdfjs-dist/legacy/build/pdf");
+        const pdfjs = await import("pdfjs-dist/legacy/build/pdf.mjs");
         // 设置 worker 路径
         const pdfjsWorker =
-          await import("pdfjs-dist/legacy/build/pdf.worker?url");
+          await import("pdfjs-dist/legacy/build/pdf.worker.mjs?url");
         pdfjs.GlobalWorkerOptions.workerSrc = pdfjsWorker.default;
 
         // 清空容器
