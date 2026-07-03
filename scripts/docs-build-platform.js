@@ -1,4 +1,4 @@
-import { cp, mkdir, readFile, rm, writeFile } from "node:fs/promises";
+import { cp, mkdir, readFile, rm, stat, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { spawn } from "node:child_process";
 
@@ -108,7 +108,10 @@ async function syncVitePublicDir(targetDocsDir) {
   const vitePublicDir = path.join(targetDocsDir, "public");
 
   try {
-    await readFile(path.join(vuePublicDir, "todo.json"));
+    const vuePublicStats = await stat(vuePublicDir);
+    if (!vuePublicStats.isDirectory()) {
+      return;
+    }
   } catch {
     return;
   }

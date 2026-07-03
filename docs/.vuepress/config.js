@@ -370,8 +370,13 @@ export default defineUserConfig({
             const isVueusePureAnnotationWarning =
               warning.code === "INVALID_ANNOTATION" &&
               warningId.includes("node_modules/@vueuse/core/dist/index.js");
+            const isPluginTimingsWarning = warning.code === "PLUGIN_TIMINGS";
 
             if (isPdfjsEvalWarning || isVueusePureAnnotationWarning) {
+              return;
+            }
+
+            if (isPluginTimingsWarning) {
               return;
             }
 
