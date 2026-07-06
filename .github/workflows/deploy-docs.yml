@@ -17,10 +17,16 @@ jobs:
         uses: actions/checkout@v7
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
           # 如果你文档需要 Git 子模块，取消注释下一行
           # submodules: true
 
       - uses: ./.github/actions/install-deps
+
+      - name: 配置 Git 用户
+        run: |-
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: 构建网站
         env:
@@ -28,6 +34,16 @@ jobs:
         run: |-
           npm run docs:build
           > docs/.vuepress/dist/.nojekyll
+
+      - name: 提交自动生成的 TODO
+        run: |-
+          git add docs/others/todo.md
+          if git diff --cached --quiet; then
+            echo "TODO files are already up to date."
+          else
+            git commit -m "chore: update generated todo [skip ci]"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
 
       - name: 部署网站
         uses: JamesIves/github-pages-deploy-action@v4

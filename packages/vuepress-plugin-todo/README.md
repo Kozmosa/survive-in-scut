@@ -33,6 +33,7 @@ export default defineUserConfig({
       todoKeywords: ["TODO", "FIXME"],
       fileExtensions: [".md", ".vue"],
       excludeDirs: ["node_modules", ".git", "dist"],
+      runOnBuildOnly: true,
       addToNavbar: true,
     }),
   ],
@@ -58,6 +59,7 @@ export default defineUserConfig({
 | `todoKeywords`   | `string[]` | `['TODO']`                         | 要搜索的TODO关键词   |
 | `fileExtensions` | `string[]` | `['.md', '.vue']`                  | 要扫描的文件扩展名   |
 | `excludeDirs`    | `string[]` | `['node_modules', '.git', 'dist']` | 要排除的目录         |
+| `runOnBuildOnly` | `boolean`  | `true`                             | 是否仅生产构建时生成 |
 | `addToNavbar`    | `boolean`  | `true`                             | 是否自动添加导航栏项 |
 
 ## 注意事项
