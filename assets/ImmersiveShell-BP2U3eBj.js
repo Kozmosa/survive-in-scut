@@ -1,1 +1,0 @@
-import{M as e,k as t,t as n,v as r}from"./app-Cu-WxhtI.js";var i={},a={class:`immersive-shell`};function o(n,i){return t(),r(`section`,a,[e(n.$slots,`default`,{},void 0,!0)])}var s=n(i,[[`render`,o],[`__scopeId`,`data-v-af3d12ff`]]);export{s as default};
