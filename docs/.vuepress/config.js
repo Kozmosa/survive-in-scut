@@ -177,7 +177,7 @@ export default defineUserConfig({
       {
         text: "立命",
         prefix: "/health/",
-        children: ["alive_first", "medical_care", "立志篇"],
+        children: ["alive_first", "medical_care", "freshman_guidance"],
       },
 
       {

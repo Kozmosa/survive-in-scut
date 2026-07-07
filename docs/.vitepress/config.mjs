@@ -50,7 +50,7 @@ const zhNav = [
     items: [
       { text: "先活下去", link: "/health/alive_first" },
       { text: "医疗须知", link: "/health/medical_care" },
-      { text: "立志篇", link: "/health/立志篇" },
+      { text: "立志篇", link: "/health/freshman_guidance" },
     ],
   },
   {
