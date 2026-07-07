@@ -141,6 +141,7 @@ export default defineUserConfig({
             text: "课内",
             prefix: "curricular/",
             children: [
+              "lessons",
               "common_basic_lessons",
               "majors",
               "exam",
@@ -176,7 +177,7 @@ export default defineUserConfig({
       {
         text: "立命",
         prefix: "/health/",
-        children: ["alive_first", "medical_care"],
+        children: ["alive_first", "medical_care", "立志篇"],
       },
 
       {
