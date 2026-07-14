@@ -156,5 +156,9 @@ docs/.vuepress/public/assets/app/release.json
 # Local macOS metadata
 .DS_Store
 
+# Local agent and temporary worktree state
+.playwright-cli/
+.worktrees/
+
 # Keep generated markdown todo page tracked
 !docs/others/todo.md
