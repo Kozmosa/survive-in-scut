@@ -14,40 +14,40 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
           # 如果你文档需要 Git 子模块，取消注释下一行
           # submodules: true
 
-      - name: 设置 Bun
-        uses: oven-sh/setup-bun@v1
-        with:
-          bun-version: latest  # 可以指定具体版本如 1.0.0
+      - uses: ./.github/actions/install-deps
 
-      - name: 缓存依赖
-        uses: actions/cache@v3
-        with:
-          path: |
-            .bun
-            node_modules
-          key: ${{ runner.os }}-bun-${{ hashFiles('**/bun.lockb') }}
-          restore-keys: |
-            ${{ runner.os }}-bun-
-
-      - name: 安装依赖
-        run: bun install
+      - name: 配置 Git 用户
+        run: |-
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: 构建网站
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
-          bun run docs:build
-          > docs/.vuepress/dist/.nojekyll
-          
+          npm run docs:build
+          touch docs/.vitepress/dist/.nojekyll
+
+      - name: 提交自动生成的 TODO
+        run: |-
+          git add docs/others/todo.md
+          if git diff --cached --quiet; then
+            echo "TODO files are already up to date."
+          else
+            git commit -m "chore: update generated todo [skip ci]"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
+
       - name: 部署网站
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           # 这是文档部署到的分支名称
           branch: gh-pages
-          folder: docs/.vuepress/dist
+          folder: docs/.vitepress/dist

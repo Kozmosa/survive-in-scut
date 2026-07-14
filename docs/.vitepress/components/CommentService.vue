@@ -5,26 +5,42 @@
 </template>
 
 <script setup lang="ts">
-import { onMounted, onBeforeUnmount, ref } from 'vue'
-import { init } from '@waline/client'
-import '@waline/client/style'
+import { onBeforeUnmount, onMounted, ref, watch } from "vue";
+import { useData, useRoute } from "vitepress";
+import { init, type WalineInstance } from "@waline/client";
+import "@waline/client/style";
 
-const container = ref<HTMLElement | null>(null)
-let destroy: (() => void) | undefined
+const container = ref<HTMLElement | null>(null);
+const { lang } = useData();
+const route = useRoute();
+let waline: WalineInstance | null = null;
+
+const commentLanguage = () =>
+  lang.value ||
+  (typeof navigator === "undefined" ? "zh-CN" : navigator.language);
 
 onMounted(() => {
-  if (!container.value) return
-  destroy = init({
+  if (!container.value) return;
+  waline = init({
     el: container.value,
-    serverURL: 'https://scut-waline.vercel.app/',
-    lang: 'zh-CN',
+    serverURL: "https://scut-waline.vercel.app/",
+    path: route.path,
+    lang: commentLanguage(),
     reaction: true,
-  })
-})
+  });
+});
+
+watch([() => route.path, lang], () => {
+  waline?.update({
+    path: route.path,
+    lang: commentLanguage(),
+  });
+});
 
 onBeforeUnmount(() => {
-  if (destroy) destroy()
-})
+  waline?.destroy();
+  waline = null;
+});
 </script>
 
 <style scoped>

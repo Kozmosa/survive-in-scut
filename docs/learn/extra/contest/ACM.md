@@ -4,7 +4,7 @@ title: ACM程序设计竞赛
 description: ACM程序设计竞赛（ACM-XCPC）简介及参赛指南，涵盖集训队招新、训练安排、比赛规则等内容
 ---
 
-#  ACM 竞赛介绍
+# ACM 竞赛介绍
 
 ## 简介
 
@@ -46,14 +46,14 @@ ACM国际大学生程序设计竞赛（ACM International Collegiate Programming 
 
 提交的代码也有以下几种运行结果：
 
-| 结果缩写 | 全称                    | 含义   |
-| ---- | --------------------- | ---- |
-| AC   | Accept                | 运行通过 |
-| WA   | Wrong Answer          | 答案错误 |
-| CE   | Compile Error         | 编译错误 |
-| TLE  | Time Limit Exceeded   | 时间超限 |
-| MLE  | Memory Limit Exceeded | 内存超限 |
-| PE   | Presentation Error    | 格式错误 |
+| 结果缩写 | 全称                  | 含义     |
+| -------- | --------------------- | -------- |
+| AC       | Accept                | 运行通过 |
+| WA       | Wrong Answer          | 答案错误 |
+| CE       | Compile Error         | 编译错误 |
+| TLE      | Time Limit Exceeded   | 时间超限 |
+| MLE      | Memory Limit Exceeded | 内存超限 |
+| PE       | Presentation Error    | 格式错误 |
 
 > ⚠️ 只有 **AC** 才是通过题目，其他运行结果都代表代码有问题。
 
@@ -103,11 +103,11 @@ ACM国际大学生程序设计竞赛（ACM International Collegiate Programming 
 
 ### 比赛时间
 
-| 赛事 | 时间安排 |
-|------|----------|
-| ICPC / CCPC | 一般为每年秋季学期举办 |
-| GDCPC | 省内赛通常安排在春季学期 |
-| 蓝桥杯 | 初赛在春季，决赛在夏季 |
+| 赛事        | 时间安排                 |
+| ----------- | ------------------------ |
+| ICPC / CCPC | 一般为每年秋季学期举办   |
+| GDCPC       | 省内赛通常安排在春季学期 |
+| 蓝桥杯      | 初赛在春季，决赛在夏季   |
 
 ---
 
@@ -178,10 +178,9 @@ ACM国际大学生程序设计竞赛（ACM International Collegiate Programming 
 
 - 《深入浅出程序设计竞赛》（洛谷出版）
 - 《算法竞赛入门经典》（刘汝佳著）
-![深入浅出程序设计竞赛](./ACM/深入浅出程序设计竞赛.jpg)
+  ![深入浅出程序设计竞赛](./ACM/深入浅出程序设计竞赛.jpg)
 
 ![算法竞赛入门经典](./ACM/算法竞赛入门经典.jpg)
-
 
 ### 提升方向
 

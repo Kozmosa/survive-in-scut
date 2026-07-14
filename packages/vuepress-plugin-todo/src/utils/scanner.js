@@ -1,5 +1,5 @@
-import fs from 'fs';
-import path from 'path';
+import fs from "fs";
+import path from "path";
 
 /**
  * 扫描目录中的TODO注释
@@ -8,23 +8,76 @@ import path from 'path';
  * @returns {Array} 找到的TODO项列表
  */
 export function scanDirectory(directory, options) {
-  const { todoKeywords, fileExtensions, excludeDirs } = options;
+  const {
+    todoKeywords,
+    fileExtensions,
+    excludeDirs,
+    ignoredFiles = [],
+  } = options;
   const todoList = [];
-  
+  const ignoredRelativePaths = new Set(ignoredFiles);
+
+  function matchesTodoLine(line, keyword) {
+    const trimmed = line.trimStart();
+    const candidates = [
+      `${keyword}:`,
+      `${keyword} `,
+      `// ${keyword}:`,
+      `// ${keyword} `,
+      `/* ${keyword}:`,
+      `/* ${keyword} `,
+      `* ${keyword}:`,
+      `* ${keyword} `,
+      `<!-- ${keyword}:`,
+      `<!-- ${keyword} `,
+      `- ${keyword}:`,
+      `- ${keyword} `,
+      `* ${keyword}:`,
+      `* ${keyword} `,
+      `+ ${keyword}:`,
+      `+ ${keyword} `,
+      `> ${keyword}:`,
+      `> ${keyword} `,
+    ];
+    return candidates.some((candidate) => trimmed.startsWith(candidate));
+  }
+
+  function normalizeRelativePath(fullPath) {
+    return path.relative(directory, fullPath).replace(/\\/g, "/");
+  }
+
+  function shouldExcludePath(fullPath) {
+    const relativePath = normalizeRelativePath(fullPath);
+    if (ignoredRelativePaths.has(relativePath)) {
+      return true;
+    }
+
+    return excludeDirs.some((excludeDir) => {
+      const normalizedDir = String(excludeDir || "")
+        .replace(/\\/g, "/")
+        .replace(/^\.\//, "")
+        .replace(/\/$/, "");
+      return (
+        normalizedDir &&
+        (relativePath === normalizedDir ||
+          relativePath.startsWith(`${normalizedDir}/`))
+      );
+    });
+  }
+
   function scan(dir) {
     try {
       const files = fs.readdirSync(dir);
       files.forEach((file) => {
         const fullPath = path.join(dir, file);
-        
-        // 检查是否为排除目录
-        if (excludeDirs.some(excludeDir => fullPath.includes(excludeDir))) {
+
+        if (shouldExcludePath(fullPath)) {
           return;
         }
-        
+
         if (fs.statSync(fullPath).isDirectory()) {
           scan(fullPath);
-        } else if (fileExtensions.some(ext => file.endsWith(ext))) {
+        } else if (fileExtensions.some((ext) => file.endsWith(ext))) {
           scanFile(fullPath, directory);
         }
       });
@@ -32,21 +85,21 @@ export function scanDirectory(directory, options) {
       console.error(`[Todo Collector] 扫描目录错误 ${dir}: ${err.message}`);
     }
   }
-  
+
   function scanFile(filePath, sourceDir) {
     try {
-      const content = fs.readFileSync(filePath, 'utf-8');
-      const relativePath = path.relative(sourceDir, filePath);
-      
-      content.split('\n').forEach((line, index) => {
+      const content = fs.readFileSync(filePath, "utf-8");
+      const relativePath = normalizeRelativePath(filePath);
+
+      content.split("\n").forEach((line, index) => {
         // 检查是否包含TODO关键词
         for (const keyword of todoKeywords) {
-          if (line.includes(keyword + ':') || line.includes(keyword + ' ')) {
+          if (matchesTodoLine(line, keyword)) {
             const todoText = line.trim();
             const todoItem = {
               file: relativePath,
               line: index + 1,
-              text: todoText
+              text: todoText,
             };
             todoList.push(todoItem);
             break;
@@ -54,10 +107,12 @@ export function scanDirectory(directory, options) {
         }
       });
     } catch (err) {
-      console.error(`[Todo Collector] 读取文件错误 ${filePath}: ${err.message}`);
+      console.error(
+        `[Todo Collector] 读取文件错误 ${filePath}: ${err.message}`,
+      );
     }
   }
-  
+
   scan(directory);
   return todoList;
 }

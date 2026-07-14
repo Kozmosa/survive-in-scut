@@ -5,7 +5,7 @@ hero:
   name: Survive in SCUT
   text: You did not come for me, but I wrote for you
   image:
-    src: /root-assets/scut-logo.png
+    src: /root-assets/scut-logo.svg
     alt: SCUT Logo
   actions:
     - theme: brand

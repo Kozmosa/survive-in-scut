@@ -1,0 +1,14 @@
+name: Format Check
+on: [push, pull_request]
+
+jobs:
+  check-format:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - uses: ./.github/actions/install-deps
+
+      - name: Check Formatting with auto fixing
+        run: npm run docs:fmt

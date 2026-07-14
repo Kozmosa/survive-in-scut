@@ -1,26 +1,38 @@
-import {
-  defineWalineConfig,
-} from '@vuepress/plugin-comment/client'
-import { defineClientConfig } from 'vuepress/client'
-import Layout from './layouts/Layout.vue'
-import MarkdownEditor from './components/MarkdownEditor.vue'
-import ExpandableCard from './components/ExpandableCard.vue'
-
-// 定义Waline评论配置
-const walineComment = defineWalineConfig({
-  serverURL: 'https://scut-waline.vercel.app/'
-})
+import { defineClientConfig } from "vuepress/client";
+import { defineAsyncComponent } from "vue";
+import Layout from "./layouts/Layout.vue";
 
 // 导出合并后的客户端配置
 export default defineClientConfig({
   layouts: {
     Layout,
   },
-  // 注册评论插件
-  enhance: ({ app, router, siteData }) => {
-    // 注册Waline评论组件
-    app.use(walineComment),
-    app.component('MarkdownEditor', MarkdownEditor),
-    app.component('ExpandableCard', ExpandableCard)
+  enhance: ({ app }) => {
+    app.component(
+      "MarkdownEditor",
+      defineAsyncComponent(() => import("./components/MarkdownEditor.vue")),
+    );
+    app.component(
+      "ExpandableCard",
+      defineAsyncComponent(() => import("./components/ExpandableCard.vue")),
+    );
+    app.component(
+      "ContributorsList",
+      defineAsyncComponent(() => import("./components/ContributorsList.vue")),
+    );
+    app.component(
+      "AppLanding",
+      defineAsyncComponent(() => import("./components/AppLanding.vue")),
+    );
+    app.component(
+      "ProbabilityDistributionGallery",
+      defineAsyncComponent(
+        () => import("./components/ProbabilityDistributionGallery.vue"),
+      ),
+    );
+    app.component(
+      "ImmersiveShell",
+      defineAsyncComponent(() => import("./components/ImmersiveShell.vue")),
+    );
   },
-})
+});

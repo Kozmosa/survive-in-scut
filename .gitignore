@@ -129,5 +129,32 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# vitepress cache dir
-cache
+# Local agent instructions
+AGENTS.md
+
+# Non-primary package manager lockfiles
+bun.lock
+
+# Platform build outputs
+vue-platform-dist/
+vite-platform-dist/
+
+# VitePress cache artifacts
+docs/.vitepress/cache/
+
+# Generated VitePress public mirror
+/docs/public/
+
+# Temporary platform build workspace
+.platform-build-tmp-*/
+
+# Generated public JSON artifacts
+docs/.vuepress/public/todo.json
+docs/.vuepress/public/contributors.json
+docs/.vuepress/public/assets/app/release.json
+
+# Local macOS metadata
+.DS_Store
+
+# Keep generated markdown todo page tracked
+!docs/others/todo.md
