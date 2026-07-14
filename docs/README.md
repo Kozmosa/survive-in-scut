@@ -5,8 +5,8 @@ hero:
   name: 华南理工生存手册
   text: 你不为我而来，但我为你而写
   image:
-    src: /root-assets/scut-logo.svg
-    alt: SCUT Logo
+    src: /root-assets/logo/scut-paru-3.jpg
+    alt: SCUT Paru mascot illustration
   actions:
     - theme: brand
       text: 启程

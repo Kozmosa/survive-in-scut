@@ -5,8 +5,8 @@ hero:
   name: Survive in SCUT
   text: You did not come for me, but I wrote for you
   image:
-    src: /root-assets/scut-logo.svg
-    alt: SCUT Logo
+    src: /root-assets/logo/scut-paru-3.jpg
+    alt: SCUT Paru mascot illustration
   actions:
     - theme: brand
       text: Get Started
