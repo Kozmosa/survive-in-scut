@@ -31,7 +31,14 @@ const zhNav = [
       { text: "专业学习", link: "/learn/curricular/majors" },
       { text: "考试", link: "/learn/curricular/exam" },
       { text: "GPA", link: "/learn/curricular/gpa" },
-      { text: "转专业", link: "/learn/curricular/transfer_major" },
+      {
+        text: "转专业",
+        items: [
+          { text: "总览", link: "/learn/curricular/transfer_major" },
+          { text: "快速认知", link: "/learn/curricular/transfer_major_quick" },
+          { text: "2024版指南", link: "/learn/curricular/transfer_major_2024" },
+        ],
+      },
       { text: "SRP", link: "/learn/extra/srp" },
       { text: "竞赛", link: "/learn/extra/contest" },
     ],
