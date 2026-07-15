@@ -36,6 +36,10 @@ const zhNav = [
         items: [
           { text: "总览", link: "/learn/curricular/transfer_major" },
           { text: "快速认知", link: "/learn/curricular/transfer_major_quick" },
+          {
+            text: "转电气经验分享",
+            link: "/learn/curricular/transfer_major_electrical_2026",
+          },
           { text: "2024版指南", link: "/learn/curricular/transfer_major_2024" },
         ],
       },
@@ -141,6 +145,49 @@ function createThemeConfig({
   return {
     logo: "/root-assets/logo/scut-cat-1.jpg",
     nav,
+    sidebar: {
+      "/learn/curricular/": [
+        {
+          text: "课内",
+          items: [
+            { text: "课程性质介绍", link: "/learn/curricular/lessons" },
+            {
+              text: "公共基础课",
+              link: "/learn/curricular/common_basic_lessons",
+            },
+            { text: "专业学习", link: "/learn/curricular/majors" },
+            { text: "考试", link: "/learn/curricular/exam" },
+            { text: "GPA", link: "/learn/curricular/gpa" },
+            {
+              text: "转专业",
+              collapsed: false,
+              items: [
+                { text: "总览", link: "/learn/curricular/transfer_major" },
+                {
+                  text: "快速认知",
+                  link: "/learn/curricular/transfer_major_quick",
+                },
+                {
+                  text: "转电气经验分享（2026）",
+                  link: "/learn/curricular/transfer_major_electrical_2026",
+                },
+                {
+                  text: "2024版指南",
+                  link: "/learn/curricular/transfer_major_2024",
+                },
+              ],
+            },
+          ],
+        },
+        {
+          text: "课外",
+          items: [
+            { text: "SRP", link: "/learn/extra/srp" },
+            { text: "竞赛", link: "/learn/extra/contest" },
+          ],
+        },
+      ],
+    },
     search: {
       provider: "local",
     },
