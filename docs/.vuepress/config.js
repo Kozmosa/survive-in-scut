@@ -146,22 +146,7 @@ export default defineUserConfig({
               "majors",
               "exam",
               "gpa",
-              {
-                text: "转专业总览",
-                link: "/learn/curricular/transfer_major",
-              },
-              {
-                text: "转专业快速认知",
-                link: "/learn/curricular/transfer_major_quick",
-              },
-              {
-                text: "转电气经验分享",
-                link: "/learn/curricular/transfer_major_electrical_2026",
-              },
-              {
-                text: "转专业2024指南",
-                link: "/learn/curricular/transfer_major_2024",
-              },
+              "transfer_major",
             ],
           },
           {

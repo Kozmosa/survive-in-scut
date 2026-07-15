@@ -161,8 +161,7 @@ PPT 建议包含以下模块：
 
 - [转专业总览](/learn/curricular/transfer_major)
 - [华工转专业的快速认知](/learn/curricular/transfer_major_quick)
-- [电气工程资料包](/assets/transfer_major/ElectricalEngineering_2026/)（含面试 PPT 源文件、面试问题清单等）
 
 ## 六、附：面试 PPT 预览
 
-<PdfViewer src="/assets/transfer_major/ElectricalEngineering_2026/转专业PPT（和谐版）.pdf" />
+<PdfViewer src="/root-assets/transfer_major/ElectricalEngineering_2026/转专业PPT（和谐版）.pdf" />
