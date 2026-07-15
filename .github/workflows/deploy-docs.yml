@@ -35,15 +35,6 @@ jobs:
           npm run docs:build
           > docs/.vuepress/dist/.nojekyll
 
-      - name: 提交自动生成的 TODO
-        run: |-
-          git add docs/others/todo.md
-          if git diff --cached --quiet; then
-            echo "TODO files are already up to date."
-          else
-            git commit -m "chore: update generated todo [skip ci]"
-            git push origin HEAD:${{ github.ref_name }}
-          fi
 
       - name: 部署网站
         uses: JamesIves/github-pages-deploy-action@v4

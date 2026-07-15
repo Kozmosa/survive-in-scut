@@ -50,6 +50,7 @@ export default defineUserConfig({
     readingTimePlugin(),
     commentPlugin({
       provider: "Waline",
+      metaIcon: false,
     }),
     pdfviewer,
     todoCollector({
