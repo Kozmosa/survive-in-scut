@@ -26,6 +26,7 @@ const zhNav = [
   {
     text: "学习",
     items: [
+      { text: "课程性质介绍", link: "/learn/curricular/lessons" },
       { text: "公共基础课", link: "/learn/curricular/common_basic_lessons" },
       { text: "专业学习", link: "/learn/curricular/majors" },
       { text: "考试", link: "/learn/curricular/exam" },
@@ -42,6 +43,14 @@ const zhNav = [
       { text: "考研", link: "/beyond/mainland/unified_admission" },
       { text: "境外硕士", link: "/beyond/abroad/master" },
       { text: "境外博士", link: "/beyond/abroad/phd" },
+    ],
+  },
+  {
+    text: "立命",
+    items: [
+      { text: "先活下去", link: "/health/alive_first" },
+      { text: "医疗须知", link: "/health/medical_care" },
+      { text: "立志篇", link: "/health/freshman_guidance" },
     ],
   },
   {

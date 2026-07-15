@@ -6,9 +6,9 @@ description: 项目中的 TODO 列表汇总
 
 # TODO 汇总
 
-> 最后更新时间: 2026-07-14 17:35:41
+> 最后更新时间: 2026-07-15 16:12:47
 
-共找到 37 个 TODO 项
+共找到 35 个 TODO 项
 
 ## beyond/abroad/phd.md
 
@@ -116,16 +116,6 @@ description: 项目中的 TODO 列表汇总
 
 - **第 9 行**: TODO: 华南理工大学与考试相关的规章制度，及应对考试可供参考的一些告诫
   - [查看源文件](/learn/curricular/exam.md)
-
-## learn/curricular/gpa.md
-
-- **第 9 行**: TODO: 什么是GPA，如何提高GPA，GPA有什么用，GPA要多少才够
-  - [查看源文件](/learn/curricular/gpa.md)
-
-## learn/curricular/lessons.md
-
-- **第 7 行**: TODO: 介绍华南理工大学的各类课程与各专业的培养方案
-  - [查看源文件](/learn/curricular/lessons.md)
 
 ## learn/curricular/majors.md
 
