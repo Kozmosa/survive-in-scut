@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T17:35:41.223Z",
-  "total": 37,
+  "generatedAt": "2026-07-15T16:17:11.286Z",
+  "total": 35,
   "items": [
     {
       "file": "beyond/abroad/phd.md",
@@ -126,16 +126,6 @@
       "file": "learn/curricular/exam.md",
       "line": 9,
       "text": "TODO: 华南理工大学与考试相关的规章制度，及应对考试可供参考的一些告诫"
-    },
-    {
-      "file": "learn/curricular/gpa.md",
-      "line": 9,
-      "text": "TODO: 什么是GPA，如何提高GPA，GPA有什么用，GPA要多少才够"
-    },
-    {
-      "file": "learn/curricular/lessons.md",
-      "line": 7,
-      "text": "TODO: 介绍华南理工大学的各类课程与各专业的培养方案"
     },
     {
       "file": "learn/curricular/majors.md",
