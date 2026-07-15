@@ -1,0 +1,1 @@
+import{A as e,N as t,t as n,y as r}from"./app-Dc13F_-U.js";var i={},a={class:`immersive-shell`};function o(n,i){return e(),r(`section`,a,[t(n.$slots,`default`,{},void 0,!0)])}var s=n(i,[[`render`,o],[`__scopeId`,`data-v-af3d12ff`]]);export{s as default};
