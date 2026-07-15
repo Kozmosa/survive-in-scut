@@ -164,5 +164,5 @@ PPT 建议包含以下模块：
 
 ## 六、附：面试 PPT 预览
 
-<iframe src="/root-assets/transfer_major/ElectricalEngineering_2026/presentation.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;"></iframe>
-[下载 PPT 源文件](/root-assets/transfer_major/ElectricalEngineering_2026/presentation.pptx)
+<PdfViewer src="/root-assets/transfer_major/ElectricalEngineering_2026/presentation.pdf" />
+<p><a href="/root-assets/transfer_major/ElectricalEngineering_2026/presentation.pptx">下载 PPT 源文件</a></p>

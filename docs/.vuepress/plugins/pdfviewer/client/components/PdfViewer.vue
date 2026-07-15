@@ -44,7 +44,7 @@ export default {
         }
 
         // 加载 PDF
-        const pdf = await pdfjs.getDocument(props.src).promise;
+        const pdf = await pdfjs.getDocument({ url: props.src }).promise;
 
         // 渲染每一页
         for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
