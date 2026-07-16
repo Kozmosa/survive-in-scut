@@ -69,7 +69,7 @@ const emit = defineEmits(["update:content"]);
 
 const markdownContent = ref(props.content);
 const parsedMarkdown = ref("");
-const currentView = (ref < "editor") | "preview" | ("split" > "split");
+const currentView = ref("split");
 
 marked.setOptions({
   highlight: (code, lang) => {

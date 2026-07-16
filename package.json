@@ -29,8 +29,9 @@
   "dependencies": {
     "@waline/client": "^3.5.7",
     "dompurify": "^3.2.6",
-    "pdfjs-dist": "^6.1.200",
-    "marked": "^15.0.12"
+    "highlight.js": "^11.11.1",
+    "marked": "^15.0.12",
+    "pdfjs-dist": "^6.1.200"
   },
   "allowScripts": {
     "simple-git-hooks@2.13.1": true
