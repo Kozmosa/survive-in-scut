@@ -17,7 +17,6 @@ const EXCLUDED_DIRECTORIES = new Set([
   "dist",
   "node_modules",
   "public",
-  "en",
 ]);
 
 export default function contributorsCollector(): Plugin {
@@ -25,9 +24,7 @@ export default function contributorsCollector(): Plugin {
 
   const generate = () => {
     const repoRoot = path.resolve(sourceDir, "..");
-
-    // Flat contributor list (all unique names)
-    const allContributors = Array.from(
+    const contributors = Array.from(
       new Set(
         [
           ...collectGitContributors(repoRoot),
@@ -40,25 +37,6 @@ export default function contributorsCollector(): Plugin {
       left.localeCompare(right, "zh-Hans-CN", { sensitivity: "base" }),
     );
 
-    // Per-file contributor map
-    const fileAuthorMap = collectFileAuthors(sourceDir);
-    const fileGitMap = collectFileGitContributors(repoRoot, sourceDir);
-    const fileMap: Record<string, string[]> = {};
-
-    for (const [relPath, author] of fileAuthorMap) {
-      fileMap[relPath] = [author];
-    }
-    for (const [relPath, gitNames] of fileGitMap) {
-      const normalized = gitNames
-        .map((n) => CONTRIBUTOR_ALIASES[n] || n)
-        .filter((n) => !fileMap[relPath]?.includes(n));
-      if (fileMap[relPath]) {
-        fileMap[relPath].push(...normalized);
-      } else if (normalized.length > 0) {
-        fileMap[relPath] = normalized;
-      }
-    }
-
     const outputPath = path.join(sourceDir, "public", "contributors.json");
     mkdirSync(path.dirname(outputPath), { recursive: true });
     writeFileSync(
@@ -66,9 +44,8 @@ export default function contributorsCollector(): Plugin {
       `${JSON.stringify(
         {
           generatedAt: new Date().toISOString(),
-          total: allContributors.length,
-          items: allContributors,
-          fileMap,
+          total: contributors.length,
+          items: contributors,
         },
         null,
         2,
@@ -134,86 +111,6 @@ function collectMarkdownAuthors(directory: string): string[] {
   }
 
   return authors;
-}
-
-function collectFileAuthors(sourceDir: string): Map<string, string> {
-  const result = new Map<string, string>();
-  const entries = readdirSync(sourceDir, { withFileTypes: true });
-
-  for (const entry of entries) {
-    if (EXCLUDED_DIRECTORIES.has(entry.name)) continue;
-
-    const filePath = path.join(sourceDir, entry.name);
-    if (entry.isDirectory()) {
-      for (const [subPath, author] of collectFileAuthors(filePath)) {
-        result.set(subPath, author);
-      }
-      continue;
-    }
-
-    if (!entry.isFile() || !entry.name.endsWith(".md")) continue;
-
-    const author = readFrontmatterAuthor(readFileSync(filePath, "utf8"));
-    if (author) {
-      const relPath = path.relative(sourceDir, filePath).replace(/\\/g, "/");
-      result.set(relPath, author);
-    }
-  }
-
-  return result;
-}
-
-function collectFileGitContributors(
-  repoRoot: string,
-  sourceDir: string,
-): Map<string, string[]> {
-  const result = new Map<string, string[]>();
-
-  const walk = (dir: string) => {
-    const entries = readdirSync(dir, { withFileTypes: true });
-    for (const entry of entries) {
-      if (EXCLUDED_DIRECTORIES.has(entry.name)) continue;
-
-      const filePath = path.join(dir, entry.name);
-      if (entry.isDirectory()) {
-        walk(filePath);
-        continue;
-      }
-
-      if (!entry.isFile() || !entry.name.endsWith(".md")) continue;
-
-      const relPath = path.relative(sourceDir, filePath).replace(/\\/g, "/");
-      try {
-        const output = execFileSync(
-          "git",
-          ["log", "--format=%aN", "--follow", "--", filePath],
-          {
-            cwd: repoRoot,
-            encoding: "utf8",
-            stdio: ["ignore", "pipe", "pipe"],
-          },
-        );
-        const names = [
-          ...new Set(
-            output
-              .split(/\r?\n/)
-              .map((n) => n.trim())
-              .filter(Boolean),
-          ),
-        ];
-        if (names.length > 0) {
-          if (!result.has(relPath)) {
-            result.set(relPath, names);
-          }
-        }
-      } catch {
-        // skip files without git history
-      }
-    }
-  };
-
-  walk(sourceDir);
-  return result;
 }
 
 function readFrontmatterAuthor(content: string) {
