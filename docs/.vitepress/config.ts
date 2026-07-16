@@ -69,6 +69,7 @@ const navZh = [
       {
         text: "课内",
         items: [
+          { text: "课程性质", link: "/learn/curricular/lessons" },
           {
             text: "公共基础课",
             link: "/learn/curricular/common_basic_lessons",
@@ -116,6 +117,7 @@ const navZh = [
     text: "立命",
     items: [
       { text: "先活下去再说", link: "/health/alive_first" },
+      { text: "立志篇", link: "/health/freshman_guidance" },
       { text: "就医指南", link: "/health/medical_care" },
     ],
   },

@@ -5,7 +5,7 @@ outline: [2, 3]
 
 # TODO 汇总
 
-> 最后更新时间: 2026-07-16 14:03:29 (UTC+8)
+> 最后更新时间: 2026-07-16 15:19:09 (UTC+8)
 
 共找到 36 个 TODO 项
 
@@ -96,6 +96,11 @@ outline: [2, 3]
 
 - **第 7 行**: TODO: 五山校区周边去处的简介页面
   - [查看源文件](/infra/wushan/nearby.md)
+
+## introduction.md
+
+- **第 46 行**: - 阅读[贡献指南](/others/contributing.html)与[TODO 汇总](/others/todo.html)，认领尚未完善的内容。
+  - [查看源文件](/introduction.md)
 
 ## learn/curricular/common_basic_lessons.md
 
