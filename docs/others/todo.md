@@ -5,9 +5,9 @@ outline: [2, 3]
 
 # TODO 汇总
 
-> 最后更新时间: 2026-07-14 17:37:47 (UTC+8)
+> 最后更新时间: 2026-07-16 12:14:01 (UTC+8)
 
-共找到 39 个 TODO 项
+共找到 36 个 TODO 项
 
 ## beyond/abroad/phd.md
 
@@ -116,16 +116,6 @@ outline: [2, 3]
 - **第 9 行**: TODO: 华南理工大学与考试相关的规章制度，及应对考试可供参考的一些告诫
   - [查看源文件](/learn/curricular/exam.md)
 
-## learn/curricular/gpa.md
-
-- **第 9 行**: TODO: 什么是GPA，如何提高GPA，GPA有什么用，GPA要多少才够
-  - [查看源文件](/learn/curricular/gpa.md)
-
-## learn/curricular/lessons.md
-
-- **第 7 行**: TODO: 介绍华南理工大学的各类课程与各专业的培养方案
-  - [查看源文件](/learn/curricular/lessons.md)
-
 ## learn/curricular/majors.md
 
 - **第 11 行**: TODO: 其他学院的专业学习攻略
@@ -168,8 +158,3 @@ outline: [2, 3]
   - [查看源文件](/others/contributing.md)
 - **第 176 行**: TODO: 建立年度更新流程（迎新、校巴、地图、转专业、校医院、周边信息等高时效页面每学年至少核对一次）。
   - [查看源文件](/others/contributing.md)
-
-## others/roadmap.md
-
-- **第 20 行**: 请先浏览 [TODO 汇总](/others/todo)，选择一项可完成的工作；随后参照[贡献指南](/others/contributing)提交 PR 或反馈。
-  - [查看源文件](/others/roadmap.md)

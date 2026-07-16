@@ -60,13 +60,12 @@ const apkUrl = computed(() => {
     return apkAsset;
   }
 
-  if (Array.isArray(apkAsset)) {
-    return pickPreferredApkUrl(apkAsset);
-  }
-
   const apkCandidates = releaseData.value?.latest?.assets?.apk_candidates;
   if (Array.isArray(apkCandidates) && apkCandidates.length > 0) {
-    return pickPreferredApkUrl(apkCandidates);
+    const firstCandidate = apkCandidates.find(
+      (item) => item && typeof item.url === "string" && item.url.trim(),
+    );
+    return firstCandidate?.url || "";
   }
 
   return "";
@@ -109,7 +108,7 @@ function detectRecommendedPlatform() {
 
 async function fetchReleaseData() {
   try {
-    const response = await fetch("/root-assets/versions.json", {
+    const response = await fetch("/assets/app/release.json", {
       cache: "no-store",
     });
     if (!response.ok) {
@@ -120,22 +119,6 @@ async function fetchReleaseData() {
     console.error("[AppLanding] 获取版本信息失败", err);
     return null;
   }
-}
-
-function pickPreferredApkUrl(candidates) {
-  const preferredSources = ["r2", "github"];
-  const normalizedCandidates = candidates.filter(
-    (item) => item && typeof item.url === "string" && item.url.trim(),
-  );
-
-  for (const source of preferredSources) {
-    const candidate = normalizedCandidates.find(
-      (item) => String(item.source || "").toLowerCase() === source,
-    );
-    if (candidate) return candidate.url;
-  }
-
-  return normalizedCandidates[0]?.url || "";
 }
 
 function handlePlatformAction(platform) {

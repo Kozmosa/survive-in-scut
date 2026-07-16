@@ -319,6 +319,9 @@ export default defineConfig({
     optimizeDeps: {
       include: ["pdfjs-dist"],
     },
+    ssr: {
+      external: ["pdfjs-dist"],
+    },
   },
   ignoreDeadLinks: false,
 });

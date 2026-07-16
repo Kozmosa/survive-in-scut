@@ -1,140 +1,317 @@
 <template>
   <div class="pdf-container">
-    <div ref="pdfContainer" class="pdf-content"></div>
-    <div v-if="loading" class="pdf-loading">加载中...</div>
-    <div v-if="error" class="pdf-error">{{ error }}</div>
+    <div v-if="loading" class="pdf-status">加载中…</div>
+    <div v-if="error" class="pdf-status pdf-error">{{ error }}</div>
+
+    <template v-if="pdfLoaded">
+      <div class="pdf-toolbar">
+        <button class="pdf-btn" @click="prevPage" :disabled="currentPage <= 1" title="上一页 (←)">‹</button>
+        <span class="pdf-page-indicator">
+          <input
+            class="pdf-page-input"
+            type="number"
+            :value="currentPage"
+            @change="handlePageInput"
+            @keydown.enter="handlePageInput"
+            :min="1"
+            :max="numPages"
+          />
+          <span class="pdf-page-sep">/</span>
+          <span class="pdf-page-total">{{ numPages }}</span>
+        </span>
+        <button class="pdf-btn" @click="nextPage" :disabled="currentPage >= numPages" title="下一页 (→)">›</button>
+
+        <span class="pdf-toolbar-sep">|</span>
+
+        <button class="pdf-btn" @click="zoomOut" :disabled="scale <= 0.25" title="缩小">−</button>
+        <span class="pdf-zoom-text">{{ zoomPercent }}%</span>
+        <button class="pdf-btn" @click="zoomIn" :disabled="scale >= 3" title="放大">+</button>
+        <button class="pdf-btn" @click="fitToWidth" title="适应宽度">⊡</button>
+      </div>
+
+      <div class="pdf-viewer-area" ref="viewerArea">
+        <canvas ref="canvas" class="pdf-page"></canvas>
+      </div>
+    </template>
   </div>
 </template>
 
 <script setup lang="ts">
-import { ref, onMounted, watch, onBeforeUnmount } from 'vue'
-import workerSrc from 'pdfjs-dist/build/pdf.worker.min.js?url'
+import { ref, computed, onMounted, onBeforeUnmount, watch, nextTick } from "vue";
+import workerUrl from "pdfjs-dist/build/pdf.worker.min.mjs?url";
 
 const props = defineProps({
-  src: {
-    type: String,
-    required: true,
-  },
-  scale: {
-    type: Number,
-    default: 1.5,
-  },
-})
+  src: { type: String, required: true },
+  scale: { type: Number, default: 1.0 },
+});
 
-const pdfContainer = ref<HTMLElement | null>(null)
-const loading = ref(true)
-const error = ref('')
-let cancelled = false
+const canvas = ref<HTMLCanvasElement | null>(null);
+const viewerArea = ref<HTMLElement | null>(null);
+const loading = ref(true);
+const error = ref("");
+const pdfLoaded = ref(false);
 
-const clearContainer = () => {
-  if (pdfContainer.value) {
-    pdfContainer.value.innerHTML = ''
-  }
-}
+let pdfDoc: any = null;
+let numPages = 0;
+let renderId = 0;
+
+const currentPage = ref(1);
+const pageCount = ref(0);
+const scale = ref(props.scale);
+
+const zoomPercent = computed(() => Math.round(scale.value * 100));
+
+/* ---- PDF loading ---- */
 
 const loadPdf = async () => {
-  loading.value = true
-  error.value = ''
-  clearContainer()
+  loading.value = true;
+  error.value = "";
+  pdfLoaded.value = false;
+  pdfDoc = null;
 
   try {
-    const { getDocument, GlobalWorkerOptions } = await import('pdfjs-dist')
-    GlobalWorkerOptions.workerSrc = workerSrc
+    const pdfjs = await import("pdfjs-dist");
+    pdfjs.GlobalWorkerOptions.workerSrc = workerUrl;
 
-    const pdf = await getDocument(props.src).promise
+    const pdf = await pdfjs.getDocument({ url: props.src }).promise;
+    pdfDoc = pdf;
+    numPages = pdf.numPages;
+    pageCount.value = numPages;
+    currentPage.value = 1;
 
-    for (let pageNum = 1; pageNum <= pdf.numPages; pageNum += 1) {
-      if (cancelled) return
-      const page = await pdf.getPage(pageNum)
-      const viewport = page.getViewport({ scale: props.scale })
+    pdfLoaded.value = true;
+    loading.value = false;
+    await nextTick();
 
-      const canvas = document.createElement('canvas')
-      canvas.width = viewport.width
-      canvas.height = viewport.height
-      canvas.className = 'pdf-page'
-
-      const context = canvas.getContext('2d')
-      if (!context) {
-        throw new Error('无法创建 canvas 渲染上下文')
-      }
-
-      await page.render({ canvasContext: context, viewport }).promise
-
-      const pageContainer = document.createElement('div')
-      pageContainer.className = 'pdf-page-container'
-
-      const pageLabel = document.createElement('div')
-      pageLabel.className = 'pdf-page-label'
-      pageLabel.textContent = `第 ${pageNum} 页 / 共 ${pdf.numPages} 页`
-
-      pageContainer.appendChild(canvas)
-      pageContainer.appendChild(pageLabel)
-      pdfContainer.value?.appendChild(pageContainer)
-    }
-
-    loading.value = false
+    await fitToWidth();
+    await renderPage(1);
   } catch (err) {
-    console.error('PDF 加载失败:', err)
-    error.value = '无法加载 PDF 文件，请检查路径与文件格式。'
-    loading.value = false
+    console.error("PDF 加载失败:", err);
+    error.value = "无法加载 PDF 文件。请确保文件路径正确且文件格式有效。";
+    loading.value = false;
   }
-}
+};
+
+/* ---- page rendering ---- */
+
+const renderPage = async (pageNum: number) => {
+  if (!pdfDoc || !canvas.value) return;
+
+  const id = ++renderId;
+
+  const page = await pdfDoc.getPage(pageNum);
+  if (id !== renderId) return; // superseded by a newer render request
+
+  const viewport = page.getViewport({ scale: scale.value });
+  canvas.value.width = viewport.width;
+  canvas.value.height = viewport.height;
+
+  const ctx = canvas.value.getContext("2d");
+  if (!ctx) throw new Error("无法创建 canvas 渲染上下文");
+
+  const task = page.render({ canvasContext: ctx, viewport });
+  await task.promise;
+};
+
+/* ---- navigation ---- */
+
+const goToPage = async (pageNum: number) => {
+  const clamped = Math.max(1, Math.min(numPages, pageNum));
+  if (clamped !== currentPage.value) {
+    currentPage.value = clamped;
+    await renderPage(clamped);
+  }
+};
+
+const prevPage = () => goToPage(currentPage.value - 1);
+const nextPage = () => goToPage(currentPage.value + 1);
+
+const handlePageInput = (e: Event) => {
+  const target = e.target as HTMLInputElement;
+  const val = parseInt(target.value, 10);
+  if (isNaN(val) || val < 1) {
+    target.value = String(currentPage.value);
+    return;
+  }
+  goToPage(val);
+};
+
+/* ---- zoom ---- */
+
+const zoomIn = async () => {
+  scale.value = Math.min(3, +(scale.value + 0.25).toFixed(2));
+  await renderPage(currentPage.value);
+};
+
+const zoomOut = async () => {
+  scale.value = Math.max(0.25, +(scale.value - 0.25).toFixed(2));
+  await renderPage(currentPage.value);
+};
+
+const fitToWidth = async () => {
+  if (!pdfDoc || !viewerArea.value) return;
+  const containerWidth = viewerArea.value.clientWidth - 4;
+  if (containerWidth <= 0) return;
+
+  const page = await pdfDoc.getPage(1);
+  const orig = page.getViewport({ scale: 1 });
+  scale.value = Math.min(3, Math.max(0.25, containerWidth / orig.width));
+  await renderPage(currentPage.value);
+};
+
+/* ---- keyboard ---- */
+
+const handleKeydown = (e: KeyboardEvent) => {
+  if (e.key === "ArrowLeft") {
+    prevPage();
+    e.preventDefault();
+  } else if (e.key === "ArrowRight") {
+    nextPage();
+    e.preventDefault();
+  }
+};
+
+/* ---- lifecycle ---- */
+
+onMounted(() => {
+  loadPdf();
+  window.addEventListener("keydown", handleKeydown);
+});
+
+onBeforeUnmount(() => {
+  pdfDoc = null;
+  window.removeEventListener("keydown", handleKeydown);
+});
 
 watch(
   () => props.src,
   () => {
-    if (!props.src) return
-    loadPdf()
-  }
-)
-
-onMounted(loadPdf)
-onBeforeUnmount(() => {
-  cancelled = true
-  clearContainer()
-})
+    pdfDoc = null;
+    loadPdf();
+  },
+);
 </script>
 
 <style>
 .pdf-container {
-  position: relative;
   width: 100%;
+  margin: 16px 0;
 }
 
-.pdf-content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 20px;
-  margin-bottom: 20px;
-}
-
-.pdf-page-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 100%;
-}
-
-.pdf-page {
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
-  max-width: 100%;
-  height: auto;
-}
-
-.pdf-page-label {
-  margin-top: 8px;
-  font-size: 0.9em;
-  color: #666;
-}
-
-.pdf-loading,
-.pdf-error {
-  padding: 20px;
+.pdf-status {
+  padding: 24px;
   text-align: center;
+  color: #666;
+  font-size: 14px;
 }
 
 .pdf-error {
   color: #e53935;
+}
+
+/* ---- toolbar ---- */
+
+.pdf-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 6px 12px;
+  background: #f5f5f5;
+  border: 1px solid #e0e0e0;
+  border-bottom: none;
+  border-radius: 8px 8px 0 0;
+  flex-wrap: wrap;
+  user-select: none;
+}
+
+.pdf-btn {
+  background: #fff;
+  border: 1px solid #d0d0d0;
+  border-radius: 4px;
+  padding: 2px 10px;
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 1.5;
+  transition: background 0.15s;
+}
+
+.pdf-btn:hover:not(:disabled) {
+  background: #e8e8e8;
+}
+
+.pdf-btn:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.pdf-page-indicator {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 14px;
+  color: #444;
+}
+
+.pdf-page-input {
+  width: 44px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 2px 4px;
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+}
+
+.pdf-page-input::-webkit-inner-spin-button,
+.pdf-page-input::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.pdf-page-input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.pdf-page-sep {
+  color: #999;
+}
+
+.pdf-page-total {
+  color: #666;
+  font-variant-numeric: tabular-nums;
+}
+
+.pdf-toolbar-sep {
+  color: #ccc;
+  font-size: 18px;
+  line-height: 1;
+}
+
+.pdf-zoom-text {
+  font-size: 13px;
+  color: #555;
+  min-width: 36px;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---- viewer area ---- */
+
+.pdf-viewer-area {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  background: #fafafa;
+  border: 1px solid #e0e0e0;
+  border-top: none;
+  border-radius: 0 0 8px 8px;
+  overflow-x: auto;
+}
+
+.pdf-page {
+  display: block;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+  background: #fff;
 }
 </style>
