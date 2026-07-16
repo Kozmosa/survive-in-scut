@@ -8,6 +8,7 @@ import ProbabilityDistributionGallery from "../../.vuepress/components/Probabili
 import MarkdownEditor from "../components/MarkdownEditor.vue";
 import ExpandableCard from "../components/ExpandableCard.vue";
 import PdfViewer from "../components/PdfViewer.vue";
+import PageContributors from "../components/PageContributors.vue";
 import CommentService from "../components/CommentService.vue";
 
 export default {
@@ -24,6 +25,7 @@ export default {
     app.component("MarkdownEditor", MarkdownEditor);
     app.component("ExpandableCard", ExpandableCard);
     app.component("PdfViewer", PdfViewer);
+    app.component("PageContributors", PageContributors);
     app.component("CommentService", CommentService);
   },
 };
