@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T18:41:05.709Z",
-  "total": 35,
+  "generatedAt": "2026-07-16T06:05:34.109Z",
+  "total": 34,
   "items": [
     {
       "file": "beyond/abroad/phd.md",
@@ -101,11 +101,6 @@
       "file": "infra/wushan/nearby.md",
       "line": 7,
       "text": "TODO: 五山校区周边去处的简介页面"
-    },
-    {
-      "file": "introduction.md",
-      "line": 27,
-      "text": "TODO: 将本页从“学校百科简介”重写为“这本手册是什么、适合谁、怎么使用、哪些内容可能过期、如何参与共建”的项目介绍页。"
     },
     {
       "file": "learn/curricular/common_basic_lessons.md",
