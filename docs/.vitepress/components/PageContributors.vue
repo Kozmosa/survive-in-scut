@@ -1,6 +1,6 @@
 <template>
   <div v-if="author" class="page-contributors">
-    <span class="page-contributors-label">作者</span>
+    <span class="page-contributors-label">{{ label }}</span>
     <span class="page-contributor-name">{{ author }}</span>
   </div>
 </template>
@@ -8,9 +8,11 @@
 <script setup lang="ts">
 import { computed } from "vue";
 import { useData } from "vitepress";
+import { useLocaleText } from "../composables/useLocaleText";
 
 const { frontmatter } = useData();
 const author = computed(() => frontmatter.value.author as string | undefined);
+const label = useLocaleText("作者", "Author");
 </script>
 
 <style scoped>

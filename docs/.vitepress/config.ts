@@ -174,6 +174,7 @@ const navEn = [
         items: [
           { text: "HEMC/GZIC", link: "/en/life/time/hemc_gzic" },
           { text: "Wushan", link: "/en/life/time/wushan" },
+          { text: "Campus Bus", link: "/en/life/time/bus" },
         ],
       },
       {
@@ -199,6 +200,11 @@ const navEn = [
       {
         text: "Curricular",
         items: [
+          { text: "Course Types", link: "/en/learn/curricular/lessons" },
+          {
+            text: "Common Basic Courses",
+            link: "/en/learn/curricular/common_basic_lessons",
+          },
           { text: "Majors", link: "/en/learn/curricular/majors" },
           { text: "Exam", link: "/en/learn/curricular/exam" },
           { text: "GPA", link: "/en/learn/curricular/gpa" },
@@ -210,7 +216,14 @@ const navEn = [
       },
       {
         text: "Extra",
-        items: [{ text: "SRP", link: "/en/learn/extra/srp" }],
+        items: [
+          { text: "SRP", link: "/en/learn/extra/srp" },
+          { text: "Contests", link: "/en/learn/extra/contest" },
+          {
+            text: "Innovation/Humanities Credits",
+            link: "/en/learn/extra/innovation_humanities_scores",
+          },
+        ],
       },
     ],
   },
@@ -242,11 +255,23 @@ const navEn = [
   },
   {
     text: "Health",
-    items: [{ text: "First Aid", link: "/en/health/alive_first" }],
+    items: [
+      { text: "Stay Alive First", link: "/en/health/alive_first" },
+      { text: "Freshman Guidance", link: "/en/health/freshman_guidance" },
+      { text: "Medical Care", link: "/en/health/medical_care" },
+    ],
   },
   {
     text: "Other",
-    items: [{ text: "Copyrights", link: "/en/copyrights" }],
+    items: [
+      { text: "Contributing", link: "/en/others/contributing" },
+      { text: "Roadmap", link: "/en/others/roadmap" },
+      { text: "TODO List", link: "/en/others/todo" },
+      { text: "App", link: "/en/others/app" },
+      { text: "Brand Assets", link: "/en/others/branding" },
+      { text: "How to Ask Questions", link: "/en/others/ask-the-smart-way" },
+      { text: "Copyrights", link: "/en/copyrights" },
+    ],
   },
 ];
 
@@ -270,42 +295,43 @@ export default defineConfig({
       label: "简体中文",
       lang: "zh-CN",
       link: "/",
+      title: "华南理工生存手册",
+      description: "你不为我而来，但我为你而写",
+      themeConfig: {
+        nav: navZh,
+        outline: {
+          level: [2, 3],
+          label: "大纲",
+        },
+        lastUpdatedText: "最后更新",
+        docFooter: { prev: "上一页", next: "下一页" },
+        editLink: {
+          pattern: `${REPOSITORY}/edit/main/docs/:path`,
+          text: "编辑此页",
+        },
+        darkModeSwitchLabel: "切换外观",
+        darkModeSwitchTitle: "切换到深色模式",
+        lightModeSwitchTitle: "切换到浅色模式",
+        sidebarMenuLabel: "菜单",
+        returnToTopLabel: "返回顶部",
+        langMenuLabel: "切换语言",
+        skipToContentLabel: "跳到正文",
+        notFound: {
+          title: "页面未找到",
+          quote: "你访问的页面不存在，或尚未提供当前语言版本。",
+          link: "/",
+          linkLabel: "返回中文首页",
+          linkText: "返回首页",
+        },
+      },
     },
     en: {
       label: "English",
       lang: "en-US",
       link: "/en/",
-    },
-  },
-  markdown: {
-    math: true,
-  },
-  themeConfig: {
-    logo: "/root-assets/logo/scut-cat-1.jpg",
-    nav: navZh,
-    search: { provider: "local" },
-    outline: {
-      level: [2, 3],
-      label: "大纲",
-    },
-    lastUpdatedText: "最后更新",
-    docFooter: { prev: "上一页", next: "下一页" },
-    editLink: {
-      pattern: `${REPOSITORY}/edit/main/docs/:path`,
-      text: "编辑此页",
-    },
-    socialLinks: [{ icon: "github", link: REPOSITORY }],
-    footer: {
-      message: "CC-BY-SA 2.0 Licensed",
-      copyright: "Copyright © 2025-present Kozumi & 转群",
-    },
-    darkModeSwitchLabel: "切换外观",
-    darkModeSwitchTitle: "切换到深色模式",
-    lightModeSwitchTitle: "切换到浅色模式",
-    locales: {
-      root: { label: "简体中文", nav: navZh },
-      en: {
-        label: "English",
+      title: "Survive in SCUT",
+      description: "You did not come for me, but I wrote for you",
+      themeConfig: {
         nav: navEn,
         outline: {
           level: [2, 3],
@@ -317,7 +343,86 @@ export default defineConfig({
           pattern: `${REPOSITORY}/edit/main/docs/:path`,
           text: "Edit this page",
         },
+        darkModeSwitchLabel: "Appearance",
+        darkModeSwitchTitle: "Switch to dark theme",
+        lightModeSwitchTitle: "Switch to light theme",
+        sidebarMenuLabel: "Menu",
+        returnToTopLabel: "Return to top",
+        langMenuLabel: "Change language",
+        skipToContentLabel: "Skip to content",
+        notFound: {
+          title: "PAGE NOT FOUND",
+          quote:
+            "The page does not exist or is not available in this language yet.",
+          link: "/en/",
+          linkLabel: "Go to the English home page",
+          linkText: "Take me home",
+        },
       },
+    },
+  },
+  markdown: {
+    math: true,
+  },
+  themeConfig: {
+    logo: "/root-assets/logo/scut-cat-1.jpg",
+    search: {
+      provider: "local",
+      options: {
+        locales: {
+          root: {
+            translations: {
+              button: {
+                buttonText: "搜索",
+                buttonAriaLabel: "搜索文档",
+              },
+              modal: {
+                displayDetails: "显示详细列表",
+                resetButtonTitle: "清除搜索",
+                backButtonTitle: "关闭搜索",
+                noResultsText: "未找到相关结果",
+                footer: {
+                  selectText: "选择",
+                  selectKeyAriaLabel: "回车键",
+                  navigateText: "切换",
+                  navigateUpKeyAriaLabel: "向上箭头",
+                  navigateDownKeyAriaLabel: "向下箭头",
+                  closeText: "关闭",
+                  closeKeyAriaLabel: "Esc 键",
+                },
+              },
+            },
+          },
+          en: {
+            translations: {
+              button: {
+                buttonText: "Search",
+                buttonAriaLabel: "Search documentation",
+              },
+              modal: {
+                displayDetails: "Display detailed list",
+                resetButtonTitle: "Reset search",
+                backButtonTitle: "Close search",
+                noResultsText: "No results found",
+                footer: {
+                  selectText: "to select",
+                  selectKeyAriaLabel: "enter",
+                  navigateText: "to navigate",
+                  navigateUpKeyAriaLabel: "up arrow",
+                  navigateDownKeyAriaLabel: "down arrow",
+                  closeText: "to close",
+                  closeKeyAriaLabel: "escape",
+                },
+              },
+            },
+          },
+        },
+      },
+    },
+    socialLinks: [{ icon: "github", link: REPOSITORY }],
+    footer: {
+      message: "CC-BY-SA 2.0 Licensed",
+      copyright: "Copyright © 2025-present Kozumi & 转群",
     },
   },
   vite: {
@@ -327,7 +432,14 @@ export default defineConfig({
         outputFile: "todo.md",
         todoKeywords: ["TODO", "FIXME"],
         fileExtensions: [".md", ".vue"],
-        excludeDirs: ["node_modules", ".git", "dist", ".vitepress", ".temp"],
+        excludeDirs: [
+          "node_modules",
+          ".git",
+          "dist",
+          ".vitepress",
+          ".temp",
+          "en", // English pages currently mirror the canonical Chinese content.
+        ],
       }),
       contributorsCollector(),
     ],

@@ -6,3 +6,5 @@ author: Kozumi
 ---
 
 # 国际指北
+
+TODO: 国际基础设施介绍

@@ -7,21 +7,21 @@
           :class="{ active: currentView === 'editor' }"
           @click="currentView = 'editor'"
         >
-          <i class="fa fa-edit mr-2"></i>编辑
+          <i class="fa fa-edit mr-2"></i>{{ ui.edit }}
         </button>
         <button
           class="editor-tab"
           :class="{ active: currentView === 'preview' }"
           @click="currentView = 'preview'"
         >
-          <i class="fa fa-eye mr-2"></i>预览
+          <i class="fa fa-eye mr-2"></i>{{ ui.preview }}
         </button>
         <button
           class="editor-tab"
           :class="{ active: currentView === 'split' }"
           @click="currentView = 'split'"
         >
-          <i class="fa fa-columns mr-2"></i>分栏
+          <i class="fa fa-columns mr-2"></i>{{ ui.split }}
         </button>
 
         <button class="editor-tab">
@@ -38,7 +38,7 @@
         <textarea
           v-model="markdownContent"
           class="editor-textarea"
-          placeholder="在此输入 Markdown 内容..."
+          :placeholder="ui.placeholder"
           @input="updatePreview"
         ></textarea>
       </div>
@@ -57,6 +57,7 @@ import { ref, onMounted, watch } from "vue";
 import * as marked from "marked";
 import hljs from "highlight.js";
 import "highlight.js/styles/github-dark.min.css";
+import { useLocaleText } from "../composables/useLocaleText";
 
 const props = defineProps({
   content: {
@@ -70,6 +71,20 @@ const emit = defineEmits(["update:content"]);
 const markdownContent = ref(props.content);
 const parsedMarkdown = ref("");
 const currentView = ref("split");
+const ui = useLocaleText(
+  {
+    edit: "编辑",
+    preview: "预览",
+    split: "分栏",
+    placeholder: "在此输入 Markdown 内容...",
+  },
+  {
+    edit: "Edit",
+    preview: "Preview",
+    split: "Split",
+    placeholder: "Enter Markdown here...",
+  },
+);
 
 marked.setOptions({
   highlight: (code, lang) => {

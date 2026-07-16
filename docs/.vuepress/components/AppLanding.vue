@@ -1,9 +1,7 @@
 <template>
   <section class="app-landing">
-    <h1>启梦华工 App</h1>
-    <p class="lead">
-      启梦华工是手册配套应用，帮助你在手机端更快找到常用信息。你可以根据设备选择下载渠道，后续版本将持续补齐更多平台支持。
-    </p>
+    <h1>{{ ui.title }}</h1>
+    <p class="lead">{{ ui.description }}</p>
 
     <div class="hero-actions">
       <button
@@ -12,9 +10,9 @@
       >
         {{ recommendedButtonText }}
       </button>
-      <span class="version" v-if="latestVersion"
-        >当前版本：{{ latestVersion }}</span
-      >
+      <span class="version" v-if="latestVersion">
+        {{ ui.currentVersion }}{{ latestVersion }}
+      </span>
     </div>
 
     <div class="grid">
@@ -22,19 +20,19 @@
         class="btn btn-secondary"
         @click="handlePlatformAction('android')"
       >
-        Android 下载
+        {{ ui.androidDownload }}
       </button>
       <button class="btn btn-secondary" @click="handlePlatformAction('ios')">
-        iOS 下载
+        {{ ui.iosDownload }}
       </button>
       <button
         class="btn btn-secondary"
         @click="handlePlatformAction('harmony')"
       >
-        HarmonyOS 下载
+        {{ ui.harmonyDownload }}
       </button>
       <button class="btn btn-secondary" @click="handlePlatformAction('pwa')">
-        PWA 体验
+        {{ ui.pwaExperience }}
       </button>
     </div>
   </section>
@@ -42,9 +40,34 @@
 
 <script setup>
 import { computed, onMounted, ref } from "vue";
+import { useLocaleText } from "../../.vitepress/composables/useLocaleText";
 
 const releaseData = ref(null);
 const recommendedPlatform = ref("android");
+const ui = useLocaleText(
+  {
+    title: "启梦华工 App",
+    description:
+      "启梦华工是手册配套应用，帮助你在手机端更快找到常用信息。你可以根据设备选择下载渠道，后续版本将持续补齐更多平台支持。",
+    currentVersion: "当前版本：",
+    recommendedDownload: "推荐下载：",
+    androidDownload: "Android 下载",
+    iosDownload: "iOS 下载",
+    harmonyDownload: "HarmonyOS 下载",
+    pwaExperience: "PWA 体验",
+  },
+  {
+    title: "Qimeng SCUT App",
+    description:
+      "The companion app helps you find frequently used handbook information on your phone. Choose a download for your device; support for more platforms will be added over time.",
+    currentVersion: "Current version: ",
+    recommendedDownload: "Recommended: ",
+    androidDownload: "Download for Android",
+    iosDownload: "Download for iOS",
+    harmonyDownload: "Download for HarmonyOS",
+    pwaExperience: "Try the PWA",
+  },
+);
 
 const PLATFORM_TEXT = {
   android: "Android",
@@ -73,7 +96,7 @@ const apkUrl = computed(() => {
 
 const recommendedButtonText = computed(() => {
   const platformText = PLATFORM_TEXT[recommendedPlatform.value] || "Android";
-  return `推荐下载：${platformText}`;
+  return `${ui.value.recommendedDownload}${platformText}`;
 });
 
 onMounted(async () => {
@@ -116,7 +139,7 @@ async function fetchReleaseData() {
     }
     return await response.json();
   } catch (err) {
-    console.error("[AppLanding] 获取版本信息失败", err);
+    console.error("[AppLanding] Unable to fetch release data", err);
     return null;
   }
 }

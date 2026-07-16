@@ -1,6 +1,6 @@
 <template>
   <div class="pdf-container">
-    <div v-if="loading" class="pdf-status">加载中…</div>
+    <div v-if="loading" class="pdf-status">{{ ui.loading }}</div>
     <div v-if="error" class="pdf-status pdf-error">{{ error }}</div>
 
     <template v-if="pdfLoaded">
@@ -9,7 +9,7 @@
           class="pdf-btn"
           @click="prevPage"
           :disabled="currentPage <= 1"
-          title="上一页 (←)"
+          :title="ui.previousPage"
         >
           ‹
         </button>
@@ -30,7 +30,7 @@
           class="pdf-btn"
           @click="nextPage"
           :disabled="currentPage >= numPages"
-          title="下一页 (→)"
+          :title="ui.nextPage"
         >
           ›
         </button>
@@ -41,7 +41,7 @@
           class="pdf-btn"
           @click="zoomOut"
           :disabled="scale <= 0.25"
-          title="缩小"
+          :title="ui.zoomOut"
         >
           −
         </button>
@@ -50,11 +50,13 @@
           class="pdf-btn"
           @click="zoomIn"
           :disabled="scale >= 3"
-          title="放大"
+          :title="ui.zoomIn"
         >
           +
         </button>
-        <button class="pdf-btn" @click="fitToWidth" title="适应宽度">⊡</button>
+        <button class="pdf-btn" @click="fitToWidth" :title="ui.fitToWidth">
+          ⊡
+        </button>
       </div>
 
       <div class="pdf-viewer-area" ref="viewerArea">
@@ -74,6 +76,7 @@ import {
   nextTick,
 } from "vue";
 import workerUrl from "pdfjs-dist/build/pdf.worker.min.mjs?url";
+import { useLocaleText } from "../composables/useLocaleText";
 
 const props = defineProps({
   src: { type: String, required: true },
@@ -95,6 +98,27 @@ const pageCount = ref(0);
 const scale = ref(props.scale);
 
 const zoomPercent = computed(() => Math.round(scale.value * 100));
+const ui = useLocaleText(
+  {
+    loading: "加载中…",
+    previousPage: "上一页 (←)",
+    nextPage: "下一页 (→)",
+    zoomOut: "缩小",
+    zoomIn: "放大",
+    fitToWidth: "适应宽度",
+    loadError: "无法加载 PDF 文件。请确保文件路径正确且文件格式有效。",
+  },
+  {
+    loading: "Loading…",
+    previousPage: "Previous page (←)",
+    nextPage: "Next page (→)",
+    zoomOut: "Zoom out",
+    zoomIn: "Zoom in",
+    fitToWidth: "Fit to width",
+    loadError:
+      "Unable to load the PDF. Check that the path and file are valid.",
+  },
+);
 
 /* ---- PDF loading ---- */
 
@@ -121,8 +145,8 @@ const loadPdf = async () => {
     await fitToWidth();
     await renderPage(1);
   } catch (err) {
-    console.error("PDF 加载失败:", err);
-    error.value = "无法加载 PDF 文件。请确保文件路径正确且文件格式有效。";
+    console.error("[PdfViewer] Unable to load PDF:", err);
+    error.value = ui.value.loadError;
     loading.value = false;
   }
 };
@@ -142,7 +166,7 @@ const renderPage = async (pageNum: number) => {
   canvas.value.height = viewport.height;
 
   const ctx = canvas.value.getContext("2d");
-  if (!ctx) throw new Error("无法创建 canvas 渲染上下文");
+  if (!ctx) throw new Error("Unable to create the canvas rendering context");
 
   const task = page.render({ canvasContext: ctx, viewport });
   await task.promise;

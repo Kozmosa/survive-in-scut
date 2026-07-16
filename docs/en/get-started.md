@@ -36,7 +36,7 @@
 #### 大学城校区
 
 - ① 公交车**华工站、华工生活区站**：大学城专线 1路、大学城专线2路、大学城专线 3路、86 路、大学城环线 1路、大学城环线 2路、387路、番 201路、番202路、332路、夜 50路。
-- ② 地铁**4号线、7号线大学城南站D出口**，近大学城校区生活区。
+- ② 地铁**4号线、7号线、12号线大学城南站D出口**，近大学城校区生活区。
 
 #### 广州国际校区
 
@@ -94,4 +94,6 @@
 
 （3）**新生行李领取地点**（具体地点以快递公司的通知信息为准）
 
-TODO: Replace this Chinese draft with a real English onboarding page, and keep year-specific logistics synchronized with the Chinese source page each admission cycle.
+（4）**转专业指南**：如果你对高考录取的专业不甚满意，想要尽早了解准备转专业相关事项，请查看[转专业相关总览](/en/learn/curricular/transfer_major)。及最新版的指南[华南理工大学转专业指南（2024版）](/en/learn/curricular/transfer_major_2024.md)
+
+TODO: 重写2025版本的迎新指南

@@ -28,6 +28,7 @@
 
 <script setup>
 import { ref, onMounted, nextTick, watch, computed } from "vue";
+import { useLocaleText } from "../composables/useLocaleText";
 
 const props = defineProps({
   title: {
@@ -44,9 +45,10 @@ const isExpanded = ref(props.defaultExpanded);
 const contentHeight = ref("0px");
 const firstLine = ref("");
 const contentRef = (ref < HTMLElement) | (null > null);
+const defaultTitle = useLocaleText("展开内容", "Expand content");
 
 const displayTitle = computed(
-  () => props.title || firstLine.value || "展开内容",
+  () => props.title || firstLine.value || defaultTitle.value,
 );
 
 const calculateContentHeight = () => {

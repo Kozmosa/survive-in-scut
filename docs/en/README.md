@@ -1,30 +1,34 @@
 ---
 layout: home
 hero:
-  name: 华南理工生存手册
+  name: Survive in SCUT
+  tagline: You did not come for me, but I wrote for you.
   image:
-    src: /root-assets/scut-logo.svg
+    src: /root-assets/logo/scut-paru-3.jpg
     alt: SCUT Logo
   actions:
     - theme: brand
-      text: 启程
-      link: /get-started
+      text: Get Started
+      link: /en/get-started
     - theme: alt
-      text: 简介
-      link: /introduction
+      text: Introduction
+      link: /en/introduction
+    - theme: alt
+      text: App
+      link: /en/others/app
 features:
-  - title: 编者贡献
-    details: 本手册内容均来源于华南理工大学的往届学生（本科生、硕士研究生、博士研究生）编写贡献
-  - title: 共建共享
-    details: 本仓库拥有者（@Kozmosa）除仓库本身维护外，并不享有比其他编者更多的权利。同时，发表在本仓库的文本默认采用 CC-BY-SA 2.0 协议开源，您可以在标明作者的前提下不受限制地复制、转发、传播该仓库的内容，本仓库仅保留在版权受到不合理侵犯时的合法权益
-  - title: 薪火相传
-    details: 独木难成林。我们鼓励读者参与到本仓库、本手册的编撰及校对工作中，您可以在GitHub上向本仓库提交PR或向本仓库维护者的邮箱发送邮件来告知本仓库内容的谬漏之处，或补充本手册的未尽之处。我们代后来的读者向您的每一份贡献致以崇高的敬意
-footer: CC-BY-SA 2.0 Licensed | Copyright © 2025-present Kozumi & 转群
+  - title: Written by Students
+    details: This handbook is built from contributions by former and current SCUT undergraduate, master's, and doctoral students.
+  - title: Open and Collaborative
+    details: Apart from maintaining the repository itself, its owner (@Kozmosa) has no greater rights than any other contributor. Unless otherwise stated, text published in this repository is shared under the CC BY-SA 2.0 license. You may copy, redistribute, and adapt it as long as you provide attribution and preserve the same license.
+  - title: Pass It On
+    details: A handbook grows through collective effort. We welcome corrections, proofreading, and new first-hand experience through GitHub pull requests or email. Every contribution helps future readers avoid uncertainty and unnecessary detours.
+footer: CC-BY-SA 2.0 Licensed | Copyright © 2025-present Kozumi & 转群 & 卷群
 ---
 
-此页为首页. 更多内容请切换到[简介页面][introduction-page]了解.
+This is the handbook home page. Visit the [introduction][introduction-page] to learn more.
 
-关于本项目的内容，及本项目所涉及、采用的资源的[版权声明][copyrights-page]
+See the [copyright notice][copyrights-page] for licensing details covering the handbook and its included resources.
 
-[introduction-page]: /introduction.html
-[copyrights-page]: /copyrights.html
+[introduction-page]: /en/introduction
+[copyrights-page]: /en/copyrights
