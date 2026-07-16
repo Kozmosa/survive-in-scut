@@ -307,6 +307,10 @@ export default defineConfig({
       en: {
         label: "English",
         nav: navEn,
+        outline: {
+          level: [2, 3],
+          label: "Outline",
+        },
         lastUpdatedText: "Last updated",
         docFooter: { prev: "Previous", next: "Next" },
         editLink: {
