@@ -4,21 +4,21 @@
       <div class="editor-tabs">
         <button
           class="editor-tab"
-          :class="{ 'active': currentView === 'editor' }"
+          :class="{ active: currentView === 'editor' }"
           @click="currentView = 'editor'"
         >
           <i class="fa fa-edit mr-2"></i>编辑
         </button>
         <button
           class="editor-tab"
-          :class="{ 'active': currentView === 'preview' }"
+          :class="{ active: currentView === 'preview' }"
           @click="currentView = 'preview'"
         >
           <i class="fa fa-eye mr-2"></i>预览
         </button>
         <button
           class="editor-tab"
-          :class="{ 'active': currentView === 'split' }"
+          :class="{ active: currentView === 'split' }"
           @click="currentView = 'split'"
         >
           <i class="fa fa-columns mr-2"></i>分栏
@@ -31,7 +31,10 @@
     </div>
 
     <div class="editor-content">
-      <div v-show="currentView === 'editor' || currentView === 'split'" class="editor-wrapper">
+      <div
+        v-show="currentView === 'editor' || currentView === 'split'"
+        class="editor-wrapper"
+      >
         <textarea
           v-model="markdownContent"
           class="editor-textarea"
@@ -50,53 +53,53 @@
 </template>
 
 <script setup>
-import { ref, onMounted, watch } from 'vue'
-import * as marked from 'marked'
-import hljs from 'highlight.js'
-import 'highlight.js/styles/github-dark.min.css'
+import { ref, onMounted, watch } from "vue";
+import * as marked from "marked";
+import hljs from "highlight.js";
+import "highlight.js/styles/github-dark.min.css";
 
 const props = defineProps({
   content: {
     type: String,
-    default: '',
+    default: "",
   },
-})
+});
 
-const emit = defineEmits(['update:content'])
+const emit = defineEmits(["update:content"]);
 
-const markdownContent = ref(props.content)
-const parsedMarkdown = ref('')
-const currentView = ref<'editor' | 'preview' | 'split'>('split')
+const markdownContent = ref(props.content);
+const parsedMarkdown = ref("");
+const currentView = (ref < "editor") | "preview" | ("split" > "split");
 
 marked.setOptions({
   highlight: (code, lang) => {
     if (lang && hljs.getLanguage(lang)) {
-      return hljs.highlight(code, { language: lang }).value
+      return hljs.highlight(code, { language: lang }).value;
     }
-    return hljs.highlightAuto(code).value
+    return hljs.highlightAuto(code).value;
   },
   breaks: true,
   gfm: true,
-})
+});
 
 const updatePreview = () => {
-  parsedMarkdown.value = marked.parse(markdownContent.value)
-  emit('update:content', markdownContent.value)
-}
+  parsedMarkdown.value = marked.parse(markdownContent.value);
+  emit("update:content", markdownContent.value);
+};
 
 watch(
   () => props.content,
   (newVal) => {
     if (newVal !== markdownContent.value) {
-      markdownContent.value = newVal
-      updatePreview()
+      markdownContent.value = newVal;
+      updatePreview();
     }
-  }
-)
+  },
+);
 
 onMounted(() => {
-  updatePreview()
-})
+  updatePreview();
+});
 </script>
 
 <style scoped>
@@ -106,7 +109,9 @@ onMounted(() => {
   height: 100%;
   border-radius: 0.5rem;
   overflow: hidden;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  box-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
 }
 
 .editor-header {
@@ -164,7 +169,7 @@ onMounted(() => {
   border: none;
   background-color: transparent;
   color: #d4d4d4;
-  font-family: Consolas, Monaco, 'Andale Mono', monospace;
+  font-family: Consolas, Monaco, "Andale Mono", monospace;
   font-size: 14px;
   resize: none;
   outline: none;
@@ -215,7 +220,7 @@ onMounted(() => {
 }
 
 .preview-wrapper code {
-  font-family: Consolas, Monaco, 'Andale Mono', monospace;
+  font-family: Consolas, Monaco, "Andale Mono", monospace;
   font-size: 0.9rem;
   background-color: #edf2f7;
   padding: 0.1rem 0.3rem;

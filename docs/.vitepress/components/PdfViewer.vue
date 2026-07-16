@@ -5,7 +5,14 @@
 
     <template v-if="pdfLoaded">
       <div class="pdf-toolbar">
-        <button class="pdf-btn" @click="prevPage" :disabled="currentPage <= 1" title="上一页 (←)">‹</button>
+        <button
+          class="pdf-btn"
+          @click="prevPage"
+          :disabled="currentPage <= 1"
+          title="上一页 (←)"
+        >
+          ‹
+        </button>
         <span class="pdf-page-indicator">
           <input
             class="pdf-page-input"
@@ -19,13 +26,34 @@
           <span class="pdf-page-sep">/</span>
           <span class="pdf-page-total">{{ numPages }}</span>
         </span>
-        <button class="pdf-btn" @click="nextPage" :disabled="currentPage >= numPages" title="下一页 (→)">›</button>
+        <button
+          class="pdf-btn"
+          @click="nextPage"
+          :disabled="currentPage >= numPages"
+          title="下一页 (→)"
+        >
+          ›
+        </button>
 
         <span class="pdf-toolbar-sep">|</span>
 
-        <button class="pdf-btn" @click="zoomOut" :disabled="scale <= 0.25" title="缩小">−</button>
+        <button
+          class="pdf-btn"
+          @click="zoomOut"
+          :disabled="scale <= 0.25"
+          title="缩小"
+        >
+          −
+        </button>
         <span class="pdf-zoom-text">{{ zoomPercent }}%</span>
-        <button class="pdf-btn" @click="zoomIn" :disabled="scale >= 3" title="放大">+</button>
+        <button
+          class="pdf-btn"
+          @click="zoomIn"
+          :disabled="scale >= 3"
+          title="放大"
+        >
+          +
+        </button>
         <button class="pdf-btn" @click="fitToWidth" title="适应宽度">⊡</button>
       </div>
 
@@ -37,7 +65,14 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, onMounted, onBeforeUnmount, watch, nextTick } from "vue";
+import {
+  ref,
+  computed,
+  onMounted,
+  onBeforeUnmount,
+  watch,
+  nextTick,
+} from "vue";
 import workerUrl from "pdfjs-dist/build/pdf.worker.min.mjs?url";
 
 const props = defineProps({
