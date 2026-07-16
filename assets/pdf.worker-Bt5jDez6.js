@@ -1,1 +1,0 @@
-var e=`/assets/pdf.worker-BASQQs-o.mjs`;export{e as default};
