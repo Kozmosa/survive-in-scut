@@ -1,11 +1,6 @@
 import { defineClientConfig } from "vuepress/client";
+import { defineAsyncComponent } from "vue";
 import Layout from "./layouts/Layout.vue";
-import MarkdownEditor from "./components/MarkdownEditor.vue";
-import ExpandableCard from "./components/ExpandableCard.vue";
-import ContributorsList from "./components/ContributorsList.vue";
-import AppLanding from "./components/AppLanding.vue";
-import ProbabilityDistributionGallery from "./components/ProbabilityDistributionGallery.vue";
-import ImmersiveShell from "./components/ImmersiveShell.vue";
 
 // 导出合并后的客户端配置
 export default defineClientConfig({
@@ -13,14 +8,31 @@ export default defineClientConfig({
     Layout,
   },
   enhance: ({ app }) => {
-    app.component("MarkdownEditor", MarkdownEditor);
-    app.component("ExpandableCard", ExpandableCard);
-    app.component("ContributorsList", ContributorsList);
-    app.component("AppLanding", AppLanding);
+    app.component(
+      "MarkdownEditor",
+      defineAsyncComponent(() => import("./components/MarkdownEditor.vue")),
+    );
+    app.component(
+      "ExpandableCard",
+      defineAsyncComponent(() => import("./components/ExpandableCard.vue")),
+    );
+    app.component(
+      "ContributorsList",
+      defineAsyncComponent(() => import("./components/ContributorsList.vue")),
+    );
+    app.component(
+      "AppLanding",
+      defineAsyncComponent(() => import("./components/AppLanding.vue")),
+    );
     app.component(
       "ProbabilityDistributionGallery",
-      ProbabilityDistributionGallery,
+      defineAsyncComponent(
+        () => import("./components/ProbabilityDistributionGallery.vue"),
+      ),
     );
-    app.component("ImmersiveShell", ImmersiveShell);
+    app.component(
+      "ImmersiveShell",
+      defineAsyncComponent(() => import("./components/ImmersiveShell.vue")),
+    );
   },
 });

@@ -1,8 +1,11 @@
 import { defineClientConfig } from "@vuepress/client";
-import PdfViewer from "./components/PdfViewer.vue";
+import { defineAsyncComponent } from "vue";
 
 export default defineClientConfig({
   enhance({ app }) {
-    app.component("PdfViewer", PdfViewer);
+    app.component(
+      "PdfViewer",
+      defineAsyncComponent(() => import("./components/PdfViewer.vue")),
+    );
   },
 });

@@ -50,6 +50,7 @@ export default defineUserConfig({
     readingTimePlugin(),
     commentPlugin({
       provider: "Waline",
+      metaIcon: false,
     }),
     pdfviewer,
     todoCollector({
@@ -60,7 +61,7 @@ export default defineUserConfig({
       jsonOutputFile: "todo.json",
       todoKeywords: ["TODO", "FIXME"],
       fileExtensions: [".md", ".vue"],
-      excludeDirs: ["node_modules", ".git", "dist", "others", ".temp"],
+      excludeDirs: ["node_modules", ".git", "dist", ".temp"],
       addToNavbar: false,
     }),
     contributorsCollector({
@@ -141,6 +142,7 @@ export default defineUserConfig({
             text: "课内",
             prefix: "curricular/",
             children: [
+              "lessons",
               "common_basic_lessons",
               "majors",
               "exam",
@@ -176,7 +178,7 @@ export default defineUserConfig({
       {
         text: "立命",
         prefix: "/health/",
-        children: ["alive_first", "medical_care"],
+        children: ["alive_first", "medical_care", "freshman_guidance"],
       },
 
       {
@@ -184,6 +186,7 @@ export default defineUserConfig({
         prefix: "/others/",
         children: [
           "contributing",
+          "roadmap",
           "todo",
           "app",
           "branding",
@@ -355,19 +358,46 @@ export default defineUserConfig({
     },
   },
 
-  bundler: viteBundler(),
-  vite: {
-    resolve: {
-      alias: {
-        "@vueuse/core": "@vueuse/core", // 确保正确解析
+  bundler: viteBundler({
+    viteOptions: {
+      build: {
+        rollupOptions: {
+          onwarn(warning, warn) {
+            const warningId = warning.id?.replaceAll("\\", "/") ?? "";
+            const isPdfjsEvalWarning =
+              warning.code === "EVAL" &&
+              warningId.includes(
+                "node_modules/pdfjs-dist/legacy/build/pdf.mjs",
+              );
+            const isVueusePureAnnotationWarning =
+              warning.code === "INVALID_ANNOTATION" &&
+              warningId.includes("node_modules/@vueuse/core/dist/index.js");
+            const isPluginTimingsWarning = warning.code === "PLUGIN_TIMINGS";
+
+            if (isPdfjsEvalWarning || isVueusePureAnnotationWarning) {
+              return;
+            }
+
+            if (isPluginTimingsWarning) {
+              return;
+            }
+
+            warn(warning);
+          },
+        },
       },
-      dedupe: [
-        // 确保所有 CodeMirror 依赖使用相同实例
-        "@codemirror/state",
-        "@codemirror/view",
-        "@codemirror/basic-setup",
-        "@codemirror/lang-markdown",
-      ],
+      resolve: {
+        alias: {
+          "@vueuse/core": "@vueuse/core", // 确保正确解析
+        },
+        dedupe: [
+          // 确保所有 CodeMirror 依赖使用相同实例
+          "@codemirror/state",
+          "@codemirror/view",
+          "@codemirror/basic-setup",
+          "@codemirror/lang-markdown",
+        ],
+      },
     },
-  },
+  }),
 });

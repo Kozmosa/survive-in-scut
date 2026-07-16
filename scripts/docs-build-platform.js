@@ -1,4 +1,4 @@
-import { cp, mkdir, readFile, rm, writeFile } from "node:fs/promises";
+import { cp, mkdir, readFile, rm, stat, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { spawn } from "node:child_process";
 
@@ -24,6 +24,10 @@ await mkdir(tempRoot, { recursive: true });
 
 try {
   await cp(docsDir, tempDocsDir, { recursive: true });
+
+  if (viteConfigName) {
+    await syncVitePublicDir(tempDocsDir);
+  }
 
   if (vueConfigName) {
     const vueConfigPath = path.join(tempDocsDir, ".vuepress", vueConfigName);
@@ -97,6 +101,23 @@ async function rewriteBaseToDocs(configPath) {
   }
 
   throw new Error(`Cannot locate config object to set base in ${configPath}`);
+}
+
+async function syncVitePublicDir(targetDocsDir) {
+  const vuePublicDir = path.join(targetDocsDir, ".vuepress", "public");
+  const vitePublicDir = path.join(targetDocsDir, "public");
+
+  try {
+    const vuePublicStats = await stat(vuePublicDir);
+    if (!vuePublicStats.isDirectory()) {
+      return;
+    }
+  } catch {
+    return;
+  }
+
+  await rm(vitePublicDir, { recursive: true, force: true });
+  await cp(vuePublicDir, vitePublicDir, { recursive: true });
 }
 
 function runCli(toolName, args) {

@@ -132,8 +132,8 @@ dist
 # Local agent instructions
 AGENTS.md
 
-# Local npm lockfile (Bun is primary)
-package-lock.json
+# Non-primary package manager lockfiles
+bun.lock
 
 # Platform build outputs
 vue-platform-dist/
@@ -142,6 +142,9 @@ vite-platform-dist/
 # VitePress cache artifacts
 docs/.vitepress/cache/
 
+# Generated VitePress public mirror
+/docs/public/
+
 # Temporary platform build workspace
 .platform-build-tmp-*/
 
@@ -149,9 +152,6 @@ docs/.vitepress/cache/
 docs/.vuepress/public/todo.json
 docs/.vuepress/public/contributors.json
 docs/.vuepress/public/assets/app/release.json
-
-# Keep generated todo JSON tracked
-!docs/.vuepress/public/todo.json
 
 # Local macOS metadata
 .DS_Store

@@ -8,8 +8,62 @@ import path from "path";
  * @returns {Array} 找到的TODO项列表
  */
 export function scanDirectory(directory, options) {
-  const { todoKeywords, fileExtensions, excludeDirs } = options;
+  const {
+    todoKeywords,
+    fileExtensions,
+    excludeDirs,
+    ignoredFiles = [],
+  } = options;
   const todoList = [];
+  const ignoredRelativePaths = new Set(ignoredFiles);
+
+  function matchesTodoLine(line, keyword) {
+    const trimmed = line.trimStart();
+    const candidates = [
+      `${keyword}:`,
+      `${keyword} `,
+      `// ${keyword}:`,
+      `// ${keyword} `,
+      `/* ${keyword}:`,
+      `/* ${keyword} `,
+      `* ${keyword}:`,
+      `* ${keyword} `,
+      `<!-- ${keyword}:`,
+      `<!-- ${keyword} `,
+      `- ${keyword}:`,
+      `- ${keyword} `,
+      `* ${keyword}:`,
+      `* ${keyword} `,
+      `+ ${keyword}:`,
+      `+ ${keyword} `,
+      `> ${keyword}:`,
+      `> ${keyword} `,
+    ];
+    return candidates.some((candidate) => trimmed.startsWith(candidate));
+  }
+
+  function normalizeRelativePath(fullPath) {
+    return path.relative(directory, fullPath).replace(/\\/g, "/");
+  }
+
+  function shouldExcludePath(fullPath) {
+    const relativePath = normalizeRelativePath(fullPath);
+    if (ignoredRelativePaths.has(relativePath)) {
+      return true;
+    }
+
+    return excludeDirs.some((excludeDir) => {
+      const normalizedDir = String(excludeDir || "")
+        .replace(/\\/g, "/")
+        .replace(/^\.\//, "")
+        .replace(/\/$/, "");
+      return (
+        normalizedDir &&
+        (relativePath === normalizedDir ||
+          relativePath.startsWith(`${normalizedDir}/`))
+      );
+    });
+  }
 
   function scan(dir) {
     try {
@@ -17,8 +71,7 @@ export function scanDirectory(directory, options) {
       files.forEach((file) => {
         const fullPath = path.join(dir, file);
 
-        // 检查是否为排除目录
-        if (excludeDirs.some((excludeDir) => fullPath.includes(excludeDir))) {
+        if (shouldExcludePath(fullPath)) {
           return;
         }
 
@@ -36,14 +89,12 @@ export function scanDirectory(directory, options) {
   function scanFile(filePath, sourceDir) {
     try {
       const content = fs.readFileSync(filePath, "utf-8");
-      const relativePath = path
-        .relative(sourceDir, filePath)
-        .replace(/\\/g, "/");
+      const relativePath = normalizeRelativePath(filePath);
 
       content.split("\n").forEach((line, index) => {
         // 检查是否包含TODO关键词
         for (const keyword of todoKeywords) {
-          if (line.includes(keyword + ":") || line.includes(keyword + " ")) {
+          if (matchesTodoLine(line, keyword)) {
             const todoText = line.trim();
             const todoItem = {
               file: relativePath,

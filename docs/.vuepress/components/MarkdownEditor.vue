@@ -2,40 +2,38 @@
   <div class="markdown-editor-container">
     <div class="editor-header">
       <div class="editor-tabs">
-        <button 
-          class="editor-tab" 
-          :class="{ 'active': currentView === 'editor' }"
+        <button
+          class="editor-tab"
+          :class="{ active: currentView === 'editor' }"
           @click="currentView = 'editor'"
         >
           <i class="fa fa-edit mr-2"></i>编辑
         </button>
-        <button 
-          class="editor-tab" 
-          :class="{ 'active': currentView === 'preview' }"
+        <button
+          class="editor-tab"
+          :class="{ active: currentView === 'preview' }"
           @click="currentView = 'preview'"
         >
           <i class="fa fa-eye mr-2"></i>预览
         </button>
-        <button 
-          class="editor-tab" 
-          :class="{ 'active': currentView === 'split' }"
+        <button
+          class="editor-tab"
+          :class="{ active: currentView === 'split' }"
           @click="currentView = 'split'"
         >
           <i class="fa fa-columns mr-2"></i>分栏
         </button>
 
-        <button 
-          class="editor-tab" 
-        >
+        <button class="editor-tab">
           <i class="fa fa-columns mr-2"></i>Kozumi Editor v0.1
         </button>
       </div>
     </div>
-    
+
     <div class="editor-content">
       <!-- 编辑器区域 -->
-      <div 
-        v-show="currentView === 'editor' || currentView === 'split'" 
+      <div
+        v-show="currentView === 'editor' || currentView === 'split'"
         class="editor-wrapper"
       >
         <textarea
@@ -45,10 +43,10 @@
           @input="updatePreview"
         ></textarea>
       </div>
-      
+
       <!-- 预览区域 -->
-      <div 
-        v-show="currentView === 'preview' || currentView === 'split'" 
+      <div
+        v-show="currentView === 'preview' || currentView === 'split'"
         class="preview-wrapper"
         v-html="parsedMarkdown"
       ></div>
@@ -57,25 +55,48 @@
 </template>
 
 <script setup>
-import { ref, onMounted, watch } from 'vue';
-import * as marked from 'marked';
-import hljs from 'highlight.js';
-import 'highlight.js/styles/github-dark.min.css';
+import { ref, onMounted, watch } from "vue";
+import * as marked from "marked";
+import hljs from "highlight.js/lib/core";
+import bash from "highlight.js/lib/languages/bash";
+import css from "highlight.js/lib/languages/css";
+import javascript from "highlight.js/lib/languages/javascript";
+import json from "highlight.js/lib/languages/json";
+import markdown from "highlight.js/lib/languages/markdown";
+import plaintext from "highlight.js/lib/languages/plaintext";
+import typescript from "highlight.js/lib/languages/typescript";
+import xml from "highlight.js/lib/languages/xml";
+import "highlight.js/styles/github-dark.min.css";
+
+hljs.registerLanguage("bash", bash);
+hljs.registerLanguage("css", css);
+hljs.registerLanguage("html", xml);
+hljs.registerLanguage("javascript", javascript);
+hljs.registerLanguage("js", javascript);
+hljs.registerLanguage("json", json);
+hljs.registerLanguage("markdown", markdown);
+hljs.registerLanguage("md", markdown);
+hljs.registerLanguage("plaintext", plaintext);
+hljs.registerLanguage("text", plaintext);
+hljs.registerLanguage("typescript", typescript);
+hljs.registerLanguage("ts", typescript);
+hljs.registerLanguage("vue", xml);
+hljs.registerLanguage("xml", xml);
 
 // 定义 props 和 emits
 const props = defineProps({
   content: {
     type: String,
-    default: ''
-  }
+    default: "",
+  },
 });
 
-const emit = defineEmits(['update:content']);
+const emit = defineEmits(["update:content"]);
 
 // 初始化数据
 const markdownContent = ref(props.content);
-const parsedMarkdown = ref('');
-const currentView = ref('split');
+const parsedMarkdown = ref("");
+const currentView = ref("split");
 
 // 设置 marked 选项
 marked.setOptions({
@@ -86,22 +107,25 @@ marked.setOptions({
     return hljs.highlightAuto(code).value;
   },
   breaks: true,
-  gfm: true
+  gfm: true,
 });
 
 // 更新预览内容
 const updatePreview = () => {
   parsedMarkdown.value = marked.parse(markdownContent.value);
-  emit('update:content', markdownContent.value);
+  emit("update:content", markdownContent.value);
 };
 
 // 监听 props.content 变化
-watch(() => props.content, (newVal) => {
-  if (newVal !== markdownContent.value) {
-    markdownContent.value = newVal;
-    updatePreview();
-  }
-});
+watch(
+  () => props.content,
+  (newVal) => {
+    if (newVal !== markdownContent.value) {
+      markdownContent.value = newVal;
+      updatePreview();
+    }
+  },
+);
 
 // 初始化
 onMounted(() => {
@@ -116,7 +140,9 @@ onMounted(() => {
   height: 100%;
   border-radius: 0.5rem;
   overflow: hidden;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  box-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
 }
 
 .editor-header {
@@ -156,7 +182,8 @@ onMounted(() => {
   overflow: hidden;
 }
 
-.editor-wrapper, .preview-wrapper {
+.editor-wrapper,
+.preview-wrapper {
   flex: 1;
   min-height: 400px;
   overflow: auto;
@@ -173,7 +200,7 @@ onMounted(() => {
   border: none;
   background-color: transparent;
   color: #d4d4d4;
-  font-family: Consolas, Monaco, 'Andale Mono', monospace;
+  font-family: Consolas, Monaco, "Andale Mono", monospace;
   font-size: 14px;
   resize: none;
   outline: none;
@@ -189,8 +216,12 @@ onMounted(() => {
 }
 
 /* 预览区域样式 */
-.preview-wrapper h1, .preview-wrapper h2, .preview-wrapper h3, 
-.preview-wrapper h4, .preview-wrapper h5, .preview-wrapper h6 {
+.preview-wrapper h1,
+.preview-wrapper h2,
+.preview-wrapper h3,
+.preview-wrapper h4,
+.preview-wrapper h5,
+.preview-wrapper h6 {
   margin-top: 1.5rem;
   margin-bottom: 1rem;
   color: #1a202c;
@@ -202,7 +233,8 @@ onMounted(() => {
   color: #2d3748;
 }
 
-.preview-wrapper ul, .preview-wrapper ol {
+.preview-wrapper ul,
+.preview-wrapper ol {
   margin-bottom: 1rem;
   padding-left: 1.5rem;
 }
@@ -220,7 +252,7 @@ onMounted(() => {
 }
 
 .preview-wrapper code {
-  font-family: Consolas, Monaco, 'Andale Mono', monospace;
+  font-family: Consolas, Monaco, "Andale Mono", monospace;
   font-size: 0.9rem;
   background-color: #edf2f7;
   padding: 0.1rem 0.3rem;
@@ -270,9 +302,10 @@ onMounted(() => {
   .editor-content {
     flex-direction: column;
   }
-  
-  .editor-wrapper, .preview-wrapper {
+
+  .editor-wrapper,
+  .preview-wrapper {
     min-height: 200px;
   }
 }
-</style>  
+</style>

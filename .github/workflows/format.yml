@@ -6,9 +6,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
 
       - uses: ./.github/actions/install-deps
 
       - name: Check Formatting with auto fixing
-        run: bunx prettier --write --check "**/*.{js,json,md}"
+        run: npm run docs:fmt

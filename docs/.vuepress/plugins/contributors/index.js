@@ -6,6 +6,7 @@ const CONTRIBUTOR_ALIASES = {
   Kozumi: "Kozumi",
   rankozumi: "Kozumi",
   Kozmosa: "Kozumi",
+  "Yuyun Chen": "Rotioki",
 };
 
 export default (options = {}) => {
@@ -74,8 +75,7 @@ export default (options = {}) => {
 
 function collectGitContributors(repoRoot) {
   try {
-    const stdout = execFileSync("git", ["log", "--format=%an", "--", "."], {
-      cwd: repoRoot,
+    const stdout = execFileSync("git", ["log", "--format=%aN", "--", "."], {
       encoding: "utf-8",
       stdio: ["ignore", "pipe", "pipe"],
     });
