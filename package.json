@@ -36,6 +36,5 @@
   },
   "allowScripts": {
     "simple-git-hooks@2.13.1": true
-  },
-  "__npminstall_done": false
+  }
 }
