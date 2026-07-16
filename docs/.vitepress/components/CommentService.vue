@@ -27,6 +27,7 @@ onMounted(() => {
     path: route.path,
     lang: commentLanguage(),
     reaction: true,
+    dark: "html.dark",
   });
 });
 
