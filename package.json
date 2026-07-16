@@ -9,18 +9,30 @@
     "docs:build": "npm run docs:sync:vitepress-public && vitepress build docs",
     "docs:dev": "npm run docs:sync:vitepress-public && vitepress dev docs",
     "docs:preview": "vitepress preview docs",
-    "docs:fmt": "prettier --check $(git ls-files '*.js' '*.json' '*.md')"
+    "docs:fmt": "prettier --check '**/*.{js,ts,json,md,vue,html,yml}'",
+    "docs:fmt:fix": "prettier --write '**/*.{js,ts,json,md,vue,html,yml}'",
+    "prepare": "simple-git-hooks"
+  },
+  "lint-staged": {
+    "*.{js,ts,json,md,vue,html,yml}": "prettier --write"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "npx lint-staged"
   },
   "devDependencies": {
+    "lint-staged": "^17.0.8",
     "prettier": "^3.9.5",
-    "vitepress": "^1.5.0",
+    "simple-git-hooks": "^2.13.1",
+    "vitepress": "^2.0.0-alpha.17",
     "vue": "^3.5.16"
   },
   "dependencies": {
     "@waline/client": "^3.5.7",
     "dompurify": "^3.2.6",
-    "highlight.js": "^11.11.1",
-    "marked": "^15.0.12",
-    "pdfjs-dist": "^3.11.174"
+    "pdfjs-dist": "^6.1.200",
+    "marked": "^15.0.12"
+  },
+  "allowScripts": {
+    "simple-git-hooks@2.13.1": true
   }
 }
