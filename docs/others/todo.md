@@ -6,9 +6,9 @@ description: 项目中的 TODO 列表汇总
 
 # TODO 汇总
 
-> 最后更新时间: 2026-07-15 18:18:06
+> 最后更新时间: 2026-07-16 05:55:24
 
-共找到 35 个 TODO 项
+共找到 34 个 TODO 项
 
 ## beyond/abroad/phd.md
 
@@ -97,11 +97,6 @@ description: 项目中的 TODO 列表汇总
 
 - **第 7 行**: TODO: 五山校区周边去处的简介页面
   - [查看源文件](/infra/wushan/nearby.md)
-
-## introduction.md
-
-- **第 27 行**: TODO: 将本页从“学校百科简介”重写为“这本手册是什么、适合谁、怎么使用、哪些内容可能过期、如何参与共建”的项目介绍页。
-  - [查看源文件](/introduction.md)
 
 ## learn/curricular/common_basic_lessons.md
 
