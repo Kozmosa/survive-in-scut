@@ -1,14 +1,13 @@
 ---
-sidebar: auto
 title: TODO 汇总
-description: 项目中的 TODO 列表汇总
+outline: [2, 3]
 ---
 
 # TODO 汇总
 
-> 最后更新时间: 2026-07-16 05:55:24
+> 最后更新时间: 2026-07-16 15:38:09 (UTC+8)
 
-共找到 34 个 TODO 项
+共找到 36 个 TODO 项
 
 ## beyond/abroad/phd.md
 
@@ -98,6 +97,11 @@ description: 项目中的 TODO 列表汇总
 - **第 7 行**: TODO: 五山校区周边去处的简介页面
   - [查看源文件](/infra/wushan/nearby.md)
 
+## introduction.md
+
+- **第 46 行**: - 阅读[贡献指南](/others/contributing.html)与[TODO 汇总](/others/todo.html)，认领尚未完善的内容。
+  - [查看源文件](/introduction.md)
+
 ## learn/curricular/common_basic_lessons.md
 
 - **第 76 行**: TODO: 完善线代的课程描述与学习资料
@@ -148,6 +152,8 @@ description: 项目中的 TODO 列表汇总
 
 ## others/contributing.md
 
+- **第 9 行**: 可加入编辑部提交贡献文档，或直接为本项目提交PR来贡献内容！在开始前，建议先阅读[维护路线图](/others/roadmap.html)和[TODO 汇总](/others/todo.html)，这样更容易把贡献投到高优先级缺口上。
+  - [查看源文件](/others/contributing.md)
 - **第 174 行**: TODO: 补充文档编撰规范（附件命名、来源标注、外链规范、时间敏感信息标记、翻译同步规则、引用官方信息的写法）。
   - [查看源文件](/others/contributing.md)
 - **第 176 行**: TODO: 建立年度更新流程（迎新、校巴、地图、转专业、校医院、周边信息等高时效页面每学年至少核对一次）。

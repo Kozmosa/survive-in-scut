@@ -17,7 +17,7 @@ This file tracks the low-priority migration path from VuePress 2 to VitePress.
   - `npm run docs:build`
   - `npm run docs:build:vitepress`
   - `npm run docs:build:platform`
-  all completed successfully.
+    all completed successfully.
 
 ## What Already Carries Over
 

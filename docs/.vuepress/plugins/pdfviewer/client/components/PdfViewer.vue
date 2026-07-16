@@ -5,7 +5,14 @@
 
     <template v-if="pdfLoaded">
       <div class="pdf-toolbar">
-        <button class="pdf-btn" @click="prevPage" :disabled="currentPage <= 1" title="上一页 (←)">‹</button>
+        <button
+          class="pdf-btn"
+          @click="prevPage"
+          :disabled="currentPage <= 1"
+          title="上一页 (←)"
+        >
+          ‹
+        </button>
         <span class="pdf-page-indicator">
           <input
             class="pdf-page-input"
@@ -19,13 +26,34 @@
           <span class="pdf-page-sep">/</span>
           <span class="pdf-page-total">{{ numPages }}</span>
         </span>
-        <button class="pdf-btn" @click="nextPage" :disabled="currentPage >= numPages" title="下一页 (→)">›</button>
+        <button
+          class="pdf-btn"
+          @click="nextPage"
+          :disabled="currentPage >= numPages"
+          title="下一页 (→)"
+        >
+          ›
+        </button>
 
         <span class="pdf-toolbar-sep">|</span>
 
-        <button class="pdf-btn" @click="zoomOut" :disabled="scale <= 0.25" title="缩小">−</button>
+        <button
+          class="pdf-btn"
+          @click="zoomOut"
+          :disabled="scale <= 0.25"
+          title="缩小"
+        >
+          −
+        </button>
         <span class="pdf-zoom-text">{{ zoomPercent }}%</span>
-        <button class="pdf-btn" @click="zoomIn" :disabled="scale >= 3" title="放大">+</button>
+        <button
+          class="pdf-btn"
+          @click="zoomIn"
+          :disabled="scale >= 3"
+          title="放大"
+        >
+          +
+        </button>
         <button class="pdf-btn" @click="fitToWidth" title="适应宽度">⊡</button>
       </div>
 
@@ -78,9 +106,8 @@ export default {
 
       try {
         const pdfjs = await import("pdfjs-dist/legacy/build/pdf.mjs");
-        const pdfjsWorker = await import(
-          "pdfjs-dist/legacy/build/pdf.worker.mjs?url"
-        );
+        const pdfjsWorker =
+          await import("pdfjs-dist/legacy/build/pdf.worker.mjs?url");
         pdfjs.GlobalWorkerOptions.workerSrc = pdfjsWorker.default;
 
         const pdf = await pdfjs.getDocument({ url: props.src }).promise;
@@ -190,10 +217,13 @@ export default {
       window.removeEventListener("keydown", handleKeydown);
     });
 
-    watch(() => props.src, () => {
-      pdfDoc = null;
-      loadPdf();
-    });
+    watch(
+      () => props.src,
+      () => {
+        pdfDoc = null;
+        loadPdf();
+      },
+    );
 
     return {
       canvas,

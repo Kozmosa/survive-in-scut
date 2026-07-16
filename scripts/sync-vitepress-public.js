@@ -1,4 +1,4 @@
-import { cp, mkdir, rm, stat } from "node:fs/promises";
+import { cp, mkdir, stat } from "node:fs/promises";
 import path from "node:path";
 
 const repoRoot = process.cwd();
@@ -11,8 +11,7 @@ try {
   throw new Error(`Source public dir not found: ${sourceDir}`);
 }
 
-await rm(targetDir, { recursive: true, force: true });
-await mkdir(path.dirname(targetDir), { recursive: true });
+await mkdir(targetDir, { recursive: true });
 await cp(sourceDir, targetDir, { recursive: true });
 
 console.log(`[sync-vitepress-public] copied ${sourceDir} -> ${targetDir}`);

@@ -8,7 +8,12 @@ import path from "path";
  * @returns {Array} 找到的TODO项列表
  */
 export function scanDirectory(directory, options) {
-  const { todoKeywords, fileExtensions, excludeDirs, ignoredFiles = [] } = options;
+  const {
+    todoKeywords,
+    fileExtensions,
+    excludeDirs,
+    ignoredFiles = [],
+  } = options;
   const todoList = [];
   const ignoredRelativePaths = new Set(ignoredFiles);
 

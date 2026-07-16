@@ -1,18 +1,23 @@
 <template>
-  <div class="expandable-card border rounded-lg overflow-hidden transition-all duration-300 shadow-sm hover:shadow-md">
+  <div
+    class="expandable-card border rounded-lg overflow-hidden transition-all duration-300 shadow-sm hover:shadow-md"
+  >
     <!-- 卡片标题区域 -->
-    <div 
+    <div
       class="flex items-center justify-between p-4 bg-gray-50 cursor-pointer"
       @click="toggleExpanded"
     >
       <h3 class="text-lg font-semibold text-gray-800">{{ displayTitle }}</h3>
-      <div class="transition-transform duration-300" :class="{ 'rotate-180': isExpanded }">
+      <div
+        class="transition-transform duration-300"
+        :class="{ 'rotate-180': isExpanded }"
+      >
         <i class="fa fa-chevron-down text-gray-500"></i>
       </div>
     </div>
-    
+
     <!-- 卡片内容区域 -->
-    <div 
+    <div
       class="max-h-0 overflow-hidden transition-all duration-500 ease-in-out"
       :style="{ maxHeight: isExpanded ? contentHeight : '0px' }"
     >
@@ -24,38 +29,38 @@
 </template>
 
 <script setup>
-import { ref, onMounted, nextTick, watch, computed } from 'vue';
+import { ref, onMounted, nextTick, watch, computed } from "vue";
 
 // 定义组件属性
 const props = defineProps({
   title: {
     type: String,
-    default: ''
+    default: "",
   },
   // 默认展开状态改为true
   defaultExpanded: {
     type: Boolean,
-    default: true
-  }
+    default: true,
+  },
 });
 
 // 定义组件状态
 const isExpanded = ref(props.defaultExpanded);
-const contentHeight = ref('0px');
-const firstLine = ref('');
+const contentHeight = ref("0px");
+const firstLine = ref("");
 
 // 定义DOM引用
 const contentRef = ref(null);
 
 // 计算显示的标题（优先使用props.title，否则使用内容第一行）
 const displayTitle = computed(() => {
-  return props.title || firstLine.value || '展开内容';
+  return props.title || firstLine.value || "展开内容";
 });
 
 // 计算内容区域的高度
 const calculateContentHeight = () => {
   if (contentRef.value) {
-    contentHeight.value = contentRef.value.scrollHeight + 'px';
+    contentHeight.value = contentRef.value.scrollHeight + "px";
   }
 };
 
@@ -65,7 +70,7 @@ const extractFirstLine = () => {
     // 获取内容文本
     const contentText = contentRef.value.textContent.trim();
     // 提取第一行
-    const firstLineText = contentText.split('\n')[0].trim();
+    const firstLineText = contentText.split("\n")[0].trim();
     firstLine.value = firstLineText;
   }
 };
@@ -94,11 +99,11 @@ watch(isExpanded, (newValue) => {
     });
   } else {
     // 收起时重置高度
-    contentHeight.value = '0px';
+    contentHeight.value = "0px";
   }
 });
 </script>
 
 <style scoped>
 /* 这里可以添加自定义样式，如果需要的话 */
-</style>    
+</style>
