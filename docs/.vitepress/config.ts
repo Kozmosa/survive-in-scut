@@ -277,11 +277,17 @@ export default defineConfig({
       link: "/en/",
     },
   },
+  markdown: {
+    math: true,
+  },
   themeConfig: {
     logo: "/root-assets/logo/scut-cat-1.jpg",
     nav: navZh,
     search: { provider: "local" },
-    outline: [2, 3],
+    outline: {
+      level: [2, 3],
+      label: "大纲",
+    },
     lastUpdatedText: "最后更新",
     docFooter: { prev: "上一页", next: "下一页" },
     editLink: {
@@ -293,11 +299,18 @@ export default defineConfig({
       message: "CC-BY-SA 2.0 Licensed",
       copyright: "Copyright © 2025-present Kozumi & 转群",
     },
+    darkModeSwitchLabel: "切换外观",
+    darkModeSwitchTitle: "切换到深色模式",
+    lightModeSwitchTitle: "切换到浅色模式",
     locales: {
       root: { label: "简体中文", nav: navZh },
       en: {
         label: "English",
         nav: navEn,
+        outline: {
+          level: [2, 3],
+          label: "Outline",
+        },
         lastUpdatedText: "Last updated",
         docFooter: { prev: "Previous", next: "Next" },
         editLink: {

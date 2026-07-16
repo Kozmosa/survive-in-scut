@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "lint-staged": "^17.0.8",
+    "markdown-it-mathjax3": "^4.3.2",
     "prettier": "^3.9.5",
     "simple-git-hooks": "^2.13.1",
     "vitepress": "^2.0.0-alpha.17",
