@@ -97,11 +97,6 @@ outline: [2, 3]
 - **第 7 行**: TODO: 五山校区周边去处的简介页面
   - [查看源文件](/infra/wushan/nearby.md)
 
-## introduction.md
-
-- **第 27 行**: TODO: 将本页从“学校百科简介”重写为“这本手册是什么、适合谁、怎么使用、哪些内容可能过期、如何参与共建”的项目介绍页。
-  - [查看源文件](/introduction.md)
-
 ## learn/curricular/common_basic_lessons.md
 
 - **第 76 行**: TODO: 完善线代的课程描述与学习资料
