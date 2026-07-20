@@ -139,6 +139,9 @@ bun.lock
 vue-platform-dist/
 vite-platform-dist/
 
+# Playwright CLI artifacts
+.playwright-cli/
+
 # VitePress cache artifacts
 docs/.vitepress/cache/
 

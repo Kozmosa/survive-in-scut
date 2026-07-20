@@ -5,9 +5,9 @@ outline: [2, 3]
 
 # TODO 汇总
 
-> 最后更新时间: 2026-07-16 15:38:09 (UTC+8)
+> 最后更新时间: 2026-07-21 00:46:07 (UTC+8)
 
-共找到 36 个 TODO 项
+共找到 31 个 TODO 项
 
 ## beyond/abroad/phd.md
 
@@ -37,25 +37,6 @@ outline: [2, 3]
   - [查看源文件](/copyrights.md)
 - **第 26 行**: TODO: 明确贡献者提交文本、图片、表格和脚本时默认采用什么授权，以及维护者在合并前需要检查哪些版权信息。
   - [查看源文件](/copyrights.md)
-
-## en/copyrights.md
-
-- **第 22 行**: TODO: Align the repository root `LICENSE`, the homepage footer text that says `CC-BY-SA`, the `CC0` note in `others/ask-the-smart-way.md`, and any other page-level exception statements.
-  - [查看源文件](/en/copyrights.md)
-- **第 24 行**: TODO: Add source, license, and reuse notes for third-party assets, especially images, PDFs, embedded components, app-related resources, and mirrored external content.
-  - [查看源文件](/en/copyrights.md)
-- **第 26 行**: TODO: Document the default contribution license for text, images, tables, and scripts, plus the copyright checks maintainers should perform before merging.
-  - [查看源文件](/en/copyrights.md)
-
-## en/get-started.md
-
-- **第 97 行**: TODO: Replace this Chinese draft with a real English onboarding page, and keep year-specific logistics synchronized with the Chinese source page each admission cycle.
-  - [查看源文件](/en/get-started.md)
-
-## en/introduction.md
-
-- **第 27 行**: TODO: Rewrite this page as a handbook introduction for readers and contributors, instead of keeping it as a generic university encyclopedia summary.
-  - [查看源文件](/en/introduction.md)
 
 ## get-started.md
 
