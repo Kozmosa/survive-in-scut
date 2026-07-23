@@ -762,7 +762,7 @@ https://github.com/Wh1te358/skills-by-Wh1te/tree/codex/exam-hacker-skill/exam-ha
 
 所以，这个文档的目的，就是为了给你从课业中“抢”出时间，用来练习出题。如果大学毕业，你只比高中多了一点点用不上的知识，这才是最大的悲哀。
 
-到这里，我想说的都已经说完了。希望这个文档能给你一些收获，启发你去重新看待期末考试，以及整个大学。如果有任何意见和建议，可以通过本项目的 [GitHub Issue](https://github.com/Kozmosa/survive-in-scut/issues) 反馈。
+到这里，我想说的都已经说完了。希望这个文档能给你一些收获，启发你去重新看待期末考试，以及整个大学。如果有任何意见和建议，可以通过文末问卷或本项目的 [GitHub Issue](https://github.com/Kozmosa/survive-in-scut/issues) 反馈。
 
 我也在和你一起走大学之路，you are not alone.
 
@@ -777,3 +777,9 @@ https://github.com/Wh1te358/skills-by-Wh1te/tree/codex/exam-hacker-skill/exam-ha
 感谢Gemini和ChatGPT对我写作的不遗余力的支持。突然感觉生在这个时代还是挺幸运的。如果没有AI，这本电子书的进度肯定会大大减缓。
 
 （这里留个空，用来感谢我未来的对象，等我哪天找到了就把这里填上。）
+
+## 读者反馈
+
+扫描下方二维码填写《自学科学与技术》读者反馈问卷。
+
+![《自学科学与技术》读者反馈问卷二维码](./self_study_science_technology_assets/reader_feedback_questionnaire.png)
