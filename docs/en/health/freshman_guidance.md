@@ -1,199 +1,200 @@
 ---
-lang: zh-CN
-title: 立志篇
-description: 面向新生的大学选择权、环境与自我管理建议
+lang: en-US
+title: On Ambition
+description: Advice for freshmen on navigating university choices, environment, and self-management
+llm_translated: true
 ---
 
-# 你到大学，是来重新获得选择权的
+# You Came to University to Regain Your Right to Choose
 
-高中的时候，我们总是幻想，等考上大学就轻松了。
+Back in high school, we always fantasized that once we got into university, life would be easy.
 
-但实际上，到了大学也不自由，反而会有更多的压力。因为此时的评价标准，从单一的分数变成了绩点，综测，竞赛，科研，学生活动等各个方面。
+But in reality, university isn't truly free either — instead, there's even more pressure. Because the evaluation criteria have shifted from a single measure — exam scores — to GPA, comprehensive assessments, competitions, research, student activities, and so on.
 
-你可能已经感觉到了，但还没对人说过——别人好像都知道自己在干什么，只有你不知道。
+You may have already felt it, but haven't told anyone — everyone else seems to know what they're doing, and only you don't.
 
-大学第一年要做的，是不要太早把自己变成一个没有选择权的人。
+What you need to do in your first year of university is: don't turn yourself into someone with no choices too early.
 
-这里的选择权，不是抽象的自由，而是具体的资格。
+The “right to choose” here isn't abstract freedom — it's concrete qualifications.
 
-想要转专业，大一的数学成绩必须足够优秀；想要保研，得能拿得出竞赛/科研成果；想要找工作，需要足够的实习、项目经历和技能；想要换一条路，首先不会被挂科和身体条件给拖累。
+Want to switch majors? You need excellent math grades from your first year. Want graduate school recommendation? You need competition or research results. Want a job? You need enough internships, projects, and skills. Want to change paths? You'd better not be held back by failing grades or health issues.
 
-这里面的逻辑和高中完全不同。高中的排名系统里，所有人都在同一条跑道上比谁快。大学的选择权系统里，每个人在攒不同的资格组合，但每个资格都有硬门槛。
+The logic here is completely different from high school. In high school's ranking system, everyone runs on the same track to see who's faster. In university's choice system, each person accumulates different combinations of qualifications, but every qualification has a hard threshold.
 
-这意味着两件事。
+This means two things.
 
-第一，你不需要在所有赛道上都赢。你只需要在你选的赛道上过门槛。
+First, you don't need to win on every track. You just need to clear the bar on the track you choose.
 
-第二，也是更重要的一件：**在排名系统里，证明自己就是目的。在选择权系统里，证明自己是幻觉。** 你积累的资格才是真的。
+Second, and more importantly: **In the ranking system, proving yourself is the goal. In the choice system, proving yourself is an illusion.** The qualifications you accumulate are what's real.
 
-如果你对自己要求比较高，或者是“落榜”来的华工，你很有可能想着在大学证明自己。
+If you have high expectations for yourself, or if you came to SCUT thinking you “underperformed,” you might be determined to prove yourself in university.
 
-然而大学的标准是隐蔽的、分散的、被人为设计的。你越想证明自己，越容易被别人设计好的评价体系牵着走。
+But university standards are hidden, fragmented, and designed by others. The more you want to prove yourself, the easier it is to be led around by evaluation systems others have designed.
 
-学生会、社团、各种“优秀”的标签，很多不过是有人给你画了一个圈，告诉你跳进去就叫厉害。
+Student unions, clubs, all kinds of “outstanding” labels — many are just someone drawing a circle and telling you that jumping inside means you're impressive.
 
-你跳了，一年后，你会发现，自己所做的所有事情，没有一件能写进简历里面。
+You jump in, and a year later, you realize that nothing you've done can go on your resume.
 
-大学里面很多的事情，唯一的价值就是显得你很忙碌。它们往往做完就完，留不下任何积累性的东西。
+Many things in university have only one value: making you look busy. Once done, they leave nothing behind — nothing cumulative.
 
-所以问题不是「该证明给谁看」。问题是**把「证明」这个词从你的大学字典里删掉。**
+So the question isn't “who should I prove myself to.” The question is **delete the word “prove” from your university dictionary.**
 
-你不需要向任何人证明任何东西。你需要的是：每一个学期结束的时候，你的手里比开学时多了至少一样别人拿不走的东西。
+You don't need to prove anything to anyone. What you need is: at the end of each semester, you have at least one more thing in your hand that no one can take away from you than you did at the start.
 
-那大一应该攒什么？
+So what should you accumulate in your first year?
 
-1. 成绩
+### 1. Grades
 
-不要把成绩奉为圭臬，但是也不要完全轻视。
+Don't worship grades, but don't dismiss them either.
 
-大一课程多，学分高，你大一的均分是多少，接下来4年就几乎不会变了。
+First year has heavy course loads and high credit weights. Your first-year average will hardly change for the next four years.
 
-反过来说，如果你大一的成绩足够好，你可以在接下来匀出更多时间给自己探索，去做那些不一定有用但真正重要的事情。
+Conversely, if your first-year grades are good enough, you can free up more time later to explore — to do things that may not be immediately useful but are truly important.
 
-2. 信息
+### 2. Information
 
-公开的信息，包括培养方案，转专业政策，保研规则，竞赛名单等。这些东西靠自己完全可以查到，但很多人根本意识不到自己要去查。
+Public information includes: your program's curriculum, transfer policies, graduate recommendation rules, competition lists, etc. You can find all of this on your own, but many people don't even realize they need to look.
 
-私密的信息，包括xx老师上课风格，查考勤严不严，竞赛踩坑经历，保研经验等，这些必须要去问学长学姐才能获得。有时他们一句话，就能让我们避免很多的弯路。
+Private information includes: how a certain professor teaches, whether attendance is strictly checked, competition pitfalls, graduate recommendation experiences — this you have to ask senior students. Sometimes a single sentence from them can save you a lot of detours.
 
-信息渠道和收集，不是“以后再说”的事。
+Information channels and collection aren't something you put off until “later.”
 
-3. 作品
+### 3. Work (Portfolio)
 
-这是能写进简历的大杀器。因为作品所带来的东西，是只有你自己拥有的认知。
+This is the killer item for your resume. Because what a work brings is insight that only you possess.
 
-代码、文章、项目、竞赛结果、调研报告，这些东西，能说明的不仅仅是“感兴趣”，还在告诉外界，我从头到尾做过这件事，我清楚里面的细节，我有别人拿不走的东西。
+Code, articles, projects, competition results, research reports — these don't just show you're “interested”; they tell the world that you've seen something through from start to finish, that you know the details, that you have something no one can take away.
 
-作品的另一个好处是，它不依赖于任何人的认可。你写了一段代码，它在那。你写完一篇文章，它在那。不需要谁来给你盖章。
+Another advantage of a portfolio is that it doesn't depend on anyone's recognition. You write a piece of code — it's there. You finish an article — it's there. No one needs to stamp it for approval.
 
-4. 身体和情绪
+### 4. Body and Mind
 
-绝大部分的大学生，一天只有"半天"：睡到中午起床，点个拼好饭，下午打游戏，晚上刷视频，刷到凌晨再睡觉，重复4年。
+The vast majority of university students only have “half a day”: wake up at noon, order some cheap food delivery, play games in the afternoon, watch videos at night, scroll until dawn, then sleep — repeat for four years.
 
-稳定规律的作息是一切志向的基础。身体不好，远大的志向反而会更快消耗你的电量，把你拖垮。
+A stable, regular routine is the foundation of any ambition. If your health is poor, lofty ambitions will only drain your battery faster and burn you out.
 
-也许你看到这里，还是不知道自己的方向，不过无妨。
+Maybe after reading all this, you still don't know your direction. That's fine.
 
-大学第一年真正要做的，是不要太早把自己变成一个没有选择的人。
+What university's first year is truly about: don't let yourself become someone without options too early.
 
-你不用证明自己配得上这里，你需要的是拿到下一次选择的主动权。
+You don't need to prove you belong here. What you need is to earn the initiative for your next choice.
 
-# 大学最危险的地方，是它不阻止你堕落
+# The Most Dangerous Thing About University Is That It Doesn't Stop You From Spiraling
 
-两个月前，我访谈了一个学姐，她告诉我，综测前4，她们寝室占了3位。
+Two months ago, I interviewed a senior. She told me that among the top 4 in comprehensive evaluation, 3 were from her dorm.
 
-我问她怎么做到的。她说了很多，但没有一条是“因为我意志力强”。
+I asked how they managed it. She said a lot, but not a single line was “because I have strong willpower.”
 
-我以前以为，大学生的分化，怎样也得到大二大三才能看出来，但后来我发现，很多人从大学开学两个月，就进入了不同的轨道。
+I used to think that student divergence wouldn't show until sophomore or junior year. But I later realized that many people had already entered different tracks just two months into freshman year.
 
-这样的分化，很大程度上不取决于你，取决于你旁边坐着谁。
+This divergence largely doesn't depend on you — it depends on who you sit next to.
 
-进入大学，我们从一个极端进入了另一个极端：
+Entering university, we go from one extreme to another:
 
-以前是严格管控手机，严格限制零花钱，严格监督学习，严格安排作息。
+In high school: strict phone controls, tight allowance limits, supervised study, scheduled routines.
 
-现在是手机电脑自由，零花钱相对更充裕，没有人管你学不学，第一次拥有大量无人监管的时间。
+In university: complete freedom with phones and computers, relatively more pocket money, no one checking whether you study, and for the first time, massive amounts of unsupervised time.
 
-而我们的心智却不够成熟，很难跟上这样的切换。
+But our minds aren't mature enough to handle this switch.
 
-大一入校，大家最开始都不知道大学运行的规则，也没有人来带我们。
+When freshmen first arrive, nobody knows how university works, and no one guides us.
 
-但是有的人会选择自己去摸索规则，去查培养方案，去咨询学长学姐，去上课坐第一排，而有的人只会等待规则自己找上门来。
+But some people choose to figure out the rules on their own — look up the curriculum, consult senior students, sit in the front row of class. Others just wait for the rules to come to them.
 
-两个月后，大家的作息、信息获取方式、时间分配模式固定下来，会在后面的时间里自动运行。
+Two months in, everyone's routine, information-gathering methods, and time allocation patterns settle in, and from then on, they run on autopilot.
 
-开学两个月不决定大学四年的命运，但决定你默认的行为模式。此时想要再改变，就得逆着惯性。
+The first two months of freshman year don't decide your entire four years, but they decide your default behavior patterns. Changing later means fighting against inertia.
 
-我接下来问学姐是怎么抵挡这些诱惑的，她告诉我：“我们（室友）当时就是晚上就会去图书馆学习，然后包括就是上课的时候，我们三个都坐在第一排。你就会觉得就是有个搭子跟你在一起。然后就会所有人，也就我们寝室的四个人都会很努力、很努力”
+I asked the senior how she resisted temptations. She said: “We (my roommates) would go to the library to study in the evenings, and during class, all three of us sat in the front row. You feel like you have a partner with you. And then everyone — all four of us in the dorm — worked really, really hard.”
 
-她所谓的自律，并不是靠燃烧意志，而恰恰是被一个好的环境给推着进入了一个正循环。
+Her so-called self-discipline wasn't about burning willpower — it was being pushed into a positive cycle by a good environment.
 
-每天和室友一起去图书馆，有更多学习的时间，课程跟得上，成绩变好，因此对自己的要求更高，更愿意继续学习。
+Going to the library with roommates every day meant more study time, keeping up with courses, better grades — which raised her own standards and made her want to keep studying.
 
-很多人都以为先有内驱力，再有自律，但实际上，是环境先生成习惯，习惯产生正反馈，正反馈中生长出内驱力。
+Many people think you need intrinsic motivation first, then self-discipline. But in reality, the environment generates habits, habits generate positive feedback, and positive feedback grows intrinsic motivation.
 
-她们寝室，除了出现综测第1，2，4名，还有一个更重要的默认设置：
+Their dorm didn't just produce the 1st, 2nd, and 4th highest comprehensive evaluation scores. There was something more important — the default setting:
 
-大一打好基础之后，虽然大二的舍友没那么努力了，但你已经养成习惯，而且对自己有一定要求，内驱力会更强。
+After building a solid foundation freshman year, even though roommates in sophomore year weren't as hardworking, you've already formed the habit and developed standards for yourself. Your intrinsic motivation is stronger.
 
-高中的时候，堕落是会被拦住的。
+In high school, spiraling is stopped.
 
-考试没考好，老师会找你谈话，家长会督促你努力，整个系统中间，有无数次拦截你的机会。
+If you fail an exam, teachers talk to you, parents push you to work harder — the whole system gives you countless opportunities for intervention.
 
-而大学没有这些。
+University doesn't have that.
 
-大学的反馈是延时的，没有人拦着你，没有人告诉你平时成绩是老师捞你的机会，没有人提醒你挂科之后转专业资格直接消失，没有人会在你连着两周不出宿舍时拉着你出去。
+Feedback in university is delayed. No one stops you. No one tells you that your regular grades are the professor's way of giving you a lifeline. No one reminds you that failing a course means your transfer eligibility disappears. No one pulls you out when you haven't left your dorm in two weeks.
 
-等你反应过来的时候，保研资格没了，转专业门槛过不去了，简历上填不出东西了，自己踩不下刹车了。
+By the time you realize it, your graduate recommendation eligibility is gone, you can't meet the bar for transferring majors, your resume is empty, and you can't hit the brakes.
 
-大学并不是刻意想让你堕落，只是它没有设计阻止你堕落的机制。
+University doesn't intentionally want you to spiral. It just wasn't designed with mechanisms to stop you from spiraling.
 
-学姐分配到的室友很上进，这点确实存在运气成分。
+The senior was lucky to have motivated roommates. That's a factor of luck.
 
-实际上，绝大部分，包括我自己的宿舍，学习的氛围都不浓厚。
+In reality, the vast majority — including my own dorm — don't have a strong studying atmosphere.
 
-既然宿舍氛围不好，就把图书馆、自习室、实验室变成第二生活空间。这些地方的氛围是自然存在的，只需要去那里，然后和别人做相同的事情即可。
+If your dorm atmosphere isn't great, make the library, study rooms, and labs your second living space. The atmosphere in these places naturally exists. Just go there and do the same thing everyone else is doing.
 
-离开寝室，意味着进入一个谁都不认识的空间，但这一刻就是分化的开始。
+Leaving your dorm means entering a space where no one knows you. But that moment is the beginning of divergence.
 
-信息环境也是一样。培养方案、转专业政策、保研规则——这些东西不需要室友告诉你，你自己可以去找。
+The same goes for your information environment. Curriculum, transfer policies, graduate recommendation rules — you don't need your roommates to tell you these things. You can find them yourself.
 
-不管是显性还是隐性的信息，都得自己出手，别幻想着老师和学长学姐会嚼碎喂给你。
+Whether public or hidden information, you have to go get it yourself. Don't expect teachers or senior students to chew it up and feed it to you.
 
-环境是随机的，但你对环境的选择不是。
+Your environment is random. But your choice of environment is not.
 
-大一前两个月，你不是在决定自己会变成谁，你是在决定自己会和谁一起变成谁。
+In the first two months of freshman year, you're not deciding who you'll become. You're deciding who you'll become with.
 
-好环境最可怕的地方，是它把努力变得正常，差环境最可怕的地方，是它让堕落也显得正常。
+The scariest thing about a good environment is that it makes hard work feel normal. The scariest thing about a bad environment is that it makes spiraling feel normal too.
 
-# 高中教了你 12 年的事，AI 时代不再重要了
+# What High School Taught You for 12 Years Is No Longer Important in the AI Era
 
-你刚刚进入大学，可能就会碰到老师说“不要用 AI，那是作弊”。而你的学长学姐会告诉你“别手搓，用 AI”。
+You just entered university, and you might hear a professor say, “Don't use AI — that's cheating.” Meanwhile, your senior students will tell you, “Don't do it by hand — use AI.”
 
-这无关谁对谁错，这是两套体系之间的裂痕。而你有 4 年的时间，摸清这一道裂痕的边界。
+This isn't about who's right or wrong. It's a rift between two systems. And you have four years to figure out where that rift's boundaries lie.
 
-高中所面对的题目，是信息完备下的推理。根据已知条件和所学，从逻辑上一定能得到答案，如果得不到，那就只可能是题出错了。
+High school problems are about reasoning with complete information. Given known conditions and what you've learned, you can logically arrive at an answer. If you can't, the problem must be wrong.
 
-而进入大学所面对的情况，是信息不完备下的判断：
+What you face in university is judgment with incomplete information:
 
-比如准备期末考，别人有学长学姐笔记，有往年真题，而你可能只有教材和复习课拍的PPT，坐在图书馆里对着电脑发呆，不知从何处下手。
+For example, preparing for finals — others have senior students' notes and past exam papers. You might only have the textbook and PowerPoint slides from review sessions, sitting in the library staring at your computer screen with no idea where to start.
 
-此时你必须在信息不完整的情况下进行判断：哪些是重点章节，哪些看了收益不大，老师的出题风格是怎样的，如果我没看这里但是考到了该怎么办。
+At this point, you have to make judgments with incomplete information: which chapters are key, which ones aren't worth your time, what's the professor's testing style, and what do you do if something you didn't study shows up on the exam.
 
-没有人告诉你标准答案，也只有等到自己真正上考场才能知道自己猜对没有。
+No one tells you the correct answer. You only find out whether you guessed right when you actually take the exam.
 
-我们的已知条件永远不够，但被逼着在这样一个不完美的条件下进行判断，并且为自己的判断负责。
+Our known conditions are never sufficient, but we're forced to make judgments under these imperfect conditions and take responsibility for them.
 
-哪怕是AI给你的回答，信息也是不完备的。哪怕输入信息相同，问法不同，AI的输出也不同。
+Even AI's answers come with incomplete information. Even with the same input, different phrasings produce different outputs.
 
-现在明显的趋势是，大家都在使用AI，而学校却在严查、禁止AI。
+The obvious trend now is that everyone is using AI, while schools are cracking down on and banning it.
 
-对于学校来说，它们需要考察你的能力，AI对他们来说是威胁。而对于真实的任务来说，它们要的是产出，AI此时则变成了放大器。
+For schools, they need to assess your ability — AI is a threat. For real-world tasks, they care about output — AI becomes an amplifier.
 
-所以这里面的问题，是如何用AI建立自己的判断力。
+So the real question is: how do you use AI to build your own judgment?
 
-首先是定义问题。在现有的问题基础上，问出一个有更多条件，验收标准更明确的问题，甚至站在更高维度重新问出这个问题。
+First, define the problem. Starting from the existing problem, ask a more refined question with more conditions and clearer acceptance criteria — or even reframe the question from a higher dimension.
 
-AI应该做的，首先是帮助你提出一个好问题。比起直接生成答案然后无脑相信，这一步才真正考验我们的判断。
+What AI should do first is help you ask a good question. Rather than generating an answer for you to blindly believe, this step truly tests our judgment.
 
-同样是期末复习，告诉 AI“帮我总结重点”——这叫把问题外包。问 AI“根据教材目录和上课 PPT，我认为第 3、5、7 章是重点，理由有 1、2、3 点，请你检查这里面有没有漏洞”，这叫定义问题。前者是 AI 替你判断。后者是你在判断，AI 在查漏。
+Take exam review. Telling AI “summarize the key points” is outsourcing the problem. Asking AI “based on the textbook outline and lecture slides, I think chapters 3, 5, and 7 are the key ones, for reasons 1, 2, and 3 — please check if there are any gaps” is defining the problem. The former lets AI judge for you. The latter means you're judging, and AI is fact-checking.
 
-然后是审查结果。不要无条件信任AI的输出，哪怕AI的幻觉很小，但错误带来的代价也有可能很大。
+Then, review the results. Don't trust AI's output unconditionally. Even if AI's hallucinations are minimal, the cost of mistakes can be huge.
 
-前天给我上课的老师请来了一位 Guest speaker，他首先问我们有多少人在用 AI 帮助自己干活，几乎所有人举手，然后问有多少人会看完 AI 生成的每一行内容，几乎没人举手。
+Two days ago, my professor invited a guest speaker. He first asked how many of us use AI to help with our work — almost everyone raised their hands. Then he asked how many people read every line AI generates — almost no one raised their hands.
 
-检查AI的边界和盲区，清楚AI的能力能到哪个地步。
+Check AI's boundaries and blind spots. Know where AI's capabilities end.
 
-最后是负责。你提交了一篇AI生成的论文，被查出来了，判0分，最后担责的是你，不是AI。
+Finally, take responsibility. You submit an AI-generated paper, get caught, receive a zero — you bear the consequences, not AI.
 
-机器计算概率，人类承担后果。
+Machines calculate probabilities. Humans bear the consequences.
 
-但是在这个过程中，AI永远只是辅助，不是替代。
+But throughout this process, AI is always a supplement, never a replacement.
 
-尤其是跟现实世界打交道更多的行业，比如临床医学、电气、化工，必须先建立起基础的专业认知，再谈 AI 辅助。否则 AI 错了你也看不出来。
+This is especially true for fields that deal more with the real world — like clinical medicine, electrical engineering, chemical engineering. You must first build foundational domain knowledge before talking about AI assistance. Otherwise, you won't even notice when AI is wrong.
 
-而用什么模型，这个问题往往不重要。很多国产的大模型网页端完全免费，API 也很便宜，没有必要上来就花几百块订阅 GPT 或者 Claude。
+As for which model to use — that question often doesn't matter. Many domestic LLMs offer completely free web access, and their APIs are very cheap. There's no need to spend hundreds of dollars subscribing to GPT or Claude right off the bat.
 
-工欲善其事，不一定先要利其器。先用免费的AI训练自己，等到你感受到它的能力极限了再升级也不迟。
+A skilled craftsman doesn't necessarily need the best tools first. Train yourself with free AI first. When you start feeling its limitations, upgrade then. That's not too late either.
 
-我说不清楚这篇文章能帮到多少人。也许能看到这里的根本没什么人，也许看到这里的人也不会都去行动，但只要你试了，不管结果如何，来告诉我。
+I can't say how many people this article will help. Maybe very few will read this far. Maybe even fewer will take action. But if you try — regardless of the outcome — let me know.

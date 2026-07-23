@@ -1,204 +1,211 @@
-# 启程，华南理工大学！
+---
+lang: en-US
+title: Get Started, SCUT!
+description: 2026 Undergraduate Freshman Orientation Guide for South China University of Technology
+llm_translated: true
+---
 
-—— 2026级本科新生入学指南
+# Get Started, South China University of Technology!
 
-恭喜你考入华南理工大学！为了帮助你清晰规划行程、顺利完成报到并快速熟悉大学生活，编者根据最新公布的新生入学须知及手册各版块内容，整理了这份提炼版指南与实用提醒。华园期待你的到来！
+—— 2026 Undergraduate Freshman Orientation Guide
 
-**Tips：涉及户口转接、档案转接、团籍转接等重大事项，及到校注册时间节点等，请以随录取通知书发放的新生入学指南为准！务必再三核对，谨遵官方信息！不明白的地方及时询问辅导员、班主任及临时班干！**
+Congratulations on being admitted to SCUT! To help you plan your journey, complete registration smoothly, and quickly get familiar with university life, the editors have put together this streamlined guide and practical reminders based on the latest official freshman instructions and various sections of the handbook. Huayuan (SCUT campus) awaits your arrival!
 
-在开始前，推荐阅读：[你到大学，是来重新获得选择权的（新生建议）](/health/freshman_guidance)。
+**Tips: For major matters such as household registration transfer, file transfer, and Youth League membership transfer, as well as registration deadlines, please refer to the official Freshman Guide distributed with your admission letter. Double-check everything and follow official information strictly. If anything is unclear, promptly consult your counselor, class advisor, or temporary class officers!**
+
+Before you begin, we recommend reading: [You're Here to Regain the Power of Choice (Advice for Freshmen)](/health/freshman_guidance).
 
 ---
 
-## 入学关键时间线与清单（Checklist）
+## Key Timeline & Checklist
 
-### Timeline / 关键时间线
+### Timeline
 
-- **8月中旬**：迎新系统开通。登录系统激活统一认证账号、绑定微信企业号、完成个人信息采集。
-- **8月22日 8:00 - 9月1日 8:00**：开放深夜接站申请（仅限9月4日-5日深夜抵穗且确有困难的同学）。
-- **8月29日之后**：若纸质档案选择邮寄，请在此日期后通过中国邮政 EMS 寄出。
-- **9月5日 - 9月6日（8:30 - 17:30）**：新生正式到校报到。办理宿舍入住，并在校园内通过 MyPass 系统完成线上定位与人脸识别报到注册。
-- **9月9日 - 9月13日**：广州国际校区各专业二次选拔面试。
+- **Mid-August**: Orientation system opens. Activate your unified authentication account, link your Weixin corporate account, and complete personal information collection.
+- **Aug 22, 8:00 - Sep 1, 8:00**: Late-night pickup service application opens (only for students arriving in Guangzhou late at night on Sep 4-5 who genuinely need assistance).
+- **After Aug 29**: If you choose to mail your paper files, send them via China Postal EMS after this date.
+- **Sep 5 - Sep 6 (8:30 - 17:30)**: Official freshman on-campus registration. Check into your dormitory and complete online location-based check-in with facial recognition via the MyPass system on campus.
+- **Sep 9 - Sep 13**: Second-round selection interviews for programs at Guangzhou International Campus.
 
-### Checklist / 报到前检查单
+### Pre-Registration Checklist
 
-**随身携带材料**
+**Items to Carry with You**
 
-- [ ] 录取通知书原件
-- [ ] 本人有效身份证原件（如遗失，须携带户口簿及有效期内的临时身份证）
-- [ ] 密封的高中阶段纸质档案（若选择自提带校）
+- [ ] Original admission letter
+- [ ] Valid original ID card (if lost, bring your household registration booklet and a valid temporary ID)
+- [ ] Sealed high school paper files (if you choose to bring them yourself)
 
-**线上完成事项**
+**Online Tasks**
 
-- [ ] 迎新系统账号激活（绑定手机号与微信企业号）
-- [ ] 迎新系统个人信息采集完成
-- [ ] （可选）深夜接站网络申请（截止至9月1日 8:00）
-- [ ] （可选）申请线上“绿色通道”缓交学杂费
+- [ ] Activate your orientation system account (link your phone number and Weixin corporate account)
+- [ ] Complete personal information collection on the orientation system
+- [ ] (Optional) Apply online for late-night pickup service (deadline: Sep 1, 8:00)
+- [ ] (Optional) Apply for the online "green channel" to defer tuition and fees
 
-**到校现场完成事项**
+**On-Campus Tasks**
 
-- [ ] 凭通知书与身份证办理宿舍入住、领取钥匙
-- [ ] 在校内登录 MyPass 系统完成“开学报到”（定位 + 人脸识别）
-- [ ] 提交纸质档案与党团关系材料（按所在院系安排）
-
----
-
-## 一、 报到时间与校区分布
-
-### 1. 报到时间
-
-**2026年9月5日 - 9月6日（星期六、星期日） 8:30 - 17:30**  
-注：因特殊原因不能按时到校者，须事先书面并附相关证明向所在院系请假（原则上请假不超过两周）。
-
-### 2. 报到校区一览
-
-欲了解三校区布局与基础设施，请参阅 [华园概览](/infra/)。
-
-| 报到校区         | 涵盖学院 / 院系                                                                                                       | 校区地址与指南                                                   |
-| :--------------- | :-------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------- |
-| **五山校区**     | 建筑学院（不含百步梯创新学院学生）、体育学院                                                                          | 广州市天河区五山路381号（[五山校区指南](/infra/wushan/map)）     |
-| **广州国际校区** | 生物医学科学与工程学院、吴贤铭智能工程学院、前沿软物质学院、微电子学院/集成电路学院、未来技术学院、海洋科学与工程学院 | 广州市番禺区兴业大道东777号（[国际校区指北](/infra/gzic/map)）   |
-| **大学城校区**   | 除上述学院外的其他所有院系                                                                                            | 广州市番禺区大学城外环东路382号（[大学城指南](/infra/hemc/map)） |
+- [ ] Check into your dormitory with your admission letter and ID card, collect your keys
+- [ ] Log into the MyPass system on campus to complete "semester registration" (location check-in + facial recognition)
+- [ ] Submit paper files and Party/Youth League membership materials (as arranged by your school/department)
 
 ---
 
-## 二、 报到准备与线上流程
+## I. Registration Time & Campus Distribution
 
-### 1. 第一步：个人账号激活与信息采集（建议8月中旬完成）
+### 1. Registration Time
 
-1. 访问 [华工迎新系统](https://freshman.scut.edu.cn)。
-2. 使用**考生号**（通知书条形码下方数字）和身份证号激活**统一认证账号**，并绑定手机号。
-3. 登录系统完成个人信息采集，并按指引微信扫码绑定“华南理工大学微信企业号”。
+**September 5-6, 2026 (Saturday & Sunday) 8:30 - 17:30**  
+Note: Those unable to arrive on time due to special circumstances must submit a written request with supporting documents to their school/department in advance (leave is generally not to exceed two weeks).
 
-### 2. 第二步：来校当天“MyPass”现场自助报到
+### 2. Campus Overview
 
-到达宿舍办理入住后，在报到当天登录 MyPass 系统（通过微信企业号或访问 [MyPass系统](https://enroll.scut.edu.cn/door/index_h5.html)）：
+To learn about the layout and facilities of the three campuses, see [Campus Overview](/infra/).
 
-- **报到条件**：必须同时满足 **“手机定位在学校范围内”** + **“人脸识别成功”**。
-- **具体流程**：进入 MyPass → 点击“开学报到” → 开始采集 → 拍照提交 → 刷新查看“已报到”状态。
+| Registration Campus                | Schools / Departments Covered                                                                                                                                                                                                                               | Campus Address & Guide                                                                                       |
+| :--------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| **Wushan Campus**                  | School of Architecture (excluding Baibuti Innovation College students), School of Physical Education                                                                                                                                                        | 381 Wushan Road, Tianhe District, Guangzhou ([Wushan Guide](/infra/wushan/map))                              |
+| **Guangzhou International Campus** | School of Biomedical Sciences & Engineering, Wu Xianming School of Intelligent Engineering, School of Advanced Soft Matter, School of Microelectronics / School of Integrated Circuits, School of Future Technology, School of Marine Science & Engineering | 777 Xingye Avenue East, Panyu District, Guangzhou ([GZIC Guide](/infra/gzic/map))                            |
+| **University Town Campus**         | All other schools and departments not listed above                                                                                                                                                                                                          | 382 Waihuan East Road, University Town, Panyu District, Guangzhou ([University Town Guide](/infra/hemc/map)) |
 
-> **提示**：
+---
+
+## II. Registration Preparation & Online Process
+
+### 1. Step 1: Account Activation & Information Collection (Recommended to complete by mid-August)
+
+1. Visit the [SCUT Orientation System](https://freshman.scut.edu.cn).
+2. Use your **candidate number** (the number under the barcode on your admission letter) and ID number to activate your **unified authentication account**, and link your phone number.
+3. Log in to complete personal information collection, and follow the instructions to scan the QR code to link your "SCUT Weixin Corporate Account."
+
+### 2. Step 2: On-Site Self-Service Registration via "MyPass" on Arrival Day
+
+After checking into your dormitory, log into the MyPass system on registration day (via the Weixin corporate account or by visiting the [MyPass system](https://enroll.scut.edu.cn/door/index_h5.html)):
+
+- **Requirements**: Both **"phone location within campus range"** AND **"successful facial recognition"** must be satisfied.
+- **Process**: Enter MyPass -> Click "Semester Registration" -> Start Collection -> Take and Submit Photo -> Refresh to check "Registered" status.
+
+> **Tips**:
 >
-> 1. 报到成功后，缴费注册状态会有半天至一天的系统更新延迟，无需另行操作。
-> 2. 如人脸识别多次尝试失败，可及时联系院系辅导员或现场志愿者协助进行辅助报到。
+> 1. After successful registration, there may be a half-day to one-day delay in the system updating your fee payment status; no further action is needed.
+> 2. If facial recognition fails after multiple attempts, contact your school counselor or on-site volunteers promptly for assisted registration.
 
 ---
 
-## 三、 交通与深夜接站指引
+## III. Transportation & Late-Night Pickup Guide
 
-### 1. 官方深夜接站安排
+### 1. Official Late-Night Pickup Arrangement
 
-接站仅面向 **9月4日-5日深夜时段抵穗入校** 且确有困难的新生及家长：
+Pickup service is available only for **freshmen and parents arriving in Guangzhou late at night on Sep 4-5 who genuinely need assistance**:
 
-- **深夜接站时间**：
-  - 2026年9月4日 22:30 至 9月5日 05:30
-  - 2026年9月5日 22:30 至 9月6日 05:30
-- **申请时间**：8月22日 8:00 至 9月1日 8:00（请提前在迎新系统或 MyPass 模块提交申请）。
+- **Late-night pickup hours**:
+  - Sep 4, 2026, 22:30 to Sep 5, 05:30
+  - Sep 5, 2026, 22:30 to Sep 6, 05:30
+- **Application period**: Aug 22, 8:00 to Sep 1, 8:00 (apply in advance through the orientation system or MyPass module).
 
-### 2. 各校区公共交通路线
+### 2. Public Transit Routes to Each Campus
 
-> 常用跨校区出行及作息查询：
+> Common cross-campus travel and class schedule info:
 >
-> - 跨校区公共交通与教工/学生车路线：查看 [校巴时刻表](/life/time/bus)
-> - 上课节次与时间对照表：查看 [五山时间](/life/time/wushan) | [国际/大学城时间](/life/time/hemc_gzic)
+> - Cross-campus public transit and faculty/student shuttle routes: see [Campus Bus Schedule](/life/time/bus)
+> - Class period times: see [Wushan Time](/life/time/wushan) | [GZIC/University Town Time](/life/time/hemc_gzic)
 
 <details>
-<summary><strong>点击展开：五山校区交通路线指南</strong></summary>
+<summary><strong>Click to expand: Wushan Campus Transit Guide</strong></summary>
 
-- **公交车**：
-  - 华工大总站：32路、230路、775路、大学城专线2路
-  - 华工大站：20路、218路、B10路、78路、78A路、197路、405路、775路
-- **地铁**：
-  - 3号线**五山站C出口**，出站右转步行约200米即达学校东门。
-- **主要枢纽路线**：
-  - **广州南站**：地铁2号线（昌岗站）→ 8号线（客村站）→ 3号线（五山站）
-  - **白云机场**：地铁3号线北延段（体育西路站）→ 3号线（五山站）
-  - **广州火车站**：地铁11号线（华师站）→ 3号线（五山站）
+- **Bus**:
+  - SCUT Main Terminal: Routes 32, 230, 775, University Town Express Line 2
+  - SCUT Station: Routes 20, 218, B10, 78, 78A, 197, 405, 775
+- **Metro**:
+  - Line 3, **Wushan Station, Exit C**, turn right and walk about 200 meters to the East Gate.
+- **Routes from Major Hubs**:
+  - **Guangzhou South Station**: Line 2 (Changgang) -> Line 8 (Kecun) -> Line 3 (Wushan)
+  - **Baiyun Airport**: Line 3 North Extension (Tiyu Xilu) -> Line 3 (Wushan)
+  - **Guangzhou Railway Station**: Line 11 (Huashi) -> Line 3 (Wushan)
 
 </details>
 
 <details>
-<summary><strong>点击展开：大学城校区交通路线指南</strong></summary>
+<summary><strong>Click to expand: University Town Campus Transit Guide</strong></summary>
 
-- **公交车**：
-  - 华工站 / 华工生活区站：大学城环线1路、387路、番201路、番202路
-  - 华工正门站：番87路
-- **地铁**：
-  - 4号线 / 7号线**大学城南站D出口**，往北直走约500米到达生活区。
-- **主要枢纽路线**：
-  - **广州南站**：地铁7号线直达（大学城南站）
-  - **天河客运站**：地铁3号线（汉溪长隆站）→ 7号线（大学城南站）
-  - **广州火车站**：地铁5号线（车陂南站）→ 4号线（大学城南站）
-  - **白云机场**：地铁3号线（汉溪长隆站）→ 7号线（大学城南站）
+- **Bus**:
+  - SCUT Station / SCUT Dormitory Area Station: University Town Loop Line 1, Route 387, Panyu 201, Panyu 202
+  - SCUT Main Gate Station: Panyu 87
+- **Metro**:
+  - Line 4 / Line 7, **University Town South Station, Exit D**, walk north about 500 meters to the dormitory area.
+- **Routes from Major Hubs**:
+  - **Guangzhou South Station**: Line 7 direct (University Town South Station)
+  - **Tianhe Coach Terminal**: Line 3 (Hanxi Changlong) -> Line 7 (University Town South Station)
+  - **Guangzhou Railway Station**: Line 5 (Chebei South) -> Line 4 (University Town South Station)
+  - **Baiyun Airport**: Line 3 (Hanxi Changlong) -> Line 7 (University Town South Station)
 
 </details>
 
 <details>
-<summary><strong>点击展开：广州国际校区交通路线指南</strong></summary>
+<summary><strong>Click to expand: Guangzhou International Campus Transit Guide</strong></summary>
 
-- **公交与接驳**：
-  - **地铁换乘**：地铁4号线**新造站A出口**，换乘**番87路**公交直达校区内；或地铁7号线**板桥站A出口**，换乘**番72路**公交到华工广州国际校区北门站。
-  - **校区始发公交**：番10路、番17路、番87路
-- **主要枢纽路线**：
-  - **广州南站**：地铁7号线（板桥站A口）→ 换乘番72路公交
-  - **白云机场T2**：地铁3号线（汉溪长隆站）→ 7号线（板桥站A口）→ 换乘番72路公交
-  - **大学城校区 ↔ 广州国际校区**：华工正门站乘坐**番87路**可直达广州国际校区。
-- **自驾定位**：华南理工大学广州国际校区北大门 或 南大门。
+- **Bus & Shuttle**:
+  - **Metro transfer**: Line 4, **Xinzao Station, Exit A**, transfer to **Route Panyu 87** bus directly to campus; or Line 7, **Banqiao Station, Exit A**, transfer to **Route Panyu 72** bus to the SCUT GZIC North Gate.
+  - **Campus-originating buses**: Panyu 10, Panyu 17, Panyu 87
+- **Routes from Major Hubs**:
+  - **Guangzhou South Station**: Line 7 (Banqiao Station, Exit A) -> Transfer to Panyu 72 bus
+  - **Baiyun Airport T2**: Line 3 (Hanxi Changlong) -> Line 7 (Banqiao Station, Exit A) -> Transfer to Panyu 72 bus
+  - **University Town Campus to GZIC**: Take **Route Panyu 87** from SCUT Main Gate Station directly to GZIC.
+- **Driving directions**: Navigate to SCUT Guangzhou International Campus North Gate or South Gate.
 
 </details>
 
 ---
 
-## 四、 入学后注意事项与生活提醒
+## IV. Post-Arrival Tips & Life Reminders
 
-### 1. 校园交通规范（重点）
+### 1. Campus Transport Rules (Important)
 
-根据《华南理工大学电动自行车管理办法》，**新生严禁购置个人电动自行车**。
-校内配备有自行车、校园共享电动车以及校园穿梭巴士，能够充分满足日常出行需要。
+According to the "SCUT Electric Bicycle Management Regulations," **freshmen are strictly prohibited from purchasing personal electric bicycles**.
+The campus is equipped with bicycles, shared e-scooters, and campus shuttle buses to fully meet daily commuting needs.
 
-### 2. 广州国际校区二次选拔与转专业规划
+### 2. GZIC Second-Round Selection & Major Change Planning
 
-- **二次选拔**：计划参加广州国际校区各专业二次选拔的同学，学校将于 **9月9日 - 9月13日** 组织二次选拔面试。请提前查阅迎新系统或本科生院网站通知。
-- **转专业认知**：若入学后有转专业规划，建议提前阅读 [华工转专业的快速认知](/learn/curricular/transfer_major_quick) 及 [转专业总览](/learn/curricular/transfer_major)（内含 [2024版转专业指南](/learn/curricular/transfer_major_2024)、[转电气经验](/learn/curricular/transfer_major_electrical_2026) 与 [转信工经验](/learn/curricular/transfer_major_information_engineering_2026)）。
+- **Second-round selection**: For students planning to participate in the second-round selection for GZIC programs, the university will organize interviews from **September 9 to September 13**. Please check the orientation system or the Undergraduate School website for advance notice.
+- **Major change info**: If you're considering changing your major after enrollment, we recommend reading [Quick Overview of Major Changes at SCUT](/learn/curricular/transfer_major_quick) and [Major Change Overview](/learn/curricular/transfer_major) (which includes the [2024 Major Change Guide](/learn/curricular/transfer_major_2024), [Experience Switching to Electrical Engineering](/learn/curricular/transfer_major_electrical_2026), and [Experience Switching to Information Engineering](/learn/curricular/transfer_major_information_engineering_2026)).
 
-### 3. 学业、日常生活与医保服务
+### 3. Academics, Daily Life & Medical Insurance
 
 <details>
-<summary><strong>点击展开：校医院就医、饮食美德与学业规则指引</strong></summary>
+<summary><strong>Click to expand: Campus clinic visits, food etiquette, and academic rules</strong></summary>
 
-- **医疗与医保报销**：
-  - 参保学生普通门诊首诊在校医院，报销比例最高达 90%；外诊转诊报销流程及定点医院清单，详见 [华南理工大学就医贴](/health/medical_care)。
-- **校内与周边美食**：
-  - [五山觅食指南](/life/eat/wushan) | [大学城觅食指南](/life/eat/hemc) | [国际校区觅食指南](/life/eat/gzic)
-- **学业与成绩规则**：
-  - 必修、选修、通识课怎么算？参见 [课程性质介绍](/learn/curricular/lessons)。
-  - 均分、GPA 与综测分有何区别？参见 [GPA 与成绩规则详解](/learn/curricular/gpa)。
-  - 公共课学习建议：参阅 [公共课指南](/learn/curricular/common_basic_lessons) 及 [专业课概览](/learn/curricular/majors)。
-  - 创新学分与科研竞赛：了解 [创新分与人文分要求](/learn/extra/innovation_humanities_scores)、[SRP 科研项目](/learn/extra/srp) 及 [竞赛目录及备赛建议](/learn/extra/contest)（如 [全国大学生数学竞赛 CMC](/learn/extra/contest/cmc) 与 [ACM 竞赛](/learn/extra/contest/ACM)）。
+- **Medical care & insurance reimbursement**:
+  - Insured students should first visit the campus clinic for general outpatient care, with reimbursement rates up to 90%. For external referrals, see the reimbursement process and list of designated hospitals in [SCUT Medical Care Guide](/health/medical_care).
+- **On-campus & nearby food**:
+  - [Wushan Food Guide](/life/eat/wushan) | [University Town Food Guide](/life/eat/hemc) | [GZIC Food Guide](/life/eat/gzic)
+- **Academic & grading rules**:
+  - Not sure how required, elective, and general education courses work? See [Course Types Explained](/learn/curricular/lessons).
+  - Wondering about the difference between average score, GPA, and comprehensive evaluation score? See [GPA & Grading Rules Explained](/learn/curricular/gpa).
+  - Study tips for public courses: See [Public Course Guide](/learn/curricular/common_basic_lessons) and [Major Course Overview](/learn/curricular/majors).
+  - Innovation credits and research competitions: Learn about [Innovation & Humanities Credit Requirements](/learn/extra/innovation_humanities_scores), [SRP Research Projects](/learn/extra/srp), and [Competition Directory & Preparation Tips](/learn/extra/contest) (such as the [CMC](/learn/extra/contest/cmc) and [ACM Competition](/learn/extra/contest/ACM)).
 
 </details>
 
 <details>
-<summary><strong>点击展开：档案邮寄、党团关系转接与校园卡充值</strong></summary>
+<summary><strong>Click to expand: File mailing, Party/Youth League membership transfer, and campus card top-up</strong></summary>
 
-- **纸质档案**：
-  - 尽量携带密封档案自提报到，到校后交所在院系。
-  - 若须邮寄，**请于8月29日之后**通过 **中国邮政 EMS** 寄送，封面务必标注就读院系与“学生档案”字样。
-  - 咨询电话：五山 020-87110590 | 大学城 020-81182638 | 广州国际校区 020-81181667
-- **团组织关系转接**：
-  - 入学班级建立后，统一通过广东“智慧团建”系统发起线上转接，接收组织选择“华南理工大学XX学院（系）团委”（国际校区学生选择对应书院团委）。
-- **党员组织关系转接**：
-  - **广东省内**：由原党组织通过《广东省党务管理信息系统》线上发起，接收党组织选择“中共华南理工大学XX学院/系委员会”（海洋学院选广州国际校区党委；集成电路学院选微电子学院党委；能源学院选电力学院党委）。
-  - **广东省外**：优先通过全国党员数据交互平台线上转接；若无法线上转接，可携带纸质介绍信（抬头：**华南理工大学党委**）入学后交所在院系党委。
-- **校园一卡通充值**：
-  - 打开微信企业号 → 校园一卡通 → 账号登录（初始密码为身份证后6位） → 卡片充值 → 微信支付。
+- **Paper files**:
+  - It's best to bring your sealed files with you and submit them to your school/department upon arrival.
+  - If mailing is necessary, send via **China Postal EMS** **after August 29**, clearly marking your school/department and the words "Student File" on the envelope.
+  - Contact: Wushan 020-87110590 | University Town 020-81182638 | GZIC 020-81181667
+- **Youth League membership transfer**:
+  - Once your class is formed, the transfer will be initiated online through Guangdong's "Smart League Building" system. Select "SCUT XX School (Department) Youth League Committee" as the receiving organization (GZIC students select the corresponding college Youth League Committee).
+- **Party membership transfer**:
+  - **Within Guangdong Province**: Initiated online by your original Party organization through the "Guangdong Party Affairs Management Information System," with the receiving Party organization set as "CPC SCUT XX School/Department Committee" (Marine Science selects GZIC Party Committee; Integrated Circuits selects Microelectronics School Party Committee; Energy Engineering selects Electric Power School Party Committee).
+  - **Outside Guangdong Province**: Priority given to online transfer through the national Party member data exchange platform. If online transfer is not available, you may bring a paper introduction letter (addressed to: **CPC SCUT Committee**) and submit it to your school/department Party organization after enrollment.
+- **Campus card top-up**:
+  - Open Weixin Corporate Account -> Campus Card -> Log in (default password: last 6 digits of your ID number) -> Top Up -> Weixin Pay.
 
 </details>
 
-### 4. 安全、防诈与提问礼仪
+### 4. Safety, Scam Prevention & Asking Questions
 
-- **拒绝上门推销**：宿舍区内如有人员上门推销电话卡、杂志、生活用品等，请保持警惕，一律拒绝。
-- **防范电信网络诈骗**：凡涉及转账、刷单、充值解冻、假冒客服或安全账户的电话及短信，切勿轻信。如有疑问，请第一时间联系辅导员或迎新志愿者核实。
-- **提问的技巧**：在向编者、老师或社群咨询问题前，推荐阅读 [提问的智慧](/others/ask-the-smart-way)；如制作演示文稿或材料需要校徽资源，可前往 [学校标识下载](/others/branding)。
+- **Say no to door-to-door sales**: If anyone comes to your dorm selling phone cards, magazines, daily necessities, etc., stay alert and refuse them all.
+- **Beware of telecom & online scams**: Do not trust any calls or messages involving money transfers, click-fraud, payment to unfreeze accounts, fake customer service, or "security accounts." If in doubt, contact your counselor or orientation volunteer immediately for verification.
+- **How to ask questions**: Before asking editors, teachers, or the community for help, we recommend reading [How to Ask Questions the Smart Way](/others/ask-the-smart-way). If you need the university logo for presentations or materials, visit [Brand Resources](/others/branding).
 
-祝愿每一位2026级新同学在华南理工大学开启一段充实而美好的大学旅程！
+Wishing every 2026 freshman a fulfilling and wonderful university journey at South China University of Technology!

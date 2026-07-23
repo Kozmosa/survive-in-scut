@@ -1,18 +1,19 @@
 ---
-lang: zh-CN
-title: 博士项目
-description: 介绍在华南理工大学背景下申请直博及其他博士项目的经验及行动参考
+lang: en-US
+title: PhD Programs
+description: An introduction to applying for direct-entry PhD and other doctoral programs abroad from the perspective of a SCUT student.
+llm_translated: true
 ---
 
-# 境外博士项目
+# Overseas PhD Programs
 
-介绍在华南理工大学背景下申请直博及其他博士项目的经验及行动参考
+An introduction to applying for direct-entry PhD and other doctoral programs abroad from the perspective of a SCUT student.
 
-TODO: 补充境外博士申请指南：
+TODO: Add an overseas PhD application guide:
 
-- [ ] 导师选择与"套磁"：如何联系境外导师、阅读 Lab 论文及确定研究方向
-- [ ] 核心硬实力：本科/硕士科研成果（一作/共一论文、专利）、推荐信要求
-- [ ] 语言与考核：托福/雅思/GRE 分数门槛、申请材料（Research Proposal）撰写
-- [ ] 申请时间线：各国家/地区（美、英、欧、港、新、澳）的申请周期与截止日期
-- [ ] 奖学金与资助：全奖/半奖/CSC 公派留学申请条件与竞争情况
-- [ ] 签证与行前准备：学生签证办理流程、体检、住宿与机票安排
+- [ ] Supervisor selection and "套磁" (networking): how to contact overseas professors, read lab papers, and determine research direction
+- [ ] Core hard requirements: undergraduate/master's research output (first-author/co-first-author papers, patents), recommendation letters
+- [ ] Language and assessment: TOEFL/IELTS/GRE score thresholds, application materials (Research Proposal) writing
+- [ ] Application timeline: application cycles and deadlines by country/region (US, UK, Europe, Hong Kong, Singapore, Australia)
+- [ ] Scholarships and funding: full scholarship/half-scholarship/CSC funding application requirements and competition
+- [ ] Visa and pre-departure preparation: student visa process, medical check, accommodation, and flight arrangements

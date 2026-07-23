@@ -1,17 +1,18 @@
 ---
-lang: zh-CN
-title: 先活下去再说
-description: 先活下去再说
+lang: en-US
+title: Stay Alive First
+description: Stay alive first — campus safety, mental health, and emergency resources
+llm_translated: true
 ---
 
-# 先活下去再说
+# Stay Alive First
 
-生命观
+Philosophy of life
 
-TODO: 补充校园安全与心理急救信息：
+TODO: Add campus safety and psychological first-aid information:
 
-- [ ] 24 小时紧急求助电话：校保卫处（五山/大学城/国际）、校医院急诊电话、辖区派出所电话
-- [ ] 心理健康援助：华工心理咨询中心预约方式、24 小时心理热线
-- [ ] 校园防诈骗防线：常见电信诈骗套路（假冒辅导员/客服/刷单/退费）、报案与止损流程
-- [ ] 突发灾害应对：台风/暴雨停课标准与宿舍安全防范
-- [ ] 日常交通安全：校园内外交通事故预防、共享单车/电动车使用规范
+- [ ] 24-hour emergency contact numbers: Campus Security (Wushan/University City/GZIC), campus hospital emergency, local police station phone numbers
+- [ ] Mental health support: SCUT Psychological Counseling Center appointment methods, 24-hour mental health hotline
+- [ ] Campus fraud prevention: common telecom scams (fake advisors/customer service/刷单/refunds), reporting and loss prevention procedures
+- [ ] Emergency response: typhoon/heavy rain class suspension criteria and dorm safety precautions
+- [ ] Daily traffic safety: accident prevention on and off campus, shared bike/electric scooter usage guidelines

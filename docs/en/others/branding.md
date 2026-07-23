@@ -1,32 +1,33 @@
 ---
-lang: zh-CN
-title: 学校标识
-description: 华南理工大学的校徽图片资源
+lang: en-US
+title: University Branding
+description: SCUT logo and branding image resources
+llm_translated: true
 ---
 
-<!-- 编辑此页时可关掉自动换行以让表格更容易查看 -->
+<!-- When editing this page, you may turn off word wrap to make the table easier to view -->
 
-# 学校标识
+# University Branding
 
-此处整理了学校的校徽和校名标识，可用于 PPT, 报告等场景。
+Here you'll find the university's logos and name marks, suitable for use in PPTs, reports, and other scenarios.
 
-| 类型                | 预览                                                                                                                                                                       | 各格式下载                                                                                                                                    |
-| :------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-| 标准校徽            | <img src="/branding/colored.svg" height="100" alt="标准校徽">                                                                                                              | <a href="/branding/colored.svg" download>SVG</a> / <a href="/branding/colored.png" download>PNG</a>                                           |
-| 校徽 + 校名         | <img src="/branding/colored_with_name.svg" height="80" alt="校徽 + 校名">                                                                                                  | <a href="/branding/colored_with_name.svg" download>SVG</a> / <a href="/branding/colored_with_name.png" download>PNG</a>                       |
-| 纯白校徽            | <img src="/branding/white.svg" height="100" style="background-color: #2b2b2b; padding: 10px; border-radius: 4px;" alt="纯白校徽">                                          | <a href="/branding/white.svg" download>SVG</a> / <a href="/branding/white.png" download>PNG</a>                                               |
-| 纯白校徽 + 校名     | <img src="/branding/white_with_name.svg" height="80" style="background-color: #2b2b2b; padding: 10px; border-radius: 4px;" alt="纯白校徽 + 校名">                          | <a href="/branding/white_with_name.svg" download>SVG</a> / <a href="/branding/white_with_name.png" download>PNG</a>                           |
-| 彩色校徽 + 白色校名 | <img src="/branding/colored_logo_with_white_name.svg" height="80" style="background-color: #2b2b2b; padding: 10px; border-radius: 4px;" alt="彩色校徽 + 白色校名">         | <a href="/branding/colored_logo_with_white_name.svg" download>SVG</a> / <a href="/branding/colored_logo_with_white_name.png" download>PNG</a> |
-| 国际校区标识        | <img src="/branding/international_colored_with_name.png" height="80" alt="国际校区标识">                                                                                   | <a href="/branding/international_colored_with_name.png" download>PNG</a>                                                                      |
-| 国际校区标识白字版  | <img src="/branding/international_colored_with_white_name.png" height="80" style="background-color: #2b2b2b; padding: 10px; border-radius: 4px;" alt="国际校区标识白字版"> | <a href="/branding/international_colored_with_white_name.png" download>PNG</a>                                                                |
-| 国际校区标识描边版  | <img src="/branding/international_outline_with_name.jpg" height="80" alt="国际校区标识描边版">                                                                             | <a href="/branding/international_outline_with_name.jpg" download>JPG</a>                                                                      |
+| Type                      | Preview                                                                                                                                                                           | Download Formats                                                                                                                              |
+| :------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
+| Standard Logo             | <img src="/branding/colored.svg" height="100" alt="Standard Logo">                                                                                                                | <a href="/branding/colored.svg" download>SVG</a> / <a href="/branding/colored.png" download>PNG</a>                                           |
+| Logo + Name               | <img src="/branding/colored_with_name.svg" height="80" alt="Logo + Name">                                                                                                         | <a href="/branding/colored_with_name.svg" download>SVG</a> / <a href="/branding/colored_with_name.png" download>PNG</a>                       |
+| White Logo                | <img src="/branding/white.svg" height="100" style="background-color: #2b2b2b; padding: 10px; border-radius: 4px;" alt="White Logo">                                               | <a href="/branding/white.svg" download>SVG</a> / <a href="/branding/white.png" download>PNG</a>                                               |
+| White Logo + Name         | <img src="/branding/white_with_name.svg" height="80" style="background-color: #2b2b2b; padding: 10px; border-radius: 4px;" alt="White Logo + Name">                               | <a href="/branding/white_with_name.svg" download>SVG</a> / <a href="/branding/white_with_name.png" download>PNG</a>                           |
+| Colored Logo + White Name | <img src="/branding/colored_logo_with_white_name.svg" height="80" style="background-color: #2b2b2b; padding: 10px; border-radius: 4px;" alt="Colored Logo + White Name">          | <a href="/branding/colored_logo_with_white_name.svg" download>SVG</a> / <a href="/branding/colored_logo_with_white_name.png" download>PNG</a> |
+| GZIC Logo                 | <img src="/branding/international_colored_with_name.png" height="80" alt="GZIC Logo">                                                                                             | <a href="/branding/international_colored_with_name.png" download>PNG</a>                                                                      |
+| GZIC Logo (White Text)    | <img src="/branding/international_colored_with_white_name.png" height="80" style="background-color: #2b2b2b; padding: 10px; border-radius: 4px;" alt="GZIC Logo with White Text"> | <a href="/branding/international_colored_with_white_name.png" download>PNG</a>                                                                |
+| GZIC Logo (Outlined)      | <img src="/branding/international_outline_with_name.jpg" height="80" alt="GZIC Logo Outlined">                                                                                    | <a href="/branding/international_outline_with_name.jpg" download>JPG</a>                                                                      |
 
-## 来源与版权声明
+## Source and Copyright Notice
 
-本页面所收录的学校标识素材来源于华南理工大学官网：
+The university branding assets collected on this page are sourced from the official SCUT website:
 https://www.scut.edu.cn/new/9017/list.htm
 
-相关学校标识及其权利归华南理工大学所有。
-本页面仅作信息整理之用；整理、处理后的素材仅供本校学生在校内学习交流使用，未经版权方许可，严禁用于盈利或其他违规用途。
-如相关内容涉及侵权或权利瑕疵，请权利人联系我们并提供权属证明，我们将在核实后及时删除或更正。
-因使用者超出授权范围使用本页面素材所产生的法律后果，由使用者自行承担相应责任。
+All related branding assets and their rights belong to South China University of Technology (SCUT).
+This page serves purely as an information compilation; the organized and processed assets are intended for use by SCUT students in on-campus learning and exchange only. Commercial use or any other unauthorized use is strictly prohibited without permission from the copyright holder.
+If any content infringes upon your rights or contains defects, please contact us with proof of ownership, and we will promptly remove or correct the content upon verification.
+Any legal consequences arising from use of these materials beyond the authorized scope shall be borne by the user.

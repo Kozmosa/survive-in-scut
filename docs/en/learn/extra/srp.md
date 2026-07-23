@@ -2,6 +2,7 @@
 lang: en-US
 title: SRP
 description: What SRP is, why it matters, how to apply, what you can gain, and what to prepare
+llm_translated: false
 ---
 
 # SRP

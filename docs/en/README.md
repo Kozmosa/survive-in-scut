@@ -1,4 +1,5 @@
 ---
+lang: en-US
 layout: home
 hero:
   name: Survive in SCUT

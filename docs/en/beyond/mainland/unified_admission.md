@@ -1,17 +1,18 @@
 ---
-lang: zh-CN
-title: 考研
-description: 介绍在华南理工大学通过统招考试攻读研究生的行动路径、经验教训、院校参考、往届数据等等
+lang: en-US
+title: Graduate Unified Admission Exam (Kaoyan)
+description: An introduction to pursuing graduate studies at SCUT through the unified national entrance exam, covering pathways, tips, school references, and past data.
+llm_translated: true
 ---
 
-# 考研 / 研究生统一招生考试
+# Graduate Exam / National Unified Postgraduate Entrance Exam
 
-介绍在华南理工大学通过统招考试攻读研究生的行动路径、经验教训、院校参考、往届数据等等
+An introduction to pursuing graduate studies at SCUT through the unified national entrance exam, covering pathways, lessons learned, school references, and past data.
 
-TODO: 补充华工学生考研备考与本校报考指南：
+TODO: Add a SCUT student exam preparation and on-campus application guide:
 
-- [ ] 目标选择：本校留考（各学院报录比与复试线情况）与外校报考策略
-- [ ] 备考时间线与公共课规划：政治、英语一/二、数学一/二/三及专业课复习节奏
-- [ ] 校内备考资源：五山/大学城/国际校区考研自习室与占座规则
-- [ ] 复试与调剂：华工复试流程、机试/笔试要求、校内/校外调剂注意事项
-- [ ] 往届数据参考：各专业报考人数、录取分数线与报录比历史统计
+- [ ] Target selection: staying at SCUT (admission ratios and re-examination分数线 across schools) vs. applying to external universities
+- [ ] Preparation timeline and public course planning: Politics, English I/II, Math I/II/III, and specialized course review schedules
+- [ ] On-campus study resources: exam prep study rooms and seat reservation rules at Wushan/University City/GZIC campuses
+- [ ] Re-examination and调剂: SCUT re-examination procedures, computer-based/written exam requirements, on/off-campus调剂 considerations
+- [ ] Past data reference: applicant numbers, admission分数线, and admission ratio history by major

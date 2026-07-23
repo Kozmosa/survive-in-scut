@@ -1,9 +1,10 @@
 ---
-lang: zh-CN
-title: 维护路线图
-description: 维护路线图
+lang: en-US
+title: Maintenance Roadmap
+description: Roadmap for maintaining the SCUT Survival Manual
+llm_translated: true
 ---
 
-# 维护路线图
+# Maintenance Roadmap
 
-待完善
+To be improved

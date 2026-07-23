@@ -1,82 +1,83 @@
 ---
-lang: zh-CN
-title: 全国大学生数学竞赛
-description: 全国大学生数学竞赛（CMC）简介及简单的参赛指导
+lang: en-US
+title: Chinese Mathematics Competition (CMC)
+description: Introduction to the Chinese Mathematics Competition (CMC) and a simple participation guide
+llm_translated: true
 ---
 
-# 全国大学生数学竞赛
+# Chinese Mathematics Competition (CMC)
 
-**主办方：中国数学会**
+**Organizer: Chinese Mathematical Society**
 
-### 简介
+### Overview
 
-全国大学生数学竞赛（The Chinese Mathematics Competitions for College Students，简称CMC）是由中国数学会主办、面向本科学生的全国性高水平学科竞赛。总体分为三组:**数学组**，**非数学组A组**，**非数学组B组**
+The Chinese Mathematics Competition for College Students (abbreviated as CMC) is a national high-level academic competition organized by the Chinese Mathematical Society for undergraduate students. It is divided into three groups: **Mathematics Group**, **Non-Mathematics Group A**, and **Non-Mathematics Group B**.
 
-**赛区是初赛,全省前15名有机会能进入决赛，参加国赛**
+**The preliminary round is at the provincial level. The top 15 candidates in each province can advance to the national finals.**
 
-### 考核内容
+### Exam Content
 
-- **数学组**:高数线代解析几何
-- **非数学A组**:高数
-- **非数学B组**:高数简单版
+- **Mathematics Group**: Calculus, Linear Algebra, Analytic Geometry
+- **Non-Mathematics Group A**: Calculus
+- **Non-Mathematics Group B**: Calculus (simplified)
 
-### 好处
+### Benefits
 
-- **综测智育+分**:省一5分，省二3分，省三1分(**PS:智育3倍加分**)
-- **保研加分:**国一可以保研
-
----
-
-### 报名时间
-
-9月中旬到9月底，关注[华南理工大学数学学院](https://www2.scut.edu.cn/math/)通知
-
-#### 类别一：校赛优秀
-
-9月份开学参加华工举办的大学生数学竞赛校赛，一等奖可以报销报名费
-
-#### 类别二：自主报名
-
-报名费100元
-
-### 参赛时间
-
-每年11月份初
+- **Comprehensive evaluation (intellectual development) bonus points**: Provincial first prize: 5 points, second prize: 3 points, third prize: 1 point (**PS: Intellectual development points are tripled**)
+- **Graduate recommendation bonus**: National first prize can help with postgraduate recommendation
 
 ---
 
-### 备考方针（数学组）
+### Registration Period
 
-敬请期待
+Mid-September to end of September. Follow announcements from the [SCUT School of Mathematics](https://www2.scut.edu.cn/math/).
+
+#### Option 1: Outstanding in School Competition
+
+Participate in the SCUT Mathematics Competition held at the start of the fall semester. First prize winners can have their registration fee reimbursed.
+
+#### Option 2: Self-Registration
+
+Registration fee: 100 RMB
+
+### Competition Date
+
+Early November each year
 
 ---
 
-### 备考方针（非数学组）
+### Preparation Strategy (Mathematics Group)
 
-#### 速成版(适合大一新生快速拿奖)
+Coming soon
 
-**利益相关**: 2024级 Oplisty，广东赛区省一
+---
 
-因为大部分知识点都在考察高数上所以一定要**踏踏实实学完高数上**,建议为期一个月,就是**开学一个月速通高数上**,本人用的是**高等微积分教程(清华大学出版社)**,每章**看书做课后题，章后练习题不做**,为期一个月，然后在**10月份速通高数下**,同样是**高等微积分教程**，同理，考前一周登录[全国大学生数学竞赛官网](https://www.cmathc.org.cn/shiti/)进行刷题,**不会的题背住相关解法**
+### Preparation Strategy (Non-Mathematics Group)
 
-什么？你太摆了？
+#### Crash Course (Suitable for freshmen looking to win awards quickly)
 
-没关系！
+**Disclosure**: 2024 cohort, Oplisty, Guangdong Provincial First Prize
 
-因为这个本质上是考试而且难度大概率和中上985期末考试差不多，既然他们能速通你为何不可？
+Since most of the exam focuses on Calculus, you must **thoroughly study Calculus I**. I recommend taking one month — that is, **speed through Calculus I in the first month of the semester**. I used the textbook **Advanced Calculus (Tsinghua University Press)**. For each chapter, **read the text and do the end-of-chapter problems, skip the chapter review exercises**. This takes one month. Then in **October, speed through Calculus II**, using the same **Advanced Calculus** textbook. A week before the exam, log into the [CMC official website](https://www.cmathc.org.cn/shiti/) to practice past papers. **Memorize the solutions for problems you can't solve.**
 
-**Bilibili去搜索速通网课然后看完直接开始做题即可**，重点如下
+What, you've been slacking off?
 
-- 曲线曲面二重三重积分
-- 级数(必考最后一题,还有可能填空)
-- 偏导计算和链式法则
-- 求极限的常见方法
-- 微分方程
+No worries!
 
-**优先搞定上面的即可**,最少省三好吧,好点就省二省一了
+At its core, this is an exam, and its difficulty level is roughly comparable to finals at mid-to-top-tier 985 universities. Since they can speed through it, why can't you?
 
-#### 复习资料
+**Go to Bilibili, search for crash-course videos, watch them, and then start solving problems immediately.** Focus areas:
 
-一本就够了，你大概率没时间做
+- Line, surface, double, and triple integrals
+- Series (guaranteed to be the last problem, may also appear as fill-in-the-blank)
+- Partial derivative calculations and the chain rule
+- Common limit-solving techniques
+- Differential equations
 
-- 全国大学生数学竞赛解析教程上下(红皮书:科学出版社)
+**Prioritize the topics above** — at minimum you'll get provincial third prize. With a bit more effort, second or first prize is achievable.
+
+#### Study Materials
+
+One book is enough — you probably won't have time for more anyway.
+
+- CMC Analytical Tutorial Volumes 1 & 2 (Red book series: Science Press)

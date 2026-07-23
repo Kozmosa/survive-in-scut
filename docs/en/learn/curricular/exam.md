@@ -1,21 +1,22 @@
 ---
-lang: zh-CN
-title: 考试
-description: 华南理工大学与考试相关的规章制度，及应对考试可供参考的一些告诫
+lang: en-US
+title: Exams
+description: SCUT's exam-related regulations and some advice for handling exams
+llm_translated: true
 ---
 
-# 考试
+# Exams
 
-TODO: 补充考核规章与应考细则：
+TODO: Add exam regulations and guidelines:
 
-- [ ] 考场纪律与违纪处理：带手机/作弊的严肃后果与学籍处分规定
-- [ ] 缓考申请流程：因病或课程冲突申请缓考的条件、审批步骤与成绩记载规则
-- [ ] 查分与复核：期末成绩异议的申请复核流程与时间窗口
-- [ ] 课程考核方式说明：各类型课程（必修/选修/通识）的考核形式与成绩构成
+- [ ] Exam room discipline and violation handling: serious consequences and academic sanctions for bringing phones/cheating
+- [ ] Deferred exam application process: conditions for applying due to illness or schedule conflict, approval steps, and grade recording rules
+- [ ] Grade review and appeal: process and time window for requesting a review of disputed final grades
+- [ ] Course assessment methods: assessment formats and grade composition for different course types (required/elective/general education)
 
-## 大学物理
+## University Physics
 
-这里是 _Oplisty_ 整理的 **华南理工大学 大学物理 复习笔记**：
-[大物定理汇总期末速成版](https://www.zhihu.com/column/c_1888956732467823738)
+Here are _Oplisty_'s **SCUT University Physics Review Notes**:
+[University Physics Theorem Summary Express Edition](https://www.zhihu.com/column/c_1888956732467823738)
 
-可供大学物理上学习、复习参考。
+Useful for studying and reviewing University Physics Part 1.

@@ -2,6 +2,7 @@
 lang: en-US
 title: Copyrights
 description: Notes about licenses, third-party assets, and reuse boundaries
+llm_translated: false
 ---
 
 # Copyrights

@@ -1,129 +1,130 @@
 ---
-lang: zh-CN
-title: 华工转专业的快速认知
-description: 面向华南理工大学转专业新生的快速认知，围绕 5 月学校自主转专业介绍机制、选择和准备节奏
+lang: en-US
+title: Quick Guide to Major Transfer at SCUT
+description: A quick primer for SCUT freshmen on major transfer, covering the May university-wide transfer mechanism, choices, and preparation timeline
 date: 2026-07-16
 sidebarDepth: 2
+llm_translated: true
 ---
 
-# 华工转专业的快速认知
+# Quick Guide to Major Transfer at SCUT
 
-作者：
+Authors:
 
-- 胡桃，软件学院，1125652469@qq.com
-- K，经济与金融学院，3355456981@qq.com
-- 二八，软件学院，3463942692@qq.com
+- Hu Tao, School of Software Engineering, 1125652469@qq.com
+- K, School of Economics and Finance, 3355456981@qq.com
+- Er Ba, School of Software Engineering, 3463942692@qq.com
 
-华工转专业交流群二群（QQ）：372518671
+SCUT Major Transfer Discussion Group 2 (QQ): 372518671
 
-转专业并不神秘，更绝非少数人的特权。3/4 的报名者最后都成功转了专业，即使放到热门专业也不低于 1/2。凡是认真准备的人，大都取得了自己满意的结果。
+Major transfer is not mysterious, and it's certainly not a privilege reserved for a select few. Three-quarters of applicants successfully change their major, and even for popular majors, the rate is no lower than half. Most people who prepare seriously end up with satisfying results.
 
-你不需要现在就搞清楚所有事情，这篇指引会帮你快速建立基本认知。
+You don't need to figure everything out right now -- this guide will help you quickly build the basic understanding.
 
-华工的转专业分为二次选拔、帮扶转专业、强基班增补、5 月统一的学校自主转专业等多种类型[1]，不过绝大多数同学包括本文作者走的都是 5 月的学校自主转专业，所以以下内容都围绕它展开。同时，本文的经验偏向非国际校区和理工类学科，对一些同学可能只能选择性参考。这里欢迎有其他类型转专业经验的同学联系我们补充。
+SCUT's major transfer comes in several types: secondary selection (early screening), assistance-based transfer, strong-base class augmentation, and the May university-wide voluntary transfer [1]. However, most students -- including the authors of this article -- go through the May university-wide transfer, so the following content revolves around that. Meanwhile, this article's experience leans toward non-International Campus programs and STEM fields, so some parts may only be selectively applicable. We welcome students with experience in other transfer types to contact us for additions.
 
-## 一、近年的转专业机制（不排除变动）
+## I. The Current Major Transfer Mechanism (Subject to Change)
 
-### 时间线
+### Timeline
 
-每年全校统一开放一次常规转专业，集中在 5 月。4 月各学院在官网公告栏发布当年接收计划和条件，4 月底教务系统统一报名，5 月考核并出结果。
+Each year, the university opens one regular major transfer window, concentrated in May. In April, each school publishes its intake plan and requirements on its official website notice board. At the end of April, the academic affairs system opens for unified registration. May brings the assessment and results.
 
-### 基本规则
+### Basic Rules
 
-只能报一个学院的一个专业，没有调剂机会；转出方面学校基本不设限制；大一是主要窗口，大二有少量名额但往往需要降级；转入后原专业已修但新专业不认的课程折算为通选学分或者跨专业选修学分，基本没有实际用处，也不会计入保研所需绩点。
+You can only apply to one major in one school -- no调剂 (adjustment) opportunities. The university generally doesn't restrict transfers out. The first year is the main window; second-year students have limited slots but often need to drop a grade level. After transferring, courses already taken in the original major that the new major doesn't recognize are converted into general elective or cross-major elective credits, which are basically useless and won't count toward the GPA needed for graduate recommendation.
 
-### 名额
+### Slots
 
-学院自行决定，一般为个位数到数十人不等。
+Determined by each school, generally ranging from single digits to a few dozen.
 
-### 选拔方式
+### Selection Method
 
-流程统一，但各学院选拔方式差异很大，关注两件事：门槛和考核。
+The process is unified, but selection methods vary greatly by school. Two things matter: thresholds and assessment.
 
-门槛决定你能否报名。宽松的学院只要求必修不挂科（一些甚至可以挂科！）加基本纪律要求；严格的学院会额外要求大一上学期数学和英语达到特定分数，不达标直接失去资格（目前没有学院将绩点作为门槛）。考核一般只有两种：纯面试，或笔试加面试，门槛严格的学院才可能加笔试。笔试一般考数学、物理或 C++，学院自定；面试通常考察专业认知和综合素质，可能有英语口语。
+Thresholds determine if you can even apply. Lenient schools only require no failed required courses (some even allow failures!) plus basic disciplinary requirements. Strict schools additionally require specific scores in first-semester math and English -- miss them and you're disqualified outright (currently, no school uses GPA as a threshold). Assessment generally comes in only two forms: pure interview, or written exam plus interview. Schools with strict thresholds are more likely to add a written exam. Written exams typically cover math, physics, or C++, set by the school. Interviews usually assess field knowledge and overall quality, possibly with an English oral component.
 
-在常规专业之外，5 月的自主转专业时还存在少量的教改班（注意这里不包含卓越等重点班）可转入。教改班往往实验性质非常强、开设很不稳定、不通过高考招生，学生均由各个专业转入。教改班情况复杂多变，有些有完全独立的流程，本文对教改班的参考性不强，建议还是要以最新的公告为准。
+Beyond regular programs, a small number of teaching reform classes (note: this doesn't include卓越 classes or other key classes) are available for transfer during the May window. These classes are often highly experimental, offered irregularly, not recruited through Gaokao, and filled entirely with students from other majors. Their conditions vary greatly and are subject to frequent change. Some have completely independent processes, so this article's reference value for them is limited -- always check the latest announcements.
 
-2026 年存在部分教改班在转入考核成绩中直接将大一上学期绩点纳入考量，虽然目前这只占转专业中的极少一部分。但仍需注意。
+In 2026, some teaching reform classes directly factored first-semester GPA into their transfer assessment scores, though this remains a very small minority of cases. Still worth noting.
 
-下面为四个学院以及一个教改班在 2026 年 5 月转专业的规则：
+Below are the 2026 May transfer rules for four schools and one teaching reform class:
 
-#### 信工学院（严格门槛 + 笔试面试）
+#### School of Electronic and Information Engineering (Strict Threshold + Written Exam + Interview)
 
-微积分不低于 87 分、线性代数不低于 86 分，不达标直接失去资格。笔试考数学和物理，设单科线（当科平均分 x 0.7），任一科未达线不能进面试。面试考察理工科背景知识、学习能力和心理素质，最终成绩按笔试 x 40% + 面试 x 60% 计算。物理学院、自动化学院、计算机学院等采用类似模式。
+Calculus score no lower than 87, Linear Algebra no lower than 86 -- miss either, and you're disqualified. The written exam covers math and physics, with a minimum per-subject line (subject average x 0.7). Failing either subject means no interview. The interview assesses STEM background knowledge, learning ability, and psychological fitness. Final score = written exam x 40% + interview x 60%. The Schools of Physics, Automation, and Computer Science use similar models.
 
-#### 电力学院（严格门槛 + 纯面试）
+#### School of Electric Power (Strict Threshold + Pure Interview)
 
-不招收单色识别不全者。要求必修课无挂科，且高等数学不低于 80 分，否则直接失去资格。面试为 5 分钟 PPT 个人陈述，内容需涵盖个人学业情况、科研比赛项目等经历（如有）、学科认知、个人潜质及未来规划。其中学业情况尤为重要，重点看均分、高数和线代成绩，大学英语成绩优秀者也优先考虑。最终考核仅面试，无笔试。另有转专业经验文章[转电气经验分享](./transfer_major_electrical_2026)可供参考。
+Does not accept those with monochromatic color recognition deficiency. Requires no failed required courses and an Advanced Mathematics score no lower than 80 -- otherwise, disqualification. The interview is a 5-minute PPT personal presentation covering: academic status, research/competition experience (if any), subject awareness, personal potential, and future plans. Academic status is especially important -- focus on weighted average, math, and linear algebra scores. Strong university English scores are also preferred. Assessment is interview only, no written exam. Also see the experience article: [Transferring to Electrical Engineering](./transfer_major_electrical_2026).
 
-#### 软件学院（严格门槛 + 纯面试）
+#### School of Software Engineering (Strict Threshold + Pure Interview)
 
-报名只要求不挂科，但学院按数学 x 70% + 英语 x 30% 加权排名，按 1:1.5 比例筛选进面试人数，分数不够直接淘汰，这是一个随竞争程度变化的动态门槛。面试考核专业课基础（数学及编程）40%、综合素质 40%、英语听说 20%。
+Registration only requires no failed courses, but the school ranks applicants by math x 70% + English x 30%, filtering at a 1:1.5 ratio for interview slots. If your score isn't high enough, you're eliminated -- this is a dynamic threshold that moves with competition. The interview assesses professional fundamentals (math and programming) at 40%, overall quality at 40%, and English listening/speaking at 20%.
 
-#### 材料学院（宽松门槛 + 纯面试）
+#### School of Materials Science and Engineering (Lenient Threshold + Pure Interview)
 
-不设额外门槛，不挂科即可报名，只包含面试。在非热门的学院很常见。
+No extra threshold -- no failed courses is enough to register. Interview only. Common in less popular schools.
 
-#### 法律人工智能实验班（教改班，宽松门槛 + 绩点加权 + 面试）
+#### Legal AI Experimental Class (Teaching Reform Class, Lenient Threshold + GPA Weighting + Interview)
 
-选考物理的大一学生，必修课首次考核无不及格即可报名。选拔名额不超过 30 人。录取按大一上必修课百分制平均分 x 40% + 面试 x 60% 计算，面试低于 60 分直接不予录取。
+For first-year students who took physics in Gaokao. No failed first-attempt required courses is sufficient to register. No more than 30 slots. Admission score = first-semester required course 100-point average x 40% + interview x 60%. Interview scores below 60 result in automatic rejection.
 
-每年规则都可能调整。务必及时关注目标学院官网公告栏查看当年方案，往年公告可参考但不完全可靠，以当年为准。
+Rules may change every year. Always check the target school's official website notice board for the current year's plan. Previous years' announcements can be referenced but are not fully reliable -- go by the current year.
 
-## 二、转专业的选择
+## II. Choosing a Major Transfer
 
-转专业的选择取决于三件事：难度、代价和收获。
+Choosing to transfer depends on three things: difficulty, cost, and reward.
 
-### 难度
+### Difficulty
 
-以理工科为例，各专业的竞争程度大致分三个等级（仅供参考）：
+Using STEM fields as an example, competition levels roughly fall into three tiers (for reference only):
 
-- 激烈竞争：软件、计算机、智能科学、自动化、电气等。
-- 适量竞争：数学、物理、机械电子、功能材料等。
-- 基本无竞争：高分子材料、化学、生物等，报名人数通常不超过接收名额而且没有门槛，基本都能录取。
+- **Fierce competition**: Software Engineering, Computer Science, Intelligent Science, Automation, Electrical Engineering, etc.
+- **Moderate competition**: Mathematics, Physics, Mechatronics, Functional Materials, etc.
+- **Virtually no competition**: Polymer Materials, Chemistry, Biology, etc. Applicant numbers usually don't exceed intake slots and there are no thresholds -- most get in.
 
-但需要注意，各学院选拔时更看重学生是否符合本院需求，并没有统一的量化难度标准，而且波动很大。本文不会尝试精确预测任何专业的难度。[2]
+But note: each school evaluates whether a student fits its needs, and there's no unified quantitative difficulty standard. Things fluctuate a lot. This article won't attempt to precisely predict any major's difficulty [2].
 
-一个重要的点是你的个人情况和学院需求是否匹配，数学分数是最普遍而关键的；信息技术能力突出的同学可以优先考虑计算机、软件；对综合素养和表达有信心的同学可以优先考虑纯面试的学院。
+An important point is alignment between your profile and the school's needs. Math scores are the most universal and critical factor. Students with strong IT skills can prioritize Computer Science or Software. Those confident in overall quality and expression can prioritize schools that use pure interviews.
 
-建议大一上先选定目标尽全力准备，大一上结束后根据实际表现评估是否需要调整，毕竟只有一个志愿，不推荐过于激进的报名。
+We recommend picking a target in your first semester and preparing with full effort. After first semester ends, evaluate whether to adjust based on actual performance. After all, you only get one choice -- we don't recommend overly aggressive applications.
 
-### 代价
+### Cost
 
-转专业不是一件一定成功的事情，报名一定要考虑失败的可能。如果失败，不要气馁，未来一样有很多机遇，研究生还有未来的就业都有很多变方向的机会，只要你肯保持一颗学习和上进的心。转专业最大的代价是补课。转入跨度较大的专业可能要补十几个学分，不降级的话后续课业压力很大，可能影响成绩和发展；降级则意味着多读一年。不过对有保研目标的同学来说，降级未必是坏事，多一年准备时间，在保研竞争中反而可能占据优势。
+Major transfer isn't guaranteed. When applying, you must consider the possibility of failure. If you fail, don't get discouraged -- there will still be many opportunities ahead. Graduate school and future careers offer many chances to pivot, as long as you keep a learning mindset. The biggest cost of transferring is catching up on courses. Switching to a very different major might mean making up a dozen credits. If you don't drop a grade level, the subsequent course load can be heavy, potentially affecting your grades and development. Dropping a grade level means an extra year. But for those aiming for graduate recommendation, dropping a grade level isn't necessarily bad -- an extra year of preparation could actually give you an advantage in the competition.
 
-### 收获
+### Reward
 
-转专业最直接的收获，是进入一个自己真正想学的方向，或者离开一个明确不适合自己的专业。但不要只看当前的高考分数、竞争烈度或者就业情况来判断一个专业的价值，这只反映当前学生的偏好和现在的情况，和你未来从事这个方向是否开心、职业前景如何，没有必然因果关系。选专业建议综合考虑个人兴趣、职业规划和对行业趋势的判断，这是一个复杂多变且因人而异的问题，本文不展开阐述。[3]
+The most direct reward of transferring is entering a field you genuinely want to study, or leaving one that clearly doesn't suit you. But don't judge a major's value solely by its Gaokao cutoff, competition intensity, or employment prospects -- these only reflect current student preferences and the present situation. They have no necessary causal relationship with whether you'll enjoy working in that field or what your career prospects will be. Choosing a major should consider personal interest, career planning, and industry trends -- a complex and highly individualized question this article won't expand on [3].
 
-## 三、时间节奏
+## III. Timeline and Pace
 
-### 大一上学期：主攻核心必修课
+### First Semester of Year 1: Focus on Core Required Courses
 
-对于想冲击热门专业的同学，我们的建议是大一上不用急着做专门转专业的准备，把足够的精力放在必修课上，尤其是数学和英语。原因有六：第一，热门专业大多设有门槛，不过门槛的话连报名资格都没有；第二，即使是没有明确要考察绩点的情况，我们也在统计中发现大一上学期的成绩与面试成绩有明确的相关性；第三，大一上考完试到 5 月考核还有近 5 个月时间，完全足够做转专业的准备，提前做意义不大；第四，大一上的成绩是评估自己应该选择哪个竞争程度专业的最好指标之一，很多时候你需要先有这个成绩，才能大致知道自己可以选什么；第五，必修课绩点本身就非常重要，对于有升学打算的同学更是生死攸关；最后，很多同学刚进入大学都是比较迷茫的，花上几个月的时间去多了解、多思考、多适应之后再决定去向并不迟。
+For students aiming at popular majors, our advice is: don't rush into specialized transfer preparation in the first semester. Put your energy into required courses, especially math and English. Six reasons: First, most popular majors have thresholds -- miss them and you can't even apply. Second, even without explicit GPA-based assessment, our statistics show a clear correlation between first-semester grades and interview performance. Third, after first-semester exams end, there are still nearly 5 months until the May assessment -- plenty of time for transfer preparation; doing it early has little benefit. Fourth, first-semester grades are one of the best indicators for assessing which competition level to target -- often you need these grades first to roughly know your options. Fifth, required course GPA is inherently crucial, especially for those planning further study. Finally, many students enter university feeling disoriented -- spending a few months learning more, thinking more, and adapting before deciding where to go is perfectly fine.
 
-既要准备好期末考试和大作业，也要保证平时分。高数、线代等核心课程期末考试占比通常在 60%-70%，要认真准备；平时作业的正确率直接影响平时分，不可敷衍。思政、习概、英语等课程也要积极争取课堂表现分，包括 pre 汇报、课堂回答问题等。MOOC、雨课堂等线上内容及时完成。
+Prepare well for final exams and major assignments while also ensuring your平时成绩 (ongoing assessment score). Core courses like math and linear algebra typically have final exams worth 60%-70% -- prepare seriously. Homework accuracy directly affects your ongoing score, so don't slack off. For political education, English, and similar courses, actively participate in class -- presentations, answering questions. Complete online content on MOOC, Rain Classroom, etc., on time.
 
-### 大一上结束后，该正式选择目标
+### After First Semester: Formally Choose Your Target
 
-首先最重要的是：花足够的时间明白各个专业到底是什么，以及自己需要的又是什么。第二，了解以往转专业情况，包括门槛要求、报录比、竞争强度、考核内容，做好预期管理，根据自己上学期的表现评估难度与风险。最后，你想学的方向可能对应不止一个专业，不要只局限于一个选项，以免因变动而措手不及（如学院提高门槛分数线、软件学院增开工业软件专业但软件工程缩招）[4]。综合你个人对专业的喜好，以及你对风险的考量，得出一个你要主要冲击的专业，以及潜在的其他专业（之间的跨度最好不要太大，同时仍然要记得分清主次）。
+First and most importantly: spend enough time understanding what each major actually is, and what you really need. Second, understand past transfer situations -- threshold requirements, application-to-admission ratios, competition intensity, and assessment content. Manage your expectations. Evaluate difficulty and risk based on your first-semester performance. Finally, the direction you want may correspond to more than one major -- don't lock yourself into a single option, so you're not caught off guard by changes (e.g., a school raising its threshold scores, or Software Engineering reducing enrollment while adding an Industrial Software major) [4]. Combine your personal preference for each major with your risk assessment to arrive at a primary target and potential alternatives (preferably not too far apart in field, while still remembering what's primary and secondary).
 
-### 有了目标专业之后，就要付诸行动
+### Once You Have a Target, Take Action
 
-具体的转专业要求要等到 4 月才发布，但 1 月到 4 月是宝贵的 4 个月，不能浪费。在确定大致的专业方向后，应该有意识地尽早了解目标学院的考核形式和内容，为后续准备做好规划。之后就应该根据考核方向有针对性的自学相关内容，比如目标是计算机类就开始熟悉高级语言、算法、人工智能，目标是信工就多学数学物理。大一下学期的开始应该适当的将部分本专业的学习时间放到转专业上面。最后，建议参与一些项目，最好能打一点比赛，这对面试很有用。如果想转计算机软件，可以尝试自学神经网络做一些简单的深度学习项目。这个过程中寻求过去成功的师兄师姐的帮助是非常有价值的，务必做好联系。在转专业群中直接联系师兄师姐们或者在群文件中寻找他们的资料都是可行的。
+Specific transfer requirements are only published in April, but January to April is a precious 4-month window -- don't waste it. After determining your general direction, proactively learn about your target school's assessment format and content early, and plan your preparation. Then, self-study relevant content based on the assessment focus -- for example, if targeting CS, start getting familiar with high-level languages, algorithms, and AI; if targeting information engineering, study more math and physics. At the start of the second semester, appropriately shift some study time from your current major toward transfer preparation. Finally, try to participate in projects -- ideally some competitions -- as this is very useful for interviews. If aiming for CS or Software, try self-studying neural networks and building simple deep learning projects. Seeking help from seniors who've successfully transferred is very valuable -- make sure to reach out. Contacting them directly in transfer groups or finding their materials in group files are both viable approaches.
 
-总的来说，在大致了解华工转专业政策和个人实现路径之后，最核心的问题是能否管理好预期、保持执行力。在近一个学年的悬而未决里不要过度焦虑，调整好自己的状态，稳步前行。但是也要记住转专业不是全部，在我们谈的这些事情之外，你还有很多其他要做的事情。具体要做什么取决于你个人，不过维持身心健康始终应该是第一位的。
+Overall, after roughly understanding SCUT's transfer policies and your personal pathway, the core question is whether you can manage expectations and maintain execution. Don't get overly anxious during the nearly year-long period of uncertainty. Stay balanced and move forward steadily. But also remember: transfer is not everything. Beyond what we've discussed, there are many other things you need to do. What exactly depends on you, but maintaining your physical and mental health should always come first.
 
-最后，转专业群中聚集了很多优秀的同学。如果你在学习或者生活中遇到了困惑或者需要帮助，一定要记得来这里多多交流，相信你会大有收获的。大学生活的关键在于交流与合作，你在日后一定会有更深的体会。
+Finally, the transfer groups bring together many excellent students. If you encounter confusion or need help in your studies or life, remember to come and exchange ideas here -- you'll gain a lot. The key to university life is communication and collaboration, something you'll appreciate more deeply over time.
 
-## 备注
+## Notes
 
-[1] 二次选拔发生在刚入学的 9 月份，为重点班选拔。一般考查数学、英语和面试，题目类型可见群文件。以前的二次选拔是大热门，但是去年的教改班只能选择国际校区，不知道今年情况具体会如何，有兴趣的还是可以先做准备。其他几个类型转专业具体情况可以专门找过去参与过的师兄师姐去咨询。
+[1] Secondary selection happens in September, right after enrollment, for key classes. It typically tests math, English, and interviews. Question types can be found in group files. Secondary selection used to be very popular, but last year's teaching reform classes were limited to the International Campus. We'll see how it goes this year -- interested students can still prepare in advance. For details on other transfer types, consult seniors who've been through them.
 
-[2] 因为广为人知的预言会自我实现或者反向实现，我（胡桃）在过去犯过这个错误。
+[2] Because well-known predictions can self-fulfill or self-reverse -- I (Hu Tao) made this mistake in the past.
 
-[3] 所以也要考虑一下，变换这个专业对你到底有没有益处？真的应该去转这个专业吗？不要为了转专业而转专业。
+[3] So also consider: will changing majors actually benefit you? Should you really transfer? Don't transfer just for the sake of transferring.
 
-[4] 我（胡桃）是 2021 级转专业的。在我们之前的转专业都是在大二 9 月份开始的，我们那一年毫无征兆的提前到了大一的 5 月，打乱了非常多人的安排。而给大二下学期的人开放少量名额，更是之后的事情。这里是要告诉大家转专业的政策经常变化，要做好预期。
+[4] I (Hu Tao) transferred in the 2021 cohort. Before us, transfers always started in September of the second year. That year, without any warning, it moved up to May of the first year, disrupting many people's plans. Opening a few slots for second-semester second-year students came even later. The point is: transfer policies change frequently -- manage your expectations.
 
-本文完成于 2026 年 7 月 16 日。本文为非专业人士撰写，难免存在疏漏，仅供参考。如确有发现错误，请联系作者。
+This article was completed on July 16, 2026. Written by non-professionals, inevitably with omissions. For reference only. If errors are found, please contact the authors.

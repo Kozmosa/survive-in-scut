@@ -1,304 +1,306 @@
 ---
-lang: zh-CN
-title: 五山
-description: 五山校区的觅食指南
+lang: en-US
+title: Wushan
+description: A food guide for Wushan Campus
+llm_translated: true
 ---
 
-# 五山觅食指南
+# Wushan Food Guide
 
-编者：BayoneT
+Editor: BayoneT
 
-本指南主观性较强，仅供参考。听说过而尚未去过的餐厅，将会用`代码块`标明。
-五山附近有几个主要的购物综合体，而本文所述餐厅也基本分布在它们附近。
-本人体重约为94千克，吃得比较多，消费相比平均水平更高。此外，除非是餐厅的特色菜，否则本人优先考虑吃荤菜，而非素菜。
-一般来说，萨莉亚、肯德基等连锁餐厅由于其标准化而不在此列出，但是如果遇到服务特别恶劣或体验非常独特的将单独指出。
+This guide is highly subjective and for reference only. Restaurants I've heard about but haven't been to will be marked with `code blocks`.
+There are several major shopping complexes near Wushan, and the restaurants covered in this article are basically distributed around them.
+I weigh about 94 kg, so I eat quite a lot, and my spending is higher than average. Also, unless it's a restaurant's specialty dish, I prioritize meat over veggies.
+Generally speaking, chain restaurants like Saizeriya and KFC are not listed here due to their standardization, but if I encounter particularly bad service or a unique experience, I'll point it out separately.
 
-## 评分标准：
+## Scoring Criteria:
 
-**服务与体验**：
+**Service & Experience**:
 
-服务是在外用餐的重要组成部分，不出差错的服务是餐厅的基本要求。参考值：点单与结账流畅无阻碍、上菜速度正常、服务员态度端正的餐厅，或是管理良好的扫码下单餐厅从8分开始计分。
+Service is an important part of dining out. Error-free service is the basic requirement for a restaurant. Reference: Restaurants where ordering and checkout are smooth, serving speed is normal, and staff attitude is proper, or well-managed QR code ordering restaurants start scoring from 8.
 
-**装修与环境**：
+**Decor & Environment**:
 
-手肘黏在桌子上、一直处于太亮或太暗的地方都是十分令人心烦的事情。餐厅应当令室内有符合起主体或氛围的照明，并将桌椅清理得干净整洁。
+Having your elbows stick to the table or being in a place that's too bright or too dark all the time is quite annoying. A restaurant should have lighting that fits its theme or atmosphere and keep the tables and chairs clean and tidy.
 
-参考值：使用钢管和胶合板桌椅（基本没有进行主题化装修），桌面基本无粘性和污渍的餐厅从7分开始计分。
+Reference: Restaurants using steel pipes and plywood tables and chairs (basically no themed decoration), with tables basically free of stickiness and stains, start scoring from 7.
 
-**综合评分**：
+**Overall Rating**:
 
-一项十分主观的评分。即使一家餐厅的装修、服务不尽如人意，但是性价比较高（例如味道很好或十分平价的“苍蝇馆”）也会在此环节得到高分。
+A very subjective score. Even if a restaurant's decor and service are less than satisfactory, if it offers good value for money (e.g., great tasting or very affordable "hole-in-the-wall" joints), it can get a high score here.
 
-## 五山校区附近
+## Near Wushan Campus
 
-从南区小东门（与华农相邻的那个小门）出校，我去过以下餐厅：
+Exiting through the small east gate (the small gate adjacent to SC Agricultural University), here are the restaurants I've been to:
 
-### 东北水饺
+### Northeast Chinese Dumplings (Dongbei Shuijiao)
 
-归属：朝鲜/东北菜
+Category: Korean/Northeast Chinese cuisine
 
-- 人均消费：40 （凉拌面或饺子+一个凉盘 ）
-- 服务与体验：7/10 偶尔会遇到下单而一直不上菜的问题
-- 装修与环境：7/10 正常餐厅装修，处于平均水平
-- 综合评分： 6.5/10 部分菜品明显使用预制菜
-- 推荐菜品：朝鲜冷面、凉拌皮蛋、酱骨架
-- 不推荐：猪肘（预制菜）“帝王蟹”拌面（蟹棒淀粉含量太高）
-- 路线：小东门出门下坡右转，不要过马路。
+- Avg. cost: 40 RMB (cold noodles or dumplings + a cold dish)
+- Service & Experience: 7/10 -- Occasionally order but food never comes
+- Decor & Environment: 7/10 -- Normal restaurant decor, average level
+- Overall Rating: 6.5/10 -- Some dishes clearly use pre-made ingredients
+- Recommended: Korean cold noodles, cold mixed century eggs, braised pork bones
+- Not recommended: Pork knuckle (pre-made), "King Crab" noodles (too much starch in the crab sticks)
+- Route: Exit the small east gate, go downhill and turn right. Don't cross the road.
 
-### 潮汕粿条与杂粮煎饼
+### Chaoshan Rice Noodles & Multigrain Pancakes (Chaoshan Guotiao yu Zaliang Jianbing)
 
-**这家店疑似更换了老板**。
+**This shop seems to have changed owners**.
 
-归属：综合（粿条、小炒、中式面点）
+Category: Mixed (rice noodles, stir-fry, Chinese pastries)
 
-- 人均消费：小于20（粿条或一对烧饼）
-- 服务与体验：6.5/10 由于撤去了专门的收银台，经常漏单。
-- 装修与环境：5.5/10 室内偏昏暗，桌面发粘，较闷热，且**经常炒制辣椒**。此外，撤去了空调。不过有临街座位。
-- 综合评分：7/10 肉量很足、粿条免费续，性价比极高。
-- 推荐菜品：猪肉瘦肉丸汤粿条、烧饼（烧饼现在好像没有了）
-- 不推荐：一切炒粿条（水平不够，很多粿条黏在一起）、杂粮煎饼（不额外加蛋的话，太素）
-  路线：小东门出门下坡右转，不要过马路。
+- Avg. cost: Less than 20 RMB (rice noodles or a pair of baked flatbreads)
+- Service & Experience: 6.5/10 -- Since they removed the dedicated cashier, orders often get missed.
+- Decor & Environment: 5.5/10 -- The interior is dim, tables are sticky, stuffy, and **they often fry up chili peppers**. Also, they removed the air conditioning. However, there are street-side seats.
+- Overall Rating: 7/10 -- Generous meat portions, free refills on rice noodles, great value.
+- Recommended: Pork and lean meatball soup with rice noodles, baked flatbread (though the flatbread seems to be gone now)
+- Not recommended: Any stir-fried rice noodles (not skilled enough, lots of noodles stuck together), multigrain pancakes (too plain without an extra egg)
+- Route: Exit the small east gate, go downhill and turn right. Don't cross the road.
 
-### 猪脚饭
+### Pig Trotter Rice (Zhu Jiao Fan)
 
-- 归属：猪脚饭
-- 人均消费：约25（烧卤拼饭）
-- 服务与体验：8/10 现点现切。
-- 装修与环境：6.5/10 餐厅位于商场餐吧区，与其他店面共用桌椅，桌面即使经常擦拭也有一点粘性。整体照明良好。
-- 综合评分：7/10 肉量合格、有赠送的鸡骨架例汤和自助续饭。
-- 推荐/不推荐：此店去得较少，且同类餐厅多，印象不深。
-- 路线：小东门马路对面超市收银台出口左转
+- Category: Pig trotter rice
+- Avg. cost: About 25 RMB (roasted meat combo rice)
+- Service & Experience: 8/10 -- Sliced to order on the spot.
+- Decor & Environment: 6.5/10 -- Located in the mall's food court area, sharing tables and chairs with other shops. Tables are a bit sticky even with frequent wiping. Overall lighting is fine.
+- Overall Rating: 7/10 -- Acceptable meat portions, comes with complimentary chicken bone soup and self-serve rice refills.
+- Recommended/Not recommended: I haven't been to this shop much, and there are many similar places, so no strong impression.
+- Route: Cross the road from the small east gate, turn left at the supermarket checkout exit.
 
-### 金陵饼业
+### Jinling Pastry (Jinling Bingye)
 
-- 归属：中式面点
-- 人均消费：10-15（鸡蛋饼、酱香饼、葱油饼或各类馅饼）
-- 服务与体验：8/10 现点现称
-- 装修与环境：本店无用餐区。
-- 综合评分：7.5/10 性价比超高
-- 推荐：鸡蛋饼
-- 不推荐：暂无强烈不推荐项。
-- 路线：小东门马路对面地铁站旁
+- Category: Chinese pastries
+- Avg. cost: 10-15 RMB (egg pancake, sauce-flavored pancake, scallion pancake, or various stuffed pies)
+- Service & Experience: 8/10 -- Made and weighed to order
+- Decor & Environment: No dining area.
+- Overall Rating: 7.5/10 -- Amazing value for money
+- Recommended: Egg pancake
+- Not recommended: Nothing strongly not recommended.
+- Route: Across the road from the small east gate, next to the metro station.
 
-### 银记肠粉店
+### Yinji Rice Noodle Roll (Yinji Changfen Dian)
 
-**注意：这是一家*不推荐去*的餐厅。**
+**Note: This is a restaurant _not recommended_ to visit.**
 
-- 归属：粤菜（肠粉、汤粉和粥）
-- 人均消费：20（午餐，肠粉多加粉码+生滚粥）
-- 服务与体验：8/10 扫码下单
-- 装修与环境：6.5/10 虽然干净整洁，但是店面太窄，桌子很小，人多时非常逼仄。
-- 综合评分：5/10 **你管那个叫做肠粉？**
+- Category: Cantonese cuisine (rice noodle rolls, soup noodles, and congee)
+- Avg. cost: 20 RMB (lunch, rice noodle roll with extra toppings + Cantonese-style congee)
+- Service & Experience: 8/10 -- QR code ordering
+- Decor & Environment: 6.5/10 -- Although clean and tidy, the shop is too narrow, the tables are very small, and it feels quite cramped when crowded.
+- Overall Rating: 5/10 -- **You call that a rice noodle roll?**
 
-### 乜料
+### Nieh Liao (Mie Liao)
 
-- 归属：泰式与东南亚菜
-- 人均消费：40（多人）-50（单人，1份炒饭+虾片+冰饮）
-- 服务与体验：7.5/10 扫码下单，**不提供免费纸巾**。
-- 装修与环境：室内8.5/10（照明良好、座位整洁干净） 室外7.5/10（夏天有蚊子）
-- 其他注意事项：**周一闭店消杀**。高峰期（中午11:30后、下午5:30后）必须提前排队预约，否则到店等待时间较长（半小时左右）
-- 综合评分：9/10
-- 推荐：炭烧猪颈肉、菠萝炒饭
-- 不推荐：暂无
-- 路线：导航（
+- Category: Thai and Southeast Asian cuisine
+- Avg. cost: 40 RMB (group) - 50 RMB (solo, 1 fried rice + shrimp chips + cold drink)
+- Service & Experience: 7.5/10 -- QR code ordering, **no free napkins provided**.
+- Decor & Environment: Indoor 8.5/10 (good lighting, clean seats) Outdoor 7.5/10 (mosquitoes in summer)
+- Other notes: **Closed on Mondays for pest control**. During peak hours (after 11:30 AM, after 5:30 PM), you must queue and reserve in advance, otherwise the wait can be long (about half an hour)
+- Overall Rating: 9/10
+- Recommended: Charcoal-grilled pork neck, pineapple fried rice
+- Not recommended: None
+- Route: Use navigation maps (
 
-### 一米鸡肉
+### One Meter Chicken (Yimi Jirou)
 
-**注意：这是一家*不推荐去*的餐厅，但是我的体验和其他人*差距较大*，也有人对此餐厅评价较好。**
+**Note: This is a restaurant _not recommended_ to visit, but my experience _differs significantly_ from others -- some people have good things to say about it.**
 
-- 归属：朝鲜菜（石锅拌饭）和现代韩式快餐（炸鸡等）
-- 人均消费：约25（一碗拌饭）
-- 服务与体验：8/10 扫码下单
-- 装修与环境：不作评分。我去的时候刚刚处于晚市开张时。
-- 综合评分： 5/10 **预制菜。**
-- 路线：小东门出门麦当劳旁。
+- Category: Korean cuisine (stone pot rice) and modern Korean fast food (fried chicken, etc.)
+- Avg. cost: About 25 RMB (a bowl of stone pot rice)
+- Service & Experience: 8/10 -- QR code ordering
+- Decor & Environment: No rating. I went right when the dinner service opened.
+- Overall Rating: 5/10 -- **Pre-made food.**
+- Route: Next to McDonald's outside the small east gate.
 
-### 大岗仙庙烧鸡
+### Dagang Xianmiao Roast Chicken (Dagang Xianmiao Shaoji)
 
-- 归属：仙庙烧鸡（以及蜜汁排骨）
-- 人均消费：40-50 **不推荐单独用餐**
-- 服务与体验：8/10 扫码下单
-- 装修与环境：7/10 典型的仙庙烧鸡店式粗装修（水泥地、砖面或哑光深色瓷- 砖地面，室内较昏暗），故不扣分。
-- 综合评分 7/10
-- 推荐：蜜汁排骨
-- 路线：跟导航。注意：本店没有独立的入口，而是和同一栋楼的另一餐厅共用一个楼梯间入口。
+- Category: Xianmiao roast chicken (and honey-glazed ribs)
+- Avg. cost: 40-50 RMB -- **Not recommended for solo dining**
+- Service & Experience: 8/10 -- QR code ordering
+- Decor & Environment: 7/10 -- Typical Xianmiao roast chicken style rough decor (cement floor, brick or matte dark ceramic tile floor, dim interior), so no deduction.
+- Overall Rating: 7/10
+- Recommended: Honey-glazed ribs
+- Route: Follow your navigation map. Note: This shop doesn't have a separate entrance; it shares a stairwell entrance with another restaurant in the same building.
 
-### 物碗牛肉粿条
+### Wùwǎn Beef Rice Noodles (Wuwan Niurou Guotiao)
 
-==注意：这是一家**不推荐去**的餐厅。==
+**Note: This is a restaurant _not recommended_ to visit.**
 
-- 归属：潮汕菜（牛肉丸和粿条）
-- 人均消费：约25（一碗粿条）
-- 服务与体验：8/10 扫码下单
-- 装修与环境：7.5/10（极强主观性的） 这家店采用网红风格装修，但是店面形状较为畸形，整体有点割裂。此外，我不喜欢网红风格的装修。
-- 综合评分： 5.5/10 肉丸太少。此外，某种脆蔬菜的菜码切得太碎，与其他食材的口感完全不搭。
-- 路线：出北区南门或南区北门沿东莞庄路下坡岔口处。
+- Category: Teochew cuisine (beef balls and rice noodles)
+- Avg. cost: About 25 RMB (a bowl of rice noodles)
+- Service & Experience: 8/10 -- QR code ordering
+- Decor & Environment: 7.5/10 (highly subjective) -- This place uses trendy internet-famous decor, but the shop layout is oddly shaped, making it feel a bit disjointed. Also, I don't like internet-famous style decor.
+- Overall Rating: 5.5/10 -- Too few meatballs. Also, some crunchy vegetable topping is cut too finely, completely clashing with the texture of the other ingredients.
+- Route: Exit the north area's south gate or the south area's north gate, head downhill along Dongguan Village Road to the fork.
 
-## 天河新天地以及对面的长湴城中村
+## Tianhe Xintiandi and the Changban Urban Village Across the Street
 
-### 阿杏饭团
+### A Xing Rice Balls (Axing Fantuan)
 
-**注意：这是一家*不推荐去*的餐厅。**
+**Note: This is a restaurant _not recommended_ to visit.**
 
-- 归属：日式料理（寿司和紫菜卷）
-- 人均消费：约20（大号紫菜卷）
-- 服务与体验：8/10 现点现包
-- 装修与环境：本店没有用餐区域
-- 综合评分：3/10 **它甚至不好吃。谁教的往 _热_ 饭团里加黄瓜，_还要配肉松_ ？？？**
-- 位于天河新天地负一层。
+- Category: Japanese cuisine (sushi and seaweed rolls)
+- Avg. cost: About 20 RMB (large seaweed roll)
+- Service & Experience: 8/10 -- Made to order, wrapped on the spot
+- Decor & Environment: No dining area
+- Overall Rating: 3/10 -- **It's not even tasty. Who taught you to put cucumber in a _hot_ rice ball _and pair it with meat floss_???**
+- Located at Tianhe Xintiandi B1 level.
 
-### 百利家（Pelicana）炸鸡
+### Pelicana Fried Chicken (Baijia Zhaji)
 
-- 归属：韩式快餐（炸货、炸鸡、啤酒）
-- 人均消费：约30
-- 服务与体验：8/10 扫码下单
-- 装修与环境：8/10 干净整洁，装修有一定氛围
-- 综合评分：8/10
-- 推荐：百香果味啤酒、芝士炸鸡
-- 位于天河新天地外场。
+- Category: Korean fast food (fried items, fried chicken, beer)
+- Avg. cost: About 30 RMB
+- Service & Experience: 8/10 -- QR code ordering
+- Decor & Environment: 8/10 -- Clean and tidy, with some atmosphere
+- Overall Rating: 8/10
+- Recommended: Passion fruit flavored beer, cheese fried chicken
+- Located outside Tianhe Xintiandi.
 
-### 石磨肠粉
+### Stone Mill Rice Noodle Roll (Shimo Changfen)
 
-- 归属：粤菜（肠粉和粥）
-- 人均消费：约15（午餐，2碟肠粉和一碗粥）
-- 服务与体验：8/10 现场点单
-- 装修与环境：6.5/10 桌面稍粘
-- 综合评分 7.5/10 性价比高。
-- 注意事项：本店用的是带蒜酱油。
-- 路线：无导航路线。高德搜索“云浮传统石磨肠粉”，然后找旁边有烤鸡摊的那一家。
+- Category: Cantonese cuisine (rice noodle rolls and congee)
+- Avg. cost: About 15 RMB (lunch, 2 rice noodle rolls and a bowl of congee)
+- Service & Experience: 8/10 -- Order in person
+- Decor & Environment: 6.5/10 -- Tables slightly sticky
+- Overall Rating: 7.5/10 -- Good value.
+- Note: This shop uses soy sauce with garlic.
+- Route: No navigation route. Search for "Yunfu Traditional Stone Mill Rice Noodle Roll" on Amap, then find the one with a roast chicken stall next to it.
 
-# 地铁出行
+# Metro Accessible
 
-## 岗顶站：天娱广场
+## Gangding Station: Tianyu Plaza
 
-### 豚胜
+### Tonkatsu Win (Tunsheng)
 
-- 归属：日式料理（炸猪排）
-- 人均消费：约50（一份猪排饭）
-- 服务与体验：8/10 扫码下单 **推荐用美团小程序上的套餐券核销**
-- 装修与环境：7.5/10 现代日式餐厅装修（长桌和独立座位）
-- 综合评分 7.5/10 好吃！
-- 本店可以免费续套餐内包含的小菜（就是给你上菜的时候，除了大盘里的任何东西），例如包菜丝、土豆泥、腌萝卜和味噌汤。也可以免费续饭。
-- 路线：岗顶C口出站，过天桥右转至喷泉处，“炼金咖啡店”门面旁有负一层”友见地“入口，推门进入。从此口进负一层，则右手边为另一家咖啡店，炸猪排在它背后。
+- Category: Japanese cuisine (fried pork cutlet)
+- Avg. cost: About 50 RMB (a serving of pork cutlet rice)
+- Service & Experience: 8/10 -- QR code ordering **Recommended to use the set meal coupons on Meituan mini-program**
+- Decor & Environment: 7.5/10 -- Modern Japanese restaurant decor (long tables and individual seats)
+- Overall Rating: 7.5/10 -- Delicious!
+- This place offers free refills of the side dishes included in the set meal (i.e., anything in the small dishes served alongside the main plate), such as shredded cabbage, mashed potato, pickled radish, and miso soup. Rice refills are also free.
+- Route: Exit Gangding Station at Exit C, cross the footbridge and turn right toward the fountain. Next to the "Coffee Alchemy" storefront there is an entrance to the B1 level "Youjiandi," push the door and enter. Once in B1, another coffee shop will be on your right, and the pork cutlet place is behind it.
 
-### 腩爷牛腩饭
+### Grandpa Beef Brisket Rice (Nanye Niunan Fan)
 
-**注意：这是一家*不推荐去*的餐厅。**
+**Note: This is a restaurant _not recommended_ to visit.**
 
-此外，_这是一家连锁餐厅。_
+Also, _this is a chain restaurant._
 
-- 归属：中餐（牛肉盖饭）
-- 人均消费：约25（一份牛腩饭套餐）
-- 服务与体验：8/10扫码下单
-- 装修与环境：6.5/10 它甚至不肯把用餐区域与商场过道隔离一下
-- 综合评分：2/10 **预制菜。**
-- 为什么比阿杏饭团还低分？因为他家的红豆糖水**甚至在冷柜里放串味了。**
-- 位置：同豚胜，天娱广场友见地。
+- Category: Chinese cuisine (beef brisket rice bowl)
+- Avg. cost: About 25 RMB (a beef brisket rice set meal)
+- Service & Experience: 8/10 -- QR code ordering
+- Decor & Environment: 6.5/10 -- They couldn't even be bothered to separate the dining area from the mall corridor
+- Overall Rating: 2/10 -- **Pre-made food.**
+- Why is it rated even lower than A Xing Rice Balls? Because their red bean dessert soup **had absorbed odors from other items in the cold storage.**
+- Location: Same as Tonkatsu Win, Tianyu Plaza Youjiandi.
 
-## 黑人区（小北/淘金）
+## The "Black People District" (Xiaobei/Taojin)
 
-这个区域基本上**只提供清真菜**。请尊重当地居民习俗，不要带酒水或猪肉制品。
+This area basically **only serves halal cuisine**. Please respect local residents' customs and do not bring alcohol or pork products.
 
-## 小北（地铁站）
+## Xiaobei (Metro Station)
 
-### 宝汉直街（小吃街）
+### Baohan Straight Street (Snack Street)
 
-人均消费：列表说明。（馕、烤包子、”沙威玛“、酸奶）
+Avg. cost: Listed in the table. (Naan, baked stuffed buns, "shawarma," yogurt)
 
-| 菜品     | 沙威玛（牛肉） | 沙威玛（鸡肉） | 馕（直径约20cm） | 烤包子 |
-| -------- | -------------- | -------------- | ---------------- | ------ |
-| **价格** | 35             | 30             | 5-10             | 5      |
+| Dish      | Shawarma (Beef) | Shawarma (Chicken) | Naan (~20cm diameter) | Baked Stuffed Bun |
+| --------- | --------------- | ------------------ | --------------------- | ----------------- |
+| **Price** | 35              | 30                 | 5-10                  | 5                 |
 
-此外，还可以试试”奶皮子“甜品或者”卡瓦斯“发酵饮品（不含酒精）
-只建议购买蜂蜜味的”卡瓦斯“。不要急着买，最好先把整个宝汉直街走一趟，再决定吃什么，否则很容易被面饼填饱肚子。
+Also, try the "milk skin" dessert or "kvas" fermented drink (non-alcoholic).
+Only recommended to buy honey-flavored "kvas." Don't rush -- it's best to walk through the entire Baohan Straight Street first before deciding what to eat, otherwise you'll easily fill up on flatbread.
 
-综合评分：6.5/10
+Overall Rating: 6.5/10
 
-### 莎德餐厅（高德地图登记的名字）
+### Sadda Restaurant (Name registered on Amap)
 
-门面装修名为**洒德餐厅”Sadda Restaurant“**
+The storefront sign says **Sadda Restaurant**
 
-- 归属：中东菜
-- 人均消费：70 （4人，大饼、奶茶、主菜、配菜）**不推荐单人用餐。**
-- **注意：本店也单独提供波斯式水烟。但是我不抽烟，所以不做评价。**
-- 此外，主食无论是大饼还是抓饭，**吃相都极为难看**。如果约会，**不要到这里来。**
-- 服务与体验：5/10 必须主动招呼服务员。矿泉水收不收钱混乱不清，经常忘上例汤。此外，记账十分随意，同一菜品有时会记成不同名字。
-- 装修与环境：6/10 店门外聚集大量吸水烟的人，如同社会人士，有点令人不安。店面内没有桌布，统一使用塑料覆膜。
-- 综合评分：8/10
-- 约会：5/10
-- 尽管服务和装修都不甚如人意，但是本店性价比极高，味道也非常好。
-- 推荐菜式：烤羊排、也门大饼（直径约60cm）、牛肉砂锅、炒白豆。
-- 不推荐：菜单上的任何中餐菜式。
+- Category: Middle Eastern cuisine
+- Avg. cost: 70 RMB (4 people, flatbread, milk tea, main dishes, sides) -- **Not recommended for solo dining.**
+- **Note: This place also serves Persian-style hookah separately. But I don't smoke, so no comment.**
+- Also, whether it's flatbread or pilaf as the staple, **it's extremely messy to eat**. If you're on a date, **don't come here.**
+- Service & Experience: 5/10 -- You have to actively flag down the waitstaff. It's unclear whether bottled water is charged or not, and they often forget to serve the soup. Also, billing is very casual -- the same dish is sometimes recorded under different names.
+- Decor & Environment: 6/10 -- Lots of people smoking hookah gather outside the shop, giving off a gangster-ish vibe that's a bit unsettling. No tablecloths inside; everything uses plastic coverings.
+- Overall Rating: 8/10
+- Date Rating: 5/10
+- Despite the less-than-ideal service and decor, this place offers incredible value and great taste.
+- Recommended dishes: Roasted lamb chops, Yemeni flatbread (~60cm diameter), beef clay pot, stir-fried white beans.
+- Not recommended: Any Chinese dishes on the menu.
 
-### 摩卡咖啡
+### Mocha Coffee (Moka Kafei)
 
-- 归属：咖啡店，也提供主食。还有炸鱼、薯条等西式快餐。
-- 人均消费：50（沙威玛和一盘黄米饭。这两样其实相当多，我吃撑了。）
-- 服务与体验：8/10 扫码下单
-- 装修与环境：室内7/10，桌面稍粘；室外未去过
-- 综合评分：6/10 除非喝咖啡顺带吃饭，否则不值得专门去。而我不太喜欢喝咖啡。
+- Category: Coffee shop, also serves main dishes. Also has fried fish, fries, and other Western fast food.
+- Avg. cost: 50 RMB (shawarma and a plate of yellow rice. These two are actually quite a lot -- I was stuffed.)
+- Service & Experience: 8/10 -- QR code ordering
+- Decor & Environment: Indoor 7/10, tables slightly sticky; haven't been outside
+- Overall Rating: 6/10 -- Not worth going out of your way unless you're having coffee and eating on the side. And I'm not really a coffee person.
 
-### 贝鲁特 LI BEITRUT
+### Beirut LI BEITRUT
 
-- 归属：中东菜（黎巴嫩）
-- 人均消费：65（烤肉套餐，没吃饱。那天回去我们宿舍又去长湴吃了烧烤）
-- 服务与体验： 5/10 外国服务员，只能用”这个“和手势交流。此外，由于歧义漏单了。
-- 装修与环境： 8.5/10 相当精致
-- 综合评分：干饭5/10约会8/10 装修精美，味道很好，就是太少了。这地方更适合你带你对象去约会，而不是领着一宿舍的人去干饭。**显然我没有女朋友。否则也不会在这写这篇指南了。**
+- Category: Middle Eastern cuisine (Lebanese)
+- Avg. cost: 65 RMB (grilled meat set meal, didn't get full. We went back to our dorm and had barbecue in Changban that night.)
+- Service & Experience: 5/10 -- Foreign waitstaff, can only communicate using "this" and hand gestures. Also, orders got missed due to miscommunication.
+- Decor & Environment: 8.5/10 -- Quite elegant
+- Overall Rating: Eating 5/10 -- Date 8/10 -- Beautiful decor, great taste, but the portions are too small. This place is more suitable for taking your date out rather than bringing your whole dorm to chow down. **Clearly I don't have a girlfriend. Otherwise I wouldn't be writing this guide.**
+-
 
-## 淘金（地铁站）
+## Taojin (Metro Station)
 
-### 阿美达 Armada Restaurant
+### Armada Restaurant (Ameida Canting)
 
-- 归属：土耳其菜
-- 人均消费：约90 （3人吃4人套餐） **不建议单独用餐。** 建议用美团上的套餐券搭配点餐，**不要单点。**
-- **注意：本店也提供波斯式水烟。**
-- 服务与体验：8/10 扫码下单核销
-- 装修与环境：10/10 位于酒店3层，入口干净整洁，装修精美华丽。
-- 综合评分：10/10 我最喜欢的餐厅之一。
-- 注意：该店的酸奶用的是某种特殊酵母，不甜且有一种特殊气味，除非非常想吃否则不要点。
+- Category: Turkish cuisine
+- Avg. cost: About 90 RMB (3 people eating a 4-person set meal) -- **Not recommended for solo dining.** Recommended to use Meituan set meal coupons to complement your order, **don't order a la carte.**
+- **Note: This place also serves Persian-style hookah.**
+- Service & Experience: 8/10 -- QR code ordering and coupon redemption
+- Decor & Environment: 10/10 -- Located on the 3rd floor of a hotel, the entrance is clean and tidy, and the decor is exquisite and splendid.
+- Overall Rating: 10/10 -- One of my favorite restaurants.
+- Note: The yogurt here uses a special yeast -- it's not sweet and has a peculiar smell. Don't order it unless you really want to try it.
 
-## 分散的餐厅
+## Scattered Restaurants
 
-### 友会
+### You Hui (Youhui)
 
-**这是一家连锁餐厅。**
+**This is a chain restaurant.**
 
-- 归属：日式料理（炸猪排）
-- 人均消费：约50（一份猪排饭） 约40（工作日特惠套餐）
-- 服务与体验：8/10 现场点单排队 注意：这里似乎不能线上提前取号，必须现场排队
-- 装修与环境：7.5/10 实木家具
-- 综合评分 7.5/10 好吃！
-- 本店可以免费续套餐内包含的小菜（就是给你上菜的时候，除了大盘里的任何东西），例如包菜丝、土豆泥、腌萝卜和味噌汤。也可以免费续饭。
-- 基本同豚胜。
-- 位置：石牌桥、林和西都有分店
+- Category: Japanese cuisine (fried pork cutlet)
+- Avg. cost: About 50 RMB (a serving of pork cutlet rice) / About 40 RMB (weekday special set meal)
+- Service & Experience: 8/10 -- Order in person and queue. Note: It seems like you can't take a number online here; you have to queue in person.
+- Decor & Environment: 7.5/10 -- Solid wood furniture
+- Overall Rating: 7.5/10 -- Delicious!
+- This place offers free refills of the side dishes included in the set meal (i.e., anything in the small dishes served alongside the main plate), such as shredded cabbage, mashed potato, pickled radish, and miso soup. Rice refills are also free.
+- Basically the same as Tonkatsu Win.
+- Location: Branch locations in Shiqiaoqiao and Linhexi
 
-### 喀秋莎俄式西餐厅
+### Katyusha Russian Restaurant (Kaqiusha Eshi Canting)
 
-- 归属：俄罗斯与东欧菜
-- 人均消费：约100 （4人，冷盘、主食、主菜、沙拉和汤） **不建议单人用餐**
-- 服务与体验：10/10 现场下单。过生日还会额外送一块蛋糕。
-- 装修与环境：10/10 烛台、漂亮的桌布和良好氛围光照
-- 综合评分：10/10 我最喜欢的餐厅之一。
-- 其他注意事项：不建议一次点太多菜。他们店基本未作本地化改良，红菜汤、炖牛肉等都维持着大油大盐的状态。奶渣饺子**并不太好吃**，除非你确实想试一试，不然不建议点他们店里任何的东欧式”饺子“面点。
-- 位置：林和西
+- Category: Russian and Eastern European cuisine
+- Avg. cost: About 100 RMB (4 people, cold dishes, staple food, main dishes, salad, and soup) -- **Not recommended for solo dining**
+- Service & Experience: 10/10 -- Order in person. They'll also give you an extra cake on your birthday.
+- Decor & Environment: 10/10 -- Candle holders, beautiful tablecloths, and great ambient lighting
+- Overall Rating: 10/10 -- One of my favorite restaurants.
+- Other notes: Not recommended to order too many dishes at once. They've basically done no localization -- borscht, beef stew, etc., all remain heavy on oil and salt. Cheese curd dumplings **are not that good** -- unless you really want to try, don't order any of their Eastern European-style "dumpling" pastries.
+- Location: Linhexi
 
-### 印度餐厅（在高德登记的名字）
+### Indian Restaurant (Name registered on Amap)
 
-**门面装修上的名字为”沙罕沙“（_Shahenshah_）**
+**The storefront sign says "Shahenshah"**
 
-- 归属：印度菜
-- 人均消费：约80 （一杯姜汁奶茶，一个套餐外加一份面饼）
-- 服务与体验：6.5/10 老板不懂中文，主要靠做饭阿姨沟通，而她普通话也不是很流畅
-- 装修与环境：8.5/10 在卫生的前提下已经尽量还原了印度风情
-- 综合评分：7.5/10 吃不太饱。如果你只是为了体验印度料理，可以给到8分。
-- 位置：龙口西，或是骑行25分钟。
+- Category: Indian cuisine
+- Avg. cost: About 80 RMB (a cup of ginger milk tea, a set meal plus an extra flatbread)
+- Service & Experience: 6.5/10 -- The boss doesn't understand Chinese, communication mainly goes through the cooking auntie, and her Mandarin is not very fluent either
+- Decor & Environment: 8.5/10 -- They've tried their best to recreate an Indian vibe while keeping it hygienic
+- Overall Rating: 7.5/10 -- Doesn't fill you up much. If you're just looking to experience Indian cuisine, it can get 8 points.
+- Location: Longkou West, or a 25-minute bike ride.
 
-### PIPA枇杷小厨披萨研究所
+### PIPA Pipa Kitchen Pizza Lab (PIPA Pipa Xiaochu Pisa Yanjiusuo)
 
-- 归属：披萨店
-- 人均消费：约70 （披萨+汤）
-- 服务与体验：7/10 扫码点单
-- 装修与环境：7/10 店面装修精致，**就是离地铁站太他妈远了，而且附近扫不到共享单车。**
-- 综合评分 8.5/10 这家店是用真正的火炉来烤披萨（好像还有某个意大利的认证）没吃过的话值得一试，但去过一次尝鲜之后你就该好好考虑到底要不要坐半天地铁，再出来走半天路了。
-- 位置：棣圆C口，出门步行1.1公里。
+- Category: Pizza place
+- Avg. cost: About 70 RMB (pizza + soup)
+- Service & Experience: 7/10 -- QR code ordering
+- Decor & Environment: 7/10 -- The shop is nicely decorated, **it's just way too damn far from the metro station, and there are no shared bikes to be found nearby.**
+- Overall Rating: 8.5/10 -- This place uses a real wood-fired oven to bake pizza (apparently with some Italian certification). Worth a try if you've never had it, but after going once for the experience, you'll seriously reconsider whether you want to sit on the metro for half an hour and then walk another long way.
+- Location: Diyuan Station Exit C, then walk 1.1 km.

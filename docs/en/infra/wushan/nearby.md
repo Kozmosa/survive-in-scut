@@ -1,13 +1,16 @@
 ---
-lang: zh-CN
-title: 周边
-description: 五山校区周边去处的简介页面
+lang: en-US
+title: Nearby
+description: An overview of places near SCUT Wushan Campus
+llm_translated: true
 ---
 
-TODO: 补充五山校门外的生活与出行指南：
+# Around Wushan Campus
 
-- [ ] 餐饮与夜市推荐：口碑较好的小吃与避坑提示
-- [ ] 日用采买与超市：周边大型超市、菜市场与水果店
-- [ ] 租房与短租信息：考研/实习租房常见区域及防坑指南
-- [ ] 交通接驳：前往地铁站/公交站的最佳步行与骑行路线
-- [ ] 休闲娱乐：周边商场、电影院、健身房等设施
+TODO: Supplement travel and living guides for the area outside Wushan Campus:
+
+- [ ] Food & night market recommendations: well-reviewed eats and tips for avoiding pitfalls
+- [ ] Daily shopping & supermarkets: nearby large supermarkets, wet markets, and fruit shops
+- [ ] Rental & short-term housing info: common areas for postgrad exam prep / internship rentals and tips for avoiding scams
+- [ ] Transit connections: best walking and cycling routes to metro stations / bus stops
+- [ ] Leisure & entertainment: nearby shopping malls, cinemas, gyms, and other facilities

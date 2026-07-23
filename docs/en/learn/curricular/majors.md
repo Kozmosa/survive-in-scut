@@ -1,46 +1,47 @@
 ---
-lang: zh-CN
-title: 专业课
-description: 介绍华南理工大学的学院和专业，也提供相关专业学习指南的跳转地址
+lang: en-US
+title: Major Courses
+description: Introduces SCUT's schools and majors, with links to major-specific study guides
+llm_translated: true
 ---
 
-# 专业课
+# Major Courses
 
-介绍华南理工大学的学院和专业，也提供相关专业学习指南的跳转地址（仅供参考）
+An introduction to the schools and majors at SCUT, along with links to major-specific study guides (for reference only).
 
-TODO: 补充以下大院的专业课学习攻略与开源资源库链接：
+TODO: Add study guides and open-source resource links for the following major schools:
 
-- [ ] 机械与汽车工程学院 / 土木与交通学院
-- [ ] 电子与信息学院 / 自动化科学与工程学院
-- [ ] 建筑学院 / 工商管理学院 / 经济与金融学院
-- [ ] 化学与化工学院 / 轻工科学与工程学院
-- [ ] 软件学院 / 计算机科学与工程学院
-- [ ] 材料科学与工程学院 / 环境与能源学院
+- [ ] School of Mechanical & Automotive Engineering / School of Civil Engineering & Transportation
+- [ ] School of Electronic & Information Engineering / School of Automation Science & Engineering
+- [ ] School of Architecture / School of Business Administration / School of Economics & Finance
+- [ ] School of Chemistry & Chemical Engineering / School of Light Industry & Engineering
+- [ ] School of Software Engineering / School of Computer Science & Engineering
+- [ ] School of Materials Science & Engineering / School of Environment & Energy
 
-## 未来技术学院
+## School of Future Technology
 
-### 未来技术学院课程攻略
+### School of Future Technology Course Guide
 
-未来技术学院（华南理工大学未来技术学院人工智能协会）的学长及其他贡献者创立了该仓库以共享和交流华工未院课程相关资源
+Upperclassmen from the School of Future Technology (SCUT School of Future Technology AI Association) and other contributors created this repository to share and exchange course-related resources.
 
-[华南理工未来技术学院课程攻略 - 网页链接](https://openfutech.github.io/SCUT-FT-Guide/)
+[SCUT Future Technology Course Guide - Web Link](https://openfutech.github.io/SCUT-FT-Guide/)
 
-[GitHub 项目链接](https://github.com/OpenFuTech/SCUT-FT-Guide/)
+[GitHub Repository Link](https://github.com/OpenFuTech/SCUT-FT-Guide/)
 
-（该地址国内/校园网络访问可能存在障碍）
+(Access may be limited from domestic/campus networks.)
 
-### SCUT cs/AI科研入门指南
+### SCUT CS/AI Research入门 Guide
 
-鉴于华南理工大学的人工智能专业及计算机等专业培养方案对科研能力几乎没有提升的弊端，[Oplisty](https://github.com/oplisty)联合了计算机专业及人工智能专业的几个同学，创建了此网站旨在为学弟学妹的科研入门提供便利，防止走弯路。
+Given the drawback that SCUT's AI and Computer Science training plans offer little to improve research capabilities, [Oplisty](https://github.com/oplisty), together with several classmates from CS and AI programs, created this website to help junior students get started in research and avoid unnecessary detours.
 
-[GitHub 项目地址](https://github.com/oplisty/SCUT-AIdiy)
+[GitHub Repository Link](https://github.com/oplisty/SCUT-AIdiy)
 
-[网页访问地址](https://lin-ze-pengsorganization.gitbook.io/aidiy/)
+[Website Link](https://lin-ze-pengsorganization.gitbook.io/aidiy/)
 
-### SCUTEEE 华南理工电力电子类专业知识库
+### SCUTEEE - SCUT Electrical and Electronics Engineering Knowledge Base
 
-SCUTEEE 类似于 IEEE，SCUT 是华南理工大学（South China University of Technology），EEE 则是电气与电子工程师（Electrical and Electronics Engineers）。SCUTEEE 关注的领域与 IEEE 类似，集中于电气、电子、微电子、计算机、自动化等领域。这些领域存在大量交叉，许多课程大体上是相同的，可以相互借鉴。
+SCUTEEE is like IEEE. SCUT stands for South China University of Technology, and EEE stands for Electrical and Electronics Engineers. SCUTEEE focuses on similar areas as IEEE: electrical engineering, electronics, microelectronics, computer science, automation, and related fields. These areas have significant overlap, with many shared courses that can provide mutual reference.
 
-[Github 项目地址](https://github.com/scuteee/scuteee)
+[GitHub Repository Link](https://github.com/scuteee/scuteee)
 
-[网页访问地址](https://scuteee.com/)
+[Website Link](https://scuteee.com/)

@@ -1,11 +1,12 @@
 ---
-lang: zh-CN
-title: 概率论与数理统计学习笔记
-description: 华南理工大学 概率论与数理统计课程的学习笔记
+lang: en-US
+title: Probability Theory and Mathematical Statistics Study Notes
+description: Study notes for SCUT's Probability Theory and Mathematical Statistics course
+llm_translated: true
 ---
 
-# 概率论与数理统计学习笔记
+# Probability Theory and Mathematical Statistics Study Notes
 
-[下载 PDF 原文件](/assets/pdf/probability_statistics_note.pdf)
+[Download PDF](/assets/pdf/probability_statistics_note.pdf)
 
 <PdfViewer src="/assets/pdf/probability_statistics_note.pdf" />

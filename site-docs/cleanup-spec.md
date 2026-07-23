@@ -11,7 +11,7 @@
 | --------------------------------------- | ------------------------------------ | ------ |
 | [Phase 1](#phase-1-清除-vuepress-残留)  | 移除 VuePress 配置文件、插件、死代码 | P0     |
 | [Phase 2](#phase-2-配置-sidebar)        | 配置 VitePress sidebar，完善导航     | P0     |
-| [Phase 3](#phase-3-实现真实英文-locale) | 将名义 i18n 变为真实英文翻译         | P1     |
+| [Phase 3](#phase-3-实现真实英文-locale) | 将名义 i18n 变为真实英文翻译 ✅      | P1     |
 | [Phase 4](#phase-4-索引页--seo-优化)    | 补齐索引页、SEO 元信息               | P1     |
 
 ---
@@ -173,6 +173,17 @@ llm_translated: true # 仅 AI 翻译的页面添加，人工翻译不添加
 1. T0 翻译完成 → 英文首页可完整浏览
 2. T0 + T1 翻译完成 → 英文用户可基本使用
 3. T0-T3 全部完成 → 英文内容功能完整
+
+### 状态
+
+- [x] T0 核心导航页翻译完成（get-started, introduction, infra/index, README 等）
+- [x] T1 高流量内容翻译完成（life/, health/alive_first 等）
+- [x] T2 专题内容翻译完成（learn/curricular/, beyond/, health/ 等）
+- [x] T3 元页面翻译完成（others/contributing, others/roadmap 等）
+- [x] 所有 51 个 `docs/en/` 文件 `lang` 修正为 `en-US`（原 45 个错误标记为 `zh-CN`）
+- [x] 所有 LLM 翻译页面添加 `llm_translated: true`
+- [x] 人工已有英文页面标注 `llm_translated: false`
+- [x] 构建验证通过
 
 ---
 

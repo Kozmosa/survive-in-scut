@@ -1,48 +1,49 @@
 ---
-lang: zh-CN
-title: 项目简介
-description: 华南理工大学学生共同维护的非官方学习生活信息手册
+lang: en-US
+title: Project Introduction
+description: An unofficial handbook of study and campus life information co-maintained by SCUT students
+llm_translated: true
 ---
 
-# 这本手册是什么
+# What Is This Handbook
 
-Survive in SCUT（华南理工大学生存手册）是一份由学生共同编写、面向华工学习与生活场景的非官方信息指南。它整理分散在通知、制度、经验和校园日常中的信息，降低新生和在校生反复搜索、试错与踩坑的成本。
+Survive in SCUT is an unofficial information guide co-written by students, covering study and campus life scenarios at SCUT. It consolidates information scattered across notices, regulations, personal experiences, and daily campus life, reducing the cost of repeated searching, trial and error for both freshmen and current students.
 
-这本手册提供的是**信息与经验**，不是学校文件，也不替你做决定。涉及学籍、培养方案、奖助、医疗、安全等事项时，应以学校及相关部门发布的最新规定为准。
+This handbook offers **information and experience**, not official university documents, nor does it make decisions for you. For matters concerning enrollment status, academic plans, scholarships and grants, medical care, and safety, always refer to the latest regulations issued by the university and relevant departments.
 
-## 适合谁
+## Who It's For
 
-- 准备报考或即将入学，想提前了解真实校园生活的人；
-- 在校期间需要查询课程、设施、生活服务、升学与健康信息的人；
-- 愿意补充亲历经验、核对规则或修正过期信息的贡献者。
+- Those preparing to apply or about to enroll, who want a realistic preview of campus life;
+- Current students who need to look up information on courses, facilities, campus services, further education, and health;
+- Contributors willing to share firsthand experiences, verify rules, or correct outdated information.
 
-不同学院、专业、年级和校区的执行情况可能不同。个人经验可以帮你缩小信息差，但不能直接替代适用于你本人的正式通知。
+Policies may vary across different schools, majors, years, and campuses. Personal experience can help narrow the information gap, but it cannot replace the official notices that apply to your specific situation.
 
-## 怎么使用
+## How to Use
 
-1. **先搜索具体问题。** 用页面顶部的搜索框输入课程名、校区、业务或关键词，不必从头通读。
-2. **检查时间与来源。** 优先参考有明确年份、适用范围和来源的内容；缺少这些信息时，提高警惕。
-3. **用官方信息完成确认。** 遇到报名条件、截止时间、材料清单、成绩计算等会直接影响结果的事项，再到学校官网、教务系统或负责部门核验。
-4. **把经验当作选项。** 手册告诉你别人如何处理问题，最终选择仍取决于你的目标、成本和风险承受能力。
+1. **Search for your specific question first.** Use the search bar at the top of the page to enter a course name, campus, service, or keyword. No need to read through everything from start to finish.
+2. **Check the date and source.** Prioritize content that includes a clear year, scope of applicability, and source. Be cautious when this information is missing.
+3. **Confirm with official sources.** For matters that directly affect your outcome — application requirements, deadlines, document lists, grade calculations — double-check with the university website, academic affairs system, or the responsible department.
+4. **Treat experiences as options.** The handbook tells you how others have handled a problem; the final choice still depends on your own goals, circumstances, and risk tolerance.
 
-## 哪些内容可能过期
+## What Content May Be Outdated
 
-以下信息变化较快，不应脱离发布日期单独使用：
+The following information changes relatively quickly and should not be used independently of its publication date:
 
-- 新生报到时间、入口、材料与接站安排；
-- 校巴、校门、场馆、食堂和服务网点的开放时间；
-- 转专业、推免、评奖评优、综测与培养方案规则；
-- 校医院就诊、转诊、医保与报销流程；
-- 校园周边商户、价格、交通线路和联系方式。
+- Freshman registration dates, entry points, required documents, and pickup arrangements;
+- Operating hours for campus buses, gates, venues, cafeterias, and service points;
+- Rules for major changes, graduate exemptions, awards and evaluations, comprehensive assessments, and academic plans;
+- Campus clinic visits, referrals, medical insurance, and reimbursement procedures;
+- Nearby off-campus businesses, prices, transit routes, and contact information.
 
-如果页面没有标明核对时间，默认它只代表编写时的情况。发现内容与现实不符时，以最新官方通知为准，并欢迎立即修正。
+If a page does not indicate when it was last verified, it defaults to representing the situation only at the time of writing. When you find content that no longer matches reality, defer to the latest official notices — and feel free to correct it.
 
-## 如何参与共建
+## How to Contribute
 
-你不需要掌握整个项目才可以贡献。一次错别字修正、一条来源补充、一段亲历流程或一项过期信息标记，都能减少后来者的试错成本。
+You don't need to understand the entire project to contribute. One typo fix, a source supplement, a firsthand account of a process, or a flag for outdated information can reduce the trial-and-error costs for those who come after you.
 
-- 在页面底部点击“编辑此页”，直接提交修改；
-- 在 GitHub 提交 Issue，说明问题、适用范围和信息来源；
-- 阅读[贡献指南](/en/others/contributing.html)与[TODO 汇总](/en/others/todo.html)，认领尚未完善的内容。
+- Click "Edit this page" at the bottom of any page to submit a change directly;
+- Submit an Issue on GitHub, describing the problem, scope of applicability, and information source;
+- Read the [Contribution Guide](/en/others/contributing.html) and [TODO Summary](/en/others/todo.html) to claim content that still needs work.
 
-贡献事实性内容时，请尽量写清**适用校区、学院或人群、核对日期和信息来源**。手册的价值不在于说得像权威，而在于让信息可以被核验、修正和继续传递。
+When contributing factual content, try to specify the **applicable campus, school or audience, verification date, and information source**. The value of this handbook is not in sounding authoritative, but in making information verifiable, correctable, and passable to others.

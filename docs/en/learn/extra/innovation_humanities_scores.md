@@ -1,87 +1,88 @@
 ---
-lang: zh-CN
-title: 创新分与人文分
-description: 什么是创新分，创新分有什么用，如何获得创新分。本文章以电力学院为例
+lang: en-US
+title: Innovation Credits & Humanities Credits
+description: What innovation credits are, what they are used for, and how to earn them. This article uses the School of Electric Power as an example.
+llm_translated: true
 ---
 
-# 关于创新分与人文分的要求
+# About Innovation Credits & Humanities Credits Requirements
 
-_注意：本文章参考的文献与规定均来自电力学院2025年规定，内容具有时效性与院间差异性，参考本文内容时请注意与你所在学院的差异。_
+_Note: The references and policies cited in this article are based on the School of Electric Power's 2025 regulations. The content is time-sensitive and may differ between schools. Please check for differences with your own school when referencing this content._
 
-## 创新分
+## Innovation Credits
 
-毕业要求4分
+Graduation requirement: 4 credits
 
-**获取渠道**
+**How to Earn Them**
 
-### 1. 学校或本学院的讲座票
+### 1. Lecture Tickets from the University or Your School
 
-分数：一般为0.2分/张
-证明材料：讲座票原件
-评价：难度低，可黑市收
-注意：一般不认其它学院的；部分学院有要求上限不超过2分；讲座票一定为原件，须妥善保存四年
+Points: Typically 0.2 points per ticket
+Proof: Original lecture ticket
+Notes: Low difficulty; can be purchased on the black market
+Caution: Tickets from other schools are generally not accepted; some schools cap this at no more than 2 points; lecture tickets must be originals — keep them safe for all four years
 
-### 2. 科研活动（包括srp、百步梯攀登计划等）
+### 2. Research Activities (including SRP, Baibuti Climbing Plan, etc.)
 
-分数：一学期2分；一学年4分
-证明材料：校级看系统，院级由导师开具纸质证明
-评价：看导师情况决定性价比，部分srp同时能提供竞赛机会
-注意：并非只有系统上的项目可加分，部分老师有院级srp项目，建议询问本学院学长获取相关资讯，主动联系老师。
+Points: 2 points per semester; 4 points per academic year
+Proof: School-level projects verified via the system; faculty-level projects require a paper certificate from the supervisor
+Notes: Value depends on the supervisor. Some SRP projects also offer competition opportunities.
+Caution: Not only system-listed projects count — some supervisors have faculty-level SRP projects. Ask senior students in your school for information and proactively contact professors.
 
-### 3. 学科竞赛与科技竞赛
+### 3. Academic and Technology Competitions
 
-分数：只参赛但没获奖加 0.5分，若有获奖，可加 1 分；同一比赛不同级别，可累加分数。
-证明材料：主办方开具参赛证明；获奖证明
-评价：性价比较高；学有余力可多参与
+Points: 0.5 points for participation without awards; 1 point if awarded. Points from different levels of the same competition can be accumulated.
+Proof: Participation certificate from the organizer; award certificate if applicable
+Notes: Relatively good value; participate more if you have the bandwidth
 
-### 4. 论文与专利
+### 4. Papers and Patents
 
-见表格（附件，待施工）
+See table (appendix, TBD)
 
-## 人文分
+## Humanities Credits
 
-毕业要求2分（1.5+0.5）
-其中参与文艺活动获得1.5分；i志愿志愿时满30h获得0.5分（该部分不可用其它分数代替）
+Graduation requirement: 2 points (1.5 + 0.5)
+1.5 points from participating in cultural/artistic activities; 0.5 points from completing 30 hours of volunteer service on iVolunteer (this portion cannot be substituted by other means)
 
-**获取渠道**
+**How to Earn Them**
 
-### 1. 各类人文类型的讲座票
+### 1. Humanities Lecture Tickets
 
-分数：以讲座票为准
-证明材料：为讲座票（需盖公章）
-注意：入场券不计分；主办方为外院或者某协会的无效
+Points: As specified on the ticket
+Proof: Lecture ticket (must be stamped)
+Caution: Admission tickets do not count; tickets issued by other schools or student associations are invalid
 
-### 2. 各类文体竞赛
+### 2. Cultural and Sports Competitions
 
-分数：0.5分/次
-证明材料：仅参赛但没获奖的由竞赛主办单位或承办单位开具证明材料；有获奖的则以获奖证书复印件作为证明材料
+Points: 0.5 points per event
+Proof: For participation without awards, a certificate from the event organizer; for award winners, a copy of the award certificate
 
-### 3. 校运会、院运会，
+### 3. University and School Sports Meets
 
-分数：按 0.5分/年 （参加一次院运会加 0.5分，多个项目不叠加）。
-证明材料：学院团学出具证明材料
+Points: 0.5 points per year (participating in one school sports meet earns 0.5 points; multiple events do not stack)
+Proof: Certificate issued by the school's Youth League Committee or Student Union
 
-### 4. 院运会方阵
+### 4. School Sports Meet Parade Squad
 
-分数：0.5 分（四年只加一次）
-证明材料：由各班出具名单，然后自行联系院学生会体育部制作证明材料
-注意：校运会开幕式闭幕式观众不予加分
+Points: 0.5 points (only once across four years)
+Proof: Name list provided by each class; contact the school's Student Union Sports Department to prepare the certificate
+Caution: Being a spectator at the opening or closing ceremony does not count
 
-### 5. 院级篮球赛、足球赛等各类型比赛
+### 5. School-Level Basketball, Soccer, and Other Sports Competitions
 
-分数：0.5 分（四年只加一次）
-证明材料：由各班出具名单，然后自行联系院学生会体育部制作证明材料，
-注意：不同项目可叠加
+Points: 0.5 points (only once across four years)
+Proof: Name list provided by each class; contact the school's Student Union Sports Department to prepare the certificate
+Caution: Points from different sports can be stacked
 
-### 6. 各类型院队、校队运动员
+### 6. School Team or University Team Athletes
 
-分数：0.5分（四年只加一次）
-证明材料：由团学提供
+Points: 0.5 points (only once across four years)
+Proof: Provided by the Youth League Committee or Student Union
 
-### 7. 学院组织的迎新晚会、才艺之星文娱活动
+### 7. School-Organized Welcome Party, Talent Show, and Cultural Events
 
-可加 0.5分（人文） ，证明材料由团学提供。
+0.5 points (humanities), proof provided by the Youth League Committee or Student Union
 
-### 8. 党校党支部组织的参观活动
+### 8. Visits Organized by Party Branch or Party School
 
-有创新学分、人文学分加分条的才能加。
+Only count if they come with innovation or humanities credit vouchers.

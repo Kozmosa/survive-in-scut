@@ -1,197 +1,198 @@
 ---
-lang: zh-CN
-title: ACM程序设计竞赛
-description: ACM程序设计竞赛（ACM-XCPC）简介及参赛指南，涵盖集训队招新、训练安排、比赛规则等内容
+lang: en-US
+title: ACM Programming Competition
+description: Introduction to the ACM Programming Competition (ACM-XCPC) and participation guide, covering team recruitment, training schedules, competition rules, and more
+llm_translated: true
 ---
 
-# ACM 竞赛介绍
+# ACM Competition Introduction
 
-## 简介
+## Overview
 
-**主办方：国际计算机协会（ACM）**
+**Organizer: Association for Computing Machinery (ACM)**
 
-ACM国际大学生程序设计竞赛（ACM International Collegiate Programming Contest，简称 **ACM-ICPC**），是全球最具影响力的大学生算法竞赛之一。比赛以团队形式进行，每支队伍由三名成员组成，主要考察选手在算法设计、编程能力以及团队协作方面的综合水平。
+The ACM International Collegiate Programming Contest (abbreviated as **ACM-ICPC**) is one of the most influential university-level algorithm competitions worldwide. The competition is team-based, with each team consisting of three members, testing participants' skills in algorithm design, programming ability, and teamwork.
 
-华南理工大学 ACM 集训队负责组织和选拔校内优秀学生参与各类赛事，包括：
+The SCUT ACM Training Team organizes and selects outstanding students on campus to participate in various competitions, including:
 
-- **ICPC（国际大学生程序设计竞赛）**
-- **CCPC（中国大学生程序设计竞赛）**
-- **GDCPC（广东省大学生程序设计竞赛）**
-- **华工周边高校联合校赛（广工、广大、华师、暨大等）**
-- **蓝桥杯、企业赞助类竞赛等**
-
----
-
-## ACM 比赛规则概览
-
-### 比赛形式
-
-- **三人一队**
-- **仅队长电脑可提交代码**
-- 其他两名队员只能阅读题目和讨论思路
-- **比赛时长：5 小时**
-- **题量：7~12 道题目不等**
-- **允许携带纸质资料**
-- **常用语言：C++、Java、Python（推荐 C++，速度更快）**
-- **题面全英文**
-
-一般来说，ACM 相关比赛题目一般由以下几个部分组成：
-
-- **Time Limit**：时间限制
-- **Memory Limit**：内存限制
-- **Description**：题目描述
-- **Input**：输入描述
-- **Output**：输出描述
-- **Sample Input/Output**：输入输出样例
-
-提交的代码也有以下几种运行结果：
-
-| 结果缩写 | 全称                  | 含义     |
-| -------- | --------------------- | -------- |
-| AC       | Accept                | 运行通过 |
-| WA       | Wrong Answer          | 答案错误 |
-| CE       | Compile Error         | 编译错误 |
-| TLE      | Time Limit Exceeded   | 时间超限 |
-| MLE      | Memory Limit Exceeded | 内存超限 |
-| PE       | Presentation Error    | 格式错误 |
-
-> ⚠️ 只有 **AC** 才是通过题目，其他运行结果都代表代码有问题。
-
-### 得分机制
-
-- **首先看通过题目数量**：越多排名越靠前
-- **其次看总用时**：总用时 = ∑(每道题的通过时间 + 罚时)
-  - 每次错误提交（除 CE 外）罚时 20 分钟
-  - 只有题目通过后才计算罚时
-- **封榜机制**：比赛结束前 1 小时榜单冻结，最终结果在赛后揭晓（可能出现“滚榜”现象）
-
-### 奖励机制
-
-- 通过题目可获得气球
-- 首位通过某题的队伍会获得特殊气球
+- **ICPC (International Collegiate Programming Contest)**
+- **CCPC (China Collegiate Programming Contest)**
+- **GDCPC (Guangdong Collegiate Programming Contest)**
+- **Joint inter-university contests with SCUT's neighboring schools (GDUT, GZHU, SCNU, JNU, etc.)**
+- **Lanqiao Cup, corporate-sponsored competitions, etc.**
 
 ---
 
-## 集训队选拔与训练规划
+## ACM Competition Rules Overview
 
-### 1. 招新时间
+### Competition Format
 
-- **每年仅一次招新机会**，通常在学年伊始。
-- 错过将需等待下一年，建议尽早准备！
+- **Three people per team**
+- **Only the team leader's computer can submit code**
+- The other two members can only read problems and discuss ideas
+- **Duration: 5 hours**
+- **Number of problems: 7 to 12**
+- **Printed reference materials are allowed**
+- **Common languages: C++, Java, Python (C++ recommended for speed)**
+- **Problem statements are entirely in English**
 
-### 2. 训练安排
+Generally, ACM-related competition problems consist of the following sections:
 
-- **常规训练**：每周周末安排 5 小时集训（模拟正式比赛时长）
-- **寒暑假集训**：
-  - **寒假**：由高年级学长传授基础算法知识
-  - **暑假**：参加全国高校联合集训
+- **Time Limit**
+- **Memory Limit**
+- **Description**
+- **Input**
+- **Output**
+- **Sample Input/Output**
 
-### 3. 赛事参与
+Submitted code can result in the following verdicts:
 
-- 主要目标赛事为 **ICPC** 和 **CCPC**
-- 上学期通过网络赛获得区域赛资格
-- 表现优异者可晋级 **EC-Final** 或 **CCPC Final**
-- 推荐参与其他赛事如蓝桥杯、企业赞助赛，既有机会获得奖金，也可用于综测加分
+| Abbreviation | Full Name             | Meaning               |
+| ------------ | --------------------- | --------------------- |
+| AC           | Accept                | Accepted              |
+| WA           | Wrong Answer          | Wrong answer          |
+| CE           | Compile Error         | Compilation error     |
+| TLE          | Time Limit Exceeded   | Time limit exceeded   |
+| MLE          | Memory Limit Exceeded | Memory limit exceeded |
+| PE           | Presentation Error    | Format error          |
+
+> ⚠️ Only **AC** means the problem is solved; all other verdicts indicate an issue with the code.
+
+### Scoring Mechanism
+
+- **Primary ranking: number of problems solved** — the more, the higher the rank
+- **Secondary ranking: total time** — total time = ∑(time of correct submission + penalty)
+  - Each incorrect submission (except CE) adds a 20-minute penalty
+  - Penalty is only counted for problems that are eventually solved
+- **Freeze mechanism**: The scoreboard freezes 1 hour before the end, with final results revealed after the contest (may involve “scoreboard rolling”)
+
+### Reward Mechanism
+
+- Balloons are awarded for solving problems
+- The first team to solve a problem receives a special balloon
 
 ---
 
-## 报名方式与时间节点
+## Training Team Selection and Training Plan
 
-### 报名渠道
+### 1. Recruitment Period
 
-- **校内选拔**：通过学校组织的 ACM 校赛选拔进入集训队
+- **Only one recruitment opportunity per year**, typically at the beginning of the academic year.
+- Missing it means waiting until next year — start preparing early!
 
-### 比赛时间
+### 2. Training Schedule
 
-| 赛事        | 时间安排                 |
-| ----------- | ------------------------ |
-| ICPC / CCPC | 一般为每年秋季学期举办   |
-| GDCPC       | 省内赛通常安排在春季学期 |
-| 蓝桥杯      | 初赛在春季，决赛在夏季   |
+- **Regular training**: 5-hour sessions every weekend (simulating actual contest duration)
+- **Winter and summer break training**:
+  - **Winter break**: Senior students teach basic algorithm knowledge
+  - **Summer break**: Participate in national joint training camps
 
----
+### 3. Competition Participation
 
-## 集训队优势
-
-- **学习资源丰富**：资深学长一对一答疑，涵盖学习、生活等多个方面
-- **人脉拓展**：结识志同道合的队友，未来合作项目或求职更具优势
-- **实践机会**：寒暑假集训可计入社会实践经历
-- **综测加分**：拿奖可加智育分
-- **保研加分**：竞赛成绩优异者在保研复试中具备更强的机试能力，尤其对计算机相关专业深造有明显帮助。_（注：具体保研政策请以所在学院规定为准）_
-- **就业优势**：参与企业赞助类竞赛并获奖，有机会直接获得知名企业实习或录用资格。拥有扎实的算法基础和实战经验，在技术面试中更具优势。同时，已有工作的学长可提供内部推荐资源，大幅提升求职成功率。
-- **科研助力**：实验室老师更青睐有竞赛背景的学生
+- Main target competitions are **ICPC** and **CCPC**
+- Qualify for regional rounds through online contests in the first semester
+- Outstanding performers can advance to **EC-Final** or **CCPC Final**
+- Other recommended competitions include Lanqiao Cup and corporate-sponsored contests — opportunities for prize money and comprehensive evaluation bonus points
 
 ---
 
-## 新生入门建议
+## Registration and Timeline
 
-### 编程语言选择
+### Registration Channels
 
-- **推荐使用 C++**：速度快，适合算法竞赛
-- Python / Java 因解释型语言特性，容易超时，仅适用于极少数大数运算题目
+- **On-campus selection**: Join the training team through the SCUT ACM campus competition
 
-### 开发环境建议
+### Competition Schedule
 
-- **Windows 平台**：
-  - 新手推荐使用 **Code::Blocks** 或 **Dev-C++**
-  - 有能力者可使用 **VSCode + MinGW / WSL + GNU G++**
-- **Linux 用户**：自行配置即可
-- **Mac 用户**：可尝试 VSCode + Clang 编译器
+| Competition | Timing                                             |
+| ----------- | -------------------------------------------------- |
+| ICPC / CCPC | Usually held in the fall semester                  |
+| GDCPC       | Provincial competition, usually in spring semester |
+| Lanqiao Cup | Preliminary in spring, finals in summer            |
 
-### 学习资源推荐
+---
 
-- **C++ 快速入门**：[菜鸟教程 - C++](https://www.runoob.com/cplusplus/cpp-tutorial.html)
-- **OI Wiki**：[OI-Wiki](https://oi-wiki.org/)
-- **刷题平台**：
-  - [洛谷](https://www.luogu.com.cn/)
+## Advantages of Joining the Training Team
+
+- **Rich learning resources**: One-on-one Q&A with experienced seniors, covering academics and daily life
+- **Networking opportunities**: Meet like-minded teammates, beneficial for future projects or job hunting
+- **Practical experience**: Winter and summer break training counts as social practice
+- **Comprehensive evaluation bonus**: Awards earn intellectual development points
+- **Graduate recommendation edge**: Strong competition performance means better coding skills in graduate school interviews, especially helpful for computer-related majors. _(Note: Specific policies vary by school)_
+- **Career advantages**: Winning corporate-sponsored competitions can lead directly to internships or job offers at well-known companies. Solid algorithm foundations and hands-on experience give you an edge in technical interviews. Plus, employed seniors can provide internal referrals, significantly improving job search success.
+- **Research boost**: Lab professors prefer students with competition backgrounds
+
+---
+
+## Getting Started for Newcomers
+
+### Choosing a Programming Language
+
+- **C++ is recommended**: Fast, well-suited for algorithm competitions
+- Python / Java, due to interpreted language characteristics, are prone to timeouts and only suitable for a few big-number problems
+
+### Development Environment Suggestions
+
+- **Windows**:
+  - Beginners: Use **Code::Blocks** or **Dev-C++**
+  - Advanced users: Use **VSCode + MinGW / WSL + GNU G++**
+- **Linux users**: Configure as you like
+- **Mac users**: Try VSCode + Clang compiler
+
+### Recommended Learning Resources
+
+- **C++ Quick Start**: [Runoob - C++ Tutorial](https://www.runoob.com/cplusplus/cpp-tutorial.html)
+- **OI Wiki**: [OI-Wiki](https://oi-wiki.org/)
+- **Practice Platforms**:
+  - [Luogu](https://www.luogu.com.cn/)
   - [LeetCode](https://leetcode.cn/problemset/all/)
   - [Codeforces](https://codeforces.com/)
-- **算法模板**：
-  - [jiangly 算法模板收集 - hh2048 - 博客园](https://www.cnblogs.com/WIDA/p/17633758.html)
+- **Algorithm Templates**:
+  - [jiangly Algorithm Template Collection - hh2048 - cnblogs](https://www.cnblogs.com/WIDA/p/17633758.html)
 
-### 初学者学习路径
+### Beginner Learning Path
 
-1. 学习基础语法（推荐《深入浅出程序设计竞赛》）
-2. 掌握基本算法：
-   - 二分查找
-   - 贪心算法
-   - 动态规划（DP）
-   - 搜索（DFS/BFS）
-3. 提升英语阅读能力（题面均为英文）
-
----
-
-## 备战策略（针对新生）
-
-### 快速入门路线
-
-1. **掌握 C++ 基础语法**：
-   - 数据类型、循环结构、函数定义、数组与字符串操作
-2. **熟悉 STL 库**：
-   - `vector`, `map`, `set`, `priority_queue` 等常用容器
-3. **刷题积累经验**：
-   - 从简单题开始，逐步挑战中等难度题目
-4. **模拟实战演练**：
-   - 每周参与一次 5 小时模拟赛，适应比赛节奏
-
-### 学习书籍推荐
-
-- 《深入浅出程序设计竞赛》（洛谷出版）
-- 《算法竞赛入门经典》（刘汝佳著）
-  ![深入浅出程序设计竞赛](./ACM/深入浅出程序设计竞赛.jpg)
-
-![算法竞赛入门经典](./ACM/算法竞赛入门经典.jpg)
-
-### 提升方向
-
-- **阅读英文题面能力**：多做原题训练
-- **调试技巧**：学会使用调试工具排查错误
-- **时间管理**：合理分配解题时间，避免卡题
+1. Learn basic syntax (recommended: “Programming Contests: From Entry to Mastery”)
+2. Master fundamental algorithms:
+   - Binary search
+   - Greedy algorithms
+   - Dynamic programming (DP)
+   - Search (DFS/BFS)
+3. Improve English reading comprehension (all problem statements are in English)
 
 ---
 
-## 结语
+## Preparation Strategy (For New Students)
 
-加入 ACM 集训队不仅是锻炼编程能力和逻辑思维的绝佳机会，更是通往更高学术平台和优质就业机会的重要跳板。只要你愿意投入时间和精力，勇于挑战自我，就有机会脱颖而出，成为华工 ACM 战队的一员！
+### Quick Start Roadmap
 
-**2025华工ACM集训队招新群**：557553053 (QQ 群)
+1. **Master C++ basics**:
+   - Data types, loops, function definitions, arrays, and string operations
+2. **Get familiar with the STL**:
+   - Common containers like `vector`, `map`, `set`, `priority_queue`
+3. **Practice to gain experience**:
+   - Start with easy problems, gradually move to medium difficulty
+4. **Simulate real contests**:
+   - Participate in a 5-hour mock contest weekly to get used to the rhythm
+
+### Recommended Books
+
+- “Programming Contests: From Entry to Mastery” (Published by Luogu)
+- “Introduction to Algorithm Contests” (by Liu Rujia)
+  ![Programming Contests: From Entry to Mastery](./ACM/深入浅出程序设计竞赛.jpg)
+
+![Introduction to Algorithm Contests](./ACM/算法竞赛入门经典.jpg)
+
+### Areas for Improvement
+
+- **English problem reading skills**: Practice with original problem statements
+- **Debugging skills**: Learn to use debugging tools
+- **Time management**: Allocate problem-solving time wisely to avoid getting stuck
+
+---
+
+## Conclusion
+
+Joining the ACM Training Team is not only an excellent opportunity to sharpen your programming skills and logical thinking, but also a significant springboard to higher academic platforms and quality career opportunities. As long as you are willing to invest time and effort and have the courage to challenge yourself, you have the chance to stand out and become a member of the SCUT ACM team!
+
+**2025 SCUT ACM Training Team Recruitment QQ Group**: 557553053

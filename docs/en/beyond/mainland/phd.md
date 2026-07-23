@@ -1,17 +1,18 @@
 ---
-lang: zh-CN
-title: 博士
-description: 介绍在华南理工大学背景下申请境内高校博士项目的注意事项、行动参考及经验教训
+lang: en-US
+title: PhD
+description: An introduction to applying for PhD programs at domestic universities from the perspective of a SCUT student, with considerations, action references, and tips.
+llm_translated: true
 ---
 
-# 境内高校博士项目
+# PhD Programs at Domestic Universities
 
-介绍在华南理工大学背景下申请境内高校博士项目的注意事项、行动参考及经验教训
+An introduction to applying for PhD programs at domestic universities from the perspective of a SCUT student, with considerations, action references, and tips.
 
-TODO: 补充直博与申请-考核制博士指南：
+TODO: Add a guide to direct-entry PhD and application-assessment PhD programs:
 
-- [ ] 导师选择与"套磁"：如何联系导师、阅读 Lab 论文及确定研究方向
-- [ ] 核心硬实力：本科/硕士科研成果（一作/共一论文、专利）、推荐信要求
-- [ ] 申请流程与时间线：各高校博士招生简章发布时间、报名窗口、材料提交清单
-- [ ] 本校直博政策：华工本科生直博的条件、名额分配与培养方案差异
-- [ ] 面试与考核：申请-考核制的笔试/面试形式、常见问题与准备策略
+- [ ] Supervisor selection and "套磁" (networking): how to contact professors, read lab papers, and determine research direction
+- [ ] Core hard requirements: undergraduate/master's research output (first-author/co-first-author papers, patents), recommendation letters
+- [ ] Application process and timeline: PhD招生 announcement release dates, application windows, and document submission checklists by university
+- [ ] SCUT direct-entry PhD policy: eligibility, quota allocation, and curriculum differences for SCUT undergraduates
+- [ ] Interview and assessment: written/oral exam formats for the application-assessment system, common questions, and preparation strategies

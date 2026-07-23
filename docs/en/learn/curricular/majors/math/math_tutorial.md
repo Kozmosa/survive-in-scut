@@ -1,115 +1,116 @@
 ---
-lang: zh-CN
-title: 华南理工大学数学系学生 大一自救指南
-description: 介绍华南理工大学的数学系的学习教程，也提供一些所需的资源
+lang: en-US
+title: First-Year Survival Guide for SCUT Math Students
+description: A study guide for SCUT's math department, including resources for learning
+llm_translated: true
 ---
 
-# 华南理工大学数学系学生 大一自救指南
+# First-Year Survival Guide for SCUT Math Students
 
-编者：薛定谔的大马丁
+Editor: Schrodinger's Da Martin
 
-本文面向全体华南理工大学数学系大一学生，重点介绍数分和高代两门课的学习和考试经验
+This article is for all first-year SCUT Math Department students, focusing on study and exam experience for Mathematical Analysis (数分) and Advanced Algebra (高代).
 
-## 上课学习篇
+## Attending Class
 
-初次来到数学系，建议你先不要开启自学模式，除非你对自己的自学能力十分自信。
+When you first arrive at the Math Department, I suggest you don't jump into self-study mode unless you're very confident in your self-learning ability.
 
-**建议前一周的课都认真听课**，认真听老师讲下数学分析和高等代数的基本概念，尽管有些知识是考的概率很低的，比如数学分析中的**实数的完备性定理**。当然，前面的几节课中也有不少知识点是十分重要的，以下举两个例子：
+**I recommend seriously attending the first week of classes** to listen carefully as the teacher explains the basic concepts of Mathematical Analysis and Advanced Algebra. Some topics have a very low probability of appearing on exams -- for example, the **Completeness Theorem of Real Numbers** in Mathematical Analysis. But the first few classes also cover many very important concepts. Here are two examples:
 
-**1. 极限的 $ \varepsilon $ ,$ \delta $ 语言**
+**1. The epsilon-delta language of limits**
 
-**2. 线性相关和线性无关**
+**2. Linear dependence and linear independence**
 
-## 数学分析篇
+## Mathematical Analysis
 
-### 基础的数分学习
+### Basic Mathematical Analysis Study
 
-数学分析本校采用的课本是由复旦大学欧阳光中等人所著的数学分析第四版，图书的纸质封面如下图所示。（当然如果不一样，以你们老师讲的为主）
+Our school uses the fourth edition of Mathematical Analysis by Ouyang Guangzhong et al. from Fudan University. The paper cover is shown below (if it's different, go with what your teacher says).
 
 ![alt text](./image.png)
 
-知识点的讲解路径和课本基本一致，当然有些老师可能会使用卓里奇数学分析教材第七版（是俄罗斯人写的教材，难度非常大）。
+The progression follows the textbook fairly closely. Some teachers may use Zorich's Mathematical Analysis 7th edition (a Russian textbook -- very difficult).
 
-数学分析的学习推荐跟着老师听课学习，当然如果你觉得老师讲的慢，可以自己上b站搜索网课，陈纪修（节奏较慢），史济怀（节奏较快），总有一款老师的网课适合你
+For learning Mathematical Analysis, I recommend following the teacher in class. If you find the teacher too slow, search for online courses on Bilibili. Chen Jixiu (slower pace) and Shi Jihuai (faster pace) -- one of them will suit you.
 
-### 进阶的数分学习
+### Advanced Mathematical Analysis Study
 
-本人推荐使用谢惠民的数学分析习题集进行进阶的数分练习，这本书讲的内容很深，扩展的部分也较多。实体书封面如下图所示
+I recommend Xie Huimin's Mathematical Analysis exercise collection for advanced practice. This book covers deep content with substantial extensions. The cover is shown below.
 
-![alt text](./image-1.png)
+![text](./image-1.png)
 
-温馨提示：这本书只有每一章的参考题部分有答案，每一节后面的练习题答案要自己搜，这里提供两个获取答案的方案，b站up主**aceaccce**，和b站up主**分析学爱好者**均有谢惠民习题集的解答。
+Note: Only the reference problems at the end of each chapter have answers. Answers for the exercises after each section need to be found separately. Two Bilibili content creators -- **aceaccce** and **分析学爱好者** -- both provide solutions to Xie Huimin's problem set.
 
-当然诸如裴礼文数学分析习题集和吉米多维奇数学分析习题集也是非常优秀的习题集，只不过本人最喜欢谢惠民的习题集
+Of course, Pei Liwen's and Demidovich's Mathematical Analysis problem collections are also excellent. I just personally prefer Xie Huimin's.
 
-## 高等代数篇
+## Advanced Algebra
 
-**我们学校高等代数的教学质量堪忧 ！**
+**The quality of our school's Advanced Algebra teaching is concerning!**
 
-### 高等代数基础学习
+### Basic Advanced Algebra Study
 
-高等代数课本为学校自编讲义（当然如果不一样，以你们老师讲的为主），上册讲解顺序大概是**线性方程组->线性相关与线性无关->矩阵->行列式->线性空间** 下册的讲解顺序不记得了，没怎么听课。
+The Advanced Algebra textbook is a school-compiled handout (if different, go with your teacher). Volume 1 roughly follows: **systems of linear equations → linear dependence/independence → matrices → determinants → vector spaces**. I don't remember Volume 2's order -- I didn't attend much.
 
-本人的高代基本是自学的个人认为b站上的网课比老师讲的有用。华工的高代槽点在于知识点之间联系讲的不好，讲课顺序混乱
+I basically self-studied Advanced Algebra. I find Bilibili online courses more useful than our teachers. The problem with SCUT's Advanced Algebra is poor connections between topics and a confusing lecture sequence.
 
-推荐的网课：
+Recommended online courses:
 
-1. 丘维声老师的网课，丘维声老师的课较多为证明定理，需要自己课后再做习题，优点是一节课的时间短，20多分钟，并且知识点与知识点的联系紧密，并且听课是基本不需要丘老的配套教材的，记笔记就可以。丘老的网课会将不少我们学校不讲的内容，这个和你们具体的讲课情况对应，可以问授课老师。
-2. 谢启鸿老师的的网课，优点是习题讲的会比丘老多，并且谢启鸿老师有配套的习题课。缺点是一节课时间较长，要40多分钟
-   高代考试考的较为简单，主要是计算题，大一上的行列式计算，过渡矩阵计算，大二的Jordan标准型计算等等。证明题考的比较水。我们学校老师教学会有配套作业，认真做课后作业，再做几套期末试卷就基本可以拿90分。
-   这两个老师的网课均配有教材
+1. **Professor Qiu Weisheng's course**: Mostly theorem proofs; you need to do exercises afterward. Advantages: short lessons (20+ minutes), strong connections between topics, and you don't need his textbook -- just take notes. His course covers content our school doesn't teach -- check with your teacher about this.
 
-丘老的教材
+2. **Professor Xie Qihong's course**: Advantages: more exercises covered, and he has companion exercise sessions. Disadvantage: longer lessons (40+ minutes). The Advanced Algebra exam is relatively simple -- mostly computational problems: determinant calculations in first semester, transition matrix calculations, Jordan canonical form in second semester. Proof problems are easier. Our teachers assign homework -- do it carefully, work through a few past exam papers, and you can basically get 90.
+
+Both teachers' courses come with textbooks.
+
+Professor Qiu's textbook:
 ![](./image-2.png)
 
-谢帅的教材
-
+Professor Xie's textbook:
 ![alt text](./image-3.png)
 
-对了，想要快速过掉高代知识点推荐一本书：
-**蓝以中的高等代数简明教程**
+Also, for quickly getting through Advanced Algebra concepts, I recommend:
+**Lan Yizhong's Concise Tutorial of Advanced Algebra**
 
 ![alt text](./image-5.png)
 
-### 高等代数拓展学习
+### Advanced Algebra Extension Study
 
-这部分其实没啥好说的，就照着上部分介绍的那两个老师的网课学习就可以，丘老的书里面的题目和定理特别多，可以当练习册用。如果你能把丘老的书刷50%以上，你已经超过数学系95%的学生了。
+Not much to say here -- just follow the two teachers' online courses mentioned above. Professor Qiu's book has tons of problems and theorems -- you can use it as a workbook. If you can get through 50%+ of his book, you're already ahead of 95% of math students.
 
-### 解析几何
+### Analytic Geometry
 
-解析几何课本用的是丘维声老师的解析几何教材第三版，课程很简单，老师前几节课会告诉你们课程范围，基本就做好课后作业就OK。
+We use Professor Qiu Weisheng's Analytic Geometry textbook, 3rd edition. The course is simple -- the teacher tells you the scope in the first few classes. Just do the homework and you're good.
 
-教材如图
-
+Textbook pictured below:
 ![alt text](./image-4.png)
 
-## 考试篇
+## Exams
 
-**最后一节课强烈推荐去听一下，老师会讲复习课和重要考点。**
+**I strongly recommend attending the last class -- the teacher will go over review and key exam points.**
 
-### 数分备考
+### Math Analysis Exam Prep
 
-数分可以问学长拿往年卷子，然后如果你们老师有习题课，习题课的ppt要重点复习，还有就是有时间可以刷复旦那本数分的课后习题。**注意：考试很少会考谢惠民习题集上面的题目，备考时慎用这本书**
+Ask upperclassmen for past exam papers. If your teacher has review sessions, focus heavily on those PPTs. If you have time, work through the Fudan textbook's exercises. **Note: Xie Huimin's problem set rarely appears on exams -- use it cautiously for exam preparation.**
 
-### 高代备考
+### Advanced Algebra Exam Prep
 
-高代考试很水，老师会发往年卷子，有多的时间就刷刷丘老师的书上的计算题，太难的证明题可以不用管。
+The Advanced Algebra exam is quite easy. The teacher will provide past exam papers. If you have extra time, work through the computational problems in Professor Qiu's book. You can ignore the really hard proof problems.
 
-### 解析几何备考
+### Analytic Geometry Exam Prep
 
-包打听上有往年题目，做做往年题目，再把老师布置的题目做一下，课本的课后习题做一下，基本有90分.
+Find past exam papers on Baodaoting. Do those, plus the teacher's assignments and textbook exercises, and you'll basically get 90.
 
-## 推荐两个可以参加的竞赛
+## Recommended Competitions
 
-丘成桐数学竞赛，全国大学生数学竞赛。
-本人只大一参加过全国大学生数学竞赛(CMC)，当时准备了一周，拿了个省三。大学生数学竞赛数学学院学生只能参加数学类A,参加竞赛可以混创新分，参加0.5分，获奖1分。但是不好的是这个比赛报名费要100元。
+The Yau Mathematical Sciences Competition and the Chinese Mathematics Competition (CMC).
 
-备赛方面：可以去网上搜索往年题目，CMC数A分为三个板块，6道题目，：15分的解析几何，35分的高代，50分的数分，解析几何一道题，高代2道题，数分3道题，基本做对两道题就有奖，解析几何很简单，一定要拿下。CMC考试时间为3h。
+I only participated in the CMC as a first-year student. I prepared for a week and got a provincial third prize. Math department students can only participate in Mathematics Category A. Participating gives 0.5 innovation points; winning gives 1 point. Downside: the registration fee is 100 RMB.
 
-## 最后的一些话
+For preparation: search online for past exam papers. CMC Math A has three sections, 6 problems total: Analytic Geometry (15 points, 1 problem), Advanced Algebra (35 points, 2 problems), Math Analysis (50 points, 3 problems). Get two problems right and you'll likely win a prize. Analytic Geometry is easy -- definitely nail it. The exam is 3 hours.
 
-数学学院的学习氛围是没那么好的，以我为例，我的剩下三位室友有两位基本就是在宿舍打游戏，平常就是1点睡觉，早上12点起床开玩。并且数学学院还有很多没有意义的事情，比如这一届就有写什么职业规划书。并且我们学院的纯数学实力是很弱的，尤其是代数和几何，和其他学校比没什么资源。各位想要在数学学院去到更好的地方只能靠自己的努力，希望各位都有美好的未来。
+## Final Words
 
-# 电子书下载
+The learning atmosphere in the Math Department isn't great. In my case, two of my three roommates basically just play games in the dorm -- sleeping at 1 AM, waking up at noon to play. Plus there's a lot of pointless busywork, like writing career planning documents. Our department's pure math strength is weak, especially in algebra and geometry -- not much resources compared to other schools. If you want to go further in the Math Department, it's all down to your own effort. Hope everyone has a bright future.
 
-可以微信小程序搜索拾壹工具箱，里面基本有你需要的电子书教材
+## E-Book Downloads
+
+Search for the mini-program "拾壹工具箱" on WeChat -- it basically has all the e-textbook resources you need.

@@ -1,29 +1,30 @@
 ---
-lang: zh-CN
-title: 大学城指南
-description: 华南理工大学大学城校区基础设施的概览页面
+lang: en-US
+title: University Town Guide
+description: An overview of facilities at SCUT University Town Campus
+llm_translated: true
 ---
 
-# 大学城指南
+# University Town Guide
 
-## 常用设施
+## Common Facilities
 
-| 功能分类     | 名称                                                                                 | 地址                                                             |
-| ------------ | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| 打印         | 佳嘉印图文                                                                           | C1一楼                                                           |
-|              | 印萌印之美图文                                                                       | C10（麦当劳那片）                                                |
-|              | 自助打印机                                                                           | A1、A2、A3一楼，图书馆                                           |
-| 运动         | 乒乓球台                                                                             | 体育馆一楼、C7一楼（在里面，住C7的同学可以用）                   |
-|              | 篮球场                                                                               | 生活区田径场旁、教学区田径场旁、C10、C11、C13、C14附近           |
-|              | 羽毛球场                                                                             | C8、C9之间                                                       |
-|              | 游泳馆                                                                               | 教学区（A3对面）、大学城中心酒店/E宿舍附近                       |
-|              | 网球场                                                                               | 教学区游泳池附近                                                 |
-|              | 排球场                                                                               | 西亚附近                                                         |
-| 理发         | 禾田美发                                                                             | C1一楼                                                           |
-| 手机电脑维修 | 手机电脑维修服务中心                                                                 | D4                                                               |
-| 报警         | 警务室                                                                               | C6                                                               |
-| 看病         | 医疗保健中心                                                                         | 二饭旁边                                                         |
-| 正餐以外吃喝 | 水果                                                                                 | 西亚二楼、C10                                                    |
-|              | 饮品                                                                                 | 一饭一、二饭三、西亚一、华园云鲤、B10、仁厚里、A2（-1楼/架空层） |
-| 搭校巴       | 图书馆旁、音乐厅旁（图书馆附近的白色建筑）、生活区东一门（一饭天桥下），具体看发车表 |                                                                  |
-| 文创         | 广横走                                                                               | A1架空层（-1楼）                                                 |
+| Category              | Name                                                                                                                                                 | Location                                                                                              |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Printing              | Jiajiatun Printing & Graphics                                                                                                                        | C1, 1F                                                                                                |
+|                       | Yinmeng Yinzhimei Printing & Graphics                                                                                                                | C10 (near McDonald's)                                                                                 |
+|                       | Self-service printers                                                                                                                                | A1, A2, A3, 1F; Library                                                                               |
+| Sports                | Table tennis                                                                                                                                         | Gymnasium, 1F; C7, 1F (inside, for C7 residents)                                                      |
+|                       | Basketball courts                                                                                                                                    | Near track field in dorm area, near track field in teaching area; near C10, C11, C13, C14             |
+|                       | Badminton courts                                                                                                                                     | Between C8 and C9                                                                                     |
+|                       | Swimming pool                                                                                                                                        | Teaching area (opposite A3); near University Town Center Hotel / E dorms                              |
+|                       | Tennis courts                                                                                                                                        | Near the swimming pool in teaching area                                                               |
+|                       | Volleyball courts                                                                                                                                    | Near Xiya (market)                                                                                    |
+| Hair salon            | Hetian Hair                                                                                                                                          | C1, 1F                                                                                                |
+| Phone/computer repair | Phone & Computer Repair Center                                                                                                                       | D4                                                                                                    |
+| Security              | Police office                                                                                                                                        | C6                                                                                                    |
+| Medical               | Healthcare Center                                                                                                                                    | Next to Second Cafeteria                                                                              |
+| Food & drink          | Fruit                                                                                                                                                | Xiya 2F, C10                                                                                          |
+|                       | Beverages                                                                                                                                            | First Cafeteria 1F, Second Cafeteria 3F, Xiya 1F, Huayuan Yunli, B10, Renhouli, A2 (-1F/ground level) |
+| Campus bus            | Next to Library, next to Concert Hall (white building near library), Dorm Area East Gate 1 (under First Cafeteria bridge) — see schedule for details |                                                                                                       |
+| Merchandise           | Guanghengzou                                                                                                                                         | A1, ground level (-1F)                                                                                |

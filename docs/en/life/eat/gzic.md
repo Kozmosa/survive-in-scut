@@ -1,11 +1,12 @@
 ---
-lang: zh-CN
-title: 国际
-description: 国际校区觅食指南
+lang: en-US
+title: GZIC
+description: A food guide for Guangzhou International Campus
+llm_translated: true
 ---
 
-# 国际觅食指南
+# GZIC Food Guide
 
-广州国际校区的觅食指南
+A food guide for Guangzhou International Campus
 
-TODO: 广州国际校区的觅食指南
+TODO: A food guide for Guangzhou International Campus
