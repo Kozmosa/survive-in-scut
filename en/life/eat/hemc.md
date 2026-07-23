@@ -1,98 +1,98 @@
 ---
 url: /en/life/eat/hemc.md
-description: 大学城校区的觅食指南
+description: A food guide for the Higher Education Mega Center campus
 ---
 
-# 大学城觅食指南
+# HEMC Food Guide
 
-*❤️请留意：以下内容均基于编者个人主观感受，不同人对于美食有不同的追求，如有更多建议，欢迎在评论区留言或者提交pr为此页作贡献ヾ(≧▽≦\_)o*
+*❤️ Please note: The following content is based on the editor's personal, subjective experience. Different people have different tastes when it comes to food. If you have more suggestions, feel free to leave a comment or submit a PR to contribute to this page ヾ(≧▽≦*)o\_
 
-## 校内
+## On Campus
 
-### 1. 第一饭堂
+### 1. Canteen 1
 
-* 位置：生活区东一门旁边
+* Location: Next to East Gate 1 of the living area
 
-* 供餐时间：早上9点前，中午11:30 - 13:00，傍晚16:30 - 19:00
+* Service hours: Before 9:00 AM, 11:30 - 13:00 PM, 16:30 - 19:00 PM
 
-#### 各楼层特色
+#### Floor Features
 
-* 一层：学生窗口，商户窗口（炒面、麻辣烫等），便利店，面包店
+* First floor: Student counters, vendor counters (fried noodles, malatang, etc.), convenience store, bakery
 
-* 二层：学生窗口（**使用餐盘**），商户窗口
+* Second floor: Student counters (**using trays**), vendor counters
 
-* 三层：教师餐厅（学生也可以在此消费），西北风味餐厅
+* Third floor: Faculty dining area (students can also eat here), Northwest China cuisine restaurant
 
-#### 推荐美食
+#### Recommended Dishes
 
-* 一层：
-  * 个人感觉炒面很不错，很多时候学习得晚其它窗口关了就会去吃【from nanako】
+* First floor:
+  * I personally think the fried noodles are pretty good. A lot of times when I study late and other counters are closed, I go get some \[from nanako]
 
-* 二层：
-  * 二楼学生窗口使用餐盘能把油隔开，个人感觉比一楼好【from nanako】
+* Second floor:
+  * The student counters on the second floor use trays that let the oil drain off, which I personally find better than the first floor \[from nanako]
 
-* 三层：
-  * 教师餐厅略贵但比学生餐厅好吃一点【from nanako】
+* Third floor:
+  * The faculty dining area is a bit pricier but tastes slightly better than the student cafeteria \[from nanako]
 
-### 2.第二饭堂
+### 2. Canteen 2
 
-* 位置：生活区北一门附近，校医院旁边
+* Location: Near North Gate 1 of the living area, next to the school clinic
 
-* 供餐时间：早上9点前，中午11:30 - 13:00，傍晚16:30 - 19:00
+* Service hours: Before 9:00 AM, 11:30 - 13:00 PM, 16:30 - 19:00 PM
 
-#### 各楼层特色
+#### Floor Features
 
-* 一层：学生窗口，商户窗口，便利店
+* First floor: Student counters, vendor counters, convenience store
 
-* 二层：商户窗口
+* Second floor: Vendor counters
 
-* 三层：春晖园（外包餐厅）
+* Third floor: Chunhuiyuan (outsourced restaurant)
 
-#### 推荐美食
+#### Recommended Dishes
 
-* 一层：
-  * 二饭一楼有健康餐，油脂比较少，值得推荐【from nanako】
-  * 一楼的“蛋盖饭”也很不错，但不太推荐淋番茄汁【from nanako】
+* First floor:
+  * Canteen 2's first floor has healthy meals with less oil, definitely recommend \[from nanako]
+  * The "egg over rice" on the first floor is also pretty good, but I wouldn't recommend the tomato sauce \[from nanako]
 
-* 二层：
-  * 二楼的烤肉饭个人感觉还可以【from nanako】
+* Second floor:
+  * The grilled rice on the second floor is decent in my opinion \[from nanako]
 
-* 三层：
-  * 三层的精品套餐是整层最实惠的，但菜品每天都差不多【from nanako】
-  * 石锅饭虽然好吃，但容易上火【from nanako】
+* Third floor:
+  * The set meals on the third floor are the most affordable on that level, but the dishes are pretty much the same every day \[from nanako]
+  * The stone pot rice is tasty but can easily give you heatiness \[from nanako]
 
-### 3.西亚超市
+### 3. Xiya Supermarket
 
-* 位置：生活区东一门旁边，第一饭堂对面
+* Location: Next to East Gate 1 of the living area, across from Canteen 1
 
-* 西亚二楼有少量商铺
+* There are a few shops on the second floor of Xiya
 
-* 供餐时间：（待补充，应该与超市一同开门）
+* Service hours: (TBD, should be open along with the supermarket)
 
-### 4.麦当劳、遇见小面等
+### 4. McDonald's, Meet Noodles, etc.
 
-* 位置：篮球场旁的二层小型商业建筑
+* Location: Two-story commercial building next to the basketball court
 
-* 入驻商铺：**麦当劳**，**遇见小面**，**瑞幸**，**包道**，**华园云鲤**，**九龙茶记**，**711**
+* Tenant shops: **McDonald's**, **Meet Noodles**, **Luckin**, **Baodao**, **Huayuan Yunli**, **Kowloon Tea House**, **711**
 
-## 校外
+## Off Campus
 
-### 1.穗石村
+### 1. Suishicun Village
 
-* 位置：教学区东门外
+* Location: Outside the East Gate of the teaching area
 
-### 2.「第三饭堂」
+### 2. "Canteen 3"
 
-* 指生活区东一门外聚集的小贩
+* Refers to the street vendors gathered outside East Gate 1 of the living area
 
-* 卫生状况没有太大保障
+* Hygiene conditions are not very guaranteed
 
-* 但有许多校内没有的食物可供选择
+* But offers many food options not available on campus
 
-### 3. 大学城其它位置
+### 3. Other Locations in HEMC
 
-* 中大旁边的GoGo新天地
+* GoGo Xintiandi near Sun Yat-sen University
 
-* 华师旁边的北亭村
+* Beiting Village near South China Normal University
 
-* 广工饭堂
+* Guangdong University of Technology canteens

@@ -1,10 +1,10 @@
 ---
 url: /en/life/entertainment/wushan.md
-description: 介绍五山校区周边的娱乐设施及去处
+description: An introduction to entertainment facilities and places around Wushan Campus
 ---
 
-# 乐在五山
+# Fun in Wushan
 
-介绍五山校区周边的娱乐去处
+An introduction to entertainment options around Wushan Campus
 
-TODO: 五山校区周边的娱乐去处
+TODO: Entertainment options around Wushan Campus

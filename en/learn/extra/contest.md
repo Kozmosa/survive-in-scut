@@ -1,29 +1,38 @@
 ---
 url: /en/learn/extra/contest.md
-description: 目前华南理工大学加分的竞赛
+description: A directory of competitions that offer bonus points at SCUT
 ---
 
-# 竞赛目录及简介
+# Competition Directory & Introduction
 
-以下是已有编者撰写比赛经验与参赛说明的竞赛。
+Below are competitions for which contributors have written experience guides and participation notes.
 
-学术类：
+Academic:
 
-* [中国大学生数学竞赛（CMC）](./contest/cmc.md)
+* [Chinese Mathematics Competition (CMC)](./contest/cmc.md)
 * [ACM/ICPC](./contest/ACM.md)
 
-技术类：
+Technical:
 
-* [第二十一届鼎甲杯软件设计大赛（软件学院举办）](https://mp.weixin.qq.com/s/AhzhDdbl0COusLIMRNFPkA)
+* [21st Dingjia Cup Software Design Competition (Hosted by School of Software)](https://mp.weixin.qq.com/s/AhzhDdbl0COusLIMRNFPkA)
 
-**特注：蓝桥杯系列赛事于2025年10月20日之后，工信部不再参与举办，由国信蓝桥教育科技股份有限公司独立举办（通告：<https://dasai.lanqiao.cn/notices/1834/>），请审慎评估参加该比赛的收益预期！**
-![蓝桥杯与工信部联合通告](./lanqiao-notice.png)
+**Special Note: As of October 20, 2025, the MIIT will no longer co-host the Blue Bridge Cup series of competitions. They will be independently organized by Guoxin Lanqiao Education Technology Co., Ltd. (Announcement: <https://dasai.lanqiao.cn/notices/1834/>). Please carefully evaluate the expected benefits before participating!**
+![Blue Bridge Cup and MIIT Joint Announcement](./lanqiao-notice.png)
 
-更多的竞赛相关内容，可以查阅：
-[2023本科生学科竞赛咨询手册](https://fastgit.cc/https://raw.githubusercontent.com/Kozmosa/survive-in-scut/main/assets/2023%E5%B9%B4%E6%9C%AC%E7%A7%91%E7%94%9F%E5%AD%A6%E7%A7%91%E7%AB%9E%E8%B5%9B%E8%B5%84%E8%AE%AF%E6%89%8B%E5%86%8C-%E5%B7%B2%E5%8E%8B%E7%BC%A9.pdf)
+For more competition-related content, refer to:
+[2023 Undergraduate Academic Competition Advisory Handbook](https://fastgit.cc/https://raw.githubusercontent.com/Kozmosa/survive-in-scut/main/assets/2023%E5%B9%B4%E6%9C%AC%E7%A7%91%E7%94%9F%E5%AD%A6%E7%A7%91%E7%AB%9E%E8%B5%9B%E8%B5%84%E8%AE%AF%E6%89%8B%E5%86%8C-%E5%B7%B2%E5%8E%8B%E7%BC%A9.pdf)
 
-TODO: 后续可将竞赛目录进一步结构化，区分“校内创新分导向”“学科竞赛导向”“就业技能导向”三类入口。
+TODO: Add participation guides and preparation tips for the following major academic competitions:
 
-TODO: 需要进一步完善，添加更多竞赛内容的指引
+* \[ ] China International College Students' Innovation Competition (formerly “Internet+”) and “Challenge Cup”
+* \[ ] National Undergraduate Electronic Design Contest (EDC)
+* \[ ] Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) / MCM/ICM
+* \[ ] Smart Car Competition / National College Robot Competition (RoboMaster)
+* \[ ] National English Competition for College Students (NECCS)
+* \[ ] Blue Bridge Cup National Software and Information Technology Professionals Competition
+
+TODO: Further structure the competition directory into three entry categories: “On-Campus Innovation Credits Oriented,” “Academic Competition Oriented,” and “Career Skills Oriented.”
+
+TODO: Needs further improvement — add more competition guides
 
 ***

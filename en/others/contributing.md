@@ -1,171 +1,171 @@
 ---
 url: /en/others/contributing.md
-description: 参与贡献
+description: Guide to contributing to the SCUT Survival Manual
 ---
 
-# 贡献指南
+# Contribution Guide
 
-可加入编辑部提交贡献文档，或直接为本项目提交PR来贡献内容！在开始前，建议先阅读[维护路线图](/en/others/roadmap.html)和[TODO 汇总](/en/others/todo.html)，这样更容易把贡献投到高优先级缺口上。
+You can join our editorial team to submit contributions, or directly submit a PR to this project to contribute content! Before getting started, we recommend reading the [Maintenance Roadmap](/en/others/roadmap.html) and [TODO Summary](/en/others/todo.html) first, so you can direct your contributions to high-priority gaps.
 
-## 鸣谢贡献
+## Acknowledgments
 
-## 极简markdown入门指南
+## Minimal Markdown Quickstart Guide
 
-如果你不想阅读长篇大论，可以直接划到本页面的最下方使用所见即所得的编辑器尝试markdown语法，在实践中学习！
+If you don't want to read a long article, you can scroll to the bottom of this page and use the WYSIWYG editor to try out Markdown syntax and learn by doing!
 
-### 前言
+### Introduction
 
-作为一种标记语言，Markdown的入门门槛其实和word差别不大，只需要熟悉一些关键符号，你就可以开始上手开始编辑markdown文档了。
+As a markup language, Markdown's learning curve is actually not much steeper than Word's. Once you're familiar with a few key symbols, you can start editing Markdown documents right away.
 
-我们仅仅使用接下来所述的一部分语法，事实上，这是一个能够满足本手册编辑排版需要的markdown语法的很小的一个子集：
+We only use a subset of the syntax described below — in fact, this is a very small subset of Markdown syntax that meets the editing and formatting needs of this manual:
 
-* 一级/二级/三级标题
-* 正文
-* 加粗
-* 斜体
-* 超链接
-* 必要的表格
-* 图片
-* 公式
+* H1 / H2 / H3 headings
+* Body text
+* Bold
+* Italic
+* Hyperlinks
+* Basic tables
+* Images
+* Math formulas
 
-下面我们将最简单的展现一些示例：
+Below we'll demonstrate some simple examples:
 
-### 多级标题
+### Multi-level Headings
 
 ```markdown
-# 一级标题
+# Heading 1
 
-## 二级标题
+## Heading 2
 
-### 三级标题
+### Heading 3
 
-#### 四级标题
+#### Heading 4
 ```
 
-### 正文
+### Body Text
 
-不带任何格式特殊符号的文字即为正文，正文中如果包含格式特殊符号 ` 如：#,$,^,*` 等，请在特殊符号前面加上反斜杠`\`
+Text without any special formatting symbols is body text. If body text contains special formatting symbols like `#`, `$`, `^`, `*`, etc., add a backslash `\` before them.
 
-示例：
+Example:
 
 ```markdown
-这是普通正文内容，使用\*星号\*不会被解析为斜体
+This is normal body text, using \*asterisks\* won't be parsed as italic
 ```
 
-效果：
+Result:
 
-这是普通正文内容，使用\*星号\*不会被解析为斜体
+This is normal body text, using \*asterisks\* won't be parsed as italic
 
-### 加粗
+### Bold
 
-用两个星号包裹文字：
+Wrap text with two asterisks:
 
 ```markdown
-**这是加粗文本**
+**This is bold text**
 ```
 
-效果：**这是加粗文本**
+Result: **This is bold text**
 
-### 斜体
+### Italic
 
-用一个星号包裹文字：
+Wrap text with one asterisk:
 
 ```markdown
-_这是斜体文本_
+_This is italic text_
 ```
 
-效果：*这是斜体文本*
+Result: *This is italic text*
 
-### 超链接
+### Hyperlinks
 
-方括号内放文字，圆括号内放URL：
+Put text in square brackets and the URL in parentheses:
 
 ```markdown
-[华工手册官网](https://manual.华南原神大学.com)
+[SCUT Manual Website](https://manual.华南原神大学.com)
 ```
 
-效果：[华工手册官网](https://manual.华南原神大学.com)
+Result: [SCUT Manual Website](https://manual.华南原神大学.com)
 
-### 表格
+### Tables
 
-用竖线分隔列，第二行用连字符定义表头：
+Separate columns with pipes, and define the header with hyphens on the second row:
 
 ```markdown
-| 课程               | 学分 |
-| ------------------ | ---- |
-| 微积分（II）（上） | 5    |
-| 工科数学分析（下） | 5    |
-| 工科数学分析（下） | 5    |
+| Course                      | Credits |
+| --------------------------- | ------- |
+| Calculus (II) (Part 1)      | 5       |
+| Engineering Math Analysis 2 | 5       |
+| Engineering Math Analysis 2 | 5       |
 ```
 
-效果：
+Result:
 
-| 课程               | 学分 |
-| ------------------ | ---- |
-| 微积分（II）（上） | 5    |
-| 工科数学分析（下） | 5    |
-| 工科数学分析（下） | 5    |
+| Course                      | Credits |
+| --------------------------- | ------- |
+| Calculus (II) (Part 1)      | 5       |
+| Engineering Math Analysis 2 | 5       |
+| Engineering Math Analysis 2 | 5       |
 
-> 提示：第二行里面 " - " 横杠的个数是任意的，采用三个只是为了好看
+> Tip: The number of hyphens `-` in the second row is arbitrary; three is just for aesthetics.
 
-### 引用
+### Blockquotes
 
-小于号（英文半角）加空格，后面即为引用内容。
+A less-than sign (half-width) followed by a space, then the quoted content.
 
-语法：
+Syntax:
 
-`> 这里是引用的内容`
+`> This is quoted content`
 
-效果：
+Result:
 
-> 这里是引用的内容
+> This is quoted content
 
-### 图片
+### Images
 
-感叹号开头，方括号内是替代文本（加载不出来的时候显示的文本，有时候也会被解释为图片的题注），圆括号内是图片路径。
+Start with an exclamation mark, put alt text in square brackets (displayed when the image fails to load, sometimes interpreted as a caption), and the image path in parentheses.
 
-语法：
+Syntax:
 
 ```markdown
-![华园星夜](https://www.scut.edu.cn/_upload/article/images/ed/e5/23bf2d62495b8528c27cb904af4b/f4f3d2a4-8653-48e4-9a33-adadb68a55d2.jpg)
+![SCUT Starry Night](https://www.scut.edu.cn/_upload/article/images/ed/e5/23bf2d62495b8528c27cb904af4b/f4f3d2a4-8653-48e4-9a33-adadb68a55d2.jpg)
 ```
 
-效果：
+Result:
 
-![华园星夜](https://www.scut.edu.cn/_upload/article/images/ed/e5/23bf2d62495b8528c27cb904af4b/f4f3d2a4-8653-48e4-9a33-adadb68a55d2.jpg)
+![SCUT Starry Night](https://www.scut.edu.cn/_upload/article/images/ed/e5/23bf2d62495b8528c27cb904af4b/f4f3d2a4-8653-48e4-9a33-adadb68a55d2.jpg)
 
-### 公式（高级）
+### Math Formulas (Advanced)
 
-用美元符号包裹LaTeX公式：
+Wrap LaTeX formulas with dollar signs:
 
-> 如果你对LaTeX语法不甚熟悉，你可以使用可视化编辑器 [在线LaTeX公式编辑器](https://www.latexlive.com/) 进行公式编辑，并在输出区域下方点击“输出代码 > LaTeX”复制LaTeX代码，粘贴到下方的双美元符号之间，即可完成公式输入。
+> If you're not familiar with LaTeX syntax, you can use the visual editor [Online LaTeX Equation Editor](https://www.latexlive.com/) to compose formulas, then click “Output Code > LaTeX” below the output area to copy the LaTeX code, and paste it between the double dollar signs.
 
 ```markdown
-（单美元符号）行内公式：$ E=mc^2 $
+(Single dollar sign) Inline formula: $ E=mc^2 $
 
-（双美元符号）独立公式块：
+(Double dollar sign) Display formula block:
 
 $$
 \sum_{i=1}^n i = \frac{n(n+1)}{2}
 $$
 ```
 
-效果：
+Result:
 
-行内公式：$ E=mc^2 $
+Inline formula: $ E=mc^2 $
 
-独立公式块：
+Display formula block:
 
 $$
 \sum\_{i=1}^n i = \frac{n(n+1)}{2}
 $$
 
-### 结语
+### Closing Remarks
 
-掌握以上基础语法，你已能完成90%的文档排版需求。立即开始你的写作之旅吧！
+Mastering the basic syntax above will let you handle 90% of your document formatting needs. Start your writing journey now!
 
-## 即刻开始 Markdown
+## Start Markdown Now
 
-TODO: 补充文档编撰规范（附件命名、来源标注、外链规范、时间敏感信息标记、翻译同步规则、引用官方信息的写法）。
+TODO: Add documentation compilation guidelines (file naming, source attribution, external link standards, time-sensitive information markers, translation sync rules, writing conventions for citing official information).
 
-TODO: 建立年度更新流程（迎新、校巴、地图、转专业、校医院、周边信息等高时效页面每学年至少核对一次）。
+TODO: Establish an annual update process (onboarding, campus buses, maps, major transfers, university hospital, nearby info, and other time-sensitive pages should be reviewed at least once per academic year).

@@ -1,10 +1,10 @@
 ---
 url: /en/life/eat/gzic.md
-description: 国际校区觅食指南
+description: A food guide for Guangzhou International Campus
 ---
 
-# 国际觅食指南
+# GZIC Food Guide
 
-广州国际校区的觅食指南
+A food guide for Guangzhou International Campus
 
-TODO: 广州国际校区的觅食指南
+TODO: A food guide for Guangzhou International Campus

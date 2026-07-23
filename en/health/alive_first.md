@@ -1,10 +1,16 @@
 ---
 url: /en/health/alive_first.md
-description: 先活下去再说
+description: 'Stay alive first — campus safety, mental health, and emergency resources'
 ---
 
-# 先活下去再说
+# Stay Alive First
 
-生命观
+Philosophy of life
 
-TODO: 生命观、日常安全（交通、反诈）、心理健康援助、灾害应急指南
+TODO: Add campus safety and psychological first-aid information:
+
+* \[ ] 24-hour emergency contact numbers: Campus Security (Wushan/University City/GZIC), campus hospital emergency, local police station phone numbers
+* \[ ] Mental health support: SCUT Psychological Counseling Center appointment methods, 24-hour mental health hotline
+* \[ ] Campus fraud prevention: common telecom scams (fake advisors/customer service/刷单/refunds), reporting and loss prevention procedures
+* \[ ] Emergency response: typhoon/heavy rain class suspension criteria and dorm safety precautions
+* \[ ] Daily traffic safety: accident prevention on and off campus, shared bike/electric scooter usage guidelines

@@ -1,17 +1,17 @@
 ---
 url: /en/infra.md
-description: 华南理工大学基础设施的概览页面
+description: An overview of South China University of Technology's campus infrastructure
 ---
 
-# 华园概览
+# Campus Overview
 
-目前，华南理工大学有三个校区，其最近的地铁站/公交站点：
+South China University of Technology currently has three campuses. Their nearest metro stations/bus stops are:
 
-* 五山校区
-  * 3号线 五山站（近五山东区/南区，中区/西区也可以使用）
-  * 3号线/6号线 天河客运站（近五山北区）
-* 大学城校区
-  * 4号线/7号线/12号线 大学城南站
-* 广州国际校区
-  * 7号线 板桥站
-  * 4号线 新造站
+* Wushan Campus
+  * Line 3, Wushan Station (near Wushan East/South areas; also usable for Central/West areas)
+  * Line 3/Line 6, Tianhe Coach Terminal (near Wushan North area)
+* University Town Campus
+  * Line 4/Line 7/Line 12, University Town South Station
+* Guangzhou International Campus
+  * Line 7, Banqiao Station
+  * Line 4, Xinzao Station

@@ -1,8 +1,13 @@
 ---
 url: /en/infra/hemc/suishi.md
-description: 穗石村简介
+description: An introduction to Suishi Village
 ---
 
-# 穗石村
+# Suishi Village
 
-TODO: 碎石简介尚未编写
+TODO: Supplement Suishi Village living and travel guide:
+
+* \[ ] Food & night market recommendations: well-reviewed eats and tips for avoiding pitfalls
+* \[ ] Daily shopping & supermarkets: nearby large supermarkets, wet markets, and fruit shops
+* \[ ] Rental & short-term housing info: common areas for postgrad exam prep / internship rentals and tips for avoiding scams
+* \[ ] Transit connections: best walking and cycling routes to metro stations / bus stops

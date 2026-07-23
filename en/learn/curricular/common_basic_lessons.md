@@ -1,184 +1,198 @@
 ---
 url: /en/learn/curricular/common_basic_lessons.md
-description: 介绍华南理工大学开设的公共课程，以及相关学习资料的地址
+description: >-
+  Introduces the common basic courses offered at SCUT and links to related study
+  materials
 ---
 
-# 公共课
+# Common Basic Courses
 
-华南理工大学开设的公共类课程（主要是大一年级修读）主要有数学类、物理类、电类、英语类、体育类、思政类以及实践实习实训类课程，包括但不限于：
+The common basic courses at SCUT (mainly taken in the first year) include mathematics, physics, electrical engineering, English, physical education, political education, and practice/internship/training courses. These include but are not limited to:
 
-* 数学类
-  * 高等数学（难度从低到高）
-    * 微积分基础（一学期）
-    * 微积分I 上/下
-    * 微积分II 上/下（化工类，下册4学分，不考级数）
-    * 微积分II 上/下（非化工类，下册5学分，考级数）
-    * 工科数学分析 上/下（计算机、软件、百步梯、信工创新班，下册7学分）
-    * 数学分析 上/下（仅数学学院修读）
-  * 线性代数与解析几何
-  * 概率论与数理统计
-  * 复变函数与积分变换
-* 英语类
-  * 学术英语 （一）/（二） （第二学期可以通过雅思/托福成绩免修）
-  * 大学英语 （一）/（二）
-* 物理类
-  * 大学物理（3学分） 上/下
-  * 大学物理（4学分） 上/下
-* 电类
-  * 电路
-  * 电工学
-  * 模拟电子技术
-  * 数字电子技术
-* 体育类
-  * 身体素质 / 体育 I
-  * 体育 II
-  * 体育 III
-  * 体育 IV
-  * 大三及以后通常不再安排体育类课程
-* 思政类
-  * 军事理论
-  * 思想道德与法治
-  * 习近平新时代中国特色主义思想概论
-  * 毛泽东思想概论
-  * 中国近代史纲要
-  * 大学生心理健康
-  * 国家安全教育
-  * 四史课程（任选其一）
-    * 中华人民共和国史
-    * 中国共产党党史
-    * 改革开放史
-    * 社会主义发展史
-* 实践、实习、实训类（每个专业需要修读下列课程中的部分课程，**不是所有**课程都需要修读）
-  * 大学物理实验
-  * 大学化学实验
-  * 金工实习
-  * 电工实习
-  * 马克思主义实践
-  * 军事技能（军训）
+* **Mathematics**
+  * Advanced Mathematics (difficulty from low to high)
+    * Calculus Foundations (one semester)
+    * Calculus I (Part 1/Part 2)
+    * Calculus II (Part 1/Part 2) (Chemical Engineering track, Part 2 = 4 credits, no series)
+    * Calculus II (Part 1/Part 2) (Non-chemical Engineering track, Part 2 = 5 credits, includes series)
+    * Engineering Mathematical Analysis (Part 1/Part 2) (Computer Science, Software, Baibu Step, Information Engineering Innovation Class, Part 2 = 7 credits)
+    * Mathematical Analysis (Part 1/Part 2) (School of Mathematics only)
+  * Linear Algebra and Analytic Geometry
+  * Probability Theory and Mathematical Statistics
+  * Complex Functions and Integral Transforms
+* **English**
+  * Academic English (I)/(II) (can be exempted in semester 2 with IELTS/TOEFL scores)
+  * College English (I)/(II)
+* **Physics**
+  * University Physics (3 credits) Part 1/Part 2
+  * University Physics (4 credits) Part 1/Part 2
+* **Electrical Engineering**
+  * Electric Circuits
+  * Electrical Engineering
+  * Analog Electronics
+  * Digital Electronics
+* **Physical Education**
+  * Physical Fitness / PE I
+  * PE II
+  * PE III
+  * PE IV
+  * PE courses usually end after the second year
+* **Political Education**
+  * Military Theory
+  * Ideology, Morality, and Rule of Law
+  * Introduction to Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era
+  * Introduction to Mao Zedong Thought
+  * Outline of Modern Chinese History
+  * College Student Mental Health
+  * National Security Education
+  * Four History Courses (choose one)
+    * History of the People's Republic of China
+    * History of the Chinese Communist Party
+    * History of Reform and Opening Up
+    * History of Socialist Development
+* **Practice, Internship, and Training** (each major takes some of the following, **not all**)
+  * University Physics Experiment
+  * University Chemistry Experiment
+  * Metalworking Practice
+  * Electrical Engineering Practice
+  * Marxist Practice
+  * Military Skills (Military Training)
 
-上述公共课体系覆盖了**五山校区、大学城校区**大部分专业的内地高考生培养方案，留学生及港澳台胞修读课程有所差异。请注意，**国际校区（GZIC）专业**学生修读的公共课体系与上述不同。
+The above common basic course system covers the training plans for most domestic students in the **Wushan Campus and University Town Campus**. Courses for international students and students from Hong Kong, Macau, and Taiwan differ. Note that the common basic course system for students in **GZIC (International Campus) programs** differs from the above.
 
-## 数学类
+## Mathematics
 
-### 高等数学
+### Advanced Mathematics
 
-华南理工大学的数学课程如上所述分为四个层级，分别对应不同类别专业对数学能力的要求，学习难度与讲授范围有所区别。医学类专业通常修读**微积分基础**，一般理工科专业通常修读**微积分（I）或（II）**，**计算机学院、软件学院、百步梯创新学院**、以及部分**工科创新班**要求修读**工科数学分析**。
+SCUT's mathematics courses are divided into four levels as described above, corresponding to the mathematical requirements of different majors, with varying difficulty and scope. Medical programs typically take **Calculus Foundations**, general engineering and science programs usually take **Calculus I or II**, and the **School of Computer Science, School of Software, Baibu Step Innovation College**, and some **Engineering Innovation Classes** require **Engineering Mathematical Analysis**.
 
-**相关学习材料及工具**
+**Study Materials and Tools**
 
-* 高等数学速查表（@Mike\_Unknown）：[高等数学速查表 PDF](https://fastgit.cc/https://raw.githubusercontent.com/Kozmosa/survive-in-scut/main/assets/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E9%80%9F%E6%9F%A5%E8%A1%A8.pdf)
+* Advanced Mathematics Quick Reference (@Mike\_Unknown): [Advanced Mathematics Quick Reference PDF](https://fastgit.cc/https://raw.githubusercontent.com/Kozmosa/survive-in-scut/main/assets/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E9%80%9F%E6%9F%A5%E8%A1%A8.pdf)
 
-### 线性代数与解析几何
+### Linear Algebra and Analytic Geometry
 
-该课程一般在第一学期进行修读。
+This course is generally taken in the first semester.
 
-TODO: 完善线代的课程描述与学习资料
+TODO: Improve the course description and study materials for Linear Algebra:
 
-### 概率论与数理统计
+* \[ ] Course content overview: systems of linear equations, matrix operations, vector spaces, eigenvalues and eigenvectors, and other core topics
+* \[ ] Recommended textbooks and references: Tongji edition “Linear Algebra” and companion exercise book
+* \[ ] Learning resources: recommended online courses (e.g., MIT 18.06 Linear Algebra), SCUT past exam papers and review notes
 
-该课程一般为理工科专业的第二学期进行修读。
+### Probability Theory and Mathematical Statistics
 
-**学习资料**
+This course is generally taken in the second semester by engineering and science majors.
 
-* 华工概率论笔记：[概率论与数理统计手写笔记](./common/probalistics_and_statistics/plt_note.md)
-* 交互图像工具：[概率分布图像工具](./common/probalistics_and_statistics/distribution_gallery.md)
+**Study Materials**
 
-TODO: 完善概率论的课程描述与学习资料
+* SCUT Probability Notes: [Probability Theory and Mathematical Statistics Handwritten Notes](./common/probalistics_and_statistics/plt_note.md)
+* Interactive Visualization Tool: [Probability Distribution Gallery](./common/probalistics_and_statistics/distribution_gallery.md)
 
-### 复变函数与积分变换
+TODO: Improve the course description and study materials for Probability:
 
-该课程一般为理工科专业的第二学期进行修读。
+* \[ ] Course content overview: probability axioms, random variables, law of large numbers and central limit theorem, fundamentals of mathematical statistics
+* \[ ] Recommended textbooks and references: Zhejiang University edition “Probability Theory and Mathematical Statistics” and companion solutions
+* \[ ] Learning resources: recommended online courses, SCUT past exam papers and review notes
 
-TODO: 完善复变的课程描述与学习资料
+### Complex Functions and Integral Transforms
 
-## 英语类
+This course is generally taken in the second semester by engineering and science majors.
 
-## 物理类
+TODO: Improve the course description and study materials for Complex Functions:
 
-### 大学物理
+* \[ ] Course content overview: complex numbers and complex functions, analytic functions, complex integration, series and residue theorem
+* \[ ] Recommended textbooks and references: Xi'an Jiaotong University edition “Complex Functions” and companion exercise book
+* \[ ] Learning resources: recommended online courses, SCUT past exam papers and review notes
 
-该课程的开设视学院和专业不同存在差异，理工科专业普通班一般在第二学期开始开设大学物理上课程。
+## English
 
-**学习资料**
+## Physics
 
-* *Oplisty* 整理的 **华南理工大学 大学物理 复习笔记**（也适用于国际校区）：
-  * [大物定理汇总期末速成版](https://www.zhihu.com/column/c_1888956732467823738)
+### University Physics
 
-## 思政类
+Whether this course is offered depends on the school and major. Regular engineering and science classes generally start University Physics Part 1 in the second semester.
 
-### 马克思主义理论与实践
+**Study Materials**
 
-本课程为思政必修课。注：由于课程调整，本指南不对“走在前列”广东实践及“虚拟仿真”体验教学模块进行评价。
+* *Oplisty*'s **SCUT University Physics Review Notes** (also applicable to the International Campus):
+  * [University Physics Theorem Summary Express Edition](https://www.zhihu.com/column/c_1888956732467823738)
 
-#### 选修模块介绍与建议
+## Political Education
 
-#### 1. “红色基地”探访之旅
+### Marxist Theory and Practice
 
-**实践要求：**
+This is a required political education course. Note: Due to curriculum adjustments, this guide does not evaluate the “Leading the Way” Guangdong Practice or the “Virtual Simulation” experiential teaching modules.
 
-* 需选取新民主主义革命时期（1919–1949）、社会主义革命与建设时期（1949–1978）及改革开放新时期（1978–2012）的红色基地各一处进行参观，完成合影。
-* 撰写一篇正文不少于2500字的心得体会。
+#### Elective Module Introduction and Recommendations
 
-**实践评价：**
+#### 1. “Red Base” Site Visits
 
-* 优势：该模块灵活性较高，实践地点不受限于学校所在地（广州），学生可利用课余时间或假期前往全国各地的红色基地完成。若选择在广州完成，可于一日内高效达成目标。
+**Requirements:**
 
-* 建议：在选择非广州地区的基地时，需注意部分基地在历史时期界定上可能存在模糊空间，选点前建议仔细核对；此外，因跨区域实践选题多样，报告的原创性相对更强，往往查重率较低，在评分上有一定的竞争优势。
+* Select one Red Base from each of three periods: the New Democratic Revolution (1919-1949), Socialist Revolution and Construction (1949-1978), and Reform and Opening Up (1978-2012). Visit each and take a group photo.
+* Write a reflection essay of no less than 2,500 characters.
 
-#### 2. “乡土中国”社会调查
+**Evaluation:**
 
-**实践要求：**
+* Advantages: This module is quite flexible. Practice locations are not limited to Guangzhou (where the university is located). Students can visit Red Bases across the country during their free time or holidays. If choosing to complete it in Guangzhou, the goal can be achieved efficiently within a single day.
 
-* 基于应答驱动抽样（RDS）原则选取行政村进行实地质性调查，并按规定获取实践证明材料（如回执等）。
-* 撰写1份正文不少于2500字的质性调查报告。
+* Suggestions: When choosing bases outside Guangzhou, note that some bases may have ambiguous historical period classifications. Carefully verify before selecting sites. Additionally, since cross-regional practice topics are diverse, reports tend to be more original with lower plagiarism check rates, giving them a competitive edge in scoring.
 
-**实践评价：**
+#### 2. “Rural China” Social Survey
 
-核心难点在于样本选取与受访对象（如村干部、乡村医生等）的访谈协调，因受访群体需符合“真农村”标准（如学校周围的贝岗村、穗石村等事实上已成为“城中村”的村落，一般不可作为调查对象），执行难度因人而异。
+**Requirements:**
 
-#### 3. “爱洒羊城”志愿服务
+* Select an administrative village based on respondent-driven sampling (RDS) principles for on-site qualitative investigation, and obtain practice certification materials (such as receipts) as required.
+* Write one qualitative survey report of no less than 2,500 characters.
 
-**实践要求：**
+**Evaluation:**
 
-* 于 2026 年 7 月至 11 月间，在广州市范围内完成不少于 15 小时的指定领域志愿服务。
-* 撰写1份正文不少于2500字的志愿服务心得体会
+The core difficulty lies in sample selection and coordinating interviews with respondents (such as village officials and rural doctors). Since respondents must meet “true rural” standards (villages around campus like Beigang Village or Suishi Village, which have effectively become “urban villages,” are generally ineligible), the level of difficulty varies by individual.
 
-**实践评价：**
+#### 3. “Love Spreads Across Guangzhou” Volunteer Service
 
-* 适用人群：建议有毕业志愿时长缺口的同学重点考虑，本课程的志愿时长可以计入毕业要求。
+**Requirements:**
 
-* 避坑指南：对于追求高绩点的同学，需慎重选择。该模块的评分标准具有较高的不确定性，表现为志愿时长与最终绩点之间不存在严格的线性正相关：既存在“时长虽多但绩点平平”的情况，也偶有“志愿时长投入较少但获高分”的先例。本质上，该模块的评分受多种主观因素影响，时长并非绩点的决定性指标，建议结合个人时间成本及对绩点的期望值进行审慎权衡。
+* Complete no less than 15 hours of volunteer service in designated fields within Guangzhou city limits between July and November 2026.
+* Write one reflection essay of no less than 2,500 characters on the volunteer experience.
 
-#### 4. “经典著作”研读宣讲
+**Evaluation:**
 
-**实践要求：** 以 10 人为一小组，开展组内研读及不少于 1 次的经典著作宣讲（含 PPT 制作与展示）。
+* Target audience: Students who still need volunteer hours for graduation requirements should consider this option, as the volunteer hours from this course can count toward graduation.
 
-**实践评价：** 该模块涉及团队协作与深度理论研讨。考虑到组队沟通成本及项目协作的复杂性，不建议将其作为首选。
+* Pitfall warning: Students aiming for high GPAs should choose carefully. The grading criteria for this module are highly uncertain -- there is no strict linear positive correlation between volunteer hours and final GPA. Cases exist where “many hours but average GPA” occurs, as well as occasional instances of “few volunteer hours but high scores.” Essentially, scoring in this module is influenced by multiple subjective factors, and hours are not a decisive GPA indicator. Carefully weigh your time costs and GPA expectations.
 
-#### 💡 笔者提醒
+#### 4. “Classic Works” Study and Presentation
 
-#### 社会实践认定建议
+**Requirements:** Form groups of 10 people, conduct group study sessions, and deliver at least one presentation on a classic work (including PPT creation and presentation).
 
-若学院学期初安排了社会实践认定，该门必修课的实践成果通常可申请认定一次毕业要求的社会实践。建议留意学院通知，以实现实践成果的效用最大化。
+**Evaluation:** This module involves teamwork and in-depth theoretical discussion. Given the communication costs of group formation and the complexity of project collaboration, it is not recommended as a first choice.
 
-#### 志愿时长获取指南与渠道建议
+#### Author's Note
 
-若有毕业志愿时长需求，建议结合自身兴趣与时间安排，通过以下官方或正规渠道获取。请注意：**志愿时长仅为评价参考之一，切勿盲目追求时长而忽略实践质量。**
+#### Social Practice Credit Recognition Suggestion
 
-* **常用社会志愿渠道**：
+If your school arranges social practice recognition at the start of the semester, the practical成果 from this required course can usually be applied once toward meeting graduation social practice requirements. Watch for school notices to maximize the utility of your practical achievements.
 
-  * **常规服务类**：地铁志愿者、图书馆志愿者、各类学院/学校官方活动招募。此类活动通常由班干发布通知。
+#### Volunteer Hour Guide and Channel Suggestions
 
-  * **专项与长期项目**：
+If you need volunteer hours for graduation, consider using the following official or正规 channels based on your interests and schedule. Note: **Volunteer hours are only one evaluation reference -- do not blindly pursue hours at the expense of practice quality.**
 
-    * **蓝信封**：通过与乡村儿童长期通信，提供心理陪伴支持。每封信件通常认定为 3 小时志愿时长。详情可关注 [蓝信封官方平台](http://www.lanxinfeng.cn/)。
+* **Common Social Volunteer Channels**:
 
-    * **三下乡 / “百千万工程”**：深入基层的社会实践项目。**重要提示**：此类活动的志愿时长认定通常由对接单位决定，建议在参与前与对接单位明确志愿时长需求，并做好沟通确认。
+  * **Regular Service**: Metro volunteers, library volunteers, various school/department official event recruitment. These activities are usually announced by class monitors.
 
-  * **大型活动与社会招募**：演唱会、音乐节等大型活动志愿者。建议通过官方微信公众号或小程序渠道报名，提高警惕，注意甄别信息来源，谨防各类诈骗。
+  * **Special and Long-term Projects**:
 
-  * **寒招志愿**：分为“大学分发”与“高中分发”两种路径。
+    * **Blue Letter**: Provides psychological companionship support through long-term correspondence with rural children. Each letter is typically recognized as 3 volunteer hours. Details at [Blue Letter Official Platform](http://www.lanxinfeng.cn/).
 
-    * **大学分发**：通常需通过选拔成为校队成员，获得志愿时长一般在 8-10 小时左右。详情可以关注**鲤工小招招**公众号。
+    * **Three Trips to the Countryside / “Hundreds and Thousands of Projects”**: Grassroots social practice projects. **Important**: Volunteer hour recognition for such activities is usually determined by the partner organization. Confirm volunteer hour requirements with the partner organization before participating.
 
-    * **高中分发**：时长认定标准由生源高中决定，请提前与母校负责老师沟通确认。
+  * **Large Events and Social Recruitment**: Volunteers for concerts, music festivals, and other large events. Register through official WeChat public accounts or mini-programs. Stay alert, verify information sources, and guard against scams.
+
+  * **Winter Recruitment Volunteer**: Divided into two paths: “University Distribution” and “High School Distribution.”
+
+    * **University Distribution**: Usually requires selection to become a school team member, earning about 8-10 volunteer hours. Follow the **鲤工小招招** official account for details.
+
+    * **High School Distribution**: Hour recognition standards are determined by your high school. Communicate with the responsible teacher at your high school in advance.

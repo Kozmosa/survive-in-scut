@@ -1,161 +1,164 @@
 ---
 url: /en/learn/curricular/transfer_major_electrical_2026.md
-description: 华南理工大学转专业至电力学院（电气工程及其自动化）的经验分享，含面试准备、常见问题与回答思路
+description: >-
+  Experience sharing on transferring to SCUT's School of Electric Power
+  (Electrical Engineering and Its Automation), including interview preparation,
+  common questions, and answer strategies
 ---
 
-# 转电气经验分享
+# Transferring to Electrical Engineering - Experience Sharing
 
-作者：淬
+Author: Cui
 
 ***
 
-## 一、开篇 · 想说的话
+## I. Opening Thoughts
 
-其实转专业真的没有想象中那么难。
+Transferring majors is really not as hard as you imagine.
 
-面试的时候，自信、大方一点就好，不要总想着自己不够好。老师更想看到的，其实是你真实的状态，还有你是不是真的想学这个专业。
+During the interview, just be confident and natural. Don't keep thinking you're not good enough. What the teachers truly want to see is your genuine self, and whether you really want to study this field.
 
-我本身其实也是一个比较内向、胆子比较小的人，面试前也有点紧张，准备的时候总担心会不会问到自己不会的问题。但真正到了现场，会发现老师没有想象中那么拷打，也是我最放松的一次面试，很多时候正常交流就可以了。
+I'm actually quite an introverted, timid person myself. I was nervous before the interview too, always worried I'd be asked questions I couldn't answer. But when I actually got there, I found the teachers weren't as tough as I'd imagined. It was actually my most relaxed interview -- most of the time, normal conversation was all it took.
 
-当然，均分还是很重要的。尤其在华工，我觉得努力是真的会有回报的。我自己其实也是一个很普通的人，高考也是踩线进来的，没有什么天赋型光环。上大学之后，更多是靠自己一点一点努力、慢慢积累，才走到现在。
+Of course, your weighted average is still very important. Especially at SCUT, I believe hard work really pays off. I'm actually a very ordinary person -- I barely made the cutoff for admission, no talent halo. After starting university, it's been my own gradual effort and accumulation that got me where I am today.
 
-所以如果你现在也在纠结、焦虑，或者觉得自己不够优秀，其实没必要太否定自己。很多事情，认真去做、坚持下来，真的会慢慢有结果。
+So if you're struggling, anxious, or feeling like you're not good enough, there's really no need to be so hard on yourself. Many things, if you take them seriously and persist, will gradually yield results.
 
-## 二、电力学院转专业规则速览
+## II. Quick Overview of School of Electric Power Transfer Rules
 
-| 项目     | 说明                                                                     |
-| -------- | ------------------------------------------------------------------------ |
-| 门槛     | 必修无挂科，高数 ≥ 80 分；不招收单色识别不全者                           |
-| 考核方式 | 纯面试，无笔试                                                           |
-| 面试形式 | 5 分钟 PPT 个人陈述                                                      |
-| 陈述重点 | 学业情况（均分、高数、线代）、科研比赛经历、学科认知、个人潜质、未来规划 |
-| 加分项   | 大学英语成绩优秀者优先考虑                                               |
+| Item             | Details                                                                                                                                               |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Threshold        | No failed required courses, Advanced Math ≥ 80; does not accept those with monochromatic color recognition deficiency                                 |
+| Assessment       | Interview only, no written exam                                                                                                                       |
+| Interview Format | 5-minute PPT personal statement                                                                                                                       |
+| Key Points       | Academic status (weighted average, math scores, linear algebra), research/competition experience, subject awareness, personal potential, future plans |
+| Bonus Points     | Strong university English scores preferred                                                                                                            |
 
-## 三、面试 PPT 准备要点
+## III. Interview PPT Preparation Tips
 
-PPT 建议包含以下模块：
+Your PPT should include these sections:
 
-1. **个人学业情况**（重中之重）—— 展示均分、高数成绩、线代成绩
-2. **科研/竞赛经历**（如有）—— 数学竞赛、数学建模等
-3. **学科认知** —— 对电气工程的了解、为什么想转
-4. **个人潜质** —— 数理基础、学习能力、抗压能力
-5. **未来规划** —— 转入后的学习计划、发展方向
+1. **Academic Status** (most important) -- Show weighted average, math scores, linear algebra scores
+2. **Research/Competition Experience** (if any) -- Math competitions, mathematical modeling, etc.
+3. **Subject Awareness** -- Understanding of Electrical Engineering, why you want to transfer
+4. **Personal Potential** -- Math/physics foundation, learning ability, resilience
+5. **Future Plans** -- Study plan after transfer, development direction
 
-> PPT 建议自己做，内容真实即可，不需要花哨的模板。面试官可能会问「这个 PPT 是你自己做的吗」，要能答得上来。
+> Make the PPT yourself. Keep content truthful -- no need for fancy templates. Interviewers may ask "Did you make this PPT yourself?" -- you need to be able to answer yes.
 
-## 四、常见面试问题与回答思路
+## IV. Common Interview Questions and Answer Strategies
 
-以下整理自多位转电气成功同学的面试经历，按类别组织，供参考。
+The following is compiled from the interview experiences of several successful Electrical Engineering transfer students, organized by category for reference.
 
-### 4.1 专业认知类
+### 4.1 Subject Knowledge
 
-**Q：能源化学工程与电气工程的关系？**
+**Q: What is the relationship between Energy Chemical Engineering and Electrical Engineering?**
 
-能化主要研究能源的制取与储存（如氢能、锂电池材料），电气主要研究电能的传输、调度与并网。两者不是简单的上下游——在储能、电氢协同等方向已经深度耦合。比如电解水制氢，既需要化工优化反应效率，也需要电气解决波动电源的匹配问题。
+Energy Chemical Engineering mainly studies energy production and storage (e.g., hydrogen energy, lithium battery materials), while Electrical Engineering studies power transmission, dispatch, and grid integration. They're not simply upstream/downstream -- they're deeply coupled in areas like energy storage and electricity-hydrogen coordination. For example, electrolytic water hydrogen production needs chemical engineering to optimize reaction efficiency and electrical engineering to match fluctuating power sources.
 
-**Q：为什么转电气，不留在化工？**
+**Q: Why transfer to Electrical Engineering instead of staying in Chemical Engineering?**
 
-因为我想从系统层面参与能源转型。能化更多做能源制取和储存，而电气是新能源真正落地的关键环节，做传输和调度。我想在能源落地的关键环节深耕。
+Because I want to participate in the energy transition from a system level. Chemical Engineering focuses more on energy production and storage, while Electrical Engineering is the key link where new energy actually lands -- transmission and dispatch. I want to go deep into this critical link.
 
-**Q：你对电气工程及其自动化的理解？**
+**Q: What is your understanding of Electrical Engineering and Its Automation?**
 
-电气工程主要围绕电能的产生、传输、分配和控制展开，核心方向包括电力系统、智能电网、新能源发电以及自动化控制。这个专业最大的特点是它处在能源利用的关键环节，是新能源真正落地的枢纽。
+Electrical Engineering revolves around the generation, transmission, distribution, and control of electrical energy. Core areas include power systems, smart grids, new energy generation, and automation control. The biggest feature of this field is that it sits at the key node of energy utilization -- the hub where new energy actually comes online.
 
-**Q：了解华工电气的方向或优势吗？**
+**Q: Do you know about SCUT Electrical Engineering's strengths or advantages?**
 
-华工电气与南方电网、广东电网合作紧密，在新能源并网、智能电网、海上风电方向优势突出。学院聚焦大湾区电网建设，产学研深度融合，对学生实践和就业都有很好的支撑。
+SCUT's Electrical Engineering program has close cooperation with China Southern Power Grid and Guangdong Power Grid. It has outstanding advantages in new energy grid integration, smart grids, and offshore wind power. The school focuses on Greater Bay Area grid construction with deep industry-academia-research integration, providing strong support for student practice and employment.
 
-### 4.2 动机与规划类
+### 4.2 Motivation and Planning
 
-**Q：为什么选择转电气？**
+**Q: Why did you choose to transfer to Electrical Engineering?**
 
-我对电力领域有浓厚兴趣，数理基础扎实，数竞和数模竞赛锻炼的逻辑思维与电气专业高度匹配。电气工程是国家能源战略核心专业，契合双碳发展方向，我希望深耕这一领域。
+I have a strong interest in the power field. My math/physics foundation is solid, and the logical thinking developed through math competitions and mathematical modeling aligns well with Electrical Engineering. Electrical Engineering is a core national energy strategy field aligned with the dual-carbon development direction. I want to go deep in this area.
 
-**Q：高考时有没有选电气？**
+**Q: Did you consider Electrical Engineering during Gaokao?**
 
-高考填报志愿时，我就把电气工程列为重点意向专业，因志愿梯度与分数排位原因未能录取。进入现专业后始终关注电气领域，通过竞赛更坚定了学习电气的决心。
+When filling out Gaokao志愿, I listed Electrical Engineering as a key意向 program, but wasn't admitted due to志愿 gradient and score ranking. After entering my current program, I've always followed the Electrical Engineering field. Competitions have further strengthened my determination to study it.
 
-**Q：转专业后的学习规划？**
+**Q: What's your study plan after transferring?**
 
-三步走：假期提前自学电路、补修基础课；入学后扎实学好核心课程；主动进入实验室参与科研与科创竞赛，以推免保研为目标持续深耕。
+Three steps: Over the break, self-study circuit basics and make up foundation courses. After enrollment, solidly learn core courses. Proactively enter the lab for research and innovation competitions, with the goal of graduate recommendation.
 
-**Q：跨专业过来，没有电气基础，跟不上怎么办？**
+**Q: You're coming from a different major with no Electrical Engineering foundation. What if you can't keep up?**
 
-已预习电路基础，数理底子好（高绩点、数学竞赛省二），学习能力已通过竞赛验证。转入后会优先补齐专业基础课，主动请教学长老师，绝不会掉队。
+I've already previewed circuit fundamentals, have a strong math/physics foundation (high GPA, provincial second prize in math competition), and my learning ability is verified through competitions. After transferring, I'll prioritize filling in professional foundation courses and actively seek help from seniors and teachers. I won't fall behind.
 
-**Q：如果转专业失败会怎么办？**
+**Q: What if you fail to transfer?**
 
-坦然接受，继续在本专业保持好成绩，同时自学电气基础，争取下一次机会。
+I'll accept it gracefully, continue maintaining good grades in my current major, self-study Electrical Engineering basics, and try again at the next opportunity.
 
-### 4.3 竞赛经历类
+### 4.3 Competition Experience
 
-**Q：数学竞赛遇到的困难？**
+**Q: What difficulties did you encounter in the math competition?**
 
-（建议用 STAR 法则叙述）
+(Recommended to use the STAR framework.)
 
-前期规划欠妥，进度落后。国庆后高强度突击，最大难点是三重积分、曲线曲面积分。每天全身心投入，和同学互相讨论、拆解难点。最后顺利拿到省二等奖。这段经历磨练了自律和抗压能力。
+Poor initial planning left me behind schedule. After National Day, I started an intensive突击. The hardest parts were triple integrals and curve/surface integrals. I devoted myself fully every day, discussed with classmates, and broke down the难点. Eventually I earned the provincial second prize. This experience trained my self-discipline and resilience.
 
-**Q：数学建模遇到的困难？**
+**Q: What difficulties did you encounter in mathematical modeling?**
 
-三类主要困难：技术工具不熟练（Origin/Excel → 多图层复合图表，临时查阅教程解决）、团队沟通偏差（冷静后复述确认再修改）、时间管理。美赛让我更适应高压下快速学习的节奏。
+Three main types: unfamiliarity with technical tools (Origin/Excel to multi-layer composite charts -- resolved by looking up tutorials on the spot), team communication issues (calmly restating to confirm before revising), and time management. The MCM/ICM experience helped me adapt to learning quickly under pressure.
 
-**Q：数竞和数模分别有什么收获？**
+**Q: What did you gain from the math competition and math modeling respectively?**
 
-数竞锻炼了自学能力、时间规划能力和迎难而上的韧性。数模锻炼了抗压能力、团队协作能力和问题统筹能力。这些能力都能适配后续的电气专业学习。
+The math competition developed my self-study ability, time planning, and perseverance in facing challenges. Math modeling developed my resilience under pressure, teamwork, and problem coordination. All these abilities transfer well to Electrical Engineering study.
 
-### 4.4 短板回应类
+### 4.4 Handling Weaknesses
 
-**Q：英语分低怎么完成美赛论文手？**
+**Q: How did you complete the MCM paper as the writer with low English scores?**
 
-论文手的核心不是翻译，是逻辑和专业内容。我负责中文成稿、图表绘制和排版，机器翻译出初稿后逐句校对术语，队友一起审稿。我全程把控核心内容。
+The paper writer's core job isn't translation -- it's logic and technical content. I was responsible for drafting in Chinese, creating charts, and formatting. After machine translation, I proofread terminology sentence by sentence, and teammates reviewed together. I controlled the core content throughout.
 
-**Q：四级成绩不高，以后能跟上英文文献吗？**
+**Q: Your CET-4 score isn't high. Can you keep up with English文献?**
 
-正在全力备考六级，已完成三千多个核心单词的两轮背诵。同时会同步积累电气专业英语，从经典综述开始逐段精读英文文献。应试分数不代表终点，有执行力把学术英语补扎实。
+I'm preparing intensively for CET-6 and have completed two rounds of memorization for over 3,000 core vocabulary words. Simultaneously, I'm accumulating Electrical Engineering English terminology, starting with classic review papers for intensive reading. Exam scores aren't the终点 -- I have the执行力 to build solid academic English.
 
-**Q：你的最大缺点是什么？**
+**Q: What is your biggest weakness?**
 
-诚实回答一个真实的不足，但说明正在如何改进。重要的是展示自我认知和改变的行动力。
+Answer honestly with a real shortcoming, but explain how you're working to improve. The important thing is to show self-awareness and the drive to change.
 
-### 4.5 行业认知类
+### 4.5 Industry Knowledge
 
-**Q：你对双碳战略的理解？**
+**Q: What is your understanding of the dual-carbon strategy?**
 
-碳达峰（2030）、碳中和（2060）。核心是能源转型，而转型的关键枢纽是电力系统——风电光伏并网、储能调度、特高压输电、新型电力系统建设，都是电气工程的核心方向。
+Carbon peak by 2030, carbon neutrality by 2060. The core is energy transition, and the key hub of that transition is the power system -- wind/solar grid integration, energy storage dispatch, ultra-high voltage transmission, and new power system construction are all core directions of Electrical Engineering.
 
-**Q：新能源并网目前面临哪些卡脖子技术？**
+**Q: What bottleneck technologies does new energy grid integration currently face?**
 
-三类：高端功率芯片依赖进口；专业仿真软件被国外垄断；关键传感器和绝缘材料国产化不够。正因这些短板，国家急需电气方向的专业人才。
+Three categories: high-end power chips rely on imports; specialized simulation software is dominated by foreign companies; critical sensors and insulation materials lack sufficient domestic production. It's precisely because of these短板 that the country urgently needs Electrical Engineering professionals.
 
-**Q：电气除了进入电网还有哪些出路？**
+**Q: Besides joining the grid, what other career paths does Electrical Engineering offer?**
 
-发电集团、电力设计院；新能源和储能企业（宁德时代、比亚迪）；工业自动化和工控；新能源汽车的电控和电力电子；继续深造搞科研。
+Power generation groups, power design institutes; new energy and energy storage companies (CATL, BYD); industrial automation and control; electric vehicle electronic control and power electronics; pursuing further studies and research.
 
-**Q：电气行业未来发展趋势？**
+**Q: What are the future development trends for the Electrical Engineering industry?**
 
-三大趋势：绿色低碳（风电光伏 + 新型电力系统）；智能数字化（电网智慧化升级）；自主可控（攻克卡脖子技术，核心设备国产化）。
+Three major trends: green and low-carbon (wind/solar + new power systems); intelligent digitalization (smart grid upgrades); and自主可控 (overcoming bottleneck technologies, domesticating core equipment).
 
-**Q：你对新型储能怎么看？**
+**Q: What do you think about new energy storage?**
 
-新型储能的核心作用是解决新能源的波动性问题——把多余的电存起来，缺的时候放出来，让不稳定的新能源变成稳定可用的电。国家能源局已明确新型储能是建设新型电力系统的「刚需」组件。
+The core role of new energy storage is to solve the intermittency problem of renewable energy -- store excess electricity when available, release it when needed, turning unstable renewables into stable, usable power. The National Energy Administration has clearly indicated new energy storage is a "必须品" component for building new power systems.
 
-### 4.6 其他高频问题
+### 4.6 Other Frequent Questions
 
-**Q：能源化学工程 → 电气的结合点？**
+**Q: What's the connection between Energy Chemical Engineering and Electrical Engineering?**
 
-能化解决储能材料、氢能制备，电气解决并网和调度。在储能、电氢协同方向深度耦合。化工背景能帮助理解储能器件原理，学电气就能贯通「材料 → 器件 → 系统」，这是复合优势。
+Chemical Engineering addresses energy storage materials and hydrogen production; Electrical Engineering handles grid integration and dispatch. They're deeply coupled in energy storage and electricity-hydrogen coordination. A Chemical Engineering background helps understand energy storage device principles, while studying Electrical Engineering can bridge "material → device → system" -- that's a composite advantage.
 
-**Q：有什么兴趣爱好？**
+**Q: What are your hobbies/interests?**
 
-建议如实回答。比如坚持夜跑，说明这让自己精力更好、学会了坚持和放松，是一个很好的调节方式。
+Answer honestly. For example, if you stick to night running, explain that it gives you more energy, teaches perseverance and relaxation, and is a good way to regulate yourself.
 
-**Q：PPT 是你自己做的吗？**
+**Q: Did you make the PPT yourself?**
 
-是的，独立完成。在网上找了简洁合适的模板，结合自身情况（成绩、竞赛经历、转专业动机）一点点修改排版、填充内容，全程自己打磨。
+Yes, independently. I found a clean, suitable template online and tailored it to my situation (grades, competition experience, transfer motivation), modifying the layout and filling in content step by step -- all self-polished.
 
-## 五、相关资料
+## V. Related Resources
 
-* [转专业总览](/en/learn/curricular/transfer_major)
-* [华工转专业的快速认知](/en/learn/curricular/transfer_major_quick)
+* [Major Transfer Overview](/en/learn/curricular/transfer_major)
+* [Quick Guide to Major Transfer at SCUT](/en/learn/curricular/transfer_major_quick)
 
-## 六、附：面试 PPT 预览
+## VI. Appendix: Interview PPT Preview

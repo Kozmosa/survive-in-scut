@@ -1,15 +1,20 @@
 ---
 url: /en/learn/curricular/exam.md
-description: 华南理工大学与考试相关的规章制度，及应对考试可供参考的一些告诫
+description: SCUT's exam-related regulations and some advice for handling exams
 ---
 
-# 考试
+# Exams
 
-TODO: 华南理工大学与考试相关的规章制度，及应对考试可供参考的一些告诫
+TODO: Add exam regulations and guidelines:
 
-## 大学物理
+* \[ ] Exam room discipline and violation handling: serious consequences and academic sanctions for bringing phones/cheating
+* \[ ] Deferred exam application process: conditions for applying due to illness or schedule conflict, approval steps, and grade recording rules
+* \[ ] Grade review and appeal: process and time window for requesting a review of disputed final grades
+* \[ ] Course assessment methods: assessment formats and grade composition for different course types (required/elective/general education)
 
-这里是 *Oplisty* 整理的 **华南理工大学 大学物理 复习笔记**：
-[大物定理汇总期末速成版](https://www.zhihu.com/column/c_1888956732467823738)
+## University Physics
 
-可供大学物理上学习、复习参考。
+Here are *Oplisty*'s **SCUT University Physics Review Notes**:
+[University Physics Theorem Summary Express Edition](https://www.zhihu.com/column/c_1888956732467823738)
+
+Useful for studying and reviewing University Physics Part 1.

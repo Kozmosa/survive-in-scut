@@ -1,807 +1,682 @@
 ---
 url: /en/learn/curricular/transfer_major_2024.md
-description: 华南理工大学转专业指南（2024版），参考2024级政策编写
+description: 'SCUT Major Transfer Guide (2024 Edition), based on the 2024 cohort policies'
 ---
 
-# 华南理工大学转专业指南（2024版）
+# SCUT Major Transfer Guide (2024 Edition)
 
-编者：Automne
+Editor: Automne
 
-**2025.6.25 注**
+**Note from 2025.6.25**
 
-目前，2025届二次选拔招生政策及班型尚不明朗，有可能*二次选拔可转入的班级仅包含国际校区专业（多数学费 95000元/年）*，请慎重考虑。
+Currently, the 2025 secondary selection enrollment policies and class types are still unclear. It is possible that *the only classes available through secondary selection are International Campus programs (most with tuition of 95,000 RMB/year)* -- consider carefully.
 
-## 写在前面
+## Foreword
 
-高考结束，即将迎来的又是一年入学季，无论各位新生报着如何的心态点开了这份文件，我都希望各位可以对“转专业”这个决定再三斟酌。这并非什么危言耸听，也不是为了夸大转专业的难度，我只是希望各位在下这个重要的决定之前，可以多多权衡利弊，以免令将来的自己后悔。毕竟，转专业所牵涉的事情太多，很多人大概率是因为高考失利，而不愿意放弃985的名头，才来到这里，草率地做出了这个选择。一时冲动，弥补却大概率需要一整个学期（整个大一），其中的心理压力、需要抛弃的事物很大概率会使你在转专业的途中不断经历许许多多的内耗。哪怕你现在会觉得无所谓，但就我个人的经历来说，这一年也确实很难说的上好受。因此，如果我要对所有即将选择转专业的新生说一句话的话，我会选择说：“能不转尽量还是别转。”只能说，对于大部分人而言，**转专业最好的选择是不转专业**。
+Gaokao is over, and enrollment season is approaching again. Regardless of the mindset in which you clicked open this document, I hope you will think twice about the decision to change your major. This is not scaremongering, nor is it meant to exaggerate the difficulty of transferring. I simply want you to weigh the pros and cons before making this important decision, so you won't regret it later. After all, transferring involves many things. Many people come here reluctantly due to Gaokao underperformance, unwilling to give up the "985" label, and rashly make this choice. A moment of impulse may require an entire semester (the whole first year) to make up for, and the psychological toll and things you'll have to give up will likely drain you throughout the process. Even if you think it doesn't matter now, speaking from personal experience, that year was hardly pleasant. So if I had to say one thing to all freshmen considering transferring, it would be: **if you can avoid it, don't transfer**. For most people, the best choice is to not transfer.
 
-对于学长而言，大概率他们都会偏向于劝你转去他们的专业，一边说着自己专业多么多么好，一边又说转过去“点击就送”，非常容易。对于这点，我想说的是，哪怕他们过来的体感确实如此，难道就能保证你也一样么？每个人的情况都是不一样的，找转成功的人询问转专业的难度，除非是那年那个专业被公认为“转专业修罗场”，否则大概率都会因为幸存者偏差，而被告知一句“不难”。但，那你怎么就知道自己能达到他的水平呢？哪怕就算是达到了，这种专业每筛的人照样有那么多，你怎么就能保证你不是被筛的那一个呢？我只能说，大多数失败的人都是沉默的，毕竟他们如果说上什么，可能还会被嘲讽“能力不足，还转什么专业”。而且，虽然毫无疑问，能力强，成绩好的人转成功的几率确实大，但是这种几率终究不是100%的，并且编者也是有听说一些成绩、能力很强的人转失败的事迹（或许是因为面试、笔试表现，或者是因为对面学院的“偏好”，虽然少，但总可能会发生）。因此，如果你现在只能去一个实在非常令你讨厌的原专业，那最好不要把所有的希望都压在“转专业”这唯一的稻草身上，那只会使你不堪重负。如果真的想转，**原专业也最好是你留下来也可以接受的**。
-说完劝退的话，就可以正式开始介绍我们学校的转专业情况以及政策了。先说结论，华南理工大学整体的转专业难度为**中等-中等偏上**，不算太简单，也不算太难。对于绝大部分同学而言，转专业时间基本分为三个部分：开学后的“二次选拔”，大一下的“自主转专业”以及大二下的“自主转专业”，后两者会在每个学年的下学期同步进行，一般大二下就是最后一次机会了。尽管也有参军转专业、帮扶转专业还有创新班/卓越班增补等其他等效于转专业的操作，但由于其较为冷门，在此并不会提及。
+As for upperclassmen, they'll probably encourage you to transfer to their major, talking about how great it is and how easy the transfer is -- "click and it's yours." To that, I say: even if that was their experience, can you be sure it'll be the same for you? Everyone's situation is different. When you ask successful transferees about the difficulty, unless that year that particular major was notoriously a "transfer hell," you'll likely get a "it wasn't hard" due to survivorship bias. But how do you know you can match their level? And even if you do, these majors still screen out plenty of people -- how can you be sure you won't be one of them? I can only say that most of those who fail are silent. If they said anything, they might even be mocked: "If you weren't good enough, why try to transfer?" And while it's true that capable students with good grades have a higher chance of success, it's never 100%. I've heard of strong students with good grades failing (perhaps due to interview or written exam performance, or the receiving school's "preferences" -- rare, but it can happen). So if you're stuck with a major you truly dislike, don't pin all your hopes on transferring -- that will only overwhelm you. If you really want to transfer, **your original major should still be something you can accept staying in**.
 
-与其他学校相比，我们学校转专业的优势在于：一、**转出学院并不设定限制条件**；二、**热门专业（计软自信电）招生总人数较为可观**；三、**国际校区专业较好，难度较低**（近年来也有上升趋势，但总体难度仍不大），但代价是9w5/一年的高昂学费，对于家境较好的同学可以作为备选后路；四、**开学有二次选拔考试，提供各种好专业的特色班型可以转入**。
+With the discouragement out of the way, let's start introducing the transfer situation and policies at our school. The bottom line: the overall difficulty of transferring at SCUT is **moderate to moderately high** -- not too easy, not too hard. For most students, the transfer timeline has three parts: the "secondary selection" after enrollment, the "voluntary transfer" at the end of the first year, and the "voluntary transfer" at the end of the second year. The latter two happen simultaneously in the second semester of each academic year. Generally, the end of the second year is your last chance. There are also other equivalent operations like military service transfers, assistance-based transfers, and innovation/outstanding class augmentation, but since they're relatively niche, they won't be covered here.
 
-而劣势则在于：一、**各次转专业机会都只有一个志愿名额（容错小）**；二、**二次选拔报名人数较多，难度整体较高**；三、**大一下转专业时间较晚**，或面临降级/较多补课/专业水平不如原住民等情况；四、**每位学生原则上在校期间只能进行一次“转专业”操作**，例如二次选拔成功转走的同学，是不允许参加下学期的“自主转专业”的。除此之外，一次“转专业”操作以最终结果为准，转专业失败或者自愿放弃录取名额，都是不会消耗这一次数的 。
+Compared to other universities, SCUT's advantages for transferring are: 1) **The original school doesn't set restrictive conditions**; 2) **Popular majors (CS, Software, Automation, Info Engineering, Electrical) have a decent total intake**; 3) **International Campus programs are good with lower difficulty** (though it's been increasing in recent years, overall it's still manageable), but the trade-off is the high tuition of 95,000 RMB/year -- a viable backup for students from well-off families; 4) **There's a secondary selection exam at the start of the year, offering various specialized class types in good majors**.
 
-编者个人则是选择在大一下从轻工转去了机电，可以说，并不是什么“逆天改命”的转专业经历，并没能实现从冷门跨向热门专业的壮举，虽然也曾努力，但终究显得有些“白忙活”。不过也正是这一段“白忙活”的经历，使得编者从二次选拔到自主转专业，从冷门专业至热门专业的情况与政策，都有一定了解，于是才便想着借这些经历，为即将到来的各路新生们写点什么，也算是能做点贡献了吧。当然，个人的理解与见解难免会有限且狭隘，因此编者也会在后续的内容中询问其他有转专业经历的同学，以作参考，力求尽善尽美。尽管如此，也难保没有疏漏，若有问题，也希望各位读者谅解、指正。
+The disadvantages are: 1) **Each transfer opportunity only allows one choice (low margin for error)**; 2) **Secondary selection has many applicants, overall higher difficulty**; 3) **The first-year transfer comes relatively late**, possibly requiring grade-level demotion, a lot of catch-up, or being at a disadvantage compared to original students; 4) **Each student can only undergo one "transfer" operation during their enrollment**. For example, students who successfully transfer through secondary selection cannot participate in the next semester's "voluntary transfer." Additionally, a "transfer" operation is counted by the final result -- failing or voluntarily giving up the admission slot does not consume this one-time opportunity.
 
-## 二次选拔————转专业的第一枪
+I personally transferred from Light Industry to Mechatronics at the end of my first year. It wasn't some "life-changing" transfer experience -- I didn't make the leap from a niche field to a hot major. Despite my efforts, it felt somewhat like "busywork." But it was precisely this "busywork" experience that gave me a decent understanding of everything from secondary selection to voluntary transfer, from niche majors to popular ones. So I thought I'd write something for the incoming freshmen, to make some contribution. Of course, personal understanding and insights can be limited and narrow, so I'll also consult other students with transfer experience for reference, striving for completeness. Even so, omissions are inevitable. I hope readers will understand and feel free to point out any issues.
 
-**时间：开学后 9.2左右进行笔试 总流程持续时间大致到9.11**
+## Secondary Selection -- The First Shot at Transfer
 
-开学之后即迎来各位的第一次转专业机会——“二次选拔”（以下可能简称“二选”），同时也是编者认为最值得转的一次机会，主要原因便是时间足够早，转走之后基本无缝衔接对面专业，同时也避免了一年的专业焦虑，可以闲下心学习转入专业的课内课外知识，甚至有兴趣搞科研的同学也能凭借这一年找到不错的导师。
+**Timeline: Written exam around September 2 after enrollment; the whole process lasts until about September 11.**
 
-二次选拔的专业主要聚焦于各种特殊班型中（创新班、卓越班等）以及国际校区的专业，在2024年及以前，许多人，包括编者个人在内对二选的顾虑主要也是在这个“特殊”上，因为大部分特殊班型是不允许保研外校的。
+Right after enrollment comes your first transfer opportunity -- "secondary selection" (hereafter "SS"), and I also believe this is the most worthwhile transfer opportunity. The main reason is that it's early enough -- once you transfer, you basically transition seamlessly into the new major, avoiding a year of major-related anxiety. You can calmly learn your new major's materials inside and outside class, and even those interested in research can find a good advisor with this extra year.
 
-（保研：“免试攻读研究生”的简称，华南理工大学各个专业都有自己的保研名额，其名额占总人数的比率即保研率；各专业的保研率会有出入，但公认的是，各专业普通班保研率大致都在15%左右，属于同档次中较低的水准）
+Secondary selection programs mainly focus on various special class types (Innovation Class, Outstanding Class, etc.) and International Campus programs. Before 2024 (inclusive), many people, including myself, were concerned about this "special" aspect because most special class types didn't allow graduate recommendation to external universities.
 
-尽管得到了特殊班型所具有的高保研率（大致会在50%/70%水平）和好专业，但是同时失去了研究生追求更高档次院校的能力，许多人会觉得略为可惜。而提及此点的原因是，**华南理工大学在2025年之后更改了政策，允许了创新班、卓越班的保外**，因此可以预见的是，相较于之前的情况，今年往后的二次选拔竞争极大概率将显著上升，在此仅作提醒。当然从另一个角度来说，这也使得二次选拔为数不多的缺陷也被抹除，因此编者在此也可以说，“二次选拔”将是各位最值得尝试的一次转专业机会。
+(Graduate recommendation: short for "recommendation for graduate admission without examination." Each SCUT major has its own recommended graduate slots, with the ratio to total students being the recommendation rate. Rates vary by major, but it's generally accepted that regular classes have around 15%, which is on the lower end among comparable institutions.)
 
-### 二次选拔报名：
+While special class types offer high recommendation rates (around 50%/70%) and good majors, they previously came with the cost of losing the ability to pursue graduate studies at higher-tier institutions. Many found this regrettable. However, **after 2025, SCUT changed its policy to allow Innovation and Outstanding Classes to recommend to external schools**. This means competition for secondary selection going forward will very likely increase significantly compared to before -- just a heads up. On the flip side, this also removes one of the few drawbacks of secondary selection, so I can now say that secondary selection is the most worthwhile transfer opportunity for everyone.
 
-8月末到9月初会开放报名，即时各位可以在“智慧迎新”-“教改班申请”中申请报名，并可以看到实时的报名人数。报名可以中途更改。报名有且仅有一个志愿位。
+### Secondary Selection Registration
 
-### 考试形式：数学+英语
+Registration opens from late August to early September. You can apply via "Smart Orientation" - "Teaching Reform Class Application" and see real-time applicant numbers. Applications can be changed mid-way. You only get one choice.
 
-（免责声明：每年情况可能不同，编者仅以2024年的情况为例，供给大家作为参考）
+### Exam Format: Math + English
 
-值得一提的是，二选英语考试和开学考用于分班的英语测试是同一个，其覆盖范围基本为全校，无论是否报名二选，都需要去进行测试，以区分大一英语课是“学术英语（A班）”还是“大学英语（B班）”。也就是说，报名二选的同学仅会比其他学生多出一门数学考试。
+(Disclaimer: The situation may change yearly. I'm only using 2024 as an example for reference.)
 
-难度上，总体难度不定，据编者自己的回忆，以及回顾当时的聊天记录来看的话，数学与英语的难度大致都会略难于高考难度。
+It's worth noting that the SS English exam is the same as the placement test taken at the start of the year, covering basically the entire school. Regardless of whether you sign up for SS, you need to take this test to determine whether your first-year English class is "Academic English (Class A)" or "College English (Class B)." In other words, SS applicants only have one additional math exam compared to other students.
 
-时间上，2024年英语于9.2早上、下午进行机试，数学则于9.2晚上进行笔试。
+Difficulty: Overall difficulty varies. Based on my own memory and reviewing chat records, both math and English were slightly harder than the Gaokao.
 
-题型上，2024年，英语机试为在题库中随机抽取的完形填空+阅读理解；数学则为10道填空题+4道大题的配置，具体的题目在转专业交流群中有近年各年的回忆版本，在此截取部分2024年题目作为难度参考：
+Timing (2024): The English computer-based test was on the morning and afternoon of September 2; the math written exam was on the evening of September 2.
 
-（2024回忆版由华工数学群共同完成）
+Question types (2024): The English computer test consisted of cloze passages and reading comprehension randomly selected from a question bank. The math exam had 10 fill-in-the-blank questions and 4 long-form problems. Specific questions have been compiled from memory in the transfer group for recent years. Here are some 2024 questions as a difficulty reference:
+
+(2024 recollection completed by the SCUT Math Group)
 
 ```
-填空1、数列an中a1 =2 , 4𝑆𝑛+1= 𝑆𝑛+1,求{𝑎𝑛}的通项.
-填空5、求 {1,2,3, . . . ,50} 选3个数和为100的概率。
-填空8、已知三角形ABC的外接圆半径为根号2，且2√2(sin2𝐴−sin2𝐶) = (𝑎−𝑏)𝑠𝑖𝑛𝐵。求三角形ABC面积的最小值
-填空10、已知(𝑥+1)2+(𝑦+1)4 = (𝑧+1)2、(𝑥+1)4+(𝑦+1)2 = (𝑧+1)4 ，(𝑥,𝑦, 𝑧 ≥−1)，求𝑧 min .
-大题2、P为抛物线𝑦 =𝑥2+𝑥+1上一点。PA，PB两直线交y轴于CD,交抛物线于A、B ，𝑃𝐶 = 𝑃𝐷
-(1)求𝑘𝐵𝐴 ,k为斜率
-(2)当∠𝐴𝑃𝐵= 𝜋，求AB中点的轨迹方程
+Fill-in 1: In sequence {an}, a1 = 2, 4S_{n+1} = S_n + 1, find the general term of {an}.
+Fill-in 5: Find the probability that the sum of 3 numbers chosen from {1,2,3,...,50} is 100.
+Fill-in 8: Triangle ABC has circumradius √2, and 2√2(sin²A - sin²C) = (a-b)sinB. Find the minimum area of triangle ABC.
+Fill-in 10: Given (x+1)² + (y+1)⁴ = (z+1)², (x+1)⁴ + (y+1)² = (z+1)⁴, (x,y,z ≥ -1), find min(z).
+Long-form 2: P is a point on parabola y = x²+x+1. Lines PA and PB intersect the y-axis at C, D and the parabola at A, B. PC = PD.
+(1) Find k_BA (k is slope)
+(2) When ∠APB = π, find the locus of the midpoint of AB.
 ```
 
-### 二次选拔可选专业、班型：
+### Secondary Selection Available Programs and Class Types
 
-（免责声明：每年情况可能不同，编者仅以2024年的情况为例，供给大家作为参考）
+(Disclaimer: The situation may change yearly. I'm only using 2024 as an example for reference.)
 
-| **序号** |                **招生专业(班级)**                | **招生计划** |                                        **选拔对象**                                        | **身体健康** **状况要求** |
-| :------: | :----------------------------------------------: | :----------: | :----------------------------------------------------------------------------------------: | :-----------------------: |
-|    1     |          材料类创新班（本硕、本博连读）          |      20      | 非广州国际校区学院高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理或化学科目） |       不招色盲色弱        |
-|    2     |                土木工程（卓越班）                |      20      |    非广州国际校区学院高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理科目）    |            无             |
-|    3     |  软件工程（卓越班）、软件工程（工业软件卓越班）  |      50      |    非广州国际校区学院高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理科目）    |    不招单色识别不全者     |
-|    4     |                法学（卓越法律班）                |      10      |                              非广州国际校区学院2024级本科新生                              |            无             |
-|    5     |          计算机科学与技术（拔尖基地班）          |      15      |    非广州国际校区学院高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理科目）    |    不招单色识别不全者     |
-|    6     |        “软件工程+工商管理”双学位试点项目         |      30      |    非广州国际校区学院高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理科目）    |    不招单色识别不全者     |
-|    7     |     “金融学+计算机科学与技术”双学位试点项目      |      30      |                              非广州国际校区学院2024级本科新生                              |    不招单色识别不全者     |
-|    8     |      “自动化+数学与应用数学”双学位试点项目       |      30      |    非广州国际校区学院高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理科目）    |         不招色盲          |
-|    9     |                信息工程中法菁英班                |      30      |    非广州国际校区学院高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理科目）    |            无             |
-|    10    |               传播学（2+2联合班）                |      30      |                              非广州国际校区学院2024级本科新生                              |            无             |
-|    11    |                环境工程（全英班）                |      15      | 非广州国际校区学院高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理+化学科目）  |       不招色盲色弱        |
-|    12    |                工商管理（全英班）                |      40      |                              非广州国际校区学院2024级本科新生                              |            无             |
-|    13    |           广州国际校区生物医学工程专业           |      10      | 非广州国际校区学院高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理+化学科目）  |       不招色盲色弱        |
-|    14    |           广州国际校区智能制造工程专业           |      10      |    非广州国际校区学院高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理科目）    |            无             |
-|    15    |            广州国际校区机器人工程专业            |      10      |    非广州国际校区学院高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理科目）    |            无             |
-|    16    |         广州国际校区软物质科学与工程专业         |      10      | 非广州国际校区学院高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理+化学科目）  |       不招色盲色弱        |
-|    17    |         广州国际校区微电子科学与工程专业         |      10      |    非广州国际校区学院高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理科目）    |            无             |
-|    18    |      广州国际校区集成电路设计与集成系统专业      |      10      |    非广州国际校区学院高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理科目）    |            无             |
-|    19    |             广州国际校区人工智能专业             |      15      |    非广州国际校区学院高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理科目）    |            无             |
-|    20    |       广州国际校区数据科学与大数据技术专业       |      15      |    非广州国际校区学院高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理科目）    |            无             |
-|    21    | 广州国际校区智能海洋装备创新班（本硕、本博连读） |      5       |    非广州国际校区学院高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理科目）    |            无             |
-|    22    |             工业设计（中外合作办学）             |      40      |                              非广州国际校区学院2024级本科新生                              |         不招色盲          |
-|    23    |           超级机器人“珠峰班”（0+4+X）            |      30      |             高考理科背景的2024级本科新生（高考综合改革省份新生应选考物理科目）             |         不招色盲          |
+**Summary Table of Secondary Selection Programs, Enrollment Plans, and Selection Targets**
 
-> 注：广州国际校区学院包括生物医学科学与工程学院、吴贤铭智能工程学院、前沿软物质学院、微电子学院、未来技术学院、海洋科学与工程学院
+| No. | Program (Class)                                                                                        | Plan | Selection Target                                                                                    | Health Requirements               |
+| --- | ------------------------------------------------------------------------------------------------------ | ---- | --------------------------------------------------------------------------------------------------- | --------------------------------- |
+| 1   | Materials Innovation Class (BS-MS, BS-PhD)                                                             | 20   | Non-GZIC, science-background 2024 freshmen (reform provinces: must have taken Physics or Chemistry) | No color blindness/weakness       |
+| 2   | Civil Engineering (Outstanding Class)                                                                  | 20   | Non-GZIC, science-background 2024 freshmen (reform provinces: must have taken Physics)              | None                              |
+| 3   | Software Engineering (Outstanding Class), Software Engineering (Industrial Software Outstanding Class) | 50   | Non-GZIC, science-background 2024 freshmen (reform provinces: must have taken Physics)              | No monochromatic color deficiency |
+| 4   | Law (Outstanding Legal Class)                                                                          | 10   | Non-GZIC 2024 freshmen                                                                              | None                              |
+| 5   | Computer Science and Technology (Top-Notch Base Class)                                                 | 15   | Non-GZIC, science-background 2024 freshmen (reform provinces: must have taken Physics)              | No monochromatic color deficiency |
+| 6   | "Software Engineering + Business Administration" Dual Degree Pilot                                     | 30   | Non-GZIC, science-background 2024 freshmen (reform provinces: must have taken Physics)              | No monochromatic color deficiency |
+| 7   | "Finance + Computer Science and Technology" Dual Degree Pilot                                          | 30   | Non-GZIC 2024 freshmen                                                                              | No monochromatic color deficiency |
+| 8   | "Automation + Mathematics and Applied Mathematics" Dual Degree Pilot                                   | 30   | Non-GZIC, science-background 2024 freshmen (reform provinces: must have taken Physics)              | No color blindness                |
+| 9   | Information Engineering Sino-French Elite Class                                                        | 30   | Non-GZIC, science-background 2024 freshmen (reform provinces: must have taken Physics)              | None                              |
+| 10  | Communication Studies (2+2 Joint Class)                                                                | 30   | Non-GZIC 2024 freshmen                                                                              | None                              |
+| 11  | Environmental Engineering (English-Taught Class)                                                       | 15   | Non-GZIC, science-background 2024 freshmen (reform provinces: must have taken Physics + Chemistry)  | No color blindness/weakness       |
+| 12  | Business Administration (English-Taught Class)                                                         | 40   | Non-GZIC 2024 freshmen                                                                              | None                              |
+| 13  | GZIC Biomedical Engineering                                                                            | 10   | Non-GZIC, science-background 2024 freshmen (reform provinces: must have taken Physics + Chemistry)  | No color blindness/weakness       |
+| 14  | GZIC Intelligent Manufacturing Engineering                                                             | 10   | Non-GZIC, science-background 2024 freshmen (reform provinces: must have taken Physics)              | None                              |
+| 15  | GZIC Robotics Engineering                                                                              | 10   | Non-GZIC, science-background 2024 freshmen (reform provinces: must have taken Physics)              | None                              |
+| 16  | GZIC Soft Matter Science and Engineering                                                               | 10   | Non-GZIC, science-background 2024 freshmen (reform provinces: must have taken Physics + Chemistry)  | No color blindness/weakness       |
+| 17  | GZIC Microelectronics Science and Engineering                                                          | 10   | Non-GZIC, science-background 2024 freshmen (reform provinces: must have taken Physics)              | None                              |
+| 18  | GZIC Integrated Circuit Design and Integrated Systems                                                  | 10   | Non-GZIC, science-background 2024 freshmen (reform provinces: must have taken Physics)              | None                              |
+| 19  | GZIC Artificial Intelligence                                                                           | 15   | Non-GZIC, science-background 2024 freshmen (reform provinces: must have taken Physics)              | None                              |
+| 20  | GZIC Data Science and Big Data Technology                                                              | 15   | Non-GZIC, science-background 2024 freshmen (reform provinces: must have taken Physics)              | None                              |
+| 21  | GZIC Intelligent Marine Equipment Innovation Class (BS-MS, BS-PhD)                                     | 5    | Non-GZIC, science-background 2024 freshmen (reform provinces: must have taken Physics)              | None                              |
+| 22  | Industrial Design (Sino-Foreign Cooperative Education)                                                 | 40   | Non-GZIC 2024 freshmen                                                                              | No color blindness                |
+| 23  | Super Robot "Everest Class" (0+4+X)                                                                    | 30   | Science-background 2024 freshmen (reform provinces: must have taken Physics)                        | No color blindness                |
+
+> Note: GZIC schools include the School of Biomedical Sciences and Engineering, Wu Xianming School of Intelligence Engineering, School of Emergent Soft Matter, School of Microelectronics, School of Future Technology, and School of Marine Science and Engineering.
 >
-> 节选于《2024年二次选拔招生专业、招生计划及选拔对象汇总表》
+> Excerpted from the "2024 Secondary Selection Program, Enrollment Plan, and Selection Target Summary Table."
 
-### 选拔流程以及标准：
+### Selection Process and Standards
 
-对于每个专业而言，大致的选拔流程都分为初试+复试，各专业会先按照自己独立设定的英语和数学的权重计算每位报名者的加权成绩，按照一定的复试录取差额比例通知差额内的学生进行复试，差额外则在初试环节筛去。复试之后再根据自己独立设定的英语和数学以及复试的权重进行最终的加权成绩计算，从上至下排名，最终确定录取名单。
+For each program, the general selection process consists of an initial screening + re-assessment. Each program first calculates each applicant's weighted score using its own independent weights for English and math. Based on a certain re-assessment admission ratio, students within the ratio range are notified for re-assessment, while those outside are eliminated in the initial screening. After the re-assessment, the final weighted score is calculated using each program's own weights for English, math, and the re-assessment, then ranked from top to bottom to determine admission.
 
-（例如某专业录取名额为30人，复试录取差额比例为200%，则在初试环节按照加权分数，选取60名学生进入复试，复试再筛去30人，最终录取30人）
+(For example: if a program has 30 slots and a 200% re-assessment ratio, 60 students are selected for re-assessment based on weighted scores from the initial screening, 30 are eliminated in re-assessment, and 30 are ultimately admitted.)
 
-各个专业设定的权重和复录比都有很高的独立性，以2024为例，软件工程（卓越班）的复试录取差额比例为150%，权重为：英语成绩×30%+数学成绩×40%+复试成绩×30%，每个专业的标准都会有所不同，具体情况需要各位在报名时翻阅当年的《二次选拔实施细则》进行查阅。
+The weights and admission ratios are highly independent per program. For example, in 2024, Software Engineering (Outstanding Class) had a 150% re-assessment ratio, with weights: English score x 30% + Math score x 40% + Re-assessment score x 30%. Standards vary by program. Check the current year's "Secondary Selection Implementation Rules" when applying.
 
-除此之外，各个专业复试的形式也非常独立，大部分专业仅作面试，但如计算机科学与技术（拔尖基地班）则在面试的基础上增加了笔试，具体情况仍需要各位在报名时翻阅当年的《二次选拔实施细则》进行查阅。
+Additionally, the re-assessment format is also very independent. Most programs only conduct interviews, but some, like Computer Science and Technology (Top-Notch Base Class), add a written exam on top of the interview. Again, consult the current year's rules.
 
-### 有关2025年的消息：
+### 2025 News
 
-（免责声明：小道消息仅作为参考，具体情况仍需观望）
+(Disclaimer: Rumors are for reference only; the situation still needs observation.)
 
-2025年，华南理工大学在招生、学院、专业等方面都进行了一定程度上的改革，因此编者推测，2025年的情况、专业相较往年也许会有不同，小道消息包括但不限于：自动化+数学双学位班取消，更改为自动化+工商管理双学位，计算机+金融双学位班取消，更改为计算机+旅游管理双学位。
+In 2025, SCUT underwent certain reforms in admissions, schools, and programs. I speculate that the 2025 situation and programs may differ from previous years. Rumors include (but are not limited to): the Automation + Math dual degree class being replaced with Automation + Business Administration; the Computer Science + Finance dual degree class being replaced with Computer Science + Tourism Management.
 
-### 注意事项—— “双学位”：
+### Note on "Dual Degrees"
 
-截止目前，华南理工大学并不存在“真正”的双学位班级，所谓“双学位”，准确来说应该是在大二学期末根据成绩进行两个专业方向的分流，最终毕业会以分流方向作为主学位，另一个则作为辅修专业存在，在认定上还是会以分流方向发放学位的，在此提醒。
+As of now, SCUT does not have "true" dual degree classes. What's called "dual degree" is more accurately a track分流 at the end of the second year based on grades, into one of two program directions. Upon graduation, the分流 direction becomes the primary degree, and the other exists as a minor. Just a heads up.
 
-也就是说，比如你是计算机+金融双学位的学生，分流若分到了金融，则是金融作为最终学位，计算机则为辅修。这种情况将来是否会更改仍属于未知，具体情况仍需要各位在报名时询问目标专业老师。
+In other words, if you're a Computer Science + Finance dual degree student and分流 places you in Finance, then Finance is your final degree and CS is your minor. Whether this will change in the future is unknown -- consult target program faculty when applying.
 
-## 大一下/大二下“自主转专业”————多数人的去向
+## First-Year/Second-Year "Voluntary Transfer" -- Where Most People End Up
 
-**时间：每年四月中旬发布各专业政策 四月末开始报名 五月正式进入流程 最终持续至五月中旬到六月**
+**Timeline: Mid-April: policies released per program. Late April: registration opens. May: process officially begins, lasting until mid-May to June.**
 
-从结果来看，自主转专业仍然是大多数人的去向，据《2025年本科生自主转专业的学生名单》的总表来看，2025年自主转专业的人数达到了397人。相比二次选拔来说，“自主转专业”则更为“平凡”，转入的专业也不再是“教改班”，而是一个个专业的普通班。
+In terms of outcomes, voluntary transfer is still where most people end up. According to the "2025 Undergraduate Voluntary Transfer Student List," 397 students transferred via this route in 2025. Compared to secondary selection, voluntary transfer is more "ordinary" -- the programs you transfer into are regular classes, not teaching reform classes.
 
-相比于二次选拔考察的数学、英语。“自主转专业”则侧重于考察大一整体的学习成效，其考察角度是多方面的，在包括高数、线代、英语等等必修科目成绩、个人加权平均分、专业排名等等的同时，也会关注你是否对目标专业有足够的了解，是否有相关的实践活动，是否又有相关的竞赛经历等等。
+Compared to the math and English focus of secondary selection, voluntary transfer emphasizes your overall first-year academic performance from multiple angles. This includes your scores in required subjects like math, linear algebra, and English; your weighted average; major ranking; and also whether you have sufficient understanding of the target program, relevant practical activities, and related competition experience.
 
-除此之外，每个学院、每个专业在政策上的自主性也变得更大，例如，热门专业通常都会设置自己的“报名门槛”，门槛大多数与数学、英语等公共基础课成绩相关，比如2025年信息工程的报名门槛为“学生已修读高等数学并大于等于84分、已修读线性代数并大于等于86分”。并且，各个专业的考核方式也会大不相同，例如信息工程会在面试前以笔试的形式考察高等数学+大学物理的部分知识，自动化则会面试前以笔试的形式考察C++（大致到类与对象）、专业认知、英语等知识。而有些专业则根本不会设置笔试，例如电气、机械，它们都在考核过程中仅设置面试环节。具体当年各学院各专业的政策会在四月中旬发布于各个学院的官网上，在华南理工大学官网“机构设置”-“院系设置“中点入各学院即可查询。相关的信息基本都会发布在“通知公告”-“本科生教务”栏目中。
+Additionally, each school and program has greater autonomy in policy. Popular programs usually set their own "registration thresholds," mostly tied to common basic course grades like math and English. For example, in 2025, Information Engineering's threshold was "students must have taken Advanced Mathematics and scored ≥ 84, and taken Linear Algebra and scored ≥ 86." Assessment methods also vary greatly. Information Engineering tests Advanced Mathematics + some University Physics knowledge via written exam before the interview. Automation tests C++ (up to classes and objects), program awareness, English, etc. Some programs have no written exam at all -- Electrical Engineering and Mechanical Engineering only have interviews. Specific policies for each school and program are published in mid-April on their official websites. Navigate from the SCUT homepage: "Organization" - "Departments and Schools" then click into each school. Info is usually posted under "Notices" - "Undergraduate Academic Affairs."
 
-因此，鉴于各学院的自主性，本篇章中编者将以“学院”--“专业”的层次去分别地对每个专业的具体细则进行介绍，在这个部分当中，各位首先需要确定自己的目标专业，然后分别地查询目标专业所需要的能力以及它们设置的政策，然后再去考虑自己需要如何才能为之努力。
+Given this autonomy, I'll introduce each program's specific details at the "School" - "Program" level. In this section, first identify your target program, then research the capabilities it requires and the policies it sets, and then figure out how to work toward it.
 
-不过有一点也是可以确定的，大多数专业都对个人的加权平均分、专业排名、数学成绩、英语成绩（例如四六级成绩）较为看重，在均分、排名保持靠前的情况下，数学、英语较为突出，会使个人转成功的几率大幅增大。
+One thing is certain: most programs value your weighted average, major ranking, math scores, and English scores (e.g., CET-4/6). If your average and ranking are strong, and your math and English stand out, your chances of a successful transfer increase significantly.
 
-### “自主转专业”报名：
+### Voluntary Transfer Registration
 
-四月末会开放报名，即时各位可以在“WebVPN”-“学生资源“-“新版教务系统”-左上角“报名申请”-“学生转专业申请”中申请报名。申报前可以在选择界面看到各专业当前的报名人数，申报保存之后将无法在本账号上看到实时人数（可以借同学账号看），申报提交之后进入“待审核”状态才为正式报名成功。在规定时间内，无论是保存/提交都可以临时更改。报名有且仅有一个志愿位。
+Registration opens in late April. You can apply via "WebVPN" - "Student Resources" - "New Academic Affairs System" - top-left corner "Application" - "Student Transfer Application." Before submitting, you can see the current applicant count for each program. After saving, you can no longer see real-time numbers on your account (you can check via a classmate's account). After submission, it enters "pending review" status, which confirms successful registration. Within the deadline, you can temporarily change both saved and submitted applications. You only get one choice.
 
-2025年自主转专业报名截止为4.25的23：59左右，后续截止将无法修改/提交，该年情况仅供参考
+In 2025, voluntary transfer registration closed around 23:59 on April 25. After that, no modifications/submissions were possible. This year's situation is for reference only.
 
-### 各个学院/专业的基本介绍及“自主转专业”情况汇总：
+### Summary of Each School/Program and Voluntary Transfer Status
 
-各个学院/专业的基本介绍及“自主转专业”情况汇总：
-格式示范：
+Format example:
 
-| ※ XX学院           | 学院名称说明                                                                                            |
-| ------------------ | ------------------------------------------------------------------------------------------------------- |
-| （1）XX工程        | 专业名称                                                                                                |
-| 本科专业代码：     | 专业代码说明该专业实际所属大类                                                                          |
-| 专业核心课程：     | 专业核心课程（复制自2023版培养方案）                                                                    |
-| 2025年报名情况：   | \[格式：报名人数/录取人数（报录比）]报录比越高，热度和转入难度越大仅含大一下数据，大二下需自查 |
-| 2025年报名门槛：   | 专业独立设置的报名条件                                                                                  |
-| 2025年考核形式：   | 专业独立设置的考核方式（如笔试、面试等）                                                                |
-| 评论（标明年级）： | 在读/转入学长评论、转入经历等可私信1774134683@qq.com 投稿（可选匿名）                               |
+| School Name        | Description                                                                                                                                |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Program Name       |                                                                                                                                            |
+| Program Code       |                                                                                                                                            |
+| Core Courses       |                                                                                                                                            |
+| 2025 Registration  | \[Format: applicants/admitted (ratio)] Higher ratio = higher popularity and difficulty. First-year data only; check second-year separately. |
+| 2025 Threshold     | Program-specific conditions                                                                                                                |
+| 2025 Assessment    | Program-specific format (written exam, interview, etc.)                                                                                    |
+| Review (with year) | Current/transferred student comments. Contact 1774134683@qq.com to submit (anonymous option).                                              |
 
-#### ※ 机械与汽车工程学院：
+#### School of Mechanical and Automotive Engineering
 
-（1） 机械电子工程：
+**(1) Mechatronic Engineering**
 
-本科专业代码：080204（机械类）
+Program code: 080204 (Mechanical)
 
-专业核心课程：机械原理、机械设计、材料力学、电路、模拟电子技术、数字电子技术、自动控制原理、传感与信号处理、工业机器人应用技术与创新实践(理论)、机电系统设计。
+Core courses: Mechanical Principles, Mechanical Design, Mechanics of Materials, Electric Circuits, Analog Electronics, Digital Electronics, Automatic Control Principles, Sensors and Signal Processing, Industrial Robot Application Technology and Innovative Practice (Theory), Mechatronic System Design.
 
-近四年报名情况：
+Recent four-year registration:
 
-2022：37/21（1.76）
+2022: 37/21 (1.76)
+2023: 29/17 (1.70)
+2024: 45/18 (2.5)
+2025: 36/18 (2.0)
 
-2023：29/17（1.70）
+Recent four-year thresholds:
 
-2024：45/18（2.5）
+2022-2024: No failed courses only
+2025: First-year: must have taken Calculus (I) or Engineering Math Analysis (I) or Calculus Foundations with ≥ 75 in each. Second-year: must have taken Calculus or Engineering Math Analysis or Calculus Foundations and University Physics in semesters 1-3 with ≥ 78 in each.
 
-2025：36/18（2.0）
+Recent four-year assessment: All pure interview.
 
-近四年报名门槛：
+Reviews:
 
-2022-2024：均仅要求不挂科即可
+* "2024 cohort, transferred from Light Industry to Mechatronics in 2025 (end of first year). Interview about 10 min/person, required PPT. First 5 min self-presentation, last 5 min Q\&A. Questions weren't very professional -- mostly about PPT content. Overall not too stressful. Results mainly depended on weighted average. I saw the lowest admitted was around 86, some with 87 got screened, basically no one with 88+ got screened. Note that Mechanical likely discriminates against liberal arts (e.g., Economics, Finance) -- unless you have 90+ average, top-ranked liberal arts students should still be cautious." -- Automne (2024)
 
-2025：大一要求第1学期已修读微积分（一）或工科数学分析（一）或微积分基础，且单科成绩不低于75分。大二要求第1-3学期已修读微积分或工科数学分析或微积分基础、大学物理，且单科成绩不低于78分。
+* "2024 cohort, female, Food Science and Engineering → Mechatronic Engineering, no projects, weighted average ~87 at transfer, ranked 10/144 in original school. Process: 5 min self-intro + 5 min interview Q\&A. About 10 teachers in the room, generally approachable, not too pressuring. Questions mainly around PPT content + academic performance. Asked about: reason for lower calculus score, engineering drawing score (91) + self-assessment of spatial ability, how to balance student work, how to handle heavy course load after transfer (reflecting afterward, felt they might have been asking about grade-level demotion). Switching from Food to Mechatronics requires catching up on A LOT of courses: due to different credit hours, besides Chemistry/Linear Algebra/概论, pretty much everything else like Calculus/University Physics/Engineering Drawing needs retaking, plus C++ and Mechanical概论." -- Anonymous (2024)
 
-近四年考核形式：均为纯面试
+**(2) Intelligent Vehicle Engineering**
 
-评论（会标明评论者年级）：
+Program code: 080216T (Mechanical)
 
-• “2024级，25年大一下从轻工转入机电，面试时长大概10min/人，要求准备ppt，前5分钟自我陈述，后五分钟会有老师问问题，问题专业性不强，每个人的问法也不一样，对于我就是问了一些ppt上的内容。整体来说压力不大。从结果来看主要还是以均分为主，我看最低录到大概86均分的位置，87有一些被筛，88以上基本就没有被筛的了。需要注意的是机械大概率歧视文科，例如经济、金融，若非90+均分，排名前几的文科专业学生仍然需要谨慎选择。”
-\---Automne（2024级）
+Core courses: Introduction to Intelligent Vehicles, Circuits and Electronics, Automatic Control Principles, Microcomputer Principles and Applications, Automotive Structure, Fundamentals of Intelligent Manufacturing, Sensors and Signal Processing, Mechanical Vibrations, Intelligent Vehicle Integration Technology, Modern Automotive Power Systems, Automotive Theory, Intelligent Vehicle Design, Machine Vision and AI, Intelligent Vehicle Engineering Basic Experiments, Intelligent Vehicle Integration Technology Innovation Practice.
 
-• “2024级，女，食品科学与工程→机械电子工程，无项目，转时均分87多，院内10/144。流程：5分钟自我介绍+5分钟面试提问。面试教室内10位老师左右，总体有亲和力，压迫感较小，提问问题主要围绕PPT内容+学业成绩展开，不会太为难人。本人被提问的问题包括但不限于：微积分成绩较低原因/工图成绩（91）+自评空间想象能力/学生工作多如何平衡/如何应对转后课业较多（OS：事后复盘，感觉可能是询问是否考虑降转。从食品转机电，要补的课数一数二的多：由于学分学时不同，除了化学/线代/概论这几门课，剩下如微积分/大物/工图基本都要重修，除此之外还要补修C++和机械概论等课程。）专业是机械电子工程，看重数理和工图，建议大一上这几门课好好学，取得优异成绩，提高转专业竞争力。
+2025 registration: 30/18 (1.67)
 
-PS1：食品竞争压力相对较小，即使本人均分相对普通，但放食品里排名看着还凑合。就算转不成，在原专业冲保研的卷度也不高，不亏。
-PS2：由于25年转车工对转专业者进行专业知识拷打，故各位有条件最好进行提前学习，适当准备，以防万一。”---匿名（2024级）
+2025 threshold: Same as Mechatronic Engineering
 
-（2） 智能车辆工程：
+2025 assessment: Same as Mechatronic Engineering
 
-本科专业代码：080216T（机械类）
+Review:
 
-专业核心课程：智能汽车导论、电路与电子技术、自动控制原理、微机原理及应用、汽车构造、车辆智能制造基础、传感器与信号处理、机械振动、智能汽车集成技术、现代汽车动力系统、汽车理论、智能汽车设计、机器视觉与人工智能、智能车辆工程学科基础实验、智能汽车集成技术创新实践。
+* "Finance, 85 average, failed to transfer to Intelligent Vehicles (IV). IV has always preferred quality over quantity. Estimated ratio was 1.5 at registration, rose to 2 at admission. Only interview: 5 min self-intro (own PPT, stop immediately when timer ends) + 5 min Q\&A. Self-intro focused on academics, extracurriculars, and understanding of IV. Q\&A targeted your PPT and basic vehicle knowledge. IV-specific questions include 'types of lithium batteries,' 'car components,' 'most important part of a car,' 'chassis structure,' 'car parts,' 'transmission methods.' If you mentioned 'high school subject strengths,' they'd ask about Gaokao scores. Students with high math scores were asked calculus and linear algebra concepts. Others got puzzling questions like 'what car companies are in Guangzhou,' 'do you know Euler's formula,' 'why is there a gear in your PPT' -- probably intentional to test composure. This year, STEM students with 85+ had decent chances. Liberal arts/business kids, run.
 
-2025年报名情况：30/18（1.67）
+My preparation: 1. Modeled an aircraft engine in SolidWorks (relatively useful). 2. Learned Raspberry Pi (interviewers didn't care). 3. YOLO CLI commands (asked about underlying principles, couldn't answer). 4. Built a DeepFace-based project with AI, got 9 stars on GitHub, 2k likes on Xiaohongshu (motivating, but useless). Half a year of preparation became a cautionary tale, but it was worth it." -- Nanjing Beauty Forced to Learn SSE (2024)
 
-2025年报名门槛：同机械电子工程
+**(3) Mechanical Engineering**
 
-2025年考核形式：同机械电子工程
+Program code: 080201 (Mechanical)
 
-评论（会标明评论者年级）：
+Core courses: Descriptive Geometry and Mechanical Drawing, Mechanics of Materials, Mechanical Engineering Materials, Mechanical Principles, Mechanical Design, Forming Technology Basics, Mechanical Manufacturing Technology Basics, Electrical and Electronic Technology, Microcontroller Principles and Applications, Control Engineering Basics.
 
-• “金融均分85转智车失败。智车向来宁缺毋滥，报名时预估报录比1.5，录取阶段提高到2。转智车只有面试环节，5min自我介绍（自备ppt，倒计时结束要马上停止）+5min回答问题。自我介绍侧重于自己的学业和课余活动情况以及对智能车辆工程的理解。回答问题环节老师会针对你的PPT还有车辆的专业的基础知识来提问（OS：没有十足把握的技能点千万不要写上去！），智能车辆工程的专业性问题包括但不限于“锂电池种类”“汽车组成”“汽车最重要的部分”“底盘结构”“汽车零件”“汽车传动方式”，如果说明了自己“高中有学科优势”会被提问“高考的成绩”，高数比较高的同学有被问到微积分和线性代数的概念。除去这些外，其他同学还被问到了一些摸不着头脑的问题，“广州有哪些车企”“你知道欧拉公式吗”“你的ppt里为什么有齿轮”，猜测是面试官为了考察学生的抗压能力故意这样子问的，需要及时调整心态。今年理工科85分就机会比较大，文商科的孩子快跑啊啊啊
+2025 registration: 37/23 (1.61)
 
-面试前我做的一些准备：1、SW建模了个航模发动机（相对而言比较有用）2、学习树莓派怎么用（面试老师不care）3、YOLO的CLI指令（老师直接问底层原理，没答上来）4、用ai写了基于deepface的项目，github有9star，xhs有2k赞藏（激励较大，但没用）。半年的准备最后成为反面教材了，但这半年很值得。”
-\---南京美女被迫学SSE（2024级）
+2025 threshold: Same as Mechatronic Engineering
 
-（3） 机械工程：
+2025 assessment: Same as Mechatronic Engineering
 
-本科专业代码：080201（机械类）
+Reviews: (None)
 
-专业核心课程：画法几何及机械制图、材料力学、机械工程材料、机械原理、机械设计、成型技术基础、机械制造技术基础、电工与电子技术、单片机原理及应用、控制工程基础。
+**(4) Process Equipment and Control Engineering**
 
-2025年报名情况：37/23（1.61）
+Program code: 080206 (Mechanical)
 
-2025年报名门槛：同机械电子工程
+Core courses: Mechanical Design Basics, Engineering Mechanics, Engineering Thermodynamics, Fluid Mechanics and Heat Transfer, Mass Transfer and Separation Engineering, Control Engineering Basics, Process Equipment Control and Inspection, Process Equipment Design, Process Fluid Machinery, Mold Design.
 
-2025年考核形式：同机械电子工程
+2025 registration: 6/9 (0.66)
 
-评论（会标明评论者年级）：
+2025 threshold: Same as Mechatronic Engineering
 
-（4） 过程装备及控制工程：
+2025 assessment: Same as Mechatronic Engineering
 
-本科专业代码：080206（机械类）
+Reviews: (None)
 
-2025年报名情况：6/9（0.66）
+**(5) Materials Forming and Control Engineering**
 
-专业核心课程：机械设计基础、工程力学、工程热力学、流体力学与传热、传质与分离工程、控制工程基础、过程装备控制及检测、过程装备设计、过程流体机械、模具设计。
+Program code: 080203 (Mechanical)
 
-2025年报名门槛：同机械电子工程
+Core courses: Materials Science Basics, Materials Forming Technology Basics, Mechanical and Physical Properties of Materials, Metallic Materials and Heat Treatment, Metal Forming Equipment, Mechanical Manufacturing Technology Basics, Materials Microanalysis Methods, Metal Additive Manufacturing Technology Basics, Alloy Melting and Special Casting, Die Casting Mold Structural Design, Powder Metallurgy Fundamentals and Applications, Digital Design and Control of Materials Processing.
 
-2025年考核形式：同机械电子工程
+2025 registration: 0/5
 
-评论（会标明评论者年级）：
+2025 threshold: Same as Mechatronic Engineering
 
-（5）材料成型及控制工程：
+2025 assessment: Same as Mechatronic Engineering
 
-本科专业代码：080203（机械类）
+Reviews: (None)
 
-专业核心课程：材料科学基础；材料成型技术基础；材料的力学与物理性能；金属材料及热处理；金属材料成型装备；机械制造技术基础；材料微观分析方法；金属增材制造技术基础；合金熔炼与特种铸造；压铸模具结构设计；粉末冶金基本原理与应用；材料加工的数字化设计与控制。
+**(6) Safety Engineering**
 
-2025年报名情况：0/5
+Program code: 082901 (Safety Science and Engineering)
 
-2025年报名门槛：同机械电子工程
+Core courses: Principles of Safety Science, Safety System Engineering, Safety Ergonomics, Safety Management and Accident Investigation, Smart Safety and Emergency Management, Safety Information Management and Data Analysis, Safety Inspection and Intelligent Monitoring Technology, Mechanical and Electrical Safety, Occupational Health and Safety Management Systems, Safety Psychology and Safety Culture.
 
-2025年考核形式：同机械电子工程
+2025 registration: Safety Engineering is special -- it doesn't appear in the regular voluntary transfer process. Instead, it recruits in a second batch after voluntary transfer. As of now, Safety Engineering is not among the分流 targets of the Intelligent Equipment and Advanced Manufacturing class (the Mechanical major). All class members are admitted through transfer.
 
-评论（会标明评论者年级）：
+2025 assessment: Interview only
 
-（6） 安全工程：
+Reviews:
 
-本科专业代码： 082901（安全科学与工程类）
+* "If your first transfer attempt fails and you don't want to wait another year, Safety Engineering can be your 'second choice.' It's very easy -- basically anyone who doesn't fail courses gets in. This year they recruited 40, only 26 applied, and 3 were eliminated. The interview teachers were super friendly. They specifically came from Wushan Campus to University Town Campus for us! Other programs in the school require going to Wushan for interviews. The teachers even asked 'is this time okay for you?' Interview was about 8 minutes, flexible timing. Self-intro wasn't strictly limited to 5 minutes. Even if you can't answer questions, the teacher would smile and say 'you answered well.' Most interviews were casual chatting. Since my PPT mentioned national-level innovation project and math modeling competition, the teachers asked more related questions (mostly to verify if I was just name-dropping). If you're set on Safety Engineering, prepare well for the interview and treat it as introducing yourself to a future advisor! Safety Engineering welcomes everyone!" -- Nanjing Beauty Forced to Learn SSE (2024)
 
-专业核心课程：安全学原理、安全系统工程、安全人机工程学、安全管理与事故调查、智慧安全与应急管理、 安全信息管理与数据分析、安全检测与智能监控技术、机械与电气安全、职业健康安全管理体系、安全心理学与安全文化。
+#### School of Materials Science and Engineering
 
-2025年报名情况：安全工程较为特殊，在自主转专业的流程中并没有此专业，而是在自主转专业之后第二批才会招生，且截至目前，安全工程并不在智能装备与先进制造班（就是机械大类）的分流目标当中，所有班级成员均通过转专业录入。
+**(1) Polymer Materials and Engineering**
 
-2025年考核形式：仅面试
+Program code: 080407 (Materials)
 
-评论（会标明评论者年级）：
+Core courses: Organic Chemistry, Physical Chemistry, Polymer Chemistry, Polymer Physics, Polymer Materials Processing Basics, Modern Polymer Testing, Polymer Reaction Engineering Basics.
 
-• “如果第一次转专业失败了又不想再等一年的话，安工可以作为“第二志愿”。安工转专业难度很小，只要不挂科基本都能成功，今年招40人，只有26个人填报，最后淘汰了三个。面试老师都特别和蔼友善，他们是专门从五山校区跑来大学城给我们面试！而转学院其他专业都要去五山校区面试，老师还会问“同学们这个时间可以吗”，面试好像是 8 分钟，时间设置很弹性，自我介绍没有严格限制在五分钟，结束后老师会提问，最后的总时长控制在 8 分钟，就算你回答不出问题老师也会微笑着对你说“你已经回答得很好了”，面试大部分同学时都是在唠家常，因为我的PPT上写了大创国家级立项还有数模比赛，老师就会多问一点相关的知识（主要是想确定是不是挂名的），如果确定要来安全工程的可以在面试的时候好好准备，当作是向未来的导师推荐自己！安全工程欢迎大家加入！”
-\---南京美女被迫学SSE（2024级）
+2025 registration: 18/17 (1.05)
 
-#### ※ 材料科学与工程学院：
+2025 threshold: None
 
-（1） 高分子材料与工程：
+2025 assessment: Interview only
 
-本科专业代码：080407（材料类）
+Using 2025 as example: Assessment content: 1. English listening/speaking + interests. Student introduces themselves in English, simple Q\&A (5 min, 10 pts). 2. Understanding of transfer motivation, knowledge of new major, expectations, and future ambitions (5-10 min, 40 pts). 3. Understanding of math/physics/chemistry foundation and original major performance (5-10 min, 40 pts). 4. Awareness of current political news and ideological trends (5 min, 10 pts). Total: 100 pts.
 
-专业核心课程：有机化学、物理化学、高分子化学、高分子物理、高分子材料成型加工基础、高分子近代测试、聚合物反应工程基础
+Reviews: (None)
 
-2025年报名情况：18/17（1.05）
+**(2) Materials Science and Engineering**
 
-2025年报名门槛：无门槛要求
+Program code: 080401 (Materials)
 
-2025年考核形式：仅面试
+Core courses: Inorganic Chemistry, Physical Chemistry, Introduction to Materials Science and Engineering, Fundamentals of Materials Science, Fundamentals of Materials Engineering, Modern Materials Analysis and Testing Methods, Materials Properties, Materials Preparation and Forming Technology, Computer Applications in Materials Science and Engineering.
 
-以2025为例，选拔考核内容：1.考察英语听说能力，了解个人兴趣爱好。学生先用英语介绍个人情况，面试老师用英语提问简单问题（5分钟，10分）；2. 了解学生转专业的动力，学生对新专业的认识、期待及今后的志向（5-10分钟，40分）；3. 了解学生对数学、物理、化学基础课的学习、掌握情况及在原专业的学习、成绩情况（5-10分钟，40分）；4. 了解学生对当前时政新闻的关注情况以及看法和思想动态（5分钟，10分）。综合成绩满分为100分。
+2025 registration: 16/15 (1.06)
 
-评论（会标明评论者年级）：
+2025 threshold: Same as Polymer
 
-（2） 材料科学与工程：
+2025 assessment: Same as Polymer
 
-本科专业代码：080401（材料类）
+Reviews: (None)
 
-专业核心课程：无机化学、物理化学、材料科学与工程导论、材料科学基础、材料工程基础、材料现代分析测试方法、材料性能学、材料制备与成形技术、计算机在材料科学与工程中的应用
+**(3) Functional Materials**
 
-2025年报名情况：16/15（1.06）
+Program code: 080412T (Materials)
 
-2025年报名门槛：同高分子材料与工程
+Core courses: Organic Chemistry, Physical Chemistry, Functional Materials Science Basics, Functional Materials Synthesis and Preparation, Modern Materials Testing Methods, Solid State Physics Basics, Semiconductor Physics, Circuits and Electronics, Electronic Materials Physics, Semiconductor Device Manufacturing and Testing Technology.
 
-2025年考核形式：同高分子材料与工程
+2025 registration: 23/12 (1.91)
 
-评论（会标明评论者年级）：
+2025 threshold: Same as Polymer
 
-（3） 功能材料：
+2025 assessment: Same as Polymer
 
-本科专业代码：080412T（材料类）
+Reviews: (None)
 
-专业核心课程：有机化学、物理化学、功能材料科学基础、功能材料合成与制备、材料现代测试方法、固体物理学基础、半导体物理学、电路与电子技术、电子材料物理、半导体器件制造及测试技术
+**(4) Biomaterials**
 
-2025年报名情况：23/12（1.91）
+Program code: 080414T (Materials)
 
-2025年报名门槛：同高分子材料与工程
+Core courses: Polymer Materials Science, Inorganic Materials Science Basics, Modern Materials Testing Methods, Biochemistry, Cell and Molecular Biology, Biomechanics, Anatomy and Physiology, Frontiers in Biomaterials, Introduction to Tissue Engineering, Biomedical Polymer Materials.
 
-2025年考核形式：同高分子材料与工程
+2025 registration: 3/5 (0.66)
 
-评论（会标明评论者年级）：
+2025 threshold: Same as Polymer
 
-（4） 生物材料：
+2025 assessment: Same as Polymer
 
-本科专业代码：080414T（材料类）
+Reviews: (None)
 
-专业核心课程：高分子材料学、无机材料科学基础、材料现代测试方法、生物化学、细胞与分子生物学、Biomechanics（生物力学）、解剖与生理学、生物材料前沿进展、组织工程概论、生物医用高分子材料
+#### School of Electronic and Information Engineering
 
-2025年报名情况：3/5（0.66）
+**(1) Information Engineering**
 
-2025年报名门槛：同高分子材料与工程
+Program code: 080706 (Electronic Information)
 
-2025年考核形式：同高分子材料与工程
+Core courses: Electric Circuits, Analog Electronics, Digital Electronics, Signals and Systems, Microcomputer Systems and Interfaces, Digital Signal Processing, Communication Electronic Circuits, Electromagnetic Fields and Waves, Communication Principles, Computer Communication Networks.
 
-评论（会标明评论者年级）：
+Recent four-year registration:
 
-#### ※ 电子与信息学院：
+2022: 49/30 (1.63)
+2023: 54/28 (1.92)
+2024: 61/28 (2.17)
+2025: 45/28 (1.60)
 
-（1） 信息工程：
+Recent four-year thresholds:
 
-本科专业代码：080706（电子信息类）
+2022: Linear Algebra ≥ 80; Calculus ≥ 80.
+2023: Linear Algebra ≥ 85; Calculus ≥ 85.
+2024: Linear Algebra ≥ 83; Calculus ≥ 83.
+2025: Linear Algebra ≥ 86; Calculus ≥ 84.
 
-专业核心课程：电路、模拟电子技术、数字电子技术、信号与系统、微机系统与接口、数字信号处理、通信电子线路、电磁场与电磁波、通信原理、计算机通信网络
+Recent four-year assessment: Written exam + interview.
 
-近四年报名情况：
+Using 2025 as example: Written exam: University Physics (I) (Mechanics, vibrations/waves, optics/interference) 40 pts; Calculus II (including all of part I and chapters 7-8 of part II) + Linear Algebra (linear algebra portion) combined 60 pts. Total 100 pts. Minimum per subject: year-level subject average x 0.7. No overall written exam minimum. Interviews conducted by year level, assessing STEM background, learning ability, psychological fitness, etc. Total 100 pts.
 
-2022：49/30（1.63）
+Admission: Comprehensive score = written x 0.4 + interview x 0.6. Ranked by year level,择优录取. Same total score: higher written score wins. Interview fail (< 60) = no admission. If 2023 cohort slots remain, they can be opened to 2024 cohort.
 
-2023：54/28（1.92）
+Reviews: (None)
 
-2024：61/28（2.17）
+**(2) Electronic Science and Technology**
 
-2025：45/28（1.60）
+Program code: 080702 (Electronic Information). New program in 2025, no past data available.
 
-近四年报名门槛：
+Reviews: (None)
 
-2022：第一学期已修读线性代数与解析几何，且成绩不低于80分。第一学期已修读微积分（微积分基础、微积分I、微积分II或工科数学分析（一）），且成绩不低于80分。
+#### School of Automation Science and Engineering
 
-2023：第一学期已修读线性代数与解析几何，且成绩不低于85分。第一学期已修读微积分（微积分基础、微积分I、微积分II或工科数学分析（一）），且成绩不低于85分。
+**(1) Automation**
 
-2024：第一学期已修读线性代数与解析几何，且成绩不低于83分。第一学期已修读微积分（微积分基础、微积分I、微积分II或工科数学分析（一）），且成绩不低于83分。
+Program code: 080801 (Automation)
 
-2025：第一学期已修读线性代数与解析几何，且成绩不低于86分。第一学期已修读微积分（微积分基础、微积分I、微积分II或工科数学分析（一）），且成绩不低于84分。
+Core courses: C++ Programming, Circuits II, Analog Electronics Basics, Digital Electronics II, Signal Analysis and Processing II, Automatic Control Principles, Microcontroller Computing System Principles, Computer Networks and Communication, Sensors and Detection Technology, Embedded Systems I, Electric Motors and Drives Basics, Power Electronics, Motion Control Systems, Process Control Systems and Instruments, Computer Control Technology.
 
-近四年考核形式：均为笔试+面试
+2025 registration: 19/11 (1.72)
 
-以2025年考核方式为例，笔试内容为《大学物理（一）》（力学、振动波动，光学（光的干涉））40分，《微积分II》（包括（一）的全部和（二）的第7-8章）和《线性代数与解释几何》（线性代数部分）合60分，满分为100分。笔试单科线为分年级当科平均分ⅹ0.7。笔试总分不划线。
+2025 threshold: First-year: no failed required courses; first-semester math (Calculus II(I)/Math Analysis, Linear Algebra) ≥ 85; Calculus I(I)/Calculus Foundations ≥ 90. Second-year: no failed required courses; semesters 1-3 math/physics (Calculus II/Math Analysis, Linear Algebra, University Physics) ≥ 85; Calculus I/Calculus Foundations, C++/Python ≥ 90.
 
-面试分年级进行考核，内容为理工科背景知识、学习能力、心理素质等，满分为100分。
+2025 assessment: Written exam + interview.
 
-选拔考核录取原则：转专业学生考核的综合成绩满分为100分。综合成绩=笔试成绩ⅹ0.4+面试成绩ⅹ0.6。综合成绩分年级排序，择优录取。综合成绩总分相同情况下，笔试成绩高者排名占先。面试不及格者，不予录取。若选拔考核后2023级学生接收人数未满，剩余接收人数可面向2024级。
+Using 2025: (1) Written exam (100 pts): program awareness 20, English ability 20, computing/programming basics 60. (2) Interview (100 pts): moral character, STEM background, problem-solving, thinking, imagination, research innovation, teamwork, adaptability, self-awareness, psychological fitness. Admission: comprehensive = written x 40% + interview x 60%. Same total score: higher required course weighted average percentile rank wins.
 
-评论（会标明评论者年级）：
+Reviews: (None)
 
-（2） 电子科学与技术：
+**(2) Intelligent Science and Technology**
 
-本科专业代码：080702（电子信息类）2025新增专业，无往年情况可考据
+Program code: 080907T (Computer)
 
-评论（会标明评论者年级）：
+Core courses: C++ Programming, Signals and Systems, Classical Control Theory and Applications, Robotics Basics, Pattern Recognition Principles, Machine Learning, Artificial Intelligence, Data Mining and Big Data, Microcontroller Computing System Principles, Digital Image Processing, Embedded Systems I.
 
-#### ※ 自动化科学与工程学院：
+2025 registration: 8/5 (1.6)
 
-（1） 自动化：
+2025 threshold: Same as Automation
 
-本科专业代码：080801（自动化类）
+2025 assessment: Same as Automation
 
-专业核心课程：C++语言与程序设计、电路II、模拟电子技术基础、数字电子技术II、信号分析与处理II、自动控制原理、微控制器计算系统原理、计算机网络与通信技术、传感器与检测技术、嵌入式系统I、电机及拖动基础、电力电子技术、运动控制系统、过程控制系统与仪表、计算机控制技术
+Reviews: (None)
 
-2025年报名情况：19/11（1.72）
+**(3) Low-Altitude Engineering and Technology**
 
-2025年报名门槛：大一要求必修课程首次考核无不及格情况；且第1学期已修微积分II(一)/数学分析、线性代数与解析几何等数学单科成绩≥85分;已修微积分I(一)/微积分基础等单科成绩≥90分
+Program code: 083203TK (Cross-disciplinary Engineering). New program in 2025, no past data available.
 
-大二要求必修课程首次考核无不及格情况；且第1-3学期已修微积分II/数学分析、线性代数与解析几何、大学物理等数学与物理类单科成绩≥85分，已修读微积分I/微积分基础、C++程序设计(基础)/Python语言程序设计等单科成绩≥90分
+Reviews: (None)
 
-2025年考核形式：笔试+面试
+#### School of Electric Power
 
-以2025年考核方式为例，（1）笔试：满分100分，内容为：学生专业认知20分、英语能力20分、计算机及编程基础60分。（2）面试：分年级进行考核，满分100分，考察学生思想道德修养、理工科背景知识，发现分析解决问题的能力、思维能力和想象能力、科研创新能力，学生团队精神，应变及自我认知能力、心理素质等。选拔考核录取原则：综合成绩=笔试成绩×40%+面试成绩×60%。根据综合成绩按年级排序从高到低录取。综合成绩总分相同情况下，按学生所在专业的必修课程百分制加权平均学分绩点统计排名百分比从小到大录取。
+**(1) Electrical Engineering and Its Automation**
 
-评论（会标明评论者年级）：
+Program code: 080601 (Electrical)
 
-（2） 智能科学与技术：
+Core courses: Introduction to Electrical Engineering, Circuits III (I), Circuits III (II), Analog Electronics, Digital Electronics, Electrical Machinery, Automatic Control Theory, Power System Analysis (I), Power System Analysis (II), Power Electronics, High Voltage Technology, Power System Relay Protection.
 
-本科专业代码：080907T（计算机类）
+2025 registration: 61/32 (1.90)
 
-专业核心课程：C++语言与程序设计、信号与系统、经典控制理论与应用、机器人技术基础、模式识别原理、机器学习、人工智能、数据挖掘与大数据、微控制器计算系统原理、数字图像处理、嵌入式系统I
+2025 threshold: First-year: no failed required courses; first-semester Calculus (I) or Engineering Math Analysis (I) or Calculus Foundations ≥ 80; strong English scores preferred. Second-year: no failed required courses; Calculus (I)(II) or Engineering Math Analysis (I)(II), Linear Algebra, University Physics (I)(II) all ≥ 80; strong English scores preferred.
 
-2025年报名情况：8/5（1.6）
+2025 assessment: Interview only
 
-2025年报名门槛：同自动化
+(I) Assessment: School organizes expert panel for comprehensive evaluation per year level. Format: personal statement + on-site Q\&A. Total 100 pts.
+(II) Procedure: (1) 5-min PPT personal statement covering: academic status, research/engineering projects in first year, future academic plans, personal strengths, hobbies. Assesses: program awareness, innovative thinking, grasp of common basic courses, ability to complete studies, willingness and ambition to pursue the program, psychological fitness, sense of purpose. (2) Panel scores based on interview; comprehensive score is average.
+(III) Admission: Ranked by comprehensive score per year level. If 2023 cohort slots remain, can open to 2024. Comprehensive score < 60 = no admission. Same score: higher required course weighted average wins.
 
-2025年考核形式：同自动化
+Reviews:
 
-评论（会标明评论者年级）：
+* "2024 cohort, transferred to Electrical Engineering. Electrical only has interviews, so weighted average is very important. Interview: self-statement (PPT, ~5 min) + Q\&A. Usually questions relate to your PPT. Be careful with PPT content -- write things you're confident about. Vague content, especially about program understanding, could lead to unexpected tough questions. Rehearse potential questions after finishing your PPT -- you might guess some right. My self-statement was mostly basic info, personal goals, and transfer reasons. The teachers' questions were simple. Most interviewers were friendly; at worst, expressionless. Don't be nervous. Be confident, smile, be polite. Good luck." -- Anonymous (2024)
 
-（3） 低空工程与技术：
+**(2) Energy and Power Engineering**
 
-本科专业代码：083203TK（交叉工程类）2025新增专业，无往年情况可考据
+Program code: 080501 (Energy and Power)
 
-评论（会标明评论者年级）：
+Core courses: Engineering Thermodynamics, Heat Transfer, Fluid Mechanics, Boiler Principles, Steam Turbine Principles, Refrigeration Technology, Advanced Testing and Detection, Combustion and Pollutant Formation Principles, Control Engineering Basics, Thermal Power Plants.
 
-#### ※ 电力学院：
+2025 registration: 19/9 (2.11)
 
-（1） 电气工程及其自动化：
+2025 threshold: First-year: no failed required courses; Calculus (I) or Engineering Math Analysis (I) or Calculus Foundations + College English, strong scores preferred. Second-year: no failed required courses; Calculus (I)(II) or Engineering Math Analysis (I)(II), Linear Algebra, University Physics (I)(II), College English, strong scores preferred.
 
-本科专业代码：080601（电气类）
+2025 assessment: Same as Electrical Engineering
 
-专业核心课程：电气工程学科概论，电路III（一），电路III（二），模拟电子技术，数字电子技术，电机学，自动控制理论，电力系统分析（一），电力系统分析（二），电力电子技术，高电压技术，电力系统继电保护
+Reviews: (None)
 
-2025年报名情况：61/32（1.90）
+#### School of Physics and Optoelectronics
 
-2025年报名门槛：大一要求必修课程首次考核无不及格情况；第一学期已修读微积分（一）或工科数学分析（一）或微积分基础，且成绩不低于80分；英语成绩优秀者优先考虑
+**(1) Optoelectronic Information Science and Engineering**
 
-大二要求必修课程首次考核无不及格情况；已修读微积分（一）、（二）或工科数学分析（一）（二）、线性代数与解析几何、大学物理（一）、（二），且以上每门课程成绩均不低于80分；英语成绩优秀者优先考虑
+Program code: 080705 (Electronic Information)
 
-2025年考核形式：仅面试
+Core courses: Basic Physics (I), Basic Physics (II), Optics, Electrodynamics, Information Theory Basics, Engineering Optics, Quantum Mechanics, Optoelectronics Basics, Laser Physics and Technology, Signals and Systems, Communication Principles, Optoelectronic Technology.
 
-（一）选拔考核形式：学院组织转专业面试专家小组，对符合接收条件的申请转专业学生根据不同的年级分别进行综合评价，综合评价形式为个人陈述和现场提问相结合，综合评价满分为100分。
+2025 registration: 15/4 (3.75)
 
-（二）选拔考核程序：（1）学生个人陈述5分钟ppt，内容主要包括个人学业基本情况、大一期间参与的科研项目情况或工程实践项目情况、今后的学业设想、个人的突出潜质、爱好及特长等。主要考核学生对申请专业的认知、学生的创新思维、对公共基础课程的掌握程度、完成学业的能力、将来从事本专业的意愿和志向、心理素质、家国情怀情况等。（2）评委根据学生的面试表现进行评分，综合评价成绩取平均分。
+2025 threshold: First-year: math average ≥ 75. Second-year: math average ≥ 75 (no "no failed required courses" condition mentioned = failing courses is allowed).
 
-（三）选拔考核录取原则： 根据不同年级学生的综合评价分数分别由高到低排名决定录取名单。若选拔考核后 2023 级学生接收人数未满，剩余接收人数可面向 2024 级。综合评价成绩不合格（低于 60 分）者，不予录取。综合评价成绩相同情况下，已修必修课程百分制平均学分绩点高者优先录取。
+2025 assessment: Second-year: interview only (all qualified applicants can participate). Not participating = not considered. Admission: comprehensive score = interview (100 pts). Same total score: higher math average wins. First-year: written exam + interview (1.2x ratio to interview based on written score). Written: University Physics. Interview: Physics knowledge. Admission: comprehensive = written x 0.5 + interview x 0.5. Same total score: higher written score wins.
 
-评论（会标明评论者年级）：
+Reviews: (None)
 
-• “24级转电气，电气只要面试，所以均分很重要，面试分为自我陈述（ppt方式，5分钟左右) ,老师提问，一般情况下，老师问的问题会与ppt有关联（要么就是可以当场回答的水问题），所以做ppt的时候慎重，写有把握能对答如流的内容可以为你加分，没什么把握只是略有了解的东西写上去（尤其是和专业认识有关的），老师有可能会问出超出你意料的问题，然后就会被拷打。所以写完ppt之后最好预演一下老师有可能提的问题，有押中的概率。我做的自我陈述大部分都是一些基本信息，还有个人志向，转专业原因方面的，老师提的问题就比较简单。面试老师很多都比较和蔼，有些最多就是没有表情，所以面对老师不要紧张。面试的时候要落落大方，面带微笑，自信一点，对老师有礼貌就可以了。祝好运。”
-\---匿名（2024级）
+**(2) Applied Physics**
 
-（2） 能源与动力工程：
+Program code: 070202 (Physics)
 
-本科专业代码：080501（能源动力类）
+Core courses: Basic Physics (I), Basic Physics (II), Basic Physics (III), Atomic Physics, Mathematical Methods in Physics, Theoretical Mechanics, Electrodynamics, Thermodynamics and Statistical Physics, Quantum Mechanics, Solid State Physics, Computational Physics.
 
-专业核心课程：工程热力学、传热学、流体力学、锅炉原理、汽轮机原理、制冷技术、先进测试与检测技术、燃烧与污染物生成原理、控制工程基础、热力发电厂
+2025 registration: 17/5 (3.4)
 
-2025年报名情况：19/9（2.11）
+2025 threshold: Same as Optoelectronics
 
-2025年报名门槛：大一要求必修课程首次考核无不及格情况；第一学期已修读微积分（一）或工科数学分析（一）或微积分基础、大学英语，成绩优秀者优先考虑。
+2025 assessment: Same as Optoelectronics
 
-大二要求必修课程首次考核无不及格情况；已修读微积分（一）、（二）或工科数学分析（一）（二）、线性代数与解析几何、大学物理（一）、（二）、大学英语，成绩优秀者优先考虑；
+Reviews: (None)
 
-2025年考核形式：同电气工程及其自动化
+#### School of Mathematics
 
-评论（会标明评论者年级）：
+**(1) Mathematics and Applied Mathematics**
 
-#### ※ 物理与光电学院：
+Program code: 070101 (Mathematics)
 
-（1） 光电信息科学与工程（光电信息）：
+Core courses: Mathematical Analysis, Advanced Algebra, Analytic Geometry, Ordinary Differential Equations, Real Analysis, Complex Analysis, Abstract Algebra, Equations of Mathematical Physics, Probability Theory, Mathematical Statistics, Data Structures, Numerical Analysis.
 
-本科专业代码：080705（电子信息类）
+2025 registration: 7/6 (1.16)
 
-专业核心课程：基础物理（一）、基础物理（二）、光学、电动力学、信息论基础、工程光学、量子力学、光电子学基础、激光物理与技术、信号与系统、通信原理、光电技术
+2025 threshold: First-year: no failed required courses; all first-semester math courses ≥ 80. Second-year: no failed required courses; all first-three-semester math courses ≥ 80. Math and Statistics cannot be transferred between each other.
 
-2025年报名情况：15/4（3.75）
+2025 assessment: Interview per year level. Interview list: if applicants exceed 1.2x capacity, rank by S-score (formula in specific transfer work plan, not given here) at 1:1.2 ratio. Interview (100 pts): worldview/values/program loyalty/psychological fitness/comprehensive ability (30 pts), subject knowledge (70 pts). Min 7 min/person. Admission: ranked by interview score per year/program. Same score: higher S-score wins. Interview < 60 = no admission.
 
-2025年报名门槛：大一要求数学类平均成绩（第一学期课程）≥75分；大二要求数学类平均成绩≥75分（没有提及“必修课程首次考核无不及格情况”即不要求不挂科）
+Reviews: (None)
 
-2025年考核形式：大二：不安排笔试考试，只安排面试（符合报名条件的同学均可参加面试）。不参加面试的同学不予考虑在录取名单内。
+**(2) Statistics**
 
-选拔考核录取原则：转专业学生考核的综合成绩由面试构成，综合成绩满分为100分，综合成绩总分相同情况下，数学类成绩平均分高者排名占先。
+Program code: 071201 (Statistics)
 
-大一：选拔考核形式：笔试、面试（根据笔试成绩按计划招生人数1.2倍比例进人面试）
+Core courses: Mathematical Analysis, Advanced Algebra, Analytic Geometry, Real Analysis, Mathematical Modeling, Probability Theory, Mathematical Statistics, Regression Analysis, Multivariate Statistical Analysis, Time Series Analysis, Stochastic Processes, Introduction to Statistical Learning and Data Science.
 
-选拔考核内容：笔试：大学物理；面试物理学方面的知识
+2025 registration: 8/6 (1.33)
 
-选拔考核录取原则：转专业学生考核的综合成绩由笔试和面试成绩两部分构成，根据笔试成绩按计划招生人数1.2倍比例进人面试。综合成绩满分为100分，计算方法=笔试×0.5+面试成绩×0.5 。综合成绩总分相同情况下，笔试成绩高者排名占先。
+2025 threshold: Same as Math
 
-评论（会标明评论者年级）：
+2025 assessment: Same as Math
 
-（2） 应用物理学：
+Reviews:
 
-本科专业代码：070202（物理学类）
+* "2024 cohort, Light Industry → Statistics (demoted one year). Requirements: all math courses > 80, no failed first-attempt required courses. Competition wasn't fierce -- 21 applied, 20 entered interview, 19 admitted. Interview ~7 min/person: 3 min PPT self-intro, rest Q\&A on PPT content (both professional and non-professional). Teachers were friendly. High math average (90+) is basically guaranteed. Below 87/86 needs caution. I self-studied Mathematical Analysis and showed it on my PPT. Asked: 1. Do you know Statistics' training plan? 2. Difference between uniform continuity and continuity? 3. Difficulties encountered while self-studying Math Analysis? 4. How's your Probability and Statistics? 5. Can you write the proof for the finite covering theorem? 6. Willing to demote a year? Then time was up. (Not showing self-study content is fine too.) Interview standing. Go in when previous person comes out; teacher already has your PPT ready. Start immediately. Speak loudly, be confident, avoid awkward silences. Good luck." -- jasontangzoro (2024)
 
-专业核心课程：基础物理（一）、基础物理（二）、基础物理（三）、原子物理、数学物理方法、理论力学、电动力学、热力学与统计物理、量子力学、固体物理、计算物理。
+**(3) Information and Computing Science**
 
-2025年报名情况：17/5（3.4）
+Program code: 070102 (Mathematics)
 
-2025年报名门槛：同光电信息
+Core courses: Mathematical Analysis, Advanced Algebra, Matrix Computation, Ordinary Differential Equations, Numerical Analysis, Numerical Solutions of Differential Equations, Discrete Mathematics, Data Structures, Probability Theory, Mathematical Statistics, Computational Intelligence, Information Theory and Coding.
 
-2025年考核形式：同光电信息
+2025 registration: 6/5 (1.2)
 
-评论（会标明评论者年级）：
+2025 threshold: Same as Math
 
-#### ※ 数学学院：
+2025 assessment: Same as Math
 
-（1） 数学与应用数学：
+Reviews: (None)
 
-本科专业代码：070101（数学类）
+#### School of Computer Science and Engineering
 
-专业核心课程：数学分析、高等代数、解析几何、常微分方程、实变函数、复变函数、抽象代数、数学物理方程、概率论、数理统计、数据结构、数值分析
+**(1) Computer Science and Technology**
 
-2025年报名情况：7/6（1.16）
+Program code: 080901 (Computer)
 
-2025年报名门槛：大一要求：必修课程首次考核无不及格情况；第一学期所学的数学类单科成绩均≥80分
+Core courses: High-Level Language Programming, Discrete Mathematics, Data Structures, Digital Logic, Computer Organization and Architecture, Compiler Principles, Operating Systems, Databases, Software Engineering, Algorithm Design and Analysis, Computer Networks, Numerical Methods.
 
-大二要求：必修课程首次考核无不及格情况；前三学期所学的数学类单科成绩均≥80分；数学与应用数学、统计学之间不可互转。
+2025 registration: 13/5 (2.6)
 
-2025年考核形式：分年级进行面试面试名单确定原则：分年级根据学生所修的数学类课程成绩单科均在80分以上，若专业报名人数超过对应专业接收人数的1.2倍，则按照S分对学生所修的数学类课程成绩进行排名，按照1:1.2的比例确定面试名单（四舍五入取整）。面试内容：面试成绩满分100分，考察以下内容：——人生观、价值观、专业忠诚度、心理素质及综合能力（满分30分）——学科知识掌握程度（满分70分）面试时间不少于7分钟/人。录取原则：分年级、分专业按照学生面试成绩从高到低依次录取。面试成绩相同时，再根据S分由高到低依次录取。面试成绩不合格（低于60分）者，不予录取。
+2025 threshold: First-year: no failed required courses; first-semester first-attempt scores: math ≥ 88, English ≥ 80, computer common courses ≥ 90. Awards can relax requirements:
 
-（S分计算公式在具体转专业工作方案中，这里不再给出）
+(1) No requirements at all for math/English/computer scores with: NOI Bronze or above, NOIP Provincial First or above, CSP-S Provincial First or above, GDOI First or above, ICPC Asia Regional Gold or above.
 
-评论（会标明评论者年级）：
+(2) Adjusted to math ≥ 80, English ≥ 80, computer ≥ 85 with: NOIP Provincial Second or above, CSP-S Provincial Second or above, GDOI Second or above.
 
-（2） 统计学：
+Second-year: same conditions for first-three-semester scores.
 
-本科专业代码：071201（统计学类）
+2025 assessment: Computer-based exam + interview
 
-专业核心课程：数学分析、高等代数、解析几何、实变函数、数学模型、概率论、数理统计、回归分析、多元统计分析、时间序列分析、随机过程、Introduction to Statistical Learning and Data Science
+Initial screening: Computer-based exam (C/C++ programming, 100 pts). Select 1:1.5 ratio for interview. Same score: math + computer required course first-attempt score sum wins. If insufficient applicants, all proceed to interview. Interview (100 pts): STEM background, learning ability, psychological fitness.
 
-2025年报名情况：8/6（1.33）
+Admission: comprehensive = exam x 0.7 + interview x 0.3. Same total score: higher exam score wins. Interview < 60 = no admission. Unfilled slots remain vacant -- no cross-use.
 
-2025年报名门槛：同数学与应用数学
+Reviews: (None)
 
-2025年考核形式：同数学与应用数学
+**(2) Network Engineering**
 
-评论（会标明评论者年级）：
+Program code: 080903 (Computer)
 
-• “24级，轻工降级转数院统计，报名条件是所有数学类单科成绩需大于80分，必修课首考不挂科等。竞争不大，我这一年报了21人，20人进面试，最终招了19人。面试平均7分钟/人，3分钟的个人简介ppt，剩余时间根据ppt的内容提问，专业问题和非专业问题都会问。面试时老师表情和蔼。数学类均分高的话（90+）基本就稳了，87分、86分以下就需谨慎考虑。个人来说，我自学了数学分析并且展示在了ppt上，老师就问我：1.对统计的培养方案有没有了解，2.一致连续和连续的区别，3.自学数分的过程中遇到什么困难，4.概率论与数理统计学的怎么样，5.能不能写出有限覆盖定理的证明，6.愿不愿意降转
-然后时间就到了。
-（不展示自学内容也没事）
-面试时是站着的，上一个同学出来就进去，有老师已经调好你的ppt，然后面试立马开始。声音大一点，自信大方一点，尽量不要冷场。祝好运。”
-\---jasontangzoro（2024级）
+Core courses: High-Level Language Programming, Discrete Mathematics, Computer Organization and Architecture, Computer Networks, Computer Network Security, Data Structures, Java Programming, Software Engineering, Operating Systems, Databases, Data Communication Principles, Network Application Development, Network Engineering and Management.
 
-（3） 信息与计算科学：
+2025 registration: 3/2 (1.5)
 
-本科专业代码：070102（数学类）
+2025 threshold: Same as CS
 
-专业核心课程：数学分析、高等代数、矩阵计算、常微分方程、数值分析、微分方程数值解、离散数学、数据结构、概率论、数理统计、计算智能、信息论与编码
+2025 assessment: Same as CS
 
-2025年报名情况：6/5（1.2）
+Reviews: (None)
 
-2025年报名门槛：同数学与应用数学
+**(3) Information Security**
 
-2025年考核形式：同数学与应用数学
+Program code: 080904K (Computer)
 
-评论（会标明评论者年级）：
+Core courses: High-Level Language Programming, Data Structures, Computer Networks, Operating Systems, Databases, Information Security Mathematics, Cryptography and Security Protocols, Computer Network Security, PKI Principles and Technology, Information Content Security, Software Security, Information Security Management.
 
-#### ※ 计算机科学与工程学院：
+2025 registration: 3/2 (1.5)
 
-（1） 计算机科学与技术：
+2025 threshold: Same as CS
 
-本科专业代码：080901（计算机类）
+2025 assessment: Same as CS
 
-专业核心课程：高级语言程序设计、离散数学、数据结构、数字逻辑、计算机组成与体系结构、编译原理、操作系统、数据库、软件工程、算法设计与分析、计算机网络、计算方法
+Reviews: (None)
 
-2025年报名情况：13/5（2.6）
+#### School of Software Engineering
 
-2025年报名门槛：大一要求必修课程首次考核无不及格情况；第一学期必修课首次考试成绩中，数学类不低于88分且英语类不低于80分且计算机公共课类不低于90分。如在计算机以下相关竞赛获得奖项，则相应分数要求可做放宽：
+**(1) Software Engineering**
 
-（1）获得以下奖项，对数学类、英语类及计算机公共课类成绩不做要求：
+Program code: 080902 (Computer)
 
-①全国青少年信息学奥林匹克竞赛（NOI）铜奖及以上；
+Core courses: High-Level Language Programming (C++) (I, II), Discrete Mathematics, Computer Organization and Architecture, Data Structures, Operating Systems, Compiler Technology I, Computer Networks, Database Systems, Software Analysis Design and Modeling, Software Architecture, Software Project Management, Software Testing and Maintenance.
 
-②全国青少年信息学奥林匹克联赛（NOIP）省一等奖及以上；
+2025 registration: 48/18 (2.66)
 
-③CCF计算机软件能力认证提高级（CSP-S）省一等奖及以上；
+2025 threshold: No failed required courses (first-year and second-year).
 
-④广东省青少年信息学奥林匹克竞赛（GDOI）一等奖及以上；
+2025 assessment: 1. First round: select at 1:1.5 ratio based on first-semester math and English scores. Selected students proceed to interview. Total interviewees: 30 (27 from 2024, 3 from 2023). Calculation: First-year: Math average x 70% + English average x 30%. Second-year: Three-semester math average x 70% + three-semester English average x 30%. Same total: math average decides; still tied: highest English required course score decides. Math includes all math required courses from School of Math. English includes all English required courses from School of Foreign Languages.
 
-⑤国际大学生程序设计竞赛亚洲区域赛金奖及以上。
+2. Second round (interview per year level, 100 pts): (1) Professional fundamentals (math and programming basics) 40%; (2) Comprehensive quality 40%; (3) English listening/speaking 20%. Score = (1) x 40% + (2) x 40% + (3) x 20%.
 
-（2）获得以下奖项，分数要求调整为数学类不低于80分且英语类不低于80分且计算机公共课类不低于85分：
+Admission: ranked by interview score (2023 and 2024 ranked separately). Same score: fundamentals score, then comprehensive quality score, then first-semester English average. If 2023 slots remain, can open to 2024. Interview < 60 = no admission.
 
-①全国青少年信息学奥林匹克联赛（NOIP）省二等奖及以上；
+Reviews: (None)
 
-②中学阶段获得过CCF计算机软件能力认证提高级（CSP-S）省二等奖及以上；
+#### (GZIC) School of Future Technology
 
-③广东省青少年信息学奥林匹克竞赛（GDOI）二等奖及以上。
+**(1) Artificial Intelligence**
 
-大二要求必修课程首次考核无不及格情况；前三学期必修课首次考试成绩中，数学类不低于88分且英语类不低于80分且计算机公共课类不低于90分。如在计算机相关竞赛获得奖项，则相应分数要求可做放宽：（奖项与放宽要求与上文相同）
+Program code: 080717T (Electronic Information)
 
-（1）获得以下奖项，对数学类、英语类及计算机公共课类成绩不做要求：
+Core courses: Introduction to AI, High-Level Language Programming, Data Structures, Machine Learning, Digital Logic Circuits, Signals and Systems, Digital Signal Processing, Digital Image Processing, Deep Learning and Computer Vision, AI System Comprehensive Design, Big Data and Data Mining.
 
-①全国青少年信息学奥林匹克竞赛（NOI）铜奖及以上；
+2025 registration: 13/6 (2.16)
 
-②全国青少年信息学奥林匹克联赛（NOIP）省一等奖及以上；
+2025 threshold: None
 
-③CCF计算机软件能力认证提高级（CSP-S）省一等奖及以上；
+2025 assessment: Comprehensive score = interview (100 pts). Group interviews, 15 min/person.
 
-④广东省青少年信息学奥林匹克竞赛（GDOI）一等奖及以上；
+Content: (1) English listening/speaking 20%; (2) Professional fundamentals (math, programming, physics) 40%; (3) Comprehensive quality 40%.
 
-⑤国际大学生程序设计竞赛亚洲区域赛金奖及以上。
+Admission: ranked by interview score. Same score: better required course weighted average percentile rank in original major wins. Interview < 60 = no admission.
 
-（2）获得以下奖项，分数要求调整为数学类不低于80分且英语类不低于80分且计算机公共课类不低于85分：
+Reviews:
 
-①全国青少年信息学奥林匹克联赛（NOIP）省二等奖及以上；
+* "2024 cohort, male, transferred to AI. Had Python basics from CS50 and completed its final project (equivalent to a small project). Process: 5-min PPT, 2-min English Q\&A, 3-min Chinese Q\&A. For PPT, get SCUT template from seniors. Don't cram text -- focus on content. Slides: 1. Self-intro; 2. Why AI; 3. Strengths (learn Python early, include code or demo); 4. Future plans (emphasize further study). Follow Future Technology School's official account, cite outstanding seniors as role models. English Q\&A usually 2 questions: understanding of AI, introduce your hometown. Chinese Q\&A: if Gaokao math/physics were low, prepare excuses (e.g., underperformance, wrong scan card)." -- Opilsty (2024, transferred via secondary selection)
 
-②中学阶段获得过CCF计算机软件能力认证提高级（CSP-S）省二等奖及以上；
+* "2024 cohort, female, transferred to AI. Participated in small competitions (e.g., building small cars). Process: 2-min English self-intro, 5-min PPT, 1 English Q\&A, 3-min Chinese Q\&A. English self-intro -- just be natural, no need for fancy sentences. PPT same as above, show small projects you built and explain what you did. English Q\&A: introduce hometown. Chinese Q\&A: one question on each of two first-semester math courses, plus general questions on PPT projects." -- NaOHdog (2024, transferred end of first year)
 
-③广东省青少年信息学奥林匹克竞赛（GDOI）二等奖及以上。
+**(2) Data Science and Big Data Technology**
 
-2025年考核形式：机试+面试
+Program code: 080910T (Computer)
 
-选拔考核形式：初试为机试，复试为分年级进行面试。
+Core courses: Introduction to Big Data, Data Structures, Computer Networks, Computer and Data Security, Computer Organization and Architecture, Operating Systems, Database Systems, Introduction to Computer and Software Engineering, Data Mining, Algorithm Design and Analysis, Big Data Platform Architecture and Technology, Cloud Computing and Big Data Platforms, Neural Networks and Deep Learning.
 
-选拔考核内容：初试为机试，主要考查学生的计算机编程能力（C/C++语言），机试成绩满分为100分，根据机试成绩由高至低筛选各年级、专业接收指标1：1.5人数的学生进入复试。若机试成绩相同则数学类+计算机类必修课程首次考核成绩之和高者占先。若筛选学生的人数未达指标1.5倍，按实际人数进入面试。复试为面试，面试内容为理工科背景知识、学习能力、心理素质等，面试成绩满分为100分。
+2025 registration: 13/7 (1.86)
 
-选拔考核录取原则：转专业学生考核的综合成绩满分为100分。综合成绩=机试成绩ⅹ0.7+面试成绩ⅹ0.3，根据综合成绩按年级由高至低进行录取，综合成绩总分相同情况下，机试成绩高者排名占先。面试不及格者，不予录取。若选拔考核后各年级、专业接收人数未满，则保持空缺，接收指标不予通用。
+2025 threshold: Same as AI
 
-评论（会标明评论者年级）：
+2025 assessment: Same as AI
 
-（2） 网络工程：
+Reviews: (None)
 
-本科专业代码：080903（计算机类）
+#### (GZIC) Wu Xianming School of Intelligence Engineering
 
-专业核心课程：高级语言程序设计、离散数学、计算机组成与体系结构、计算机网络、计算机网络安全、数据结构、Java程序设计、软件工程、操作系统、数据库、数据通信原理、网络应用开发、网络工程与网络管理
+**(1) Robotics Engineering**
 
-2025年报名情况：3/2（1.5）
+Program code: 080803T (Automation)
 
-2025年报名门槛：同计算机科学与技术
+Core courses: AI Technology and Applications, Machine Vision and Sensing Systems, Robotics Theory and Technology, Mechatronics, Engineering Introduction, Human-Computer Interaction, Industrial Robotics and Applications, Embedded Systems and Design, Data Structures and Algorithms.
 
-2025年考核形式：同计算机科学与技术
+2025 registration: 5/3 (1.66)
 
-评论（会标明评论者年级）：
+2025 threshold: None
 
-（3） 信息安全：
+2025 assessment: Comprehensive score calculated by school based on interview (written exam) results. Total 100 pts. Interview (8 min/person): (1) English ability (30 pts, 2 min); (2) Comprehensive ability (70 pts, 6 min) including personal intro and expert assessment of moral character, problem-solving, thinking, research innovation, teamwork, adaptability, self-awareness.
 
-本科专业代码：080904K（计算机类）
+Admission: ranked by interview score. Same score: better required course weighted average percentile rank wins. Interview < 60 = no admission.
 
-专业核心课程：高级语言程序设计、数据结构、计算机网络、操作系统、数据库、信息安全数学基础、密码学与安全协议、计算机网络安全、PKI原理与技术、信息内容安全、软件安全、信息安全管理
+Reviews: (None)
 
-2025年报名情况：3/2（1.5）
+**(2) Intelligent Manufacturing Engineering**
 
-2025年报名门槛：同计算机科学与技术
+Program code: 080213T (Mechanical)
 
-2025年考核形式：同计算机科学与技术
+Core courses: AI Technology and Applications, Industrial Big Data Analysis and Applications, Manufacturing System Analysis and Applications, Mechatronics, Engineering Introduction, Sensor Technology and Applications, Embedded Systems and Design, Data Structures and Algorithms.
 
-评论（会标明评论者年级）：
+2025 registration: 3/3 (1.0)
 
-#### ※ 软件学院：
+2025 threshold: Same as Robotics
 
-（1） 软件工程：
+2025 assessment: Same as Robotics
 
-本科专业代码：080902（计算机类）
+Reviews: (None)
 
-专业核心课程：高级语言程序设计(C++)（上、下），离散数学、计算机组成与体系结构、数据结构、操作系统、编译技术I、计算机网络、数据库系统、软件分析设计与建模、软件体系结构，软件项目管理、软件测试与维护。
+#### (GZIC) School of Microelectronics
 
-2025年报名情况：48/18（2.66）
+**(1) Microelectronics Science and Engineering**
 
-2025年报名门槛：大一、大二均必修课程首次考核无不及格情况即可
+Program code: 080704 (Electronic Information)
 
-2025年考核形式：1、第一轮选拔
+Core courses: (Training plan not found, pending update.)
 
-按照指标数1:1.5的比例，根据学生第一学期数学和英语成绩进行选拔，选拔通过的学生参与面试。参加面试的总人数为30人，其中2024级27人，2023级3人（若报名人数不足3人，则全部进入面试）。
+2025 registration: 5/3 (1.66)
 
-计算方法：1、大一学生：第一学期数学算术平均分70%+第一学期英语算术平均分30%（取小数点后两位）2、大二学生：前三学期数学算术平均分70%+前三学期学期英语算术平均分30%（取小数点后两位）如计算出的总分出现同分情况，以数学平均分为依据，从高到低依次排序，如数学平均分亦出现同分的情况，取英语类必修课程最高分，从高到低依次排序确定。
+2025 threshold: None
 
-数学包括数学学院开设的所有数学类必修课程；
+2025 assessment: Comprehensive score calculated by school based on interview (written exam) results. Total 100 pts. Interview (8 min/person): 3-min self-intro + 5-min Q\&A. Score: comprehensive quality via self-intro (35 pts), learning ability via academic performance (15 pts), program motivation and professional ability via program awareness (50 pts).
 
-英语包括外国语学院开设的所有英语类必修课程。
+Admission: ranked by interview score. Same score: better required course weighted average percentile rank wins. Interview < 60 = no admission.
 
-2、第二轮选拔
+Reviews: (None)
 
-选拔考核形式：分年级进行面试
+**(2) Integrated Circuit Design and Integrated Systems**
 
-面试总分：100分
+Program code: 080710 (Electronic Information)
 
-面试考核内容：
+Core courses: (Training plan not found, pending update.)
 
-⑴专业课基础（数学及编程基础知识）40%
+2025 registration: 7/3 (2.33)
 
-⑵综合素质40%
+2025 threshold: Same as Microelectronics
 
-⑶英语听说能力20%
+2025 assessment: Same as Microelectronics
 
-面试成绩=专业课基础40%+综合素质40%+英语听说能力20%（取小数点后两位）
-
-选拔录取原则：根据考生的面试成绩排序（2023级和2024级分别排序），按照从高到低的顺序进行录取（面试成绩保留2位小数，面试成绩相同时，按考生的面试成绩中的专业课基础成绩、面试成绩中的综合素质成绩、第一学期英语平均分依次排序确定）。
-
-若选拔考核后2023级学生接收人数未满，接收人数可面向2024级。
-
-面试成绩不合格（低于60分）者，不予录取。
-
-评论（会标明评论者年级）：
-
-#### ※ （国际）未来技术学院：
-
-（1） 人工智能：
-
-本科专业代码：080717T（电子信息类）
-
-专业核心课程：人工智能导论、高级语言程序设计、数据结构、机器学习、数字逻辑电路、信号与系统、数字信号处理、数字图像处理、深度学习与计算机视觉、人工智能系统综合设计、大数据及数据挖掘
-
-2025年报名情况：13/6（2.16）
-
-2025年报名门槛：无硬性要求
-
-2025年考核形式：转专业学生考核的综合成绩即面试成绩，满分为100分。
-
-选拔考核形式： 分组进行面试，面试时间15分钟/人。
-
-选拔考核内容：
-
-（1）英语听说能力 20%
-
-（2）专业课基础（数学、编程、物理等基础知识）40%
-
-（3）综合素质 40%
-
-选拔考核录取原则：经过专家组面试，确认具有本专业修读能力的转专业学生，按照面试成绩从高到低依次录取。面试成绩相同的情况下，必修课百分制平均学分绩点在原专业排名比例较优者优先录取。面试成绩不合格（低于60分）者，不予录取。
-
-评论（会标明评论者年级）：
-
-• “2024级，男，转人工智能，有CS50相关作业的Python基础且做了其配套的期末大作业，等同于一个小项目。流程：PPT讲解5分钟，2分钟英文问答，3分钟中文提问
-
-PPT制作最好找学长要华工的模板，其次就是字不要太密集，不需要花里胡哨重在突出内容，第一面自我介绍，第二面为何来人工智能，第三面自己有什么特长，最好提前把Python学了做一些小程序贴代码或者Demo到PPT中，第四面未来的展望突出深造想法和努力奋斗，最好关注未来技术学院公众号，然后举例一些优秀学长说也想成为像他一样的人，然后英文问答一般就两个问题，怎么理解人工智能，怎么介绍你的家乡，中文问答会问你高考数学物理如果考的差要找一下借口，说比如发挥失常，有卡涂错之类的”---Opilsty（2024级）（二次选拔转ai）
-
-• “2024级，女，转人工智能，有参加一些小比赛做小车类似的经理。流程：英文自我介绍2分钟，PPT讲解5分钟，1个英文问答，3分钟中文提问
-
-首先是英文自我介绍，反正能大大方方介绍就好了，没必要用花里胡哨的长难句。PPT制作同上，PPT中可以展示多一些自己做的小项目，要能讲解你干了什么，然后英文问答我是一个问题，怎么介绍你的家乡。中文问答会问你大一上的两门数学课一门一个问题，然后会问你ppt提到的一些相关的项目大致问题”---NaOHdog（2024级）（大一下转专业转ai）
-
-（2） 数据科学与大数据技术：
-
-本科专业代码：080910T（计算机类）
-
-专业核心课程：大数据导论、数据结构、计算机网络、计算机安全与数据安全、计算机组成与体系结构、操作系统、数据库系统、计算机与软件工程概论、数据挖掘、算法设计与分析、大数据平台构架与技术、云计算与大数据平台、神经网络与深度学习
-
-2025年报名情况：13/7（1.86）
-
-2025年报名门槛：同人工智能
-
-2025年考核形式：同人工智能
-
-评论（会标明评论者年级）：
-
-#### ※ （国际）吴贤铭智能工程学院：
-
-（1） 机器人工程：
-
-本科专业代码：080803T（自动化类）
-
-专业核心课程：人工智能技术及应用、机器视觉及传感系统、机器人理论及技术、机电一体化、工程导论、人机交互、工业机器人及应用、嵌入式系统与设计、数据结构与算法
-
-2025年报名情况：5/3（1.66）
-
-2025年报名门槛：无硬性要求
-
-2025年考核形式：转专业学生考核的综合成绩由学院根据实际情况结合面试（笔试）成绩等进行计算，综合成绩满分为100分。
-
-选拔考核形式： 面试
-
-选拔考核内容：面试时间8分钟/人，面试成绩满分100分，分为(1)英语能力考核(30分），时间2分钟。(2)综合能力考核(70分），包括个人情况简介和专家综合知识考察，主要考察学生思想政治素质和道德修养、学生发现分析解决问题的能力、思维能力、科研创新能力，学生团队精神、应变及自我认知能力等，时间6分钟。
-
-选拔考核录取原则：按照面试成绩从高到低依次录取。面试成绩相同的情况，必修课百分制平均学分绩点在原专业排名比例较优者优先录取。面试成绩不合格（低于60分）者，不予录取。
-
-评论（会标明评论者年级）：
-
-（2） 智能制造工程：
-
-本科专业代码：080213T（机械类）
-
-专业核心课程：人工智能技术及应用、工业大数据分析及应用、制造系统分析及应用、机电一体化、工程导论、传感器技术及应用、嵌入式系统与设计、数据结构与算法
-
-2025年报名情况：3/3（1.0）
-
-2025年报名门槛：同机器人工程
-
-2025年考核形式：同机器人工程
-
-评论（会标明评论者年级）：
-
-#### ※ （国际）微电子学院：
-
-（1） 微电子科学与工程：
-
-本科专业代码：080704（电子信息类）
-
-专业核心课程：（未查询到培养方案，待更新）
-
-2025年报名情况：5/3（1.66）
-
-2025年报名门槛：无硬性要求
-
-2025年考核形式：转专业学生考核的综合成绩由学院根据实际情况结合面试（笔试）成绩等进行计算，综合成绩满分为100分。
-
-选拔考核形式： 面试
-
-选拔考核内容：全体报名学生参加面试，面试时间8分钟/人，其中自我介绍3分钟，提问5分钟。面试成绩满分100分，分为自我介绍测评综合素质（35分），通过学习表现测评学习能力（15分），通过对新专业的认知测评就读意愿和专业能力（50分）。
-
-选拔考核录取原则：按照面试成绩从高到低依次录取。面试成绩相同的情况，必修课百分制平均学分绩点在原专业排名比例较优者优先录取。面试成绩不合格（低于60分）者，不予录取。
-
-评论（会标明评论者年级）：
-
-（2） 集成电路设计与集成系统：
-
-本科专业代码：080710（电子信息类）
-
-专业核心课程：（未查询到培养方案，待更新）
-
-2025年报名情况：7/3（2.33）
-
-2025年报名门槛：同微电子
-
-2025年考核形式：同微电子
-
-评论（会标明评论者年级）：
+Reviews: (None)

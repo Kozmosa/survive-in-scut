@@ -1,10 +1,12 @@
 ---
 url: /en/life/entertainment/hemc_gzic.md
-description: 大学城校区与广州国际校区同属番禺区，周边商圈及娱乐设施较为接近
+description: >-
+  HEMC and Guangzhou International Campus are both located in Panyu District,
+  with similar surrounding shopping areas and entertainment facilities
 ---
 
-# 大学城及国际
+# HEMC & GZIC
 
-大学城校区与广州国际校区同属番禺区，周边商圈及娱乐设施较为接近
+HEMC and Guangzhou International Campus are both located in Panyu District, with similar surrounding shopping areas and entertainment facilities.
 
-TODO: 大学城校区与广州国际校区周边商圈及娱乐设施，公园啥的我觉得也可以写写
+TODO: Shopping areas and entertainment facilities around HEMC and Guangzhou International Campus. Parks and such could also be worth writing about.

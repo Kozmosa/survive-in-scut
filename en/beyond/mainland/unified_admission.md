@@ -1,10 +1,19 @@
 ---
 url: /en/beyond/mainland/unified_admission.md
-description: 介绍在华南理工大学通过统招考试攻读研究生的行动路径、经验教训、院校参考、往届数据等等
+description: >-
+  An introduction to pursuing graduate studies at SCUT through the unified
+  national entrance exam, covering pathways, tips, school references, and past
+  data.
 ---
 
-# 考研 / 研究生统一招生考试
+# Graduate Exam / National Unified Postgraduate Entrance Exam
 
-介绍在华南理工大学通过统招考试攻读研究生的行动路径、经验教训、院校参考、往届数据等等
+An introduction to pursuing graduate studies at SCUT through the unified national entrance exam, covering pathways, lessons learned, school references, and past data.
 
-TODO: 考研相关内容
+TODO: Add a SCUT student exam preparation and on-campus application guide:
+
+* \[ ] Target selection: staying at SCUT (admission ratios and re-examination分数线 across schools) vs. applying to external universities
+* \[ ] Preparation timeline and public course planning: Politics, English I/II, Math I/II/III, and specialized course review schedules
+* \[ ] On-campus study resources: exam prep study rooms and seat reservation rules at Wushan/University City/GZIC campuses
+* \[ ] Re-examination and调剂: SCUT re-examination procedures, computer-based/written exam requirements, on/off-campus调剂 considerations
+* \[ ] Past data reference: applicant numbers, admission分数线, and admission ratio history by major

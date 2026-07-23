@@ -1,124 +1,122 @@
 ---
 url: /en/health/medical_care.md
+description: >-
+  A student-written guide to using SCUT campus hospitals, medical insurance,
+  outpatient referral reimbursement, and hospitalization
 ---
-# 华南理工大学就医贴
 
-大部分的政策官网都有讲，这里博主就讲一些 容易漏的信息和一些博主自己的就医经验，博主希望这个帖子可以成为华工学生就医经验和体验的一个分享区，大家有什么关于**医生的评价，报销的技巧，就医的体验，本文的错误，想知道的细节**，都可以在评论区留言，或者直接联系博主，博主会不定时更新。
+# SCUT Medical Guide
 
-博主的邮箱：**harperfjjleig2pznyvsg@gmail.com**
+Most of the policies are explained on the official websites. Here, the blogger will cover some easily missed information and personal medical experiences. The hope is that this post becomes a sharing space for SCUT students' medical experiences and tips. If you have any **reviews of doctors, reimbursement tips, medical experiences, corrections to errors, or details you want to know**, feel free to leave a comment or contact the blogger directly. The blogger will update periodically.
 
-**一些网页参考资料：**
-[华工医院科室介绍](https://www2.scut.edu.cn/hospital/ksjsw/list.htm)
+The blogger's email: **harperfjjleig2pznyvsg@gmail.com**
 
-[2025学生医保参保需知](https://www2.scut.edu.cn/hospital/2024/0918/c38820a562371/page.htm)
+**Some web references:**
+[SCUT Hospital Department Introduction](https://www2.scut.edu.cn/hospital/ksjsw/list.htm)
 
-[广州市城乡居民医保介绍](https://mp.weixin.qq.com/s/1OerJNsRcrO8hPf5vRg9sw)
+[2025 Student Medical Insurance Enrollment Notice](https://www2.scut.edu.cn/hospital/2024/0918/c38820a562371/page.htm)
 
-# 医保的介绍
+[Introduction to Guangzhou Urban and Rural Resident Medical Insurance](https://mp.weixin.qq.com/s/1OerJNsRcrO8hPf5vRg9sw)
 
-我们享受的本质上是广州市城乡居民医保，然后固定定点的医院在校医院，在校医院可以享受90%的报销，外诊的报销政策由学校制定。具体可看上面广州市城乡居民医保介绍的链接
+# About Medical Insurance
 
-# 校医院就诊
+What we essentially have is the Guangzhou Urban and Rural Resident Medical Insurance, with our designated primary care hospital being the campus hospital. At the campus hospital, reimbursement is up to 90%. Reimbursement policies for external consultations are set by the university. For details, check the Guangzhou Urban and Rural Resident Medical Insurance link above.
 
-国际的校医院博主没去过，不了解这里主要就讲讲大学城校医院和五山校医院。
-校医院的门诊就医流程是先挂号再缴费，在自助挂号机取号不用钱，有些情况下诊断完了要交4r挂号费
-如果需要详细的科室介绍，请点击上面华工医院科室介绍的链接
+# Visiting the Campus Hospital
 
-## 大学城校医院
+The blogger hasn't been to the GZIC campus hospital, so I can't speak to that. I'll mainly cover the University City and Wushan campus hospitals.
+The outpatient process at the campus hospital is: first register, then pay. Getting a number from the self-service kiosk is free. In some cases, after diagnosis, you pay a 4 RMB registration fee.
+For detailed department introductions, click the SCUT Hospital Department Introduction link above.
 
-大学城医院从外面看会比较荒凉，科室也不是很多（具体想了解科室可以去上面的网站查）
-就医就是在自助
-本人就去过一次，因为感冒去的，医生开了有好几副药，里面有莲花清瘟胶囊，因为博主自身体质和基础病史的原因，吃了那个药就咳嗽了好几天，感冒好了还继续咳嗽。**所以说就是各位在就医的时候有什么中医体质上的诊断和一些基础病史还是要告诉医生，要不然医生就直接开常规药**。或者**之前有用过的药方**直接让医生帮忙开也可以。
+## University City Campus Hospital
 
-## 五山校医院
+The University City hospital looks a bit rundown from the outside, and it doesn't have many departments (for specifics, check the website above).
+You register at the self-service kiosk.
+I've only been there once — for a cold. The doctor prescribed several medications, including Lianhua Qingwen capsules. Due to my own constitution and medical history, taking that drug made me cough for several days — I kept coughing even after the cold was gone. **So when you see a doctor, make sure to inform them of any TCM constitutional diagnoses or underlying medical history, otherwise they'll just prescribe standard medications.** Alternatively, if you have **prescriptions that have worked for you before**, you can ask the doctor to prescribe those directly.
 
-五山校医院比大学城大很多，并且科室比较齐全。
-我去五山医院开过一次转诊单。开转诊单是先要去门诊挂号，当时是要去外面看鼻炎，但是当天我们学校耳鼻喉科没开，我就挂了**简易门诊**，开了转诊单，感觉挂外科也可以，开转诊单的时候可以多挂几个科室的号，看看哪个科室快，就优先去那个科室开单，但我认为**科室最好还是要相关**的，毕竟去口腔科开鼻炎的转诊单想想就不合理。然后开完转诊单后医生会让你去交4r挂号费，但其实当时直接走人也可以，但博主还是交了。
-**注意，在寒暑假开转诊单是不用在医生开完单后找人审批的，但学期中是需要的**
-我还去五山校医院看过一次口腔科，医生就给了诊断建议，但是在口腔科治疗是要全部自费的，这个大家可以自行选择公立医院和私人诊所。
+## Wushan Campus Hospital
 
-### 注意，校医院的报销额度高达90%（自费项目除外），所以我还是很推荐各位去校医院的
+The Wushan campus hospital is much larger than University City and has more comprehensive departments.
+I went to Wushan hospital once to get a referral slip. Getting a referral requires first registering at the outpatient counter. At the time, I needed to see an outside doctor for rhinitis, but the ENT department at our school wasn't open that day. So I registered for the **简易门诊 (Simplified Clinic)** and got a referral slip. I think registering for Surgery would also work. When getting a referral slip, you can register for multiple departments and see which one is fastest. However, **I think the department should still be relevant** — going to the dental department for a rhinitis referral just doesn't make sense. After getting the referral slip, the doctor will ask you to pay a 4 RMB registration fee. You could technically just leave without paying, but I paid anyway.
+**Note: During winter and summer breaks, you don't need to get approval after getting the referral slip, but you do during the semester.**
+I also visited the dental department at Wushan hospital once. The doctor gave a diagnosis and recommendation, but dental treatment is entirely out-of-pocket. You can choose between public hospitals and private clinics.
 
-# 门诊外诊报销
+### Note: The campus hospital's reimbursement rate is as high as 90% (except for out-of-pocket items), so I highly recommend going to the campus hospital.
 
-门诊外诊报销是需要开转诊单的，具体流程可以参考上面五山校医院篇。医生会给你一张转诊单和转诊需知，转诊需知的图片我会放在
+# Outpatient External Consultation Reimbursement
 
-## 转诊需知原文
+External consultation reimbursement requires a referral slip. For the specific process, refer to the Wushan Campus Hospital section above. The doctor will give you a referral slip and a referral notice. An image of the referral notice is provided below.
 
-### 转诊需知（必读）
+## Referral Notice (Original Text)
 
-1. 我校学生由学校统一组织参加广州市城乡居民基本医疗保险，医保年度为自然年度。
+### Referral Notice (Must Read)
 
-2. 参保学生普通门诊（急）诊首诊为校医院（含五山校区、大学城校区门诊部、国际校区门诊部），所发生的基本医疗费用，由普通门诊专项资金和学生共同分担。因病情需要到校外医院门（急）诊就医时（以下简称外诊），由专科医师开具转诊单，转往指定医院。转诊单自开具之日起30天内有效且只能就诊一次（需检查复诊者，7天内计一个诊次），转诊前已发生的外诊费用不予报销。突发急性疾病（如发热、外伤、腹痛等）以就近就诊为原则，不受转诊限制。
+1. Our university students are enrolled by the university in the Guangzhou Urban and Rural Resident Basic Medical Insurance. The insurance year follows the calendar year.
+2. For insured students, the primary care facility for regular outpatient (and emergency) visits is the campus hospital (including Wushan campus, University City campus, and GZIC campus outpatient clinics). The basic medical expenses incurred are shared between the outpatient special fund and the student. When medical needs require visiting an off-campus hospital for outpatient (or emergency) care (hereafter referred to as "external consultation"), the specialist physician shall issue a referral slip to the designated hospital. The referral slip is valid for 30 days from the date of issuance and can only be used once (for follow-up visits requiring examination, it counts as one visit within 7 days). Medical expenses incurred before the referral are not eligible for reimbursement. For sudden acute illnesses (such as fever, trauma, abdominal pain, etc.), patients should seek treatment at the nearest facility and are not subject to the referral requirement.
+3. For external consultations, students pay the medical expenses upfront, keep the relevant documents, and apply for reimbursement to the Medical Insurance Office by April 30 of the following year. **For examination fees, laboratory test fees, treatment fees, and medication costs (for Class B drugs, individuals must first pay 15% out-of-pocket) that fall within the scope of the three major catalogs of Guangzhou Basic Medical Insurance, reimbursement is at 50% (Chinese herbal medicine at 30%; Chinese herbal granules are entirely out-of-pocket). The cumulative annual reimbursement cap for on-campus and off-campus outpatient visits is 1000 RMB per person per year. For hospitalization, the annual cap is 300,000+ RMB, with an additional 400,000+ RMB for serious illness insurance.**
+4. External consultation medical expense reimbursement is processed centrally, **typically during the third week of each month (excluding winter and summer breaks), with one day per campus (Monday: GZIC, Wednesday: University City, Friday: Wushan)**. For specific details, refer to university announcements / the campus hospital website. **Required documents**: (1) Referral slip (for emergency cases without a referral slip, the medical records from that visit must be presented), (2) Medical receipt (invoice) issued under the supervision of finance and tax authorities, (3) Itemized expense list corresponding to the invoice (can be printed for free at the hospital's service desk).
+5. **For external consultations, please bring a valid ID. Outpatient special disease categories (such as hypertension, diabetes), designated single disease categories (rabies vaccination), maternity medical benefits, and hospitalization are not managed by the university.** Students can directly register for medical treatment at designated定点 medical institutions in Guangzhou using valid ID. Their medical expenses will be directly settled by the hospital through the medical insurance system. For details, visit the Guangdong Government Service Website or call the government hotline 12345.
+6. Medical insurance funds will not cover expenses incurred in the following circumstances: (1) Suicide or self-harm (excluding mental illness); (2) Injuries from fights, alcohol intoxication, drug use, or other criminal or public security violations; (3) Injuries from traffic accidents, accidents, or医疗 accidents where compensation responsibilities have been clearly assigned to another party, or expenses clearly covered by work-related injury insurance; (4) Medical treatment abroad or in Hong Kong, Macau, or Taiwan; (5) Other circumstances where payment is not provided by law.
+7. **Common non-reimbursable expenses**: Physical examination fees, registration fees, material fees, referral transportation fees (ambulance costs, etc.), hospitalization fees (over 70 RMB), vaccinations, psychological counseling, cosmetic surgery, teeth cleaning, tooth extraction, fillings, orthodontics and other dental treatment costs, testing for hepatitis B, hepatitis C, viruses, HIV, genetic tests, immune antibody tests, and diagnostic fees for ultrasound, CT, MRI (MR), gastrointestinal endoscopy, dynamic ECG, etc.
+8. Insured students are strictly prohibited from lending their medical insurance credentials to others or using others' credentials for medical insurance registration or expense reimbursement. Anyone who fraudulently obtains social insurance benefits through fraud, forged documents, or other means will, upon verification, have their medical insurance benefits suspended for 1-3 months (during which all medical expenses must be paid out-of-pocket), be ordered to return the fraudulently obtained social insurance funds, be fined 2 to 5 times the fraudulently obtained amount, and have the matter reported to their school. If the circumstances are serious and constitute a crime, the case will be referred to the Guangzhou Medical Insurance Bureau for criminal prosecution.
 
-3. 外诊时学生先自行支付医疗费用，保留相关材料，在次年4月30日前向医保办申请零星报销。**对符合广州市基本医疗保险三大目录规定范围的检查费、检验费、治疗费与药费（乙类药品需个人先自付15%）按50%比例报销（中草药按30%比例报销，中药颗粒全自费）。校内外门诊累计最高报销限额为1000元/人/年。住院、门诊年度限额30+万元，大病保险40+万元另计。**
+For more inquiries: 1. Guangdong Government Service Website; 2. Guangzhou 12345 Government Service Hotline:
+![Referral Notice Image](./medical_care_assets/转诊须知.jpg)
 
-4. 外诊医疗费用采取集中报销方式，**一般为每个月的第三周（寒暑假除外），三个校区各一天（周一国际校区，周三大学城校区，周五五山校区）**。具体事宜以学校事务通知/校医院网上公布为准。**报销所需资料**：（1）转诊单（急诊无转诊单者，需出示当次就诊病历记录）、（2）财税部门统一监制的医疗收据（发票）、（3）与发票对应的门诊费用明细清单（凭发票在就诊医院服务台免费打印）。
+## Important Information on the Referral Slip
 
-5. **外诊时请携带有效身份证件。门诊特定病种（如高血压、糖尿病）、指定单病种（注射狂犬疫苗）、生育医疗待遇和住院不在学校管理范围**。学生凭有效身份证件直接在广州市指定定点医疗机构办理就医登记，其医疗费用由该院在医保系统上直接进行记账结算。详情可登录广东政务服务网或致电政府热线12345查询。
+The referral slip has a list of designated hospitals. Only outpatient visits to these hospitals can be reimbursed.
 
-6. 有以下情形之一的，当次发生的有关医疗费用，医保资金不予支付：（1）自杀、自残的（精神病除外）；（2）斗殴、酗酒、吸毒及其他因犯罪或违反《治安管理处罚法》所致伤病的；（3）明确已由他方承担医疗费赔偿责任的交通事故、意外事故、医疗事故或明确工伤保险支付的医疗费用；（4）在国外或香港、澳门特别行政区以及台湾地区就医的；（5）依法不予支付的其他情形。
+**Designated Hospital List:**
 
-7. **常见不予报销的费用**：体检费、挂号费、材料费、转诊交通费（120车费等）、住院费（70元以上）、疫苗接种、心理咨询、美容整形、洗牙、拔牙、补牙、正畸等口腔治疗费、乙肝、丙肝、病毒、艾滋、基因、免疫抗体等检测费，彩超、CT、核磁（MR）、胃肠镜、动态心电图等其他诊断费。
+1. Guangdong Provincial People's Hospital
+2. Guangzhou First People's Hospital
+3. First Affiliated Hospital of Sun Yat-sen University
+4. Second Affiliated Hospital of Sun Yat-sen University
+5. Third Affiliated Hospital of Sun Yat-sen University
+6. Third Affiliated Hospital of Sun Yat-sen University (Lingnan Hospital)
+7. Sixth Affiliated Hospital of Sun Yat-sen University (Colorectal Surgery Only)
+8. Sun Yat-sen University Cancer Center
+9. Zhongshan Ophthalmic Center, Sun Yat-sen University
+10. Hospital of Stomatology, Sun Yat-sen University (Guanghua Stomatological Hospital)
+11. Nanfang Hospital, Southern Medical University
+12. Zhujiang Hospital, Southern Medical University
+13. Third Affiliated Hospital of Southern Medical University
+14. First Affiliated Hospital of Jinan University (Guangzhou Overseas Chinese Hospital)
+15. Guangdong Provincial Hospital of Chinese Medicine (Dade Road Main Campus)
+16. Guangdong Provincial Hospital of Chinese Medicine (University City Campus)
+17. The General Hospital of the Southern Theater Command of the PLA
+18. Guangzhou Women and Children's Medical Center (Zhujiang New Town)
+19. Guangzhou Chest Hospital
+20. Guangdong Hui'ai Hospital (Fangcun)
+21. First Affiliated Hospital of Guangzhou Medical University
+    ![Referral Slip Image](./medical_care_assets/转诊单.jpg)
 
-8. 参保学生严禁将本人的医保凭证借给他人，或冒用他人的医保凭证办理医保备案、费用报销。如以欺诈、伪造证明材料或者其他手段骗取社会保险待遇的，一经查实将暂停医保待遇1-3个月（期间就医全自费），责令退回骗取的社会保险金，处骗取金额2倍以上5倍以下的罚款，通报所在学院；情节严重构成犯罪的，移交广州市医保局依法追究刑事责任。
+## An Important Money-Saving Tip for External Outpatient Reimbursement
 
-更多咨询方式：1. 广东政务服务网；2. 广州12345政务服务便民热线：
-![转诊需知图片](./medical_care_assets/转诊须知.jpg)
+When seeing a doctor externally, you can ask the doctor to split the bill into two receipts — one for treatment fees and one for medication fees. Only get the treatment done at the external hospital, and bring the medication receipt to the campus hospital to get the medicine there.
 
-## 转诊单的重要信息
+# Hospitalization
 
-转诊单上有定点医院列表，只有去这些医院门诊才可以报销
-**定点医院列表：**
+For hospitalization, go directly with your social security card and ID to check in. You can enjoy Guangzhou Urban and Rural Resident Medical Insurance reimbursement.
 
-1. 广东省人民医院
-2. 广州市第一人民医院
-3. 中山大学附属第一医院
-4. 中山大学附属第二医院
-5. 中山大学附属第三医院
-6. 中山大学附属第三医院岭南医院
-7. 中山大学第六医院（仅限肛肠专科）
-8. 中山大学附属肿瘤医院
-9. 中山大学眼科医院
-10. 中山大学附属口腔医院（光华口腔医院）
-11. 南方医科大学附属南方医院
-12. 南方医科大学附属珠江医院
-13. 南方医科大学附属第三医院
-14. 暨南大学附属第一医院（广州华侨医院）
-15. 广东省中医院（大德路总院区）
-16. 广东省中医院（大学城院区）
-17. 中国人民解放军南部战区总医院
-18. 广州市妇女儿童医疗中心（珠江新城）
-19. 广州胸科医院
-20. 广东惠爱医院（芳村）
-21. 广州医科大学附属第一医院
-    ![转诊单图片](./medical_care_assets/转诊单.jpg)
+|                                                                                 Hospital Level                                                                                  | Deductible | Reimbursement Rate |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :----------------: |
+|                                                                                     Level 1                                                                                     |  150 RMB   |        90%         |
+|                                                                                     Level 2                                                                                     |  300 RMB   |        80%         |
+|                                                                                     Level 3                                                                                     |  500 RMB   |        70%         |
+|                                                      The campus hospital also has inpatient wards — feel free to inquire.                                                       |
+| **Hospital Level Explanation**: The campus hospital is a Level 1 hospital. The highest level is 3A (tertiary, first-class). Check the specific level of each hospital yourself. |
 
-## 外诊门诊报销的一个重要省钱技巧
+# Doctor Reviews
 
-可以在外诊的时候让医生把治疗的缴费单和药物的缴费单分成两个单开，你只在外诊的医院做治疗就可以，拿着药物单来校医院开药
+TBD
 
-# 住院
+# Emergency Experience
 
-住院直接带社保卡和身份证去办理住院，可享受广州城乡居民医保报销。
+TBD
 
-|                                          医院级别                                          | 起付标准 | 共付段统筹基金比例(报销比例) |
-| :----------------------------------------------------------------------------------------: | :------: | :--------------------------: |
-|                                            一级                                            |  150元   |             90%              |
-|                                            二级                                            |  300元   |             80%              |
-|                                            三级                                            |  500元   |             70%              |
-|                             校医院也有住院部，各位可自行了解。                             |
-| **医院等级讲解**：校医院是一级医院，医院等级最高的是三级甲等医院，具体医院的等级请自行查询 |
+# Final Words
 
-# 医生的评价
-
-待定
-
-# 急诊经验
-
-待定
-
-# 最后的一些话
-
-因为博主没有急诊的经验，急诊这一块的信息需要靠各位来补充
-再次说明，以上内容基于我的个人经验，信息可能不准确，需要更正的可以评论区留言或者通过我的邮箱联系我（开头有），欢迎大家分享各种就医信息
+Since the blogger has no emergency experience, information on emergency care needs to be supplemented by everyone else.
+Again, the above content is based on my personal experience. The information may not be entirely accurate. If corrections are needed, please leave a comment or contact me via email (at the top). Everyone is welcome to share various medical information.

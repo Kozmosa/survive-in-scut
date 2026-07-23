@@ -6,103 +6,217 @@
 
 ## Table of Contents
 
-- [ACM程序设计竞赛](/en/learn/extra/contest/ACM.md): ACM程序设计竞赛（ACM-XCPC）简介及参赛指南，涵盖集训队招新、训练安排、比赛规则等内容
-- [ACM程序设计竞赛](/learn/extra/contest/ACM.md): ACM程序设计竞赛（ACM-XCPC）简介及参赛指南，涵盖集训队招新、训练安排、比赛规则等内容
-- [Copyrights](/en/copyrights.md): Notes about licenses, third-party assets, and reuse boundaries
-- [GPA](/en/learn/curricular/gpa.md): 区分均分、GPA、综测分等概念，说明华南理工大学本科成绩规则和用途
-- [GPA](/learn/curricular/gpa.md): 区分均分、GPA、综测分等概念，说明华南理工大学本科成绩规则和用途
-- [SRP](/en/learn/extra/srp.md): What SRP is, why it matters, how to apply, what you can gain, and what to prepare
-- [SRP](/learn/extra/srp.md): 什么是SRP，SRP有什么用，如何报名参加SRP，你将会有那些收获，你需要做些什么
-- [Untitled](/en.md)
-- [专业课](/en/learn/curricular/majors.md): 介绍华南理工大学的学院和专业，也提供相关专业学习指南的跳转地址
-- [专业课](/learn/curricular/majors.md): 介绍华南理工大学的学院和专业，也提供相关专业学习指南的跳转地址
-- [五山](/en/life/eat/wushan.md): 五山校区的觅食指南
-- [五山](/en/life/entertainment/wushan.md): 介绍五山校区周边的娱乐设施及去处
-- [五山](/life/entertainment/wushan.md): 介绍五山校区周边的娱乐设施及去处
-- [五山](/life/eat/wushan.md): 五山校区的觅食指南
-- [五山指北](/en/infra/wushan/map.md): 五山校区基础设施的概览页面
-- [五山指北](/infra/wushan/map.md): 五山校区基础设施的概览页面
-- [五山时间](/en/life/time/wushan.md): 五山校区作息时间
-- [五山时间](/life/time/wushan.md): 五山校区作息时间
-- [保研](/beyond/mainland/recommend_graduate.md): 介绍本科生推免保研的相关政策、注意事项、经验教训及行动参考，信息有时效性，请注意甄别
-- [保研](/en/beyond/mainland/recommend_graduate.md): 介绍本科生推免保研的相关政策、注意事项、经验教训及行动参考，信息有时效性，请注意甄别
-- [先活下去再说](/en/health/alive_first.md): 先活下去再说
-- [先活下去再说](/health/alive_first.md): 先活下去再说
-- [全国大学生数学竞赛](/en/learn/extra/contest/cmc.md): 全国大学生数学竞赛（CMC）简介及简单的参赛指导
-- [全国大学生数学竞赛](/learn/extra/contest/cmc.md): 全国大学生数学竞赛（CMC）简介及简单的参赛指导
-- [公共课](/en/learn/curricular/common_basic_lessons.md): 介绍华南理工大学开设的公共课程，以及相关学习资料的地址
-- [公共课](/learn/curricular/common_basic_lessons.md): 介绍华南理工大学开设的公共课程，以及相关学习资料的地址
-- [创新分与人文分](/en/learn/extra/innovation_humanities_scores.md): 什么是创新分，创新分有什么用，如何获得创新分。本文章以电力学院为例
-- [创新分与人文分](/learn/extra/innovation_humanities_scores.md): 什么是创新分，创新分有什么用，如何获得创新分。本文章以电力学院为例
-- [华南理工大学就医贴](/en/health/medical_care.md)
-- [华南理工大学就医贴](/health/medical_care.md)
-- [华南理工大学数学系学生 大一自救指南](/en/learn/curricular/majors/math/math_tutorial.md): 介绍华南理工大学的数学系的学习教程，也提供一些所需的资源
-- [华南理工大学数学系学生 大一自救指南](/learn/curricular/majors/math/math_tutorial.md): 介绍华南理工大学的数学系的学习教程，也提供一些所需的资源
-- [华南理工大学转专业指南（2024版）](/en/learn/curricular/transfer_major_2024.md): 华南理工大学转专业指南（2024版），参考2024级政策编写
-- [华南理工大学转专业指南（2024版）](/learn/curricular/transfer_major_2024.md): 华南理工大学转专业指南（2024版），参考2024级政策编写
-- [华园概览](/en/infra.md): 华南理工大学基础设施的概览页面
-- [华园概览](/infra.md): 华南理工大学基础设施的概览页面
-- [华工转专业的快速认知](/en/learn/curricular/transfer_major_quick.md): 面向华南理工大学转专业新生的快速认知，围绕 5 月学校自主转专业介绍机制、选择和准备节奏
-- [华工转专业的快速认知](/learn/curricular/transfer_major_quick.md): 面向华南理工大学转专业新生的快速认知，围绕 5 月学校自主转专业介绍机制、选择和准备节奏
-- [博士](/en/beyond/mainland/phd.md): 介绍在华南理工大学背景下申请境内高校博士项目的注意事项、行动参考及经验教训
-- [博士](/beyond/mainland/phd.md): 介绍在华南理工大学背景下申请境内高校博士项目的注意事项、行动参考及经验教训
-- [博士项目](/beyond/abroad/phd.md): 介绍在华南理工大学背景下申请直博及其他博士项目的经验及行动参考
-- [博士项目](/en/beyond/abroad/phd.md): 介绍在华南理工大学背景下申请直博及其他博士项目的经验及行动参考
-- [参与贡献](/en/others/contributing.md): 参与贡献
-- [参与贡献](/others/contributing.md): 参与贡献
-- [启梦华工App](/en/others/app.md): 手册配套应用下载与介绍
-- [启梦华工App](/others/app.md): 手册配套应用下载与介绍
+### 快速开始
+
 - [启程，华南理工大学](/get-started.md)
-- [启程，华南理工大学！](/en/get-started.md)
-- [周边](/en/infra/gzic/nearby.md): 广州国际校区周边去处的简介页面
-- [周边](/en/infra/hemc/nearby.md): 华南理工大学大学城校区周边去处的简介页面
-- [周边](/en/infra/wushan/nearby.md): 五山校区周边去处的简介页面
-- [周边](/infra/wushan/nearby.md): 五山校区周边去处的简介页面
-- [周边](/infra/gzic/nearby.md): 广州国际校区周边去处的简介页面
-- [周边](/infra/hemc/nearby.md): 华南理工大学大学城校区周边去处的简介页面
-- [国际](/en/life/eat/gzic.md): 国际校区觅食指南
-- [国际](/life/eat/gzic.md): 国际校区觅食指南
-- [国际/大学城时间](/en/life/time/hemc_gzic.md): 广州国际校区与大学城校区共享同一套作息时间表
-- [国际/大学城时间](/life/time/hemc_gzic.md): 广州国际校区与大学城校区共享同一套作息时间表
-- [国际指北](/en/infra/gzic/map.md): 华南理工大学广州国际校区基础设施的概览页面
-- [国际指北](/infra/gzic/map.md): 华南理工大学广州国际校区基础设施的概览页面
-- [大学城](/en/life/eat/hemc.md): 大学城校区的觅食指南
-- [大学城](/life/eat/hemc.md): 大学城校区的觅食指南
-- [大学城及国际](/en/life/entertainment/hemc_gzic.md): 大学城校区与广州国际校区同属番禺区，周边商圈及娱乐设施较为接近
-- [大学城及国际](/life/entertainment/hemc_gzic.md): 大学城校区与广州国际校区同属番禺区，周边商圈及娱乐设施较为接近
-- [大学城指南](/en/infra/hemc/map.md): 华南理工大学大学城校区基础设施的概览页面
-- [大学城指南](/infra/hemc/map.md): 华南理工大学大学城校区基础设施的概览页面
-- [学校标识](/others/branding.md): 华南理工大学的校徽图片资源
-- [学校标识](/en/others/branding.md): 华南理工大学的校徽图片资源
-- [提问的智慧](/en/others/ask-the-smart-way.md): How To Ask Questions The Smart Way (SCUT Ver.)
-- [提问的智慧](/others/ask-the-smart-way.md): How To Ask Questions The Smart Way (SCUT Ver.)
-- [校巴时间](/en/life/time/bus.md): 2026 春季学期校巴时间参考表（具体时间以学校官方最新通知为准）
-- [校巴时间](/life/time/bus.md): 2026 春季学期校巴时间参考表（具体时间以学校官方最新通知为准）
-- [概率分布图像工具](/en/learn/curricular/common/probalistics_and_statistics/distribution_gallery.md): 概率论与数理统计常见分布函数图像的交互学习工具
-- [概率分布图像工具](/learn/curricular/common/probalistics_and_statistics/distribution_gallery.md): 概率论与数理统计常见分布函数图像的交互学习工具
-- [概率论与数理统计学习笔记](/en/learn/curricular/common/probalistics_and_statistics/plt_note.md): 华南理工大学 概率论与数理统计课程的学习笔记
-- [概率论与数理统计学习笔记](/learn/curricular/common/probalistics_and_statistics/plt_note.md): 华南理工大学 概率论与数理统计课程的学习笔记
-- [版权声明](/copyrights.md): 本项目内容、素材与授权范围的说明
-- [硕士项目](/beyond/abroad/master.md): 国际留学相关的硕士项目介绍，以及在华南理工大学本科背景下申请海外硕士项目的tips与经验
-- [硕士项目](/en/beyond/abroad/master.md): 国际留学相关的硕士项目介绍，以及在华南理工大学本科背景下申请海外硕士项目的tips与经验
-- [穗石村](/en/infra/hemc/suishi.md): 穗石村简介
-- [穗石村](/infra/hemc/suishi.md): 穗石村简介
-- [立志篇](/en/health/freshman_guidance.md): 面向新生的大学选择权、环境与自我管理建议
-- [立志篇](/health/freshman_guidance.md): 面向新生的大学选择权、环境与自我管理建议
-- [竞赛目录及简介](/en/learn/extra/contest.md): 目前华南理工大学加分的竞赛
-- [竞赛目录及简介](/learn/extra/contest.md): 目前华南理工大学加分的竞赛
-- [维护路线图](/en/others/roadmap.md): 维护路线图
-- [维护路线图](/others/roadmap.md): 维护路线图
-- [考研](/en/beyond/mainland/unified_admission.md): 介绍在华南理工大学通过统招考试攻读研究生的行动路径、经验教训、院校参考、往届数据等等
-- [考研](/beyond/mainland/unified_admission.md): 介绍在华南理工大学通过统招考试攻读研究生的行动路径、经验教训、院校参考、往届数据等等
-- [考试](/en/learn/curricular/exam.md): 华南理工大学与考试相关的规章制度，及应对考试可供参考的一些告诫
-- [考试](/learn/curricular/exam.md): 华南理工大学与考试相关的规章制度，及应对考试可供参考的一些告诫
-- [课程性质介绍](/en/learn/curricular/lessons.md): 区分华南理工大学本科课程性质，说明不同课程是否参与 GPA、均分、综测、学业预警等指标计算
-- [课程性质介绍](/learn/curricular/lessons.md): 区分华南理工大学本科课程性质，说明不同课程是否参与 GPA、均分、综测、学业预警等指标计算
-- [转专业](/en/learn/curricular/transfer_major.md): 介绍华南理工大学与转专业有关的政策制度，及给想要转专业同学的一份行动指南和参考
-- [转专业](/learn/curricular/transfer_major.md): 介绍华南理工大学与转专业有关的政策制度，及给想要转专业同学的一份行动指南和参考
-- [转信工经验分享（2026）](/learn/curricular/transfer_major_information_engineering_2026.md): 华南理工大学转专业至电子与信息学院（信息工程专业）的经验分享，含笔试内容、面试标准与备考建议
-- [转电气经验分享（2026）](/en/learn/curricular/transfer_major_electrical_2026.md): 华南理工大学转专业至电力学院（电气工程及其自动化）的经验分享，含面试准备、常见问题与回答思路
-- [转电气经验分享（2026）](/learn/curricular/transfer_major_electrical_2026.md): 华南理工大学转专业至电力学院（电气工程及其自动化）的经验分享，含面试准备、常见问题与回答思路
-- [项目简介](/en/introduction.md): 华南理工大学学生共同维护的非官方学习生活信息手册
 - [项目简介](/introduction.md): 华南理工大学学生共同维护的非官方学习生活信息手册
+
+### 设施
+
+- [华园概览](/infra.md): 华南理工大学基础设施的概览页面
+
+#### 大学城
+
+- [大学城指南](/infra/hemc/map.md): 华南理工大学大学城校区基础设施的概览页面
+- [穗石村](/infra/hemc/suishi.md): 穗石村简介
+- [周边](/infra/hemc/nearby.md): 华南理工大学大学城校区周边去处的简介页面
+
+#### 五山
+
+- [五山指北](/infra/wushan/map.md): 五山校区基础设施的概览页面
+- [周边](/infra/wushan/nearby.md): 五山校区周边去处的简介页面
+
+#### 国际
+
+- [国际指北](/infra/gzic/map.md): 华南理工大学广州国际校区基础设施的概览页面
+- [周边](/infra/gzic/nearby.md): 广州国际校区周边去处的简介页面
+
+### 生活
+
+- [校园生活指南](/life.md): 华南理工大学校园生活全方位指南，包括作息时间、食堂餐饮、周边娱乐等信息
+
+#### 时间
+
+- [国际/大学城时间](/life/time/hemc_gzic.md): 广州国际校区与大学城校区共享同一套作息时间表
+- [五山时间](/life/time/wushan.md): 五山校区作息时间
+- [校巴时间](/life/time/bus.md): 2026 春季学期校巴时间参考表（具体时间以学校官方最新通知为准）
+
+#### 吃饭
+
+- [大学城](/life/eat/hemc.md): 大学城校区的觅食指南
+- [五山](/life/eat/wushan.md): 五山校区的觅食指南
+- [国际](/life/eat/gzic.md): 国际校区觅食指南
+
+#### 娱乐
+
+- [大学城及国际](/life/entertainment/hemc_gzic.md): 大学城校区与广州国际校区同属番禺区，周边商圈及娱乐设施较为接近
+- [五山](/life/entertainment/wushan.md): 介绍五山校区周边的娱乐设施及去处
+
+### 学习
+
+- [学业指南](/learn.md): 华南理工大学课程体系、考试制度、绩点计算、转专业政策及课外科研竞赛指南
+
+#### 课内
+
+- [课程性质介绍](/learn/curricular/lessons.md): 区分华南理工大学本科课程性质，说明不同课程是否参与 GPA、均分、综测、学业预警等指标计算
+- [公共课](/learn/curricular/common_basic_lessons.md): 介绍华南理工大学开设的公共课程，以及相关学习资料的地址
+- [专业课](/learn/curricular/majors.md): 介绍华南理工大学的学院和专业，也提供相关专业学习指南的跳转地址
+- [考试](/learn/curricular/exam.md): 华南理工大学与考试相关的规章制度，及应对考试可供参考的一些告诫
+- [GPA](/learn/curricular/gpa.md): 区分均分、GPA、综测分等概念，说明华南理工大学本科成绩规则和用途
+- [转专业](/learn/curricular/transfer_major.md): 介绍华南理工大学与转专业有关的政策制度，及给想要转专业同学的一份行动指南和参考
+
+#### 课外
+
+- [SRP](/learn/extra/srp.md): 什么是SRP，SRP有什么用，如何报名参加SRP，你将会有那些收获，你需要做些什么
+- [竞赛目录及简介](/learn/extra/contest.md): 目前华南理工大学加分的竞赛
+- [创新分与人文分](/learn/extra/innovation_humanities_scores.md): 什么是创新分，创新分有什么用，如何获得创新分。本文章以电力学院为例
+
+### 飞跃
+
+- [毕业去向指南](/beyond.md): 华南理工大学毕业生深造与就业去向指南，涵盖保研、考研、境内读博及境外留学申请
+
+#### 境内
+
+- [保研](/beyond/mainland/recommend_graduate.md): 介绍本科生推免保研的相关政策、注意事项、经验教训及行动参考，信息有时效性，请注意甄别
+- [考研](/beyond/mainland/unified_admission.md): 介绍在华南理工大学通过统招考试攻读研究生的行动路径、经验教训、院校参考、往届数据等等
+- [博士](/beyond/mainland/phd.md): 介绍在华南理工大学背景下申请境内高校博士项目的注意事项、行动参考及经验教训
+
+#### 境外
+
+- [硕士项目](/beyond/abroad/master.md): 国际留学相关的硕士项目介绍，以及在华南理工大学本科背景下申请海外硕士项目的tips与经验
+- [博士项目](/beyond/abroad/phd.md): 介绍在华南理工大学背景下申请直博及其他博士项目的经验及行动参考
+
+### 立命
+
+- [身心健康指南](/health.md): 华南理工大学新生适应、心理健康与医疗服务指南，帮助你健康度过大学时光
+- [先活下去再说](/health/alive_first.md): 先活下去再说
+- [立志篇](/health/freshman_guidance.md): 面向新生的大学选择权、环境与自我管理建议
+- [华南理工大学就医贴](/health/medical_care.md)
+
+### 其他
+
+- [其他资源](/others.md): 华南理工生存手册的贡献指南、维护路线图、品牌素材及版权声明等附加资源
+- [参与贡献](/others/contributing.md): 参与贡献
+- [维护路线图](/others/roadmap.md): 维护路线图
+- [启梦华工App](/others/app.md): 手册配套应用下载与介绍
+- [学校标识](/others/branding.md): 华南理工大学的校徽图片资源
+- [提问的智慧](/others/ask-the-smart-way.md): How To Ask Questions The Smart Way (SCUT Ver.)
+- [版权声明](/copyrights.md): 本项目内容、素材与授权范围的说明
+
+### Getting Started
+
+- [Get Started, SCUT!](/en/get-started.md): 2026 Undergraduate Freshman Orientation Guide for South China University of Technology
+- [Project Introduction](/en/introduction.md): An unofficial handbook of study and campus life information co-maintained by SCUT students
+
+### Facilities
+
+- [Campus Overview](/en/infra.md): An overview of South China University of Technology's campus infrastructure
+
+#### HEMC
+
+- [University Town Guide](/en/infra/hemc/map.md): An overview of facilities at SCUT University Town Campus
+- [Suishi Village](/en/infra/hemc/suishi.md): An introduction to Suishi Village
+- [Nearby](/en/infra/hemc/nearby.md): An overview of places near SCUT University Town Campus
+
+#### Wushan
+
+- [Wushan Guide](/en/infra/wushan/map.md): An overview of facilities at SCUT Wushan Campus
+- [Nearby](/en/infra/wushan/nearby.md): An overview of places near SCUT Wushan Campus
+
+#### GZIC
+
+- [GZIC Guide](/en/infra/gzic/map.md): An overview of facilities at SCUT Guangzhou International Campus
+- [Nearby](/en/infra/gzic/nearby.md): An overview of places near SCUT Guangzhou International Campus
+
+### Life
+
+- [Campus Life Guide](/en/life.md): A comprehensive guide to daily life at SCUT, including class schedules, dining options, and entertainment
+
+#### Timetable
+
+- [HEMC / GZIC Schedule](/en/life/time/hemc_gzic.md): Guangzhou International Campus and Higher Education Mega Center share the same class schedule
+- [Wushan Schedule](/en/life/time/wushan.md): Wushan Campus class schedule
+- [Campus Bus Schedule](/en/life/time/bus.md): Spring 2026 semester campus bus schedule reference (subject to the latest official notice)
+
+#### Eat
+
+- [HEMC](/en/life/eat/hemc.md): A food guide for the Higher Education Mega Center campus
+- [Wushan](/en/life/eat/wushan.md): A food guide for Wushan Campus
+- [GZIC](/en/life/eat/gzic.md): A food guide for Guangzhou International Campus
+
+#### Entertainment
+
+- [HEMC & GZIC](/en/life/entertainment/hemc_gzic.md): HEMC and Guangzhou International Campus are both located in Panyu District, with similar surrounding shopping areas and entertainment facilities
+- [Wushan](/en/life/entertainment/wushan.md): An introduction to entertainment facilities and places around Wushan Campus
+
+### Learn
+
+- [Academic Guide](/en/learn.md): A guide to SCUT's curriculum, examination system, GPA calculation, transfer policies, and extracurricular research opportunities
+
+#### Curricular
+
+- [Course Type Overview](/en/learn/curricular/lessons.md): Distinguishes undergraduate course types at SCUT, explaining whether different courses count toward GPA, weighted average, comprehensive evaluation, academic warning, and other indicators
+- [Common Basic Courses](/en/learn/curricular/common_basic_lessons.md): Introduces the common basic courses offered at SCUT and links to related study materials
+- [Major Courses](/en/learn/curricular/majors.md): Introduces SCUT's schools and majors, with links to major-specific study guides
+- [Exams](/en/learn/curricular/exam.md): SCUT's exam-related regulations and some advice for handling exams
+- [GPA](/en/learn/curricular/gpa.md): Clarifies the concepts of weighted average, GPA, comprehensive evaluation score, etc., and explains SCUT's undergraduate grading rules and their uses
+- [Major Transfer](/en/learn/curricular/transfer_major.md): Introduces SCUT's policies on major transfer, along with an action guide and reference for students considering transferring
+
+#### Extra
+
+- [SRP](/en/learn/extra/srp.md): What SRP is, why it matters, how to apply, what you can gain, and what to prepare
+- [Competition Directory & Introduction](/en/learn/extra/contest.md): A directory of competitions that offer bonus points at SCUT
+- [Innovation Credits & Humanities Credits](/en/learn/extra/innovation_humanities_scores.md): What innovation credits are, what they are used for, and how to earn them. This article uses the School of Electric Power as an example.
+
+### Go Beyond
+
+- [Future Pathways Guide](/en/beyond.md): Guidance for SCUT graduates on further studies and career paths, including graduate recommendations, entrance exams, and overseas applications
+
+#### Mainland
+
+- [Graduate Recommendation (Baoyan)](/en/beyond/mainland/recommend_graduate.md): Introduction to policies, considerations, tips, and action references for SCUT undergraduate recommendation for graduate studies. Information is time-sensitive — verify as needed.
+- [Graduate Unified Admission Exam (Kaoyan)](/en/beyond/mainland/unified_admission.md): An introduction to pursuing graduate studies at SCUT through the unified national entrance exam, covering pathways, tips, school references, and past data.
+- [PhD](/en/beyond/mainland/phd.md): An introduction to applying for PhD programs at domestic universities from the perspective of a SCUT student, with considerations, action references, and tips.
+
+#### Abroad
+
+- [Master's Programs](/en/beyond/abroad/master.md): Introduction to overseas master's programs and tips for applying to graduate programs abroad from a SCUT undergraduate background.
+- [PhD Programs](/en/beyond/abroad/phd.md): An introduction to applying for direct-entry PhD and other doctoral programs abroad from the perspective of a SCUT student.
+
+### Health
+
+- [Health and Wellbeing Guide](/en/health.md): Freshman adaptation tips, mental health guidance, and medical care services at SCUT to help you thrive through university
+- [Stay Alive First](/en/health/alive_first.md): Stay alive first — campus safety, mental health, and emergency resources
+- [On Ambition](/en/health/freshman_guidance.md): Advice for freshmen on navigating university choices, environment, and self-management
+- [SCUT Medical Guide](/en/health/medical_care.md): A student-written guide to using SCUT campus hospitals, medical insurance, outpatient referral reimbursement, and hospitalization
+
+### Other
+
+- [Additional Resources](/en/others.md): Contribution guide, roadmap, brand assets, and copyright information for the Survive in SCUT handbook
+- [Contributing](/en/others/contributing.md): Guide to contributing to the SCUT Survival Manual
+- [Maintenance Roadmap](/en/others/roadmap.md): Roadmap for maintaining the SCUT Survival Manual
+- [Qimeng SCUT App](/en/others/app.md): Download and introduction of the companion app for the SCUT Survival Manual
+- [University Branding](/en/others/branding.md): SCUT logo and branding image resources
+- [How to Ask Questions the Smart Way](/en/others/ask-the-smart-way.md): How To Ask Questions The Smart Way (SCUT Edition)
+- [Copyrights](/en/copyrights.md): Notes about licenses, third-party assets, and reuse boundaries
+
+### Other
+
+- [ACM Programming Competition](/en/learn/extra/contest/ACM.md): Introduction to the ACM Programming Competition (ACM-XCPC) and participation guide, covering team recruitment, training schedules, competition rules, and more
+- [ACM程序设计竞赛](/learn/extra/contest/ACM.md): ACM程序设计竞赛（ACM-XCPC）简介及参赛指南，涵盖集训队招新、训练安排、比赛规则等内容
+- [Chinese Mathematics Competition (CMC)](/en/learn/extra/contest/cmc.md): Introduction to the Chinese Mathematics Competition (CMC) and a simple participation guide
+- [First-Year Survival Guide for SCUT Math Students](/en/learn/curricular/majors/math/math_tutorial.md): A study guide for SCUT's math department, including resources for learning
+- [Probability Distribution Gallery](/en/learn/curricular/common/probalistics_and_statistics/distribution_gallery.md): An interactive learning tool for visualizing common distribution functions in Probability Theory and Mathematical Statistics
+- [Probability Theory and Mathematical Statistics Study Notes](/en/learn/curricular/common/probalistics_and_statistics/plt_note.md): Study notes for SCUT's Probability Theory and Mathematical Statistics course
+- [Quick Guide to Major Transfer at SCUT](/en/learn/curricular/transfer_major_quick.md): A quick primer for SCUT freshmen on major transfer, covering the May university-wide transfer mechanism, choices, and preparation timeline
+- [SCUT Major Transfer Guide (2024 Edition)](/en/learn/curricular/transfer_major_2024.md): SCUT Major Transfer Guide (2024 Edition), based on the 2024 cohort policies
+- [Transferring to Electrical Engineering (2026)](/en/learn/curricular/transfer_major_electrical_2026.md): Experience sharing on transferring to SCUT's School of Electric Power (Electrical Engineering and Its Automation), including interview preparation, common questions, and answer strategies
+- [Untitled](/en.md)
+- [全国大学生数学竞赛](/learn/extra/contest/cmc.md): 全国大学生数学竞赛（CMC）简介及简单的参赛指导
+- [华南理工大学数学系学生 大一自救指南](/learn/curricular/majors/math/math_tutorial.md): 介绍华南理工大学的数学系的学习教程，也提供一些所需的资源
+- [华南理工大学转专业指南（2024版）](/learn/curricular/transfer_major_2024.md): 华南理工大学转专业指南（2024版），参考2024级政策编写
+- [华工转专业的快速认知](/learn/curricular/transfer_major_quick.md): 面向华南理工大学转专业新生的快速认知，围绕 5 月学校自主转专业介绍机制、选择和准备节奏
+- [概率分布图像工具](/learn/curricular/common/probalistics_and_statistics/distribution_gallery.md): 概率论与数理统计常见分布函数图像的交互学习工具
+- [概率论与数理统计学习笔记](/learn/curricular/common/probalistics_and_statistics/plt_note.md): 华南理工大学 概率论与数理统计课程的学习笔记
+- [转信工经验分享（2026）](/learn/curricular/transfer_major_information_engineering_2026.md): 华南理工大学转专业至电子与信息学院（信息工程专业）的经验分享，含笔试内容、面试标准与备考建议
+- [转电气经验分享（2026）](/learn/curricular/transfer_major_electrical_2026.md): 华南理工大学转专业至电力学院（电气工程及其自动化）的经验分享，含面试准备、常见问题与回答思路

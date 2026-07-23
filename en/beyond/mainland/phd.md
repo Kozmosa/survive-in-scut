@@ -1,10 +1,19 @@
 ---
 url: /en/beyond/mainland/phd.md
-description: 介绍在华南理工大学背景下申请境内高校博士项目的注意事项、行动参考及经验教训
+description: >-
+  An introduction to applying for PhD programs at domestic universities from the
+  perspective of a SCUT student, with considerations, action references, and
+  tips.
 ---
 
-# 境内高校博士项目
+# PhD Programs at Domestic Universities
 
-介绍在华南理工大学背景下申请境内高校博士项目的注意事项、行动参考及经验教训
+An introduction to applying for PhD programs at domestic universities from the perspective of a SCUT student, with considerations, action references, and tips.
 
-TODO: 申请境内高校博士项目相关
+TODO: Add a guide to direct-entry PhD and application-assessment PhD programs:
+
+* \[ ] Supervisor selection and "套磁" (networking): how to contact professors, read lab papers, and determine research direction
+* \[ ] Core hard requirements: undergraduate/master's research output (first-author/co-first-author papers, patents), recommendation letters
+* \[ ] Application process and timeline: PhD招生 announcement release dates, application windows, and document submission checklists by university
+* \[ ] SCUT direct-entry PhD policy: eligibility, quota allocation, and curriculum differences for SCUT undergraduates
+* \[ ] Interview and assessment: written/oral exam formats for the application-assessment system, common questions, and preparation strategies

@@ -1,151 +1,154 @@
 ---
 url: /en/learn/curricular/lessons.md
-description: 区分华南理工大学本科课程性质，说明不同课程是否参与 GPA、均分、综测、学业预警等指标计算
+description: >-
+  Distinguishes undergraduate course types at SCUT, explaining whether different
+  courses count toward GPA, weighted average, comprehensive evaluation, academic
+  warning, and other indicators
 ---
 
-# 课程性质介绍
+# Course Type Overview
 
-课程性质不是标签游戏。它决定一门课是否影响毕业、均分、GPA、综测、学业预警、转专业和保研。看课表时，不要只看课程名，还要看它在培养方案里属于哪一类。
+Course type isn't just a label game. It determines whether a course affects graduation, weighted average, GPA, comprehensive evaluation, academic warnings, major transfer, and graduate school recommendation. When looking at your course schedule, don't just glance at the course name -- check which category it falls under in your training plan.
 
-## 先看培养方案
+## First, Check Your Training Plan
 
-本科生手册规定，综合培养计划是安排教学内容、组织教学活动、指导学生修读课程的基本依据。它至少会写清楚：
+The Undergraduate Handbook states that the comprehensive training plan is the basic framework for arranging teaching content, organizing teaching activities, and guiding students in course selection. It clearly specifies at least:
 
-* 培养目标和毕业要求；
-* 必修课程学分数、选修课程学分数、最低毕业学分数；
-* 课程属性、课程名称、学时数、学分数和教学环节；
-* 教学进度表。
+* Training objectives and graduation requirements;
+* Required course credits, elective course credits, and minimum graduation credits;
+* Course attributes, course names, class hours, credits, and teaching components;
+* Teaching schedule.
 
-所以判断一门课的性质，不靠学长口口相传，优先看本专业本年级培养方案。名字相同的课，放在不同专业里，性质可能不同。
+So don't rely on word-of-mouth from upperclassmen to determine a course's type -- check your own major's and year's training plan first. The same course name in different majors may have different classifications.
 
-## 总表
+## Summary Table
 
-| 课程性质       | 主要作用                               | 是否影响毕业     | 是否计入百分制平均学分绩点 | 是否计入四分制 GPA               | 是否计入综测学业成绩积分       |
-| -------------- | -------------------------------------- | ---------------- | -------------------------- | -------------------------------- | ------------------------------ |
-| 主修专业必修课 | 专业毕业底座                           | 是               | 是                         | 是                               | 是                             |
-| 专业选修课     | 补足专业方向和选修学分                 | 通常是           | 否                         | 是，若属于主修培养计划要求课程   | 可由院系选定加入               |
-| 通识教育课程   | 补足通识学分和知识面                   | 是               | 否                         | 否                               | 通常不自动计入，按院系细则     |
-| 公共基础课程   | 数学、英语、物理、体育、思政等基础训练 | 多数是           | 只有其中的必修课计入       | 若属于主修培养计划要求课程则计入 | 必修课含体育课计入             |
-| 集中实践课程   | 实习、实验、训练、课程设计等实践环节   | 是               | 若为主修必修课则计入       | 若属于主修培养计划要求课程则计入 | 视成绩形式和院系细则           |
-| 辅修课程       | 第二专业、微专业、辅修学位             | 只影响辅修要求   | 否                         | 否                               | 通常不计入主修综测，按院系细则 |
-| 校外课程       | 跨校、交流、开放课程等                 | 经审核可认定学分 | 否                         | 否                               | 通常不计入                     |
-| 重考/重修课程  | 修复不及格或不通过课程                 | 通过后可取得学分 | 按 0 处理                  | 重考 GPA 封顶 3.3                | 综测学业成绩积分按 0 处理      |
+| Course Type                | Main Function                                         | Affects Graduation                    | Counts in 100-Point Weighted Average | Counts in 4.0 GPA                           | Counts in Comprehensive Evaluation (Academic Score)           |
+| -------------------------- | ----------------------------------------------------- | ------------------------------------- | ------------------------------------ | ------------------------------------------- | ------------------------------------------------------------- |
+| Major Required Courses     | Foundation for major graduation                       | Yes                                   | Yes                                  | Yes                                         | Yes                                                           |
+| Major Elective Courses     | Fills major direction and elective credits            | Usually                               | No                                   | Yes, if required by the major training plan | May be included at department discretion                      |
+| General Education Courses  | Fills general education credits and breadth           | Yes                                   | No                                   | No                                          | Usually not automatically included; per department rules      |
+| Common Basic Courses       | Math, English, Physics, PE, Political Education, etc. | Most are                              | Only the required ones count         | Yes, if required by the major training plan | Required courses (including PE) count                         |
+| Intensive Practice Courses | Internships, labs, training, course design, etc.      | Yes                                   | Yes if major required course         | Yes if required by major training plan      | Depends on grading format and department rules                |
+| Minor Courses              | Second major, micro-major, minor degree               | Only affects minor requirements       | No                                   | No                                          | Usually not counted in major evaluation; per department rules |
+| Off-Campus Courses         | Cross-institutional, exchange, open courses, etc.     | Credits can be recognized upon review | No                                   | No                                          | Usually not counted                                           |
+| Retake/Re-enroll Courses   | Remedying failed courses                              | Credits earned upon passing           | Treated as 0                         | Retake GPA capped at 3.3                    | Academic score treated as 0                                   |
 
-## 必修课：最硬的课
+## Required Courses: The Hardest Core
 
-必修课是培养方案要求必须修读并取得学分的课程。主修专业必修课不合格，必须参加重考或重修。
+Required courses are those that the training plan mandates you must take and pass credits for. If you fail a major required course, you must take a retake exam or re-enroll.
 
-它的影响最大：
+Their impact is the greatest:
 
-* 毕业：必须取得规定必修课程学分。
-* 百分制平均学分绩点：只计算主修专业综合培养计划要求的必修课程。
-* 转专业、保研：校内经常直接看必修课首考成绩、必修课均分、必修课排名。
-* 综测：学业成绩积分由必修课（含体育课）和院系可自行选定添加的选修课加权计算。
-* 评奖：本学年内必修课程无不及格或不通过科目，通常是评奖评优门槛。
+* **Graduation**: You must earn the specified required course credits.
+* **100-point weighted average**: Only calculates required courses in the major's comprehensive training plan.
+* **Major transfer and graduate recommendation**: The university often directly looks at first-attempt required course scores, required course weighted average, and required course ranking.
+* **Comprehensive evaluation**: The academic score is weighted from required courses (including PE) and department-selected elective courses.
+* **Awards**: Having no failed courses in required courses during the academic year is usually a threshold for awards and honors.
 
-一句话：必修课是校内竞争的主战场。挂一门必修课，伤害不只是补考那一周，而是后续指标里一串连锁反应。
+In short: required courses are the main battlefield for on-campus competition. Failing one required course doesn't just hurt during retake week -- it triggers a chain reaction across subsequent indicators.
 
-## 选修课：不是都一样
+## Elective Courses: Not All the Same
 
-本科生手册把综合培养计划课程分为必修课程和选修课程。选修课要分两类看：
+The Undergraduate Handbook divides comprehensive training plan courses into required and elective. Electives should be viewed in two categories:
 
-* 专业选修课：通常用于满足本专业方向或模块要求，修够规定学分才满足毕业条件。
-* 通识教育课程：属于公共基础通识教育课，按学科类别修读人文科学、社会科学、科学技术等领域课程。
+* **Major elective courses**: Usually used to fulfill direction or module requirements within your major. Graduation conditions require a specified number of credits.
+* **General education courses**: Part of the common basic general education, covering humanities, social sciences, science and technology, etc.
 
-选修课的关键不是“水不水”，而是它是否被培养方案要求、是否被院系纳入某个指标。
+The key point about electives isn't whether they're “easy” -- it's whether they're required by the training plan and whether the department includes them in a given indicator.
 
-* 百分制平均学分绩点：不计入，手册明确计算课程为主修专业综合培养计划要求的必修课程。
-* 四分制 GPA：专业选修课若属于主修专业综合培养计划要求课程，通常计入；通识教育课程不纳入。
-* 综测学业成绩积分：必修课固定计入，选修课是否加入由各院系自行选定。
+* **100-point weighted average**: Not counted. The handbook clearly states this only covers major required courses.
+* **4.0 GPA**: Major elective courses are usually included if required by the major's training plan; general education courses are not.
+* **Comprehensive evaluation academic score**: Required courses are always included; whether electives are included is up to each department.
 
-## 公共基础课：名字公共，后果不公共
+## Common Basic Courses: Common Name, Not-So-Common Consequences
 
-公共基础课程包括社会科学基础课、自然科学基础课、技能类基础课等必修课和通识教育课。常见如数学、英语、物理、体育、思政、军理等。
+Common basic courses include social science basics, natural science basics, skill-oriented basics (required and general education). Common examples: Math, English, Physics, PE, Political Education, Military Theory.
 
-不要把“公共课”理解成“不重要的课”。很多转专业门槛直接盯数学、英语、物理等公共基础课；综测也明确把体育课放进必修课学业成绩积分。
+Don't misunderstand “common” as “unimportant.” Many major transfer thresholds directly target math, English, physics, and other common basics. The comprehensive evaluation also explicitly includes PE in the required course academic score.
 
-判断方法很简单：公共基础课如果在你的培养方案里是必修课，就按必修课处理；如果是通识课，就按通识课处理。
+The judgment is simple: if a common basic course is a required course in your training plan, treat it as a required course; if it's a general education course, treat it as such.
 
-## 辅修课：主修指标基本不认
+## Minor Courses: Mostly Ignored by Major Indicators
 
-辅修专业、辅修学士学位、微专业，是在完成主修专业学习任务的前提下额外修读的体系。
+Minor programs, minor bachelor's degrees, and micro-majors are additional systems pursued on top of completing your major requirements.
 
-规则重点：
+Key rules:
 
-* 辅修课程按辅修教学计划记录，影响辅修证书或辅修学位；
-* 不计入主修专业百分制平均学分绩点；
-* 不计入四分制 GPA；
-* 辅修课程不及格或成绩不理想，可放弃后重新修读；
-* 学生申请缓修主修专业课程的，不予参加辅修。
+* Minor courses are recorded under the minor teaching plan and affect the minor certificate or degree;
+* They do not count toward the major's 100-point weighted average;
+* They do not count toward the 4.0 GPA;
+* Failed or unsatisfactory minor courses can be dropped and retaken;
+* Students who apply to defer major courses are not eligible for minor programs.
 
-辅修的价值在能力和履历，不在刷主修绩点。拿辅修课去赌主修指标，是账本看错了。
+The value of a minor lies in skills and experience, not boosting your major GPA. Using minor courses to gamble on major indicators is misreading the ledger.
 
-## 校外课程：可认定学分，不进入绩点
+## Off-Campus Courses: Credits Can Be Recognized, Grades Don't Count
 
-学生可以根据校际交流协议跨校修读外校课程。外校课程成绩和学分经教务处审核后，以校外课程性质记入成绩单，并可按规定认定本校学分。
+Students can take courses at other institutions through inter-university exchange agreements. After review by the Academic Affairs Office, off-campus course grades and credits are recorded on the transcript with an “off-campus” designation, and can be recognized toward SCUT credits as per regulations.
 
-但手册写得很死：**校外课程成绩及学分一律不纳入各类绩点计算**。
+But the handbook is strict: **Off-campus course grades and credits are never included in any type of GPA calculation**.
 
-这意味着：
+This means:
 
-* 可用于学分认定；
-* 可出现在成绩单；
-* 不计入百分制平均学分绩点；
-* 不计入四分制 GPA。
+* They can be used for credit recognition;
+* They can appear on your transcript;
+* They do not count toward the 100-point weighted average;
+* They do not count toward the 4.0 GPA.
 
-校外课适合补经历、补学分、做交流，不适合拿来拯救 GPA。
+Off-campus courses are good for gaining experience, earning credits, and doing exchanges -- not for saving your GPA.
 
-## 重考、重修、缓考、缓修
+## Retake, Re-enroll, Deferred Exam, Deferred Study
 
-这几个词最容易混：
+These terms are the easiest to confuse:
 
-| 情况 | 本质                                             | 指标后果                                                                                     |
-| ---- | ------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| 重考 | 首次考核不合格后，下学期初参加开课院系安排的考试 | 百分制平均学分绩点按 0；GPA 重考绩点区间以原班级正考区间为准且封顶 3.3；综测学业成绩积分按 0 |
-| 重修 | 重新修读课程并参加考核                           | 百分制平均学分绩点按 0；综测学业成绩积分按 0；成绩单标注                                     |
-| 缓考 | 因病或课程冲突，考前获批后延后考核               | 不按重考成绩记载；通过后可按规则计入对应学期指标                                             |
-| 缓修 | 学习困难等原因，经批准推迟修读部分主修课程       | 通过后可按规则计入修读学期；申请缓修者不予参加辅修                                           |
+| Situation      | Nature                                                                                                                 | Impact on Indicators                                                                                                        |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Retake Exam    | If you fail the first attempt, you take the exam arranged by the offering department at the start of the next semester | 100-point average treated as 0; GPA retake range capped at 3.3; comprehensive evaluation academic score treated as 0        |
+| Re-enroll      | Retake the course and sit for assessment again                                                                         | 100-point average treated as 0; comprehensive evaluation academic score treated as 0; noted on transcript                   |
+| Deferred Exam  | Approved postponement due to illness or schedule conflict before the exam                                              | Not recorded as a retake; if passed, can be counted toward the corresponding semester's indicators per rules                |
+| Deferred Study | Approved postponement of some major courses due to learning difficulties                                               | If passed, can be counted toward the study semester; those applying for deferred study cannot participate in minor programs |
 
-核心区别：重考/重修是补救，缓考/缓修是获批后的延后。前者已经伤到首考指标，后者按规则还有正常记账空间。
+Core difference: Retake/re-enroll are remedies after failure; deferred exam/study are approved postponements. The former already damage first-attempt indicators; the latter still have room for normal recording under the rules.
 
-## 和几个关键指标的关系
+## Relationship with Key Indicators
 
-### 百分制平均学分绩点
+### 100-Point Weighted Average
 
-用于校内推免、转专业等。计算范围是**主修专业综合培养计划要求的必修课程**，按首次考核成绩计算。不及格、不通过、重修通过、重考通过的课程按 0 处理。
+Used for on-campus graduate recommendation, major transfer, etc. The calculation scope is **required courses in the major's comprehensive training plan**, based on first-attempt scores. Failed, not-passed, re-enroll-passed, and retake-passed courses are treated as 0.
 
-### 四分制 GPA
+### 4.0 GPA
 
-主要用于出国成绩证明等。计算范围是**主修专业综合培养计划要求的课程**，但通识教育课程、辅修课、校外课程等不纳入。按最高课程成绩计算，重考绩点封顶 3.3。
+Mainly used for study-abroad grade certificates, etc. The calculation scope is **courses required by the major's comprehensive training plan**, but general education courses, minor courses, and off-campus courses are not included. Based on the highest course grade achieved. Retake GPA is capped at 3.3.
 
-### 综测学业成绩积分
+### Comprehensive Evaluation Academic Score
 
-综测学业成绩积分由学年必修课（含体育课）和院系可自行选定添加的选修课成绩百分制加权平均分计算。选修课是否进入，别猜，看院系综测细则。
+The comprehensive evaluation academic score is calculated as the weighted average of the year's required courses (including PE) and department-selected elective courses, converted to a 100-point scale. Whether electives count -- don't guess, check your department's detailed rules.
 
-### 学业预警
+### Academic Warning
 
-学业预警统计不及格学分累计时，通识教育课程、辅修课程、校外课程除外；之前通过重考、重修获得的学分计入已通过课程学分；当前学期初重考成绩不纳入计算。
+When academic warnings tally accumulated failed credits, general education courses, minor courses, and off-campus courses are excluded; credits previously earned through retakes or re-enrollment count as passed; retake scores from the current semester's start are not included in the calculation.
 
-## 最短判断法
+## Quick Judgment Method
 
-看到一门课，按这个顺序判断：
+When looking at a course, follow this order:
 
-1. 是否在主修培养方案里？
-2. 是必修、专业选修、通识，还是实践环节？
-3. 是首考、缓考，还是重考/重修？
-4. 你关心的是毕业、百分制均分、GPA、综测，还是学业预警？
+1. Is it in your major's training plan?
+2. Is it required, major elective, general education, or practice?
+3. Is it first-attempt, deferred, or retake/re-enroll?
+4. What do you care about -- graduation, weighted average, GPA, comprehensive evaluation, or academic warning?
 
-不要问“这门课算不算成绩”。这个问法太粗。应该问：**这门课以什么课程性质，参与哪个指标的计算？**
+Don't ask “does this course count toward my grades?” That's too vague. Ask: **as what course type, and toward which indicator, does this course count?**
 
 ## References
 
-以下依据来自[《本科生手册.pdf》](/assets/pdf/scut_undergraduate_handbook_2024.pdf)（2024 Undergraduate Handbook）。页码采用 PDF 阅读器页码；括号内为手册页眉页码。课程性质、培养方案和指标计算可能按年级、校区、学院细则或学校新文件调整，实际选课、学分认定、转专业、推免、评奖和学业预警应以学校、教务处、学生工作部和所在学院最新通知为准。
+The following references are from the [Undergraduate Handbook (PDF)](/assets/pdf/scut_undergraduate_handbook_2024.pdf) (2024 Undergraduate Handbook). Page numbers use PDF reader pagination; numbers in parentheses are the handbook header page numbers. Course type, training plan, and indicator calculations may be adjusted by year, campus, departmental rules, or new university policies. For actual course selection, credit recognition, major transfer, graduate recommendation, awards, and academic warnings, refer to the latest notices from the university, Academic Affairs Office, Student Affairs Office, and your specific school/department.
 
-* PDF 第 60-61 页（手册第 58-59 页），《华南理工大学全日制本科学生学分制教学管理实施办法（2017 年修订）》第一部分、第二部分、第三部分：学分制、综合培养计划、最低毕业学分、必修/选修学分、课程属性、公共基础课程、学科基础课程、专业领域课程、集中实践课程和通识教育课程的基本框架。
-* PDF 第 67-69 页（手册第 65-67 页），同一办法第五章、第六章：课程设置分必修课程和选修课程，学生一般应优先保证主修专业必修课程；缓修、通识教育课程选课、辅修课程、免修、免听、重考、缓考、重修、成绩记载、校外课程性质及其学分/绩点处理。
-* PDF 第 70-71 页（手册第 68-69 页），同一办法第三十九条：百分制平均学分绩点只计算主修专业综合培养计划要求的必修课程；四分制 GPA 计算主修专业综合培养计划要求的课程，但通识教育课程、辅修课、校外课程等不纳入。
-* PDF 第 77 页（手册第 75 页），《华南理工大学全日制本科学生学士学位授予实施细则》第二章第四条第 5 项：学士学位授予对四分制平均学分绩点 `2.0` 及以上的要求，以及辅修课程、校外课程除外的口径。
-* PDF 第 100 页（手册第 98 页），《华南理工大学全日制本科学生修读辅修专业、辅修学士学位实施细则》第七条、第十条至第十五条：辅修报名条件、辅修课程教学计划和成绩管理、辅修课程不及格处理、受学业预警时暂停辅修资格，以及终止辅修后可申请学分认定的规则。
-* PDF 第 160 页（手册第 158 页），《华南理工大学全日制本科学生校内学分认定实施办法》第四条、第五条、第六条：辅修/微专业课程与通识课程或主修培养计划以外选修课程之间的学分认定，以及“学分认定仅作为毕业资格审核”的限制。
-* PDF 第 168-169 页（手册第 166-167 页），《华南理工大学全日制本科学生学业预警与降级试读实施办法（2020 年修订）》第二部分、第三部分：学业预警统计不及格学分累计时，通识教育课程、辅修课程、校外课程除外；通过重考、重修获得的学分和当前学期初重考成绩的统计口径。
-* PDF 第 202 页（手册第 200 页），《华南理工大学本科生综合测评及奖励办法（2023 年修订）》附件 1：综合测评学业成绩积分由必修课（含体育课）和院系可自行选定添加的选修课成绩百分制加权平均分计算。
+* PDF pp. 60-61 (Handbook pp. 58-59), SCUT Full-Time Undergraduate Credit System Teaching Management Implementation Measures (2017 Revision), Parts 1, 2, and 3: Basic framework for credit system, comprehensive training plan, minimum graduation credits, required/elective credits, course attributes, common basic courses, disciplinary basic courses, specialized courses, intensive practice courses, and general education courses.
+* PDF pp. 67-69 (Handbook pp. 65-67), same measures, Chapters 5 and 6: Course offerings divided into required and elective; students should prioritize major required courses; deferred study, general education course selection, minor courses, course exemption, audit exemption, retake, deferred exam, re-enrollment, grade recording, off-campus course classification and credit/GPA treatment.
+* PDF pp. 70-71 (Handbook pp. 68-69), same measures, Article 39: 100-point weighted average only calculates major required courses; 4.0 GPA calculates courses required by the major's comprehensive training plan, excluding general education, minor, and off-campus courses.
+* PDF p. 77 (Handbook p. 75), SCUT Full-Time Undergraduate Bachelor's Degree Award Implementation Rules, Chapter 2, Article 4, Item 5: Bachelor's degree requirement of 4.0 GPA ≥ 2.0, excluding minor and off-campus courses.
+* PDF p. 100 (Handbook p. 98), SCUT Full-Time Undergraduate Minor Program and Minor Bachelor's Degree Implementation Rules, Articles 7, 10-15: Minor registration conditions, minor course teaching plan and grade management, minor course failure handling, suspension of minor eligibility under academic warning, and credit recognition rules upon termination of minor.
+* PDF p. 160 (Handbook p. 158), SCUT Full-Time Undergraduate On-Campus Credit Recognition Implementation Measures, Articles 4, 5, and 6: Credit recognition between minor/micro-major courses and general education or non-major elective courses, and the limitation that “credit recognition is only for graduation eligibility review.”
+* PDF pp. 168-169 (Handbook pp. 166-167), SCUT Full-Time Undergraduate Academic Warning and Grade Reduction Trial Implementation Measures (2020 Revision), Parts 2 and 3: Academic warning tallying of accumulated failed credits, excluding general education, minor, and off-campus courses; statistical treatment of credits earned through retakes/re-enrollment and current-semester retake scores.
+* PDF p. 202 (Handbook p. 200), SCUT Undergraduate Comprehensive Evaluation and Awards Measures (2023 Revision), Appendix 1: Comprehensive evaluation academic score calculated as weighted average of required courses (including PE) and department-selected elective course grades on a 100-point scale.

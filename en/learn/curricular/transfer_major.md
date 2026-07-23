@@ -1,29 +1,31 @@
 ---
 url: /en/learn/curricular/transfer_major.md
-description: 介绍华南理工大学与转专业有关的政策制度，及给想要转专业同学的一份行动指南和参考
+description: >-
+  Introduces SCUT's policies on major transfer, along with an action guide and
+  reference for students considering transferring
 ---
 
-# 转专业总览
+# Major Transfer Overview
 
-介绍华南理工大学与转专业有关的政策制度，及给想要转专业同学的一份行动指南和参考。
+An introduction to SCUT's policies on changing your major, along with an action guide and reference for students considering making the switch.
 
-## 快速认知
+## Quick Overview
 
-如果你刚开始了解转专业，可以先阅读：[华工转专业的快速认知](./transfer_major_quick.md)。
+If you're just starting to learn about major transfer, read this first: [Quick Guide to Major Transfer at SCUT](./transfer_major_quick.md)
 
-## 转专业指南
+## Major Transfer Guide
 
-目前，本手册最新版本的转专业指南为：[华南理工大学转专业指南（2024版）](./transfer_major_2024.md)
+The latest version of the major transfer guide is: [SCUT Major Transfer Guide (2024 Edition)](./transfer_major_2024.md)
 
-## 经验分享
+## Experience Sharing
 
-* [转电气经验分享（2026）](./transfer_major_electrical_2026)（作者：淬）—— 面向转专业至电力学院（电气工程及其自动化）的面试准备与常见问题
+* [Transferring to Electrical Engineering (2026)](./transfer_major_electrical_2026) (Author: Cui) -- Interview preparation and common questions for transferring to the School of Electric Power (Electrical Engineering and Its Automation)
 
-## 交流平台
+## Community Platforms
 
-加入下列群聊，若需要备注了解来源，请备注：华南理工生存手册。
+Join the following QQ groups. If asked where you found them, note: SCUT Survival Guide.
 
-* **华工数学群：941597537**
-  * 主要聚焦二次选拔，亦有其他数学、物理、计算机相关课业内容讨论
-* **华工转专业交流群（转群）：574301006**
-  * 覆盖面广，群内成员有各专业、各背景自2018到2024级的有转专业经历的学长、学姐，群文件亦有转专业相关的通知文件、备考资料等。
+* **SCUT Math Group: 941597537**
+  * Mainly focused on secondary selection (early screening), also discusses math, physics, and computer coursework.
+* **SCUT Major Transfer Discussion Group (Transfer Group): 574301006**
+  * Broad coverage. Members include upperclassmen from various majors and backgrounds (2018-2024 cohorts) with major transfer experience. Group files also contain transfer-related notices and exam preparation materials.

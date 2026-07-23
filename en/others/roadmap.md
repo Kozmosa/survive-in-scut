@@ -1,8 +1,8 @@
 ---
 url: /en/others/roadmap.md
-description: 维护路线图
+description: Roadmap for maintaining the SCUT Survival Manual
 ---
 
-# 维护路线图
+# Maintenance Roadmap
 
-待完善
+To be improved

@@ -1,111 +1,111 @@
 ---
 url: /en/others/ask-the-smart-way.md
-description: How To Ask Questions The Smart Way (SCUT Ver.)
+description: How To Ask Questions The Smart Way (SCUT Edition)
 ---
 
-# 提问的智慧
+# How to Ask Questions the Smart Way
 
-> 在黑客的世界里，你所提技术问题的解答很大程度上取决于你提问的方式与解决此问题的难度。
+> In the world of hackers, the answers you get to your technical questions depend as much on how you ask them as on the difficulty of the problem itself.
 >
 > From *[How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)* By Eric Steven Raymond.
 >
-> 除另有注明外，本页其余新增内容按本仓库根目录 LICENSE 所述的 CC0 许可发布
+> Except where otherwise noted, additional content on this page is released under CC0 as described in the LICENSE at the root of this repository.
 
-平庸的提问只能得到平庸的回答，好的提问才能得到靠谱的好回答；而一些充满取巧或焦虑心态的“烂”提问，得到的是看起来很美的“糖衣炮弹”。**本文将教你如何提问才更有可能得到满意的答复**。
+Mediocre questions get mediocre answers; good questions get reliable, useful answers; and “bad” questions driven by cleverness or anxiety get you “sugar-coated bullets” that look good on the surface but aren't helpful. **This article will teach you how to ask questions in a way that's more likely to get you satisfactory answers.**
 
-## 为什么要学会如何正确提问？
+## Why Learn to Ask Questions Properly?
 
-1. 不会正确提问，即使给你专家人脉，也没办法有效利用。很多人即使把专家放到面前，也没法获取太多有效信息。
-2. 懂得如何正确提问的人，往往有更多的培养前途和机会进入职场后，问蠢问题是巨大失分项，而能提出好问题是巨大加分项。
+1. If you don't know how to ask questions properly, even having access to expert contacts won't help you make effective use of them. Many people can't extract useful information even when an expert is right in front of them.
+2. People who know how to ask good questions tend to have more growth potential and opportunities. In the workplace, asking dumb questions is a major red flag, while asking great questions is a huge plus.
 
-> PS：那我能不能不问了，只上课看书收集信息？
+> PS: So can I just skip asking questions entirely and only attend classes, read books, and gather information?
 
-和中学时代不同，很多事情已经没有标准答案了，也不是什么都能在书上找到细节。问题无穷无尽，书本课程不可能——都告诉你所有的答案。掌握关键信息后，依然需要“聪明脑子”来处理具体细节问题，而系统思考方法就是这个“聪明脑子”。
+Unlike high school, many things no longer have standard answers, nor can you find every detail in books. Questions are endless — textbooks and courses can't cover all the answers. After grasping key information, you still need a “smart brain” to handle specific details, and systematic thinking is that “smart brain.”
 
-**如何正确提问，本质上就是系统思考方法的核心应用。**
+**Learning to ask the right questions is essentially the core application of systematic thinking.**
 
-## 如何才能正确提问？
+## How to Ask Questions Properly?
 
-提问前，请先思考三个问题
+Before asking, consider three questions:
 
-1. 问谁：寻找有时间、有精力、有耐心的回答者
-2. 问什么：提出真正有价值的好问题，而不是能轻易找到答案的问题
-3. 问多少：问之前，问之后都思考一下，不要一直追问稍微想一下就能明白的事情
+1. Who to ask: Find someone who has the time, energy, and patience to answer.
+2. What to ask: Ask genuinely valuable questions, not ones whose answers can be easily found.
+3. How much to ask: Think before and after asking; don't keep pressing for answers to things you could figure out with a little thought.
 
-提问前，先做以下几件事
+Before asking, do the following:
 
-* **尝试阅读手册以找到答案**
-* **尝试搜索互联网以找到答案**
-* 搞清楚目的
-* 搞清楚问题（主体和客体的）背景信息
-* 如有必要，把一个复杂的复合问题拆成多个单一问题
+* **Try reading the manual to find the answer**
+* **Try searching the internet to find the answer**
+* Clarify your goal
+* Clarify the background information (of both subject and object)
+* If necessary, break a complex compound question into multiple individual questions
 
-**大多数时候，群里的回答者都是会耐心帮助你的，所以请不要担心**。只要你的问题不是简单到随便一搜就能知道答案的，或者特别模糊不清的。同时在回答者并不是那么空闲的时候，请避免无休止地追问并要求某个回答者解决你的问题。
+**Most of the time, people in the group will patiently help you, so don't worry.** As long as your question isn't something a quick search could easily answer, or isn't particularly vague. Also, when the person answering isn't free, avoid endlessly chasing them and demanding they solve your problem.
 
-## 具体案例
+## Concrete Examples
 
-以张三的问题作为例子：
+Let's use Zhang San's question as an example:
 
-> 张三问：“你觉得我有必要加入学生会吗？”
+> Zhang San asks: “Do you think I should join the student union?”
 >
-> 回答：“大学期间参加像学生会这样的社团还是比较有价值的。如果你不是很清楚选择什么社团，要不要参加的话，那就考虑选择加入校学生会吧，相对下限有保障。”
+> Answer: “Participating in organizations like the student union during college can be quite valuable. If you're not sure which club to choose or whether to join at all, then consider joining the university student union — it's a relatively safe bet.”
 
-**进阶好问题：从提问者中挖掘信息，把差问题改成好问题**
+**Levelling up: Extract information from the asker, turning a bad question into a good one.**
 
-那需要挖掘哪些信息呢？
+What information needs to be extracted?
 
-1. **目的**：为什么你想加入学生会？你希望加入后可以获得什么？
-2. **背景信息**：你的家庭背景，及对于未来出路的倾向？中学时是否有相关社会实践经验？为何没考虑其他大学社团（比如兴趣实践类社团）？
+1. **Purpose**: Why do you want to join the student union? What do you hope to gain from it?
+2. **Background info**: What's your family background, and what are your future career inclinations? Did you have any relevant social practice experience in high school? Why haven't you considered other campus organizations (like hobby or practice-oriented clubs)?
 
-有了上述信息，回答者才能结合经验思考给出好回答。
+With this information, the answerer can combine their experience and thinking to give a good answer.
 
-但张三可能会说，这些问题我也不知道答案啊，该怎么办？
+But Zhang San might say: I don't know the answers to these questions either. What should I do?
 
-那么张三可以先提问这些问题：
+Then Zhang San can start by asking these questions:
 
-* **（目的）加入学生会有什么好处？最大价值是什么？**
-* **（背景信息）大学里有哪些社团，有什么区别？**
-* **（背景信息）什么样的人更适合进学生会（而不是其他社团）？**
+* **(Purpose) What are the benefits of joining the student union? What's the biggest value?**
+* **(Background) What clubs are there in college, and what are the differences?**
+* **(Background) What type of person is more suited for the student union (rather than other clubs)?**
 
-**这就是把原本复杂的问题，拆解成一个个子问题分别来回答**。
+**This is taking a complex question and breaking it down into sub-questions to be answered separately.**
 
-## 不同水平的提问能获得的对应回答
+## Answers You Get at Different Questioning Levels
 
-**提问 0：学生会怎么样？**
+**Question 0: What's the student union like?**
 
-这是一个**最差**的提问。明明有重要问题却不问，没有提供任何信息甚至信号，没法回答，基本不能帮到提问者。
-
-***
-
-**提问 1：你觉得我有必要加入学生会吗？**
-
-这是一个**较差**的提问。几乎没有提供关于目的和背景信息方面的必要信息，只能给一些笼统回答或者粗暴的回答：
-
-> **回答**：如果你不是很清楚选择什么社团，要不要参加的话，那就考虑选择加入校学生会吧，相对下限有保障。
+This is the **worst** kind of question. You're not asking about important things, you're providing no information or signals at all, it's unanswerable, and it basically can't help the asker.
 
 ***
 
-**提问 2：如果想提升通用问题解决能力，校团委和学生会选哪一个？**
+**Question 1: Do you think I should join the student union?**
 
-这是一个**合格**的提问。明确提供了“目的”这个最基本的信息，可以给出一些主流常见情况的有效回答。这样的提问可以获得一些有建议性的意见，但未必能非常适配个人实际情况。
+This is a **poor** question. It provides almost no necessary information about purpose or background, and can only get vague or blunt answers:
 
-> **回答**：协作能力锻炼的角度，校团委和学生会都有锻炼机会，只是校团委更侧重“办公室工作跟人打交道多”，校学生会更侧重“策划执行具体的活动”，你可以根据你自己的情况来选择。
+> **Answer**: If you're not sure which club to choose or whether to join, then consider the university student union — it's a relatively safe bet.
 
 ***
 
-**提问 3：我是一个小镇做题家性格也比较内向，以提升通用问题解决能力为目的的话，是考虑去校团委还是校学生会呢？我们学校感觉校团委要更有影响力一点，但好像听说里面也更官僚，有点纠结。**
+**Question 2: If I want to improve general problem-solving skills, should I choose the university Youth League Committee or the student union?**
 
-这是一个**良好**的提问。除了“目的”以外，还提供了提问者和本校学生会团委相关的背景信息。同时自己结合相关信息进行了初步分析评估，具体纠结点也提出来了。这样的提问能获得有针对性的指导建议，能做到这样就很不错了。
+This is a **passable** question. It clearly provides the most basic information — “purpose” — and can yield useful answers for common situations. This kind of question can get you some constructive advice, but it may not be very tailored to your personal situation.
 
-> **回答**：从提升通用问题解决能力角度，要考虑两方面：
+> **Answer**: From the perspective of building collaboration skills, both the Youth League Committee and the student union offer opportunities. However, the Youth League Committee tends to focus more on “office work and dealing with people,” while the student union focuses more on “planning and executing specific activities.” You can choose based on your own circumstances.
+
+***
+
+**Question 3: I'm a typical “town-and-village exam machine” and I'm pretty introverted. If my goal is to improve general problem-solving skills, should I consider the Youth League Committee or the student union? In our school, the Youth League Committee seems to have more influence, but I've heard it's also more bureaucratic, which makes me hesitate.**
+
+This is a **good** question. Besides “purpose,” it also provides background information about the asker and their school's specific situation. It also includes some preliminary analysis and identifies specific points of hesitation. This type of question can get you targeted advice, and being able to ask at this level is already great.
+
+> **Answer**: From the perspective of improving general problem-solving skills, you need to consider two aspects:
 >
-> 1. 社团本身能否提供给你机会
-> 2. 你在社团内部能否成为骨干，甚至领导层。
+> 1. Whether the organization itself can provide you with opportunities
+> 2. Whether you can become a core member or even leadership within the organization
 >
-> 那结合你的情况，校团委比学生会多的机会，没法弥补你在校团委里的竞争难度风险的。根据我的经验，我觉得小镇做题家适合先从相对更侧重做事的校学生会起步会更好。
+> Given your situation, the extra opportunities the Youth League Committee offers over the student union wouldn't make up for the competitive risk you'd face there. In my experience, I think a “town-and-village exam machine” type would be better off starting with the student union, which is more task-oriented.
 
 ***
 
-**提问 4：关于是否加入学生会这个事情，我觉得我会纠结是因为，我不是很确定加入这些大学社团对我未来最大的价值是什么，以及是否加入社团才是获取这个价值的最优路径，您能帮我解答这个疑惑吗？**
+**Question 4: Regarding whether to join the student union, I think my hesitation comes from not being sure what the biggest value of joining college organizations really is for my future, and whether joining any organization is even the best path to gaining that value. Could you help me with this confusion?**
 
-这是一个**优秀**的提问。提问者自己进行了系统思考，并且有不错的洞察力，把握在了关键问题所在。透过现象看本质，可以聚焦在核心问题本身的答案，也是一种系统思考层面的指导，这个境界很难，短期内不强求。
+This is an **excellent** question. The asker has done systematic thinking, shows good insight, and has pinpointed the key issue. Seeing through the surface to the core, this focuses the answer on the essence of the problem itself — it's also a form of guidance in systematic thinking. This level is hard to reach and shouldn't be forced in the short term.

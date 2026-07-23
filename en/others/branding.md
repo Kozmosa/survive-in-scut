@@ -1,29 +1,29 @@
 ---
 url: /en/others/branding.md
-description: 华南理工大学的校徽图片资源
+description: SCUT logo and branding image resources
 ---
 
-# 学校标识
+# University Branding
 
-此处整理了学校的校徽和校名标识，可用于 PPT, 报告等场景。
+Here you'll find the university's logos and name marks, suitable for use in PPTs, reports, and other scenarios.
 
-| 类型                | 预览                                                                                                                                                                       | 各格式下载                                                                                                                                    |
-| :------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-| 标准校徽            |                                                                                                               | SVG / PNG                                           |
-| 校徽 + 校名         |                                                                                                   | SVG / PNG                       |
-| 纯白校徽            |                                           | SVG / PNG                                               |
-| 纯白校徽 + 校名     |                           | SVG / PNG                           |
-| 彩色校徽 + 白色校名 |          | SVG / PNG |
-| 国际校区标识        |                                                                                    | PNG                                                                      |
-| 国际校区标识白字版  |  | PNG                                                                |
-| 国际校区标识描边版  |                                                                              | JPG                                                                      |
+| Type                      | Preview                                                                                                                                                                           | Download Formats                                                                                                                              |
+| :------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
+| Standard Logo             |                                                                                                                 | SVG / PNG                                           |
+| Logo + Name               |                                                                                                          | SVG / PNG                       |
+| White Logo                |                                                | SVG / PNG                                               |
+| White Logo + Name         |                                | SVG / PNG                           |
+| Colored Logo + White Name |           | SVG / PNG |
+| GZIC Logo                 |                                                                                              | PNG                                                                      |
+| GZIC Logo (White Text)    |  | PNG                                                                |
+| GZIC Logo (Outlined)      |                                                                                     | JPG                                                                      |
 
-## 来源与版权声明
+## Source and Copyright Notice
 
-本页面所收录的学校标识素材来源于华南理工大学官网：
+The university branding assets collected on this page are sourced from the official SCUT website:
 https://www.scut.edu.cn/new/9017/list.htm
 
-相关学校标识及其权利归华南理工大学所有。
-本页面仅作信息整理之用；整理、处理后的素材仅供本校学生在校内学习交流使用，未经版权方许可，严禁用于盈利或其他违规用途。
-如相关内容涉及侵权或权利瑕疵，请权利人联系我们并提供权属证明，我们将在核实后及时删除或更正。
-因使用者超出授权范围使用本页面素材所产生的法律后果，由使用者自行承担相应责任。
+All related branding assets and their rights belong to South China University of Technology (SCUT).
+This page serves purely as an information compilation; the organized and processed assets are intended for use by SCUT students in on-campus learning and exchange only. Commercial use or any other unauthorized use is strictly prohibited without permission from the copyright holder.
+If any content infringes upon your rights or contains defects, please contact us with proof of ownership, and we will promptly remove or correct the content upon verification.
+Any legal consequences arising from use of these materials beyond the authorized scope shall be borne by the user.
