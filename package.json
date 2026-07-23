@@ -19,7 +19,7 @@
   },
   "simple-git-hooks": {
     "pre-commit": "npx lint-staged",
-    "pre-push": "bash scripts/pre-push-check.sh"
+    "pre-push": "if test -f scripts/pre-push-check.sh; then bash scripts/pre-push-check.sh; fi"
   },
   "devDependencies": {
     "lint-staged": "^17.0.8",
