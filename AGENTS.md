@@ -43,7 +43,8 @@ If these files are added later, treat them as higher-priority instructions and u
 - Sync legacy VuePress public assets to VitePress: `npm run docs:sync:vitepress-public`
 - Format check: `npm run docs:fmt`
 - Auto-format: `npm run docs:fmt:fix`
-- Pre-commit hook: managed by `simple-git-hooks` + `lint-staged` (runs `prettier --write` on staged files)
+- Pre-commit hook: managed by `simple-git-hooks` + `lint-staged` (runs `prettier --write` on staged files).
+- Pre-push hook: managed by `simple-git-hooks` (runs `bash scripts/pre-push-check.sh`, which executes `npm run docs:build` and restores auto-generated metadata).
 
 ### Lint/test reality in this repo
 
@@ -52,6 +53,7 @@ If these files are added later, treat them as higher-priority instructions and u
 - Formatting is enforced by two quality gates:
   - CI (`npm run docs:fmt` in `.github/workflows/format.yml`).
   - Pre-commit hook (`simple-git-hooks` + `lint-staged`, runs `prettier --write`).
+- Pre-push hook (`simple-git-hooks`, runs `bash scripts/pre-push-check.sh` — full VitePress build + cleanup).
 
 ### "Single test" guidance (important)
 

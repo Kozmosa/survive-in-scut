@@ -18,7 +18,8 @@
     "*.{js,ts,json,md,vue,html,yml}": "prettier --write"
   },
   "simple-git-hooks": {
-    "pre-commit": "npx lint-staged"
+    "pre-commit": "npx lint-staged",
+    "pre-push": "bash scripts/pre-push-check.sh"
   },
   "devDependencies": {
     "lint-staged": "^17.0.8",
