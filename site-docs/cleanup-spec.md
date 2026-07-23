@@ -106,42 +106,17 @@
 
 ### 推荐结构
 
-```typescript
-// config.ts — themeConfig.sidebar
-sidebar: {
-  '/infra/': [
-    { text: '设施', items: [
-      { text: '概览', link: '/infra/index' },
-      { text: '大学城', collapsed: true, items: [
-        { text: '地图', link: '/infra/hemc/map' },
-        { text: '穗石', link: '/infra/hemc/suishi' },
-        { text: '周边', link: '/infra/hemc/nearby' },
-      ]},
-      { text: '五山', collapsed: true, items: [
-        { text: '地图', link: '/infra/wushan/map' },
-        { text: '周边', link: '/infra/wushan/nearby' },
-      ]},
-      { text: '国际', collapsed: true, items: [
-        { text: '地图', link: '/infra/gzic/map' },
-        { text: '周边', link: '/infra/gzic/nearby' },
-      ]},
-    ]},
-  ],
-  '/life/': [
-    { text: '生活', items: [
-      { text: '时间', collapsed: true, items: [/* ... */] },
-      { text: '吃饭', collapsed: true, items: [/* ... */] },
-      { text: '娱乐', collapsed: true, items: [/* ... */] },
-    ]},
-  ],
-  '/learn/': [/* ... */],
-  '/beyond/': [/* ... */],
-  '/health/': [/* ... */],
-  '/others/': [/* ... */],
-}
-```
+sidebar 定义提取到独立文件 `docs/.vitepress/sidebar.ts`，按 locale 导出 `sidebarZh` 和 `sidebarEn`。
+中文 sidebar key 为 `'/'`，英文 key 为 `'/en/'`，VitePress 按最长路径匹配优先规则自动选择对应 sidebar。
+在 `config.ts` 中通过 import 合并入 `themeConfig.sidebar`。
 
-英文 locale 需在 key 前加 `/en/` 前缀。为避免主 config.ts 膨胀，建议将 sidebar 定义提取到独立文件（如 `docs/.vitepress/sidebar.ts`）。
+### 状态
+
+- [x] 创建 `docs/.vitepress/sidebar.ts`，导出 `sidebarZh` 和 `sidebarEn`
+- [x] 在 `config.ts` 中合并到 `themeConfig.sidebar`
+- [x] 中英文各自独立配置，路径前缀正确处理
+- [x] 所有 8 个导航分组均有对应 sidebar 条目
+- [x] 构建验证通过
 
 ### 验收标准
 

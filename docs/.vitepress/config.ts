@@ -3,6 +3,7 @@ import taskLists from "markdown-it-task-lists";
 import llmstxt from "vitepress-plugin-llms";
 import contributorsCollector from "./plugins/contributorsCollector";
 import todoCollector from "./plugins/todoCollector";
+import { sidebarZh, sidebarEn } from "./sidebar";
 
 const REPOSITORY = "https://github.com/Kozmosa/survive-in-scut";
 
@@ -371,6 +372,7 @@ export default defineConfig({
   },
   themeConfig: {
     logo: "/root-assets/logo/scut-cat-1.jpg",
+    sidebar: { ...sidebarZh, ...sidebarEn },
     search: {
       provider: "local",
       options: {
