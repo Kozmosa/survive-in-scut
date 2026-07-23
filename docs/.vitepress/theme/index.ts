@@ -6,6 +6,7 @@ import ContributorsList from "../../.vuepress/components/ContributorsList.vue";
 import ImmersiveShell from "../../.vuepress/components/ImmersiveShell.vue";
 import ProbabilityDistributionGallery from "../../.vuepress/components/ProbabilityDistributionGallery.vue";
 import MarkdownEditor from "../components/MarkdownEditor.vue";
+import Details from "../components/Details.vue";
 import ExpandableCard from "../components/ExpandableCard.vue";
 import PdfViewer from "../components/PdfViewer.vue";
 import PageContributors from "../components/PageContributors.vue";
@@ -23,6 +24,7 @@ export default {
       ProbabilityDistributionGallery,
     );
     app.component("MarkdownEditor", MarkdownEditor);
+    app.component("Details", Details);
     app.component("ExpandableCard", ExpandableCard);
     app.component("PdfViewer", PdfViewer);
     app.component("PageContributors", PageContributors);
