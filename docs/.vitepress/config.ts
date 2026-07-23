@@ -1,4 +1,5 @@
 import { defineConfig } from "vitepress";
+import llmstxt from "vitepress-plugin-llms";
 import contributorsCollector from "./plugins/contributorsCollector";
 import todoCollector from "./plugins/todoCollector";
 
@@ -442,6 +443,13 @@ export default defineConfig({
         ],
       }),
       contributorsCollector(),
+      llmstxt({
+        ignoreFiles: ["others/todo.md", "en/others/todo.md"],
+        excludeUnnecessaryFiles: true,
+        excludeIndexPage: true,
+        excludeBlog: true,
+        excludeTeam: true,
+      }),
     ],
     optimizeDeps: {
       include: ["pdfjs-dist"],
