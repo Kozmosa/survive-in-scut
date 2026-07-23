@@ -30,19 +30,19 @@
 
 #### 1.1 配置文件
 
-- [ ] 删除 `docs/.vuepress/config.js`
-- [ ] 删除 `docs/.vuepress/client.ts`
+- [x] 删除 `docs/.vuepress/config.js`
+- [x] 删除 `docs/.vuepress/client.ts`
 
 #### 1.2 Layout
 
-- [ ] 删除 `docs/.vuepress/layouts/Layout.vue`
-- [ ] 删除 `docs/.vuepress/layouts/` 目录
+- [x] 删除 `docs/.vuepress/layouts/Layout.vue`
+- [x] 删除 `docs/.vuepress/layouts/` 目录
 
 #### 1.3 插件
 
-- [ ] 删除 `docs/.vuepress/plugins/app-release/`
-- [ ] 删除 `docs/.vuepress/plugins/contributors/`
-- [ ] 删除 `docs/.vuepress/plugins/pdfviewer/`
+- [x] 删除 `docs/.vuepress/plugins/app-release/`
+- [x] 删除 `docs/.vuepress/plugins/contributors/`
+- [x] 删除 `docs/.vuepress/plugins/pdfviewer/`
 
 #### 1.4 组件
 
@@ -50,18 +50,18 @@
 - [x] 迁移 `ContributorsList.vue` → `docs/.vitepress/components/`（已完成）
 - [x] 迁移 `ImmersiveShell.vue` → `docs/.vitepress/components/`（已完成）
 - [x] 迁移 `ProbabilityDistributionGallery.vue` → `docs/.vitepress/components/`（已完成）
-- [ ] 确认 `ExpandableCard.vue` 使用 `.vitepress` 版本后删除 `.vuepress` 版本
-- [ ] 确认 `MarkdownEditor.vue` 使用 `.vitepress` 版本后删除 `.vuepress` 版本
-- [ ] 删除 `docs/.vuepress/components/` 目录
+- [x] 确认 `ExpandableCard.vue` 使用 `.vitepress` 版本后删除 `.vuepress` 版本
+- [x] 确认 `MarkdownEditor.vue` 使用 `.vitepress` 版本后删除 `.vuepress` 版本
+- [x] 删除 `docs/.vuepress/components/` 目录
 
 #### 1.5 静态资源
 
 - [x] `docs/public/` 设为 canonical source（已完成）
 - [x] `.gitignore` 移除 `/docs/public/` 条目（已完成）
 - [x] Sync 脚本方向反转（已完成）
-- [ ] 将 `docs/.vuepress/public/` 内容合并入 `docs/public/`
-- [ ] 删除 `docs/.vuepress/public/` 目录
-- [ ] 删除 `scripts/sync-vitepress-public.js`（不再需要向后兼容）
+- [x] 将 `docs/.vuepress/public/` 内容合并入 `docs/public/`（`docs/public` 已是 canonical source）
+- [x] 删除 `docs/.vuepress/public/` 目录
+- [x] 删除 `scripts/sync-vitepress-public.js`（不再需要向后兼容）
 
 #### 1.6 构建产物
 
@@ -72,11 +72,11 @@
 
 #### 1.7 其他残留
 
-- [ ] 删除 `packages/vuepress-plugin-todo/`（VuePress 旧 TODO 插件）
-- [ ] 删除 `examples/vuepress-config-example.js`
-- [ ] 删除 `create.sh`
-- [ ] 更新 `scripts/docs-build-platform.js`：移除 `syncLegacyPublicDir` 调用（第 22 行、第 81-96 行）
-- [ ] 确认 `docs/.vitepress/plugins/contributorsCollector.ts` 的 `excludeDirs` 中的 `".vuepress"` 是否仍需保留
+- [x] 删除 `packages/vuepress-plugin-todo/`（VuePress 旧 TODO 插件）
+- [x] 删除 `examples/vuepress-config-example.js`
+- [x] 删除 `create.sh`
+- [x] 更新 `scripts/docs-build-platform.js`：移除 `syncLegacyPublicDir` 调用（已完成）
+- [x] 确认 `docs/.vitepress/plugins/contributorsCollector.ts` 的 `excludeDirs` 中的 `".vuepress"` 已移除（已完成）
 
 ### 验收标准
 

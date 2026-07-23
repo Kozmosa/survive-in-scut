@@ -13,7 +13,6 @@ const CONTRIBUTOR_ALIASES: Record<string, string> = {
 const EXCLUDED_DIRECTORIES = new Set([
   ".git",
   ".vitepress",
-  ".vuepress",
   "dist",
   "node_modules",
   "public",

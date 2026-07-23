@@ -19,7 +19,6 @@ await mkdir(tempRoot, { recursive: true });
 
 try {
   await cp(docsDir, tempDocsDir, { recursive: true });
-  await syncLegacyPublicDir(tempDocsDir);
 
   const viteConfigPath = path.join(tempDocsDir, ".vitepress", viteConfigName);
   await rewriteBaseToDocs(viteConfigPath);
@@ -76,23 +75,6 @@ async function rewriteBaseToDocs(configPath) {
   }
 
   throw new Error(`Cannot locate config object to set base in ${configPath}`);
-}
-
-async function syncLegacyPublicDir(targetDocsDir) {
-  const legacyPublicDir = path.join(targetDocsDir, ".vuepress", "public");
-  const vitePublicDir = path.join(targetDocsDir, "public");
-
-  try {
-    const legacyStats = await stat(legacyPublicDir);
-    if (!legacyStats.isDirectory()) {
-      return;
-    }
-  } catch {
-    return;
-  }
-
-  await rm(vitePublicDir, { recursive: true, force: true });
-  await cp(legacyPublicDir, vitePublicDir, { recursive: true });
 }
 
 function runCli(toolName, args) {

@@ -1,7 +1,7 @@
 {
   "generatedAt": "2026-06-08T10:17:40.466Z",
-  "sourceUrl": "https://raw.githubusercontent.com/Kozmosa/survive-in-scut/refs/heads/main/docs/.vuepress/public/root-assets/versions.json",
-  "sourceFetchUrl": "https://fastgit.cc/https://raw.githubusercontent.com/Kozmosa/survive-in-scut/refs/heads/main/docs/.vuepress/public/root-assets/versions.json",
+  "sourceUrl": "https://raw.githubusercontent.com/Kozmosa/survive-in-scut/refs/heads/main/docs/public/root-assets/versions.json",
+  "sourceFetchUrl": "https://fastgit.cc/https://raw.githubusercontent.com/Kozmosa/survive-in-scut/refs/heads/main/docs/public/root-assets/versions.json",
   "provider": "fastgit",
   "preferredSources": ["r2", "github"],
   "latest": {

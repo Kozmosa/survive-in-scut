@@ -5,36 +5,29 @@ outline: [2, 3]
 
 # TODO 汇总
 
-> 最后更新时间: 2026-07-23 22:36:18 (UTC+8)
+> 最后更新时间: 2026-07-24 01:31:40 (UTC+8)
 
-共找到 30 个 TODO 项
+共找到 31 个 TODO 项
 
 ## beyond/abroad/phd.md
 
-- **第 11 行**: TODO: 境外申请直博及其他博士项目相关
+- **第 11 行**: TODO: 补充境外博士申请指南：
   - [查看源文件](/beyond/abroad/phd.md)
 
 ## beyond/mainland/phd.md
 
-- **第 11 行**: TODO: 申请境内高校博士项目相关
+- **第 11 行**: TODO: 补充直博与申请-考核制博士指南：
   - [查看源文件](/beyond/mainland/phd.md)
 
 ## beyond/mainland/recommend_graduate.md
 
-- **第 11 行**: TODO: 保研政策、经验等等
+- **第 11 行**: TODO: 补充华工本科生推免全流程指南：
   - [查看源文件](/beyond/mainland/recommend_graduate.md)
 
 ## beyond/mainland/unified_admission.md
 
-- **第 11 行**: TODO: 考研相关内容
+- **第 11 行**: TODO: 补充华工学生考研备考与本校报考指南：
   - [查看源文件](/beyond/mainland/unified_admission.md)
-
-## copyrights.md
-
-- **第 22 行**: TODO: 为第三方素材补充来源、授权方式和复用限制，尤其是图片、PDF、嵌入组件、App 相关资源和外部网页内容。
-  - [查看源文件](/copyrights.md)
-- **第 24 行**: TODO: 明确贡献者提交文本、图片、表格和脚本时默认采用什么授权，以及维护者在合并前需要检查哪些版权信息。
-  - [查看源文件](/copyrights.md)
 
 ## get-started.md
 
@@ -43,37 +36,44 @@ outline: [2, 3]
 
 ## health/alive_first.md
 
-- **第 11 行**: TODO: 生命观、日常安全（交通、反诈）、心理健康援助、灾害应急指南
+- **第 11 行**: TODO: 补充校园安全与心理急救信息：
   - [查看源文件](/health/alive_first.md)
+
+## health/medical_care.md
+
+- **第 106 行**: TODO: 补充校医院常见科室（全科、口腔科、皮肤科、中医科）就诊体验与医生推荐信息
+  - [查看源文件](/health/medical_care.md)
+- **第 110 行**: TODO: 补充急诊经验：
+  - [查看源文件](/health/medical_care.md)
 
 ## infra/gzic/map.md
 
-- **第 10 行**: TODO: 国际基础设施介绍
+- **第 10 行**: TODO: 补充以下基础设施的具体位置、开放时间及使用指引：
   - [查看源文件](/infra/gzic/map.md)
 
 ## infra/gzic/nearby.md
 
-- **第 7 行**: TODO: 国际周边的简介页面
+- **第 7 行**: TODO: 补充广州国际校区周边的出行与生活指南：
   - [查看源文件](/infra/gzic/nearby.md)
 
 ## infra/hemc/nearby.md
 
-- **第 9 行**: TODO: 大学城周边
+- **第 9 行**: TODO: 补充大学城校区周边的出行与生活指南：
   - [查看源文件](/infra/hemc/nearby.md)
 
 ## infra/hemc/suishi.md
 
-- **第 9 行**: TODO: 碎石简介尚未编写
+- **第 9 行**: TODO: 补充穗石村的生活与出行指南：
   - [查看源文件](/infra/hemc/suishi.md)
 
 ## infra/wushan/map.md
 
-- **第 7 行**: TODO: 五山校区基础设施的概览页面
+- **第 7 行**: TODO: 补充以下基础设施的具体位置、开放时间及使用指引：
   - [查看源文件](/infra/wushan/map.md)
 
 ## infra/wushan/nearby.md
 
-- **第 7 行**: TODO: 五山校区周边去处的简介页面
+- **第 7 行**: TODO: 补充五山校门外的生活与出行指南：
   - [查看源文件](/infra/wushan/nearby.md)
 
 ## introduction.md
@@ -83,28 +83,30 @@ outline: [2, 3]
 
 ## learn/curricular/common_basic_lessons.md
 
-- **第 76 行**: TODO: 完善线代的课程描述与学习资料
+- **第 76 行**: TODO: 完善线代的课程描述与学习资料：
   - [查看源文件](/learn/curricular/common_basic_lessons.md)
-- **第 87 行**: TODO: 完善概率论的课程描述与学习资料
+- **第 91 行**: TODO: 完善概率论的课程描述与学习资料：
   - [查看源文件](/learn/curricular/common_basic_lessons.md)
-- **第 93 行**: TODO: 完善复变的课程描述与学习资料
+- **第 101 行**: TODO: 完善复变的课程描述与学习资料：
   - [查看源文件](/learn/curricular/common_basic_lessons.md)
 
 ## learn/curricular/exam.md
 
-- **第 9 行**: TODO: 华南理工大学与考试相关的规章制度，及应对考试可供参考的一些告诫
+- **第 9 行**: TODO: 补充考核规章与应考细则：
   - [查看源文件](/learn/curricular/exam.md)
 
 ## learn/curricular/majors.md
 
-- **第 11 行**: TODO: 其他学院的专业学习攻略
+- **第 11 行**: TODO: 补充以下大院的专业课学习攻略与开源资源库链接：
   - [查看源文件](/learn/curricular/majors.md)
 
 ## learn/extra/contest.md
 
-- **第 26 行**: TODO: 后续可将竞赛目录进一步结构化，区分“校内创新分导向”“学科竞赛导向”“就业技能导向”三类入口。
+- **第 26 行**: TODO: 补充以下主流学科竞赛的参赛指南与备赛经验：
   - [查看源文件](/learn/extra/contest.md)
-- **第 28 行**: TODO: 需要进一步完善，添加更多竞赛内容的指引
+- **第 35 行**: TODO: 后续可将竞赛目录进一步结构化，区分”校内创新分导向””学科竞赛导向””就业技能导向”三类入口。
+  - [查看源文件](/learn/extra/contest.md)
+- **第 37 行**: TODO: 需要进一步完善，添加更多竞赛内容的指引
   - [查看源文件](/learn/extra/contest.md)
 
 ## life/eat/gzic.md
