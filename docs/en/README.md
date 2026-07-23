@@ -20,10 +20,10 @@ features:
   - title: Written by Students
     details: This handbook is built from contributions by former and current SCUT undergraduate, master's, and doctoral students.
   - title: Open and Collaborative
-    details: Apart from maintaining the repository itself, its owner (@Kozmosa) has no greater rights than any other contributor. Unless otherwise stated, text published in this repository is shared under the CC BY-SA 2.0 license. You may copy, redistribute, and adapt it as long as you provide attribution and preserve the same license.
+    details: Apart from maintaining the repository itself, its owner (@Kozmosa) has no greater rights than any other contributor. Unless otherwise stated, text published in this repository is shared under the CC0 1.0 license. You may copy, modify, distribute, and use it for any purpose without requiring attribution or sharing under the same license.
   - title: Pass It On
     details: A handbook grows through collective effort. We welcome corrections, proofreading, and new first-hand experience through GitHub pull requests or email. Every contribution helps future readers avoid uncertainty and unnecessary detours.
-footer: CC-BY-SA 2.0 Licensed | Copyright © 2025-present Kozumi & 转群 & 卷群
+footer: CC0 1.0 Licensed | Copyright © 2025-present Kozumi & 转群 & 卷群
 ---
 
 This is the handbook home page. Visit the [introduction][introduction-page] to learn more.

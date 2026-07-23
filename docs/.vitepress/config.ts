@@ -421,7 +421,7 @@ export default defineConfig({
     },
     socialLinks: [{ icon: "github", link: REPOSITORY }],
     footer: {
-      message: "CC-BY-SA 2.0 Licensed",
+      message: "CC0 1.0 Licensed",
       copyright: "Copyright © 2025-present Kozumi & 转群",
     },
   },

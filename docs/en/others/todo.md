@@ -40,8 +40,6 @@ outline: [2, 3]
 
 ## en/copyrights.md
 
-- **第 22 行**: TODO: Align the repository root `LICENSE`, the homepage footer text that says `CC-BY-SA`, the `CC0` note in `others/ask-the-smart-way.md`, and any other page-level exception statements.
-  - [查看源文件](/en/copyrights.md)
 - **第 24 行**: TODO: Add source, license, and reuse notes for third-party assets, especially images, PDFs, embedded components, app-related resources, and mirrored external content.
   - [查看源文件](/en/copyrights.md)
 - **第 26 行**: TODO: Document the default contribution license for text, images, tables, and scripts, plus the copyright checks maintainers should perform before merging.
