@@ -45,6 +45,7 @@ const sidebarZh: Sidebar = {
       text: "生活",
       collapsed: false,
       items: [
+        { text: "概览", link: "/life/index" },
         {
           text: "时间",
           collapsed: true,
@@ -77,6 +78,7 @@ const sidebarZh: Sidebar = {
       text: "学习",
       collapsed: false,
       items: [
+        { text: "概览", link: "/learn/index" },
         {
           text: "课内",
           collapsed: true,
@@ -110,6 +112,7 @@ const sidebarZh: Sidebar = {
       text: "飞跃",
       collapsed: false,
       items: [
+        { text: "概览", link: "/beyond/index" },
         {
           text: "境内",
           collapsed: true,
@@ -133,6 +136,7 @@ const sidebarZh: Sidebar = {
       text: "立命",
       collapsed: false,
       items: [
+        { text: "概览", link: "/health/index" },
         { text: "先活下去再说", link: "/health/alive_first" },
         { text: "立志篇", link: "/health/freshman_guidance" },
         { text: "就医指南", link: "/health/medical_care" },
@@ -142,6 +146,7 @@ const sidebarZh: Sidebar = {
       text: "其他",
       collapsed: false,
       items: [
+        { text: "概览", link: "/others/index" },
         { text: "贡献指南", link: "/others/contributing" },
         { text: "维护路线图", link: "/others/roadmap" },
         { text: "TODO 列表", link: "/others/todo" },
@@ -199,6 +204,7 @@ const sidebarEn: Sidebar = {
       text: "Life",
       collapsed: false,
       items: [
+        { text: "Overview", link: "/en/life/index" },
         {
           text: "Timetable",
           collapsed: true,
@@ -234,6 +240,7 @@ const sidebarEn: Sidebar = {
       text: "Learn",
       collapsed: false,
       items: [
+        { text: "Overview", link: "/en/learn/index" },
         {
           text: "Curricular",
           collapsed: true,
@@ -270,6 +277,7 @@ const sidebarEn: Sidebar = {
       text: "Go Beyond",
       collapsed: false,
       items: [
+        { text: "Overview", link: "/en/beyond/index" },
         {
           text: "Mainland",
           collapsed: true,
@@ -299,6 +307,7 @@ const sidebarEn: Sidebar = {
       text: "Health",
       collapsed: false,
       items: [
+        { text: "Overview", link: "/en/health/index" },
         { text: "Stay Alive First", link: "/en/health/alive_first" },
         { text: "Freshman Guidance", link: "/en/health/freshman_guidance" },
         { text: "Medical Care", link: "/en/health/medical_care" },
@@ -308,6 +317,7 @@ const sidebarEn: Sidebar = {
       text: "Other",
       collapsed: false,
       items: [
+        { text: "Overview", link: "/en/others/index" },
         { text: "Contributing", link: "/en/others/contributing" },
         { text: "Roadmap", link: "/en/others/roadmap" },
         { text: "TODO List", link: "/en/others/todo" },

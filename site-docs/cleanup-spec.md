@@ -12,7 +12,7 @@
 | [Phase 1](#phase-1-清除-vuepress-残留)  | 移除 VuePress 配置文件、插件、死代码 | P0     |
 | [Phase 2](#phase-2-配置-sidebar)        | 配置 VitePress sidebar，完善导航     | P0     |
 | [Phase 3](#phase-3-实现真实英文-locale) | 将名义 i18n 变为真实英文翻译 ✅      | P1     |
-| [Phase 4](#phase-4-索引页--seo-优化)    | 补齐索引页、SEO 元信息               | P1     |
+| [Phase 4](#phase-4-索引页--seo-优化)    | 补齐索引页、SEO 元信息 ✅            | P1     |
 
 ---
 
@@ -203,17 +203,17 @@ llm_translated: true # 仅 AI 翻译的页面添加，人工翻译不添加
 
 为以下目录创建 `index.md`（中文 + 英文）：
 
-- [ ] `docs/life/index.md` + `docs/en/life/index.md`
-- [ ] `docs/learn/index.md` + `docs/en/learn/index.md`
-- [ ] `docs/beyond/index.md` + `docs/en/beyond/index.md`
-- [ ] `docs/health/index.md` + `docs/en/health/index.md`
-- [ ] `docs/others/index.md` + `docs/en/others/index.md`
+- [x] `docs/life/index.md` + `docs/en/life/index.md`
+- [x] `docs/learn/index.md` + `docs/en/learn/index.md`
+- [x] `docs/beyond/index.md` + `docs/en/beyond/index.md`
+- [x] `docs/health/index.md` + `docs/en/health/index.md`
+- [x] `docs/others/index.md` + `docs/en/others/index.md`
 
 索引页内容应包括：该 section 的简要概述、子页面列表及简短说明、典型使用场景指引。
 
 #### 4.2 导航入口
 
-- [ ] 在每个导航分组中添加指向索引页的"概览"链接（如 `{ text: "概览", link: "/life/index" }`）
+- [x] 在每个导航分组中添加指向索引页的"概览"链接（如 `{ text: "概览", link: "/life/index" }`）
 
 #### 4.3 页面元信息
 

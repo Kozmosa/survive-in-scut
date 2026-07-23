@@ -5,9 +5,9 @@ outline: [2, 3]
 
 # TODO 汇总
 
-> 最后更新时间: 2026-07-24 01:31:40 (UTC+8)
+> 最后更新时间: 2026-07-24 01:57:01 (UTC+8)
 
-共找到 31 个 TODO 项
+共找到 32 个 TODO 项
 
 ## beyond/abroad/phd.md
 
@@ -139,3 +139,8 @@ outline: [2, 3]
   - [查看源文件](/others/contributing.md)
 - **第 176 行**: TODO: 建立年度更新流程（迎新、校巴、地图、转专业、校医院、周边信息等高时效页面每学年至少核对一次）。
   - [查看源文件](/others/contributing.md)
+
+## others/index.md
+
+- **第 13 行**: - [TODO 列表](./todo) — 当前需要完成的任务列表
+  - [查看源文件](/others/index.md)
