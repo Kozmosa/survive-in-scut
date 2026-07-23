@@ -6,45 +6,24 @@ const repoRoot = process.cwd();
 const docsDir = path.join(repoRoot, "docs");
 const tempRoot = path.join(repoRoot, `.platform-build-tmp-${Date.now()}`);
 const tempDocsDir = path.join(tempRoot, "docs");
+const outputDir = path.join(repoRoot, "platform-dist");
 
-const vueOutputDir = path.join(repoRoot, "vue-platform-dist");
-const viteOutputDir = path.join(repoRoot, "vite-platform-dist");
-
-const vueConfigName = await findConfigName(path.join(docsDir, ".vuepress"));
 const viteConfigName = await findConfigName(path.join(docsDir, ".vitepress"));
 
-if (!vueConfigName && !viteConfigName) {
-  throw new Error("No docs config found in docs/.vuepress or docs/.vitepress");
+if (!viteConfigName) {
+  throw new Error("No VitePress config found in docs/.vitepress");
 }
 
-await rm(vueOutputDir, { recursive: true, force: true });
-await rm(viteOutputDir, { recursive: true, force: true });
-
+await rm(outputDir, { recursive: true, force: true });
 await mkdir(tempRoot, { recursive: true });
 
 try {
   await cp(docsDir, tempDocsDir, { recursive: true });
+  await syncLegacyPublicDir(tempDocsDir);
 
-  if (viteConfigName) {
-    await syncVitePublicDir(tempDocsDir);
-  }
-
-  if (vueConfigName) {
-    const vueConfigPath = path.join(tempDocsDir, ".vuepress", vueConfigName);
-    await rewriteBaseToDocs(vueConfigPath);
-    await runCli("vuepress", ["build", tempDocsDir, "--dest", vueOutputDir]);
-  }
-
-  if (viteConfigName) {
-    const viteConfigPath = path.join(tempDocsDir, ".vitepress", viteConfigName);
-    await rewriteBaseToDocs(viteConfigPath);
-    await runCli("vitepress", [
-      "build",
-      tempDocsDir,
-      "--outDir",
-      viteOutputDir,
-    ]);
-  }
+  const viteConfigPath = path.join(tempDocsDir, ".vitepress", viteConfigName);
+  await rewriteBaseToDocs(viteConfigPath);
+  await runCli("vitepress", ["build", tempDocsDir, "--outDir", outputDir]);
 } finally {
   if (process.env.KEEP_PLATFORM_TMP !== "1") {
     await rm(tempRoot, { recursive: true, force: true });
@@ -79,11 +58,7 @@ async function rewriteBaseToDocs(configPath) {
     return;
   }
 
-  const insertionPoints = [
-    /define\w*Config\s*\(\s*\{/,
-    /export\s+default\s*\{/,
-    /module\.exports\s*=\s*\{/,
-  ];
+  const insertionPoints = [/defineConfig\s*\(\s*\{/, /export\s+default\s*\{/];
 
   for (const pattern of insertionPoints) {
     const match = pattern.exec(content);
@@ -95,7 +70,7 @@ async function rewriteBaseToDocs(configPath) {
       continue;
     }
 
-    const updated = `${content.slice(0, braceIndex + 1)}\n  base: \"/docs/\",${content.slice(braceIndex + 1)}`;
+    const updated = `${content.slice(0, braceIndex + 1)}\n  base: "/docs/",${content.slice(braceIndex + 1)}`;
     await writeFile(configPath, updated, "utf8");
     return;
   }
@@ -103,13 +78,13 @@ async function rewriteBaseToDocs(configPath) {
   throw new Error(`Cannot locate config object to set base in ${configPath}`);
 }
 
-async function syncVitePublicDir(targetDocsDir) {
-  const vuePublicDir = path.join(targetDocsDir, ".vuepress", "public");
+async function syncLegacyPublicDir(targetDocsDir) {
+  const legacyPublicDir = path.join(targetDocsDir, ".vuepress", "public");
   const vitePublicDir = path.join(targetDocsDir, "public");
 
   try {
-    const vuePublicStats = await stat(vuePublicDir);
-    if (!vuePublicStats.isDirectory()) {
+    const legacyStats = await stat(legacyPublicDir);
+    if (!legacyStats.isDirectory()) {
       return;
     }
   } catch {
@@ -117,7 +92,7 @@ async function syncVitePublicDir(targetDocsDir) {
   }
 
   await rm(vitePublicDir, { recursive: true, force: true });
-  await cp(vuePublicDir, vitePublicDir, { recursive: true });
+  await cp(legacyPublicDir, vitePublicDir, { recursive: true });
 }
 
 function runCli(toolName, args) {
