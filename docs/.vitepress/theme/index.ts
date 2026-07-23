@@ -1,10 +1,10 @@
 import DefaultTheme from "vitepress/theme";
 import Layout from "./Layout.vue";
 import "./style.css";
-import AppLanding from "../../.vuepress/components/AppLanding.vue";
-import ContributorsList from "../../.vuepress/components/ContributorsList.vue";
-import ImmersiveShell from "../../.vuepress/components/ImmersiveShell.vue";
-import ProbabilityDistributionGallery from "../../.vuepress/components/ProbabilityDistributionGallery.vue";
+import AppLanding from "../components/AppLanding.vue";
+import ContributorsList from "../components/ContributorsList.vue";
+import ImmersiveShell from "../components/ImmersiveShell.vue";
+import ProbabilityDistributionGallery from "../components/ProbabilityDistributionGallery.vue";
 import MarkdownEditor from "../components/MarkdownEditor.vue";
 import Details from "../components/Details.vue";
 import ExpandableCard from "../components/ExpandableCard.vue";

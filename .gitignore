@@ -146,9 +146,6 @@ vite-platform-dist/
 docs/.vitepress/cache/
 /.vitepress/
 
-# Generated VitePress public mirror
-/docs/public/
-
 # Temporary platform build workspace
 .platform-build-tmp-*/
 
