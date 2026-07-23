@@ -4,6 +4,7 @@ import { computed } from "vue";
 import { useData } from "vitepress";
 import CommentService from "../components/CommentService.vue";
 import PageContributors from "../components/PageContributors.vue";
+import ScrollPager from "../components/ScrollPager.vue";
 
 const { frontmatter } = useData();
 const isImmersivePage = computed(() => frontmatter.value.immersive === true);
@@ -15,6 +16,9 @@ const isImmersivePage = computed(() => frontmatter.value.immersive === true);
       <template #doc-after>
         <PageContributors v-if="!isImmersivePage" />
         <CommentService v-if="!isImmersivePage" />
+      </template>
+      <template #layout-bottom>
+        <ScrollPager v-if="!isImmersivePage" />
       </template>
     </DefaultTheme.Layout>
   </div>

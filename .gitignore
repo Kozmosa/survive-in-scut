@@ -144,7 +144,7 @@ vite-platform-dist/
 
 # VitePress cache artifacts
 docs/.vitepress/cache/
-.vitepress/
+/.vitepress/
 
 # Generated VitePress public mirror
 /docs/public/
