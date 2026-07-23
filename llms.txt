@@ -16,10 +16,10 @@
 - [Untitled](/en.md)
 - [专业课](/en/learn/curricular/majors.md): 介绍华南理工大学的学院和专业，也提供相关专业学习指南的跳转地址
 - [专业课](/learn/curricular/majors.md): 介绍华南理工大学的学院和专业，也提供相关专业学习指南的跳转地址
-- [五山](/en/life/entertainment/wushan.md): 介绍五山校区周边的娱乐设施及去处
 - [五山](/en/life/eat/wushan.md): 五山校区的觅食指南
-- [五山](/life/eat/wushan.md): 五山校区的觅食指南
+- [五山](/en/life/entertainment/wushan.md): 介绍五山校区周边的娱乐设施及去处
 - [五山](/life/entertainment/wushan.md): 介绍五山校区周边的娱乐设施及去处
+- [五山](/life/eat/wushan.md): 五山校区的觅食指南
 - [五山指北](/en/infra/wushan/map.md): 五山校区基础设施的概览页面
 - [五山指北](/infra/wushan/map.md): 五山校区基础设施的概览页面
 - [五山时间](/en/life/time/wushan.md): 五山校区作息时间
@@ -44,8 +44,8 @@
 - [华园概览](/infra.md): 华南理工大学基础设施的概览页面
 - [华工转专业的快速认知](/en/learn/curricular/transfer_major_quick.md): 面向华南理工大学转专业新生的快速认知，围绕 5 月学校自主转专业介绍机制、选择和准备节奏
 - [华工转专业的快速认知](/learn/curricular/transfer_major_quick.md): 面向华南理工大学转专业新生的快速认知，围绕 5 月学校自主转专业介绍机制、选择和准备节奏
-- [博士](/beyond/mainland/phd.md): 介绍在华南理工大学背景下申请境内高校博士项目的注意事项、行动参考及经验教训
 - [博士](/en/beyond/mainland/phd.md): 介绍在华南理工大学背景下申请境内高校博士项目的注意事项、行动参考及经验教训
+- [博士](/beyond/mainland/phd.md): 介绍在华南理工大学背景下申请境内高校博士项目的注意事项、行动参考及经验教训
 - [博士项目](/beyond/abroad/phd.md): 介绍在华南理工大学背景下申请直博及其他博士项目的经验及行动参考
 - [博士项目](/en/beyond/abroad/phd.md): 介绍在华南理工大学背景下申请直博及其他博士项目的经验及行动参考
 - [参与贡献](/en/others/contributing.md): 参与贡献
@@ -57,9 +57,9 @@
 - [周边](/en/infra/gzic/nearby.md): 广州国际校区周边去处的简介页面
 - [周边](/en/infra/hemc/nearby.md): 华南理工大学大学城校区周边去处的简介页面
 - [周边](/en/infra/wushan/nearby.md): 五山校区周边去处的简介页面
-- [周边](/infra/hemc/nearby.md): 华南理工大学大学城校区周边去处的简介页面
 - [周边](/infra/wushan/nearby.md): 五山校区周边去处的简介页面
 - [周边](/infra/gzic/nearby.md): 广州国际校区周边去处的简介页面
+- [周边](/infra/hemc/nearby.md): 华南理工大学大学城校区周边去处的简介页面
 - [国际](/en/life/eat/gzic.md): 国际校区觅食指南
 - [国际](/life/eat/gzic.md): 国际校区觅食指南
 - [国际/大学城时间](/en/life/time/hemc_gzic.md): 广州国际校区与大学城校区共享同一套作息时间表
@@ -72,8 +72,8 @@
 - [大学城及国际](/life/entertainment/hemc_gzic.md): 大学城校区与广州国际校区同属番禺区，周边商圈及娱乐设施较为接近
 - [大学城指南](/en/infra/hemc/map.md): 华南理工大学大学城校区基础设施的概览页面
 - [大学城指南](/infra/hemc/map.md): 华南理工大学大学城校区基础设施的概览页面
-- [学校标识](/en/others/branding.md): 华南理工大学的校徽图片资源
 - [学校标识](/others/branding.md): 华南理工大学的校徽图片资源
+- [学校标识](/en/others/branding.md): 华南理工大学的校徽图片资源
 - [提问的智慧](/en/others/ask-the-smart-way.md): How To Ask Questions The Smart Way (SCUT Ver.)
 - [提问的智慧](/others/ask-the-smart-way.md): How To Ask Questions The Smart Way (SCUT Ver.)
 - [校巴时间](/en/life/time/bus.md): 2026 春季学期校巴时间参考表（具体时间以学校官方最新通知为准）
@@ -93,8 +93,8 @@
 - [竞赛目录及简介](/learn/extra/contest.md): 目前华南理工大学加分的竞赛
 - [维护路线图](/en/others/roadmap.md): 维护路线图
 - [维护路线图](/others/roadmap.md): 维护路线图
-- [考研](/beyond/mainland/unified_admission.md): 介绍在华南理工大学通过统招考试攻读研究生的行动路径、经验教训、院校参考、往届数据等等
 - [考研](/en/beyond/mainland/unified_admission.md): 介绍在华南理工大学通过统招考试攻读研究生的行动路径、经验教训、院校参考、往届数据等等
+- [考研](/beyond/mainland/unified_admission.md): 介绍在华南理工大学通过统招考试攻读研究生的行动路径、经验教训、院校参考、往届数据等等
 - [考试](/en/learn/curricular/exam.md): 华南理工大学与考试相关的规章制度，及应对考试可供参考的一些告诫
 - [考试](/learn/curricular/exam.md): 华南理工大学与考试相关的规章制度，及应对考试可供参考的一些告诫
 - [课程性质介绍](/en/learn/curricular/lessons.md): 区分华南理工大学本科课程性质，说明不同课程是否参与 GPA、均分、综测、学业预警等指标计算
