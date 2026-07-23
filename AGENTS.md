@@ -5,9 +5,9 @@ Follow these rules unless a human maintainer explicitly says otherwise.
 
 ## Project snapshot
 
-- Stack: VuePress 2 (Vite bundler), Vue 3, npm-first tooling, ESM JavaScript.
+- Stack: VitePress, Vue 3, npm-first tooling, ESM JavaScript.
 - Main app docs live in `docs/`.
-- Custom code lives in `docs/.vuepress/`, `docs/.vitepress/`, `packages/vuepress-plugin-todo/`, and `scripts/`.
+- Custom code lives in `docs/.vitepress/` (config, theme, plugins), `scripts/`, and `docs/.vuepress/` (legacy VuePress config, still used by platform build script `scripts/docs-build-platform.js`).
 - Primary package manager in CI and local development: npm.
 - `package-lock.json` is the authoritative lockfile; do not create or commit `bun.lock` unless maintainers explicitly switch package managers.
 
@@ -24,7 +24,7 @@ If these files are added later, treat them as higher-priority instructions and u
 ## Install and environment
 
 - Install dependencies: `npm ci` for clean installs, or `npm install` when intentionally updating `package-lock.json`.
-- Node runtime is still required for VuePress and scripts.
+- Node runtime is still required for VitePress build and scripts.
 - Use repository root as working directory for top-level scripts.
 
 ## Git remote access
@@ -37,25 +37,28 @@ If these files are added later, treat them as higher-priority instructions and u
 ### Core commands (root)
 
 - Dev server: `npm run docs:dev`
-- Dev server with clean cache: `npm run docs:clean-dev`
 - Production docs build: `npm run docs:build`
-- VitePress migration build: `npm run docs:build:vitepress`
-- Platform build helper: `npm run docs:build:platform`
-- Format/check JS/JSON/MD: `npm run docs:fmt`
-- Update VuePress package metadata: `npm run docs:update-package`
+- Preview production build: `npm run docs:preview`
+- Platform build (rewrites base to `/docs/` for subdirectory deploy): `npm run docs:build:platform`
+- Sync legacy VuePress public assets to VitePress: `npm run docs:sync:vitepress-public`
+- Format check: `npm run docs:fmt`
+- Auto-format: `npm run docs:fmt:fix`
+- Pre-commit hook: managed by `simple-git-hooks` + `lint-staged` (runs `prettier --write` on staged files)
 
 ### Lint/test reality in this repo
 
 - There is no dedicated lint script (ESLint not configured in repo root).
 - There is no automated unit/integration test runner configured (no Vitest/Jest/Playwright config detected).
-- Current CI quality gate is formatting (`.github/workflows/format.yml`).
+- Formatting is enforced by two quality gates:
+  - CI (`npm run docs:fmt` in `.github/workflows/format.yml`).
+  - Pre-commit hook (`simple-git-hooks` + `lint-staged`, runs `prettier --write`).
 
 ### "Single test" guidance (important)
 
 Because no test framework exists yet, use targeted checks:
 
 - Single-file formatting check: `npx prettier --check "docs/path/to/file.md"`
-- Single JS/JSON/MD reformat: `npx prettier --write "docs/path/to/file.md"`
+- Single JS/JSON/MD/Vue/TS/HTML/YML reformat: `npx prettier --write "docs/path/to/file.md"`
 - Build validation (closest to integration test): `npm run docs:build`
 - Focused runtime/manual check: `npm run docs:dev` and open the specific page/component route.
 
@@ -63,12 +66,13 @@ If you introduce a test framework, add `test` and `test:single` scripts and upda
 
 ## Where to change what
 
-- VuePress site navigation/theme/plugins: `docs/.vuepress/config.js`
-- VitePress migration navigation/theme: `docs/.vitepress/config.mjs` and `docs/.vitepress/theme/`
-- Client app enhancements: `docs/.vuepress/client.ts`
-- Custom VuePress PDF plugin: `docs/.vuepress/plugins/pdfviewer/`
-- Local TODO collector plugin: `packages/vuepress-plugin-todo/src/`
+- VitePress navigation/theme/plugins: `docs/.vitepress/config.ts` and `docs/.vitepress/theme/`
+- VitePress client/global components: `docs/.vitepress/theme/index.ts` and `docs/.vitepress/components/`
+- Custom VitePress plugins: `docs/.vitepress/plugins/todoCollector.ts`, `docs/.vitepress/plugins/contributorsCollector.ts`, `docs/.vitepress/composables/useLocaleText.ts`
+- Legacy VuePress config (platform build fallback): `docs/.vuepress/config.js` and `docs/.vuepress/client.ts`
+- Legacy VuePress PDF viewer plugin: `docs/.vuepress/plugins/pdfviewer/`
 - Cross-platform docs build script: `scripts/docs-build-platform.js`
+- VitePress public asset sync script: `scripts/sync-vitepress-public.js`
 - Content pages: `docs/**/*.md` and `docs/en/**/*.md`
 
 ## Code style guidelines
@@ -82,7 +86,7 @@ If you introduce a test framework, add `test` and `test:single` scripts and upda
 
 ### Formatting
 
-- Prettier is the enforced formatter for `*.js`, `*.json`, `*.md` via repo script.
+- Prettier is the enforced formatter for `*.js`, `*.ts`, `*.json`, `*.md`, `*.vue`, `*.html`, `*.yml` via repo script.
 - Use 2-space indentation.
 - In JS files covered by formatter, prefer double quotes and trailing semicolons.
 - Keep line length reasonable; split long arrays/objects across lines.
@@ -115,7 +119,7 @@ If you introduce a test framework, add `test` and `test:single` scripts and upda
 
 - Use Vue 3 patterns already present (`<script setup>` or `setup()`), and stay consistent within file.
 - Keep component state with `ref`/`computed`/`watch` patterns already used nearby.
-- Register global components/plugins in `client.ts` or plugin client config, not ad-hoc in pages.
+- Register global components/plugins in `docs/.vitepress/theme/index.ts` (or `client.ts` for legacy VuePress config).
 - Avoid introducing heavy dependencies for simple UI behavior.
 
 ### Error handling and logging
@@ -141,7 +145,7 @@ If you introduce a test framework, add `test` and `test:single` scripts and upda
 
 ## Agent workflow expectations
 
-- Before finalizing, run relevant commands when possible (`npm run docs:build` for config/plugin/script changes, `npm run docs:fmt` or targeted `npx prettier --write` for docs/js/md edits).
+- Before finalizing, run relevant commands when possible (`npm run docs:build` for config/plugin/script changes, `npm run docs:fmt` or targeted `npx prettier --write` for docs/content edits).
 - If you cannot run commands, state what was not verified.
 - Do not commit lockfile or generated output changes unless needed by the task.
 - Build commands may refresh generated TODO/contributor/app release metadata. Do not keep pure timestamp or generated metadata churn unless the task needs it.
@@ -149,10 +153,11 @@ If you introduce a test framework, add `test` and `test:single` scripts and upda
 
 ## Common pitfalls in this repo
 
-- `docs:fmt` currently targets only JS/JSON/MD, not TS/Vue files.
+- `docs:fmt` now targets `js,ts,json,md,vue,html,yml` — TS and Vue files are covered.
 - Style may differ between older Vue/TS files and formatted JS files; preserve local consistency.
 - The local TODO plugin scans source files synchronously; avoid expensive extra work in hot paths.
-- Platform build script rewrites docs base path in temp copies; do not change production base inadvertently.
+- `docs/others/todo.md` is auto-generated by the VitePress build pipeline (both local builds and CI). Do not edit it manually; edits will be overwritten on the next `npm run docs:build` or `npm run docs:dev`.
+- Platform build script (`scripts/docs-build-platform.js`) rewrites docs base path to `/docs/` in a temp copy and builds with VitePress only. Run via `npm run docs:build:platform` or directly `node scripts/docs-build-platform.js`. Cleanup is automatic; set `KEEP_PLATFORM_TMP=1` to inspect intermediates.
 
 ## If you add new tooling
 
@@ -163,6 +168,6 @@ If you introduce a test framework, add `test` and `test:single` scripts and upda
 ## Definition of done for agent changes
 
 - Code/content change is minimal and scoped to request.
-- Formatting is clean for touched JS/JSON/MD files.
+- Formatting is clean for touched files (JS/TS/JSON/MD/Vue/HTML/YML).
 - Docs build still succeeds (or limitation is explicitly reported).
 - Any new command introduced is documented here.
