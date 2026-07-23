@@ -1,4 +1,5 @@
 import { defineConfig } from "vitepress";
+import taskLists from "markdown-it-task-lists";
 import llmstxt from "vitepress-plugin-llms";
 import contributorsCollector from "./plugins/contributorsCollector";
 import todoCollector from "./plugins/todoCollector";
@@ -364,6 +365,9 @@ export default defineConfig({
   },
   markdown: {
     math: true,
+    config: (md) => {
+      md.use(taskLists);
+    },
   },
   themeConfig: {
     logo: "/root-assets/logo/scut-cat-1.jpg",
