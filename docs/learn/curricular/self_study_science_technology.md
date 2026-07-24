@@ -2,6 +2,7 @@
 lang: zh-CN
 title: 自学科学与技术：反内卷的大学生存工程学
 description: 面向大学期末考试的目标分数管理、自学策略与 Agent 交互学习方法
+disclaimer: true
 ---
 
 # 自学科学与技术：反内卷的大学生存工程学
