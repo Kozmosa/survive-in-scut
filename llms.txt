@@ -97,7 +97,7 @@
 
 - [其他资源](/others.md): 华南理工生存手册的贡献指南、维护路线图、品牌素材及版权声明等附加资源
 - [参与贡献](/others/contributing.md): 参与贡献
-- [维护路线图](/others/roadmap.md): 维护路线图
+- [维护路线图](/others/roadmap.md): 项目发展规划与待办事项优先级路线图
 - [启梦华工App](/others/app.md): 手册配套应用下载与介绍
 - [学校标识](/others/branding.md): 华南理工大学的校徽图片资源
 - [提问的智慧](/others/ask-the-smart-way.md): How To Ask Questions The Smart Way (SCUT Ver.)
@@ -194,7 +194,7 @@
 
 - [Additional Resources](/en/others.md): Contribution guide, roadmap, brand assets, and copyright information for the Survive in SCUT handbook
 - [Contributing](/en/others/contributing.md): Guide to contributing to the SCUT Survival Manual
-- [Maintenance Roadmap](/en/others/roadmap.md): Roadmap for maintaining the SCUT Survival Manual
+- [Maintenance Roadmap](/en/others/roadmap.md): Project development plan and priority-based roadmap for all TODO items
 - [Qimeng SCUT App](/en/others/app.md): Download and introduction of the companion app for the SCUT Survival Manual
 - [University Branding](/en/others/branding.md): SCUT logo and branding image resources
 - [How to Ask Questions the Smart Way](/en/others/ask-the-smart-way.md): How To Ask Questions The Smart Way (SCUT Edition)
