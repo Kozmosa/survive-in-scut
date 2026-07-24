@@ -219,5 +219,6 @@
 - [华工转专业的快速认知](/learn/curricular/transfer_major_quick.md): 面向华南理工大学转专业新生的快速认知，围绕 5 月学校自主转专业介绍机制、选择和准备节奏
 - [概率分布图像工具](/learn/curricular/common/probalistics_and_statistics/distribution_gallery.md): 概率论与数理统计常见分布函数图像的交互学习工具
 - [概率论与数理统计学习笔记](/learn/curricular/common/probalistics_and_statistics/plt_note.md): 华南理工大学 概率论与数理统计课程的学习笔记
+- [自学科学与技术：反内卷的大学生存工程学](/learn/curricular/self_study_science_technology.md): 面向大学期末考试的目标分数管理、自学策略与 Agent 交互学习方法
 - [转信工经验分享（2026）](/learn/curricular/transfer_major_information_engineering_2026.md): 华南理工大学转专业至电子与信息学院（信息工程专业）的经验分享，含笔试内容、面试标准与备考建议
 - [转电气经验分享（2026）](/learn/curricular/transfer_major_electrical_2026.md): 华南理工大学转专业至电力学院（电气工程及其自动化）的经验分享，含面试准备、常见问题与回答思路
