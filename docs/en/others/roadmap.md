@@ -18,7 +18,7 @@ This roadmap organizes all current TODOs into **7 phases** by priority and conte
 
 | Phase | Name                    | Priority | TODOs | Effort |
 | ----- | ----------------------- | -------- | ----- | ------ |
-| 1     | Foundation & Governance | P0       | 4     | Medium |
+| 1     | Foundation & Governance | P0       | 2     | Medium |
 | 2     | Freshman Essentials     | P0       | 4     | Large  |
 | 3     | Campus Facilities       | P1       | 6     | Large  |
 | 4     | Academic Guides         | P1       | 7     | Large  |
@@ -30,7 +30,9 @@ This roadmap organizes all current TODOs into **7 phases** by priority and conte
 
 ## Phase 1 — Foundation & Governance (P0)
 
-> Establish rules first, then build content. These tasks provide standards and processes for all subsequent contributions.
+> ~~4 TODOs → 2 completed, 2 items (App capability, Schedule import Issue #23) moved to a separate APP project.~~
+
+Establish rules first, then build content. These tasks provide standards and processes for all subsequent contributions.
 
 ### 1.1 Documentation Compilation Standards
 
@@ -41,16 +43,6 @@ This roadmap organizes all current TODOs into **7 phases** by priority and conte
 
 - **Source**: `docs/others/contributing.md` (Line 176)
 - **Task**: Establish an annual review cycle for time-sensitive pages (onboarding, bus schedules, maps, transfer policies, health services, nearby info).
-
-### 1.3 App Capability Description
-
-- **Source**: `docs/others/app.md` (Line 9)
-- **Task**: Document app capabilities, platform support matrix (iOS/Android), version sources, and known limitations.
-
-### 1.4 Course Schedule Import (Issue #23)
-
-- **Source**: `docs/others/app.md` (Line 11)
-- **Task**: Follow up on Issue #23; clarify WebVPN/custom URL support for schedule import.
 
 ---
 
