@@ -205,6 +205,7 @@
 - [ACM Programming Competition](/en/learn/extra/contest/ACM.md): Introduction to the ACM Programming Competition (ACM-XCPC) and participation guide, covering team recruitment, training schedules, competition rules, and more
 - [ACM程序设计竞赛](/learn/extra/contest/ACM.md): ACM程序设计竞赛（ACM-XCPC）简介及参赛指南，涵盖集训队招新、训练安排、比赛规则等内容
 - [Chinese Mathematics Competition (CMC)](/en/learn/extra/contest/cmc.md): Introduction to the Chinese Mathematics Competition (CMC) and a simple participation guide
+- [E区宿舍](/infra/hemc/dorm-e.md): 华南理工大学大学城校区E区宿舍概况
 - [First-Year Survival Guide for SCUT Math Students](/en/learn/curricular/majors/math/math_tutorial.md): A study guide for SCUT's math department, including resources for learning
 - [Probability Distribution Gallery](/en/learn/curricular/common/probalistics_and_statistics/distribution_gallery.md): An interactive learning tool for visualizing common distribution functions in Probability Theory and Mathematical Statistics
 - [Probability Theory and Mathematical Statistics Study Notes](/en/learn/curricular/common/probalistics_and_statistics/plt_note.md): Study notes for SCUT's Probability Theory and Mathematical Statistics course
