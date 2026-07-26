@@ -4583,15 +4583,14 @@ The common basic courses at SCUT (mainly taken in the first year) include mathem
 * **Mathematics**
   * Advanced Mathematics (difficulty from low to high)
     * Calculus Foundations (one semester)
-    * Calculus I (Part 1/Part 2)
-    * Calculus II (Part 1/Part 2) (Chemical Engineering track, Part 2 = 4 credits, no series)
-    * Calculus II (Part 1/Part 2) (Non-chemical Engineering track, Part 2 = 5 credits, includes series)
-    * Engineering Mathematical Analysis (Part 1/Part 2) (Computer Science, Software, Baibu Step, Information Engineering Innovation Class, Part 2 = 7 credits)
+    * Calculus I (Part 1/Part 2) (Chemical Engineering track, Part 1 = 5 credits, Part 2 = 4 credits, no series)
+    * Calculus II (Part 1/Part 2) (Non-chemical Engineering track, both parts = 5 credits, includes series)
+    * Engineering Mathematical Analysis (Part 1/Part 2) (Computer Science, Software, Baibu Step, Information Engineering Innovation Class, Part 1 = 5 credits, Part 2 = 7 credits)
     * Mathematical Analysis (Part 1/Part 2) (School of Mathematics only)
   * Linear Algebra and Analytic Geometry
   * Probability Theory and Mathematical Statistics
   * Complex Functions and Integral Transforms
-* **English**
+* **English** (Track A takes Academic English, Tracks B and C take College English)
   * Academic English (I)/(II) (can be exempted in semester 2 with IELTS/TOEFL scores)
   * College English (I)/(II)
 * **Physics**
