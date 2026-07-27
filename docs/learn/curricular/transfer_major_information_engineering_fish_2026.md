@@ -1,4 +1,13 @@
-信工转专业经验谈
+---
+lang: zh-CN
+title: 转信工经验分享（2026）
+description: 华南理工大学转专业至电子与信息学院（信息工程专业）的经验分享，含笔试内容、面试标准与备考建议
+date: 2026-07-26
+author: fish152363
+sidebarDepth: 2
+---
+
+# 信工转专业经验谈
 
 （电信转专业群号：1037507331）
 
@@ -76,13 +85,12 @@
 
 ## 图片资料
 
-![图片1](images/image1.png)
+![图片1](/root-assets/transfer_major/InformationEngineering_fish_2026/images/image1.png)
 
-![图片2](images/image2.png)
+![图片2](/root-assets/transfer_major/InformationEngineering_fish_2026/images/image2.png)
 
-![图片3](images/image3.png)
+![图片3](/root-assets/transfer_major/InformationEngineering_fish_2026/images/image3.png)
 
-![图片4](images/image4.png)
+![图片4](/root-assets/transfer_major/InformationEngineering_fish_2026/images/image4.png)
 
-![图片5](images/image5.png)
-
+![图片5](/root-assets/transfer_major/InformationEngineering_fish_2026/images/image5.png)
