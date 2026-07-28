@@ -61,7 +61,7 @@
 - [课程性质介绍](/learn/curricular/lessons.md): 区分华南理工大学本科课程性质，说明不同课程是否参与 GPA、均分、综测、学业预警等指标计算
 - [公共课](/learn/curricular/common_basic_lessons.md): 介绍华南理工大学开设的公共课程，以及相关学习资料的地址
 - [专业课](/learn/curricular/majors.md): 介绍华南理工大学的学院和专业，也提供相关专业学习指南的跳转地址
-- [考试](/learn/curricular/exam.md): 华南理工大学与考试相关的规章制度，及应对考试可供参考的一些告诫
+- [考试](/learn/curricular/exam.md): 华南理工大学本科考试、缓考办理与期末复习指南
 - [GPA](/learn/curricular/gpa.md): 区分均分、GPA、综测分等概念，说明华南理工大学本科成绩规则和用途
 - [转专业](/learn/curricular/transfer_major.md): 介绍华南理工大学与转专业有关的政策制度，及给想要转专业同学的一份行动指南和参考
 
@@ -158,7 +158,7 @@
 - [Course Type Overview](/en/learn/curricular/lessons.md): Distinguishes undergraduate course types at SCUT, explaining whether different courses count toward GPA, weighted average, comprehensive evaluation, academic warning, and other indicators
 - [Common Basic Courses](/en/learn/curricular/common_basic_lessons.md): Introduces the common basic courses offered at SCUT and links to related study materials
 - [Major Courses](/en/learn/curricular/majors.md): Introduces SCUT's schools and majors, with links to major-specific study guides
-- [Exams](/en/learn/curricular/exam.md): SCUT's exam-related regulations and some advice for handling exams
+- [Exams](/en/learn/curricular/exam.md): SCUT undergraduate exams, deferred exam application guide, and exam preparation resources
 - [GPA](/en/learn/curricular/gpa.md): Clarifies the concepts of weighted average, GPA, comprehensive evaluation score, etc., and explains SCUT's undergraduate grading rules and their uses
 - [Major Transfer](/en/learn/curricular/transfer_major.md): Introduces SCUT's policies on major transfer, along with an action guide and reference for students considering transferring
 
@@ -205,6 +205,7 @@
 - [ACM Programming Competition](/en/learn/extra/contest/ACM.md): Introduction to the ACM Programming Competition (ACM-XCPC) and participation guide, covering team recruitment, training schedules, competition rules, and more
 - [ACM程序设计竞赛](/learn/extra/contest/ACM.md): ACM程序设计竞赛（ACM-XCPC）简介及参赛指南，涵盖集训队招新、训练安排、比赛规则等内容
 - [Chinese Mathematics Competition (CMC)](/en/learn/extra/contest/cmc.md): Introduction to the Chinese Mathematics Competition (CMC) and a simple participation guide
+- [Deferred Exam Application Guide](/en/learn/curricular/deferred_exam.md): Conditions, documentation, approval, receipt, and retake confirmation process for SCUT undergraduates applying for a deferred exam due to illness or schedule conflict
 - [E区宿舍](/infra/hemc/dorm-e.md): 华南理工大学大学城校区E区宿舍概况
 - [First-Year Survival Guide for SCUT Math Students](/en/learn/curricular/majors/math/math_tutorial.md): A study guide for SCUT's math department, including resources for learning
 - [Probability Distribution Gallery](/en/learn/curricular/common/probalistics_and_statistics/distribution_gallery.md): An interactive learning tool for visualizing common distribution functions in Probability Theory and Mathematical Statistics
@@ -219,8 +220,9 @@
 - [华工转专业的快速认知](/learn/curricular/transfer_major_quick.md): 面向华南理工大学转专业新生的快速认知，围绕 5 月学校自主转专业介绍机制、选择和准备节奏
 - [概率分布图像工具](/learn/curricular/common/probalistics_and_statistics/distribution_gallery.md): 概率论与数理统计常见分布函数图像的交互学习工具
 - [概率论与数理统计学习笔记](/learn/curricular/common/probalistics_and_statistics/plt_note.md): 华南理工大学 概率论与数理统计课程的学习笔记
+- [缓考申请攻略](/learn/curricular/deferred_exam.md): 华南理工大学本科生因病或课程冲突申请缓考的条件、材料、审批、回执和重考确认流程
 - [自学科学与技术：反内卷的大学生存工程学](/learn/curricular/self_study_science_technology.md): 面向大学期末考试的目标分数管理、自学策略与 Agent 交互学习方法
-- [转信工经验分享（2026）](/learn/curricular/transfer_major_information_engineering_fish_2026.md): 华南理工大学转专业至电子与信息学院（信息工程专业）的经验分享，含笔试内容、面试标准与备考建议
 - [转信工经验分享（2026）](/learn/curricular/transfer_major_information_engineering_2026.md): 华南理工大学转专业至电子与信息学院（信息工程专业）的经验分享，含笔试内容、面试标准与备考建议
+- [转信工经验分享（2026）](/learn/curricular/transfer_major_information_engineering_fish_2026.md): 华南理工大学转专业至电子与信息学院（信息工程专业）的经验分享，含笔试内容、面试标准与备考建议
 - [转机械经验分享（2026）](/learn/curricular/transfer_major_mechanical_fish_2026.md): 华南理工大学转专业至机械与汽车工程学院的经验分享，含报录比、面试准备、常见问题与备考建议
 - [转电气经验分享（2026）](/learn/curricular/transfer_major_electrical_2026.md): 华南理工大学转专业至电力学院（电气工程及其自动化）的经验分享，含面试准备、常见问题与回答思路

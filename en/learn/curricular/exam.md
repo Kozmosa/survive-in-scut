@@ -1,6 +1,8 @@
 ---
 url: /en/learn/curricular/exam.md
-description: SCUT's exam-related regulations and some advice for handling exams
+description: >-
+  SCUT undergraduate exams, deferred exam application guide, and exam
+  preparation resources
 ---
 
 # Exams
@@ -8,9 +10,12 @@ description: SCUT's exam-related regulations and some advice for handling exams
 TODO: Add exam regulations and guidelines:
 
 * \[ ] Exam room discipline and violation handling: serious consequences and academic sanctions for bringing phones/cheating
-* \[ ] Deferred exam application process: conditions for applying due to illness or schedule conflict, approval steps, and grade recording rules
 * \[ ] Grade review and appeal: process and time window for requesting a review of disputed final grades
 * \[ ] Course assessment methods: assessment formats and grade composition for different course types (required/elective/general education)
+
+## Deferred Exam
+
+[Deferred Exam Application Guide](./deferred_exam.md) is a verified SOP based on two actual applications, covering illness and schedule-conflict evidence, the application form, dual-department approval and three official stamps, receipt delivery, and the next-semester retake enrollment confirmation.
 
 ## University Physics
 

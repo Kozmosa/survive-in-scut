@@ -1640,7 +1640,7 @@ SCUTEEE 类似于 IEEE，SCUT 是华南理工大学（South China University of 
 
 ---
 url: /learn/curricular/exam.md
-description: 华南理工大学与考试相关的规章制度，及应对考试可供参考的一些告诫
+description: 华南理工大学本科考试、缓考办理与期末复习指南
 ---
 
 # 考试
@@ -1648,9 +1648,12 @@ description: 华南理工大学与考试相关的规章制度，及应对考试�
 TODO: 补充考核规章与应考细则：
 
 * \[ ] 考场纪律与违纪处理：带手机/作弊的严肃后果与学籍处分规定
-* \[ ] 缓考申请流程：因病或课程冲突申请缓考的条件、审批步骤与成绩记载规则
 * \[ ] 查分与复核：期末成绩异议的申请复核流程与时间窗口
 * \[ ] 课程考核方式说明：各类型课程（必修/选修/通识）的考核形式与成绩构成
+
+## 缓考
+
+[《缓考申请攻略：别把缺考赌成缓考》](./deferred_exam.md)是一份经过两次实际办理验证的缓考 SOP，覆盖因病或课程冲突的证明材料、申请单填写、两栏审批与三处盖章、回执交付，以及下一学期的“重考报名确认”。
 
 ## 自学科学与技术
 
@@ -4820,7 +4823,9 @@ SCUTEEE is like IEEE. SCUT stands for South China University of Technology, and 
 
 ---
 url: /en/learn/curricular/exam.md
-description: SCUT's exam-related regulations and some advice for handling exams
+description: >-
+  SCUT undergraduate exams, deferred exam application guide, and exam
+  preparation resources
 ---
 
 # Exams
@@ -4828,9 +4833,12 @@ description: SCUT's exam-related regulations and some advice for handling exams
 TODO: Add exam regulations and guidelines:
 
 * \[ ] Exam room discipline and violation handling: serious consequences and academic sanctions for bringing phones/cheating
-* \[ ] Deferred exam application process: conditions for applying due to illness or schedule conflict, approval steps, and grade recording rules
 * \[ ] Grade review and appeal: process and time window for requesting a review of disputed final grades
 * \[ ] Course assessment methods: assessment formats and grade composition for different course types (required/elective/general education)
+
+## Deferred Exam
+
+[Deferred Exam Application Guide](./deferred_exam.md) is a verified SOP based on two actual applications, covering illness and schedule-conflict evidence, the application form, dual-department approval and three official stamps, receipt delivery, and the next-semester retake enrollment confirmation.
 
 ## University Physics
 
@@ -6810,6 +6818,164 @@ At its core, this is an exam, and its difficulty level is roughly comparable to 
 One book is enough — you probably won't have time for more anyway.
 
 * CMC Analytical Tutorial Volumes 1 & 2 (Red book series: Science Press)
+
+---
+
+---
+url: /en/learn/curricular/deferred_exam.md
+description: >-
+  Conditions, documentation, approval, receipt, and retake confirmation process
+  for SCUT undergraduates applying for a deferred exam due to illness or
+  schedule conflict
+---
+
+# Deferred Exam Application Guide: Don't Gamble Your Exam on Luck
+
+A deferred exam is **not** "I'll just skip it and take it next semester" — it requires **a written application submitted and approved before the exam**. Missing an exam without completing this process is considered an unauthorized absence, not a deferral. SCUT's current academic regulations allow deferred exams in two situations:
+
+* Illness preventing attendance, supported by a hospital certificate;
+* Schedule conflicts preventing attendance.
+
+The applicant must submit a written application to both their home college and the course-offering college before the exam, approved by the vice deans of both colleges, in order to take the retake at the beginning of the next semester. Although deferred exam students sit the same exam as retake students, the grade is **not recorded as a retake grade**.
+
+::: info Scope of verification
+The offline procedure described below is based on two deferred exam applications processed by a student from the School of Civil and Transportation during the 2025–2026 academic year: one due to high fever, and another due to a schedule conflict between UC Berkeley's summer session and SCUT's exam. In both cases, the home college and course-offering college were the same (School of Civil and Transportation).
+
+Cross-college applications and last-minute illness on exam day have not been personally tested. If you encounter either situation, check with your counselor first — don't bet your academic record on this page.
+:::
+
+## One-Page Checklist
+
+1. Ask your counselor for the current semester's application form, and confirm the teaching secretary and stamping office locations.
+2. Notify your course instructor via WeChat that you plan to apply for a deferred exam, so you won't be marked as absent without excuse.
+3. Prepare evidence that covers the exam period.
+4. Fill out one form per course.
+5. Have the teaching secretary process the approval comments for both your home college and the course-offering college.
+6. Complete the vice dean's signature stamp, two college official stamps on the approval blocks, and the receipt stamp.
+7. Photograph the completed form, submit it to the course-offering college for filing as required, and give the stamped receipt to your instructor before the exam.
+8. After the next semester begins, complete "retake enrollment confirmation" in the academic system, then check the exam schedule.
+
+## Step 1: Ask Your Counselor First — Don't Download Forms from the Web
+
+The university website has a [deferred exam application form download page](https://www2.scut.edu.cn/ep/2018/1102/c19008a293383/page.htm), but the public page was published in 2018 and the form's footer dates back even further. The safer approach is to ask your counselor directly:
+
+> I need to apply for a deferred exam for \[course name]. Could you tell me which version of the form is in use this semester? Which teaching secretaries handle the home college and course-offering college approvals, and which offices should I go to for stamps?
+
+Your counselor's value isn't to approve you — it's to give you the current form version and real office routes. The official form says "approved by the vice dean of teaching," but in practice, the authorized teaching secretary may handle the signature stamp and college stamp.
+
+## Step 2: Notify Your Instructor
+
+The course instructor is not the final approver, but they must know in advance that you are not an unauthorized absentee. You can send:
+
+> Professor \[Name], I am \[Your Name], student ID \[Number], enrolled in your course \[Course Name]. The original exam is scheduled for \[Date] at \[Time]. Due to \[Reason], I cannot attend. I plan to apply for a deferred exam through my college's procedure and wanted to notify you first. Once the approval is complete, I will send you the stamped materials and deliver the paper receipt before the exam.
+
+In practice, verbal acknowledgment via WeChat from the instructor is sufficient to proceed. The "instructor" column on the form can be filled in by the student. The instructor's acknowledgment is a notification, not college approval.
+
+## Step 3: Solidify Your Evidence
+
+### Due to Illness
+
+The tested path is:
+
+1. Visit the university hospital and register for a consultation;
+2. Ask the attending physician to issue a diagnosis based on your actual condition;
+3. Obtain a clear medical recommendation, e.g., "recommended rest for 1 day";
+4. Present the diagnosis and recommendation when processing approval.
+
+In one actual application, the diagnosis recorded a peak body temperature of `39.5°C` and related symptoms, with a doctor's recommendation of 1 day of rest. The university hospital could issue at most 1–2 days of rest recommendation at the time. The college did not retain the materials, but the stamping officer needed to see them on-site.
+
+What matters is not the word "fever," but **symptom records, diagnostic conclusions, and a rest recommendation covering the exam period**. Doctors must write based on actual examination results — do not instruct them to fabricate wording.
+
+The university's official rules only require a hospital certificate and do not publicly specify that it must be from the university hospital or mandate a fixed template. If using an external hospital, needing a longer rest period, or facing an emergency, confirm material requirements with your counselor first.
+
+### Due to Schedule Conflict
+
+Do **not** interpret "business" as "any plane ticket qualifies." The official rule states **course conflict**.
+
+One actual approved case: UC Berkeley's summer session started on July 6, and SCUT's exam was on July 7. The applicant presented their I-20 and was approved, without being asked to provide a plane ticket or explain why the trip couldn't be rescheduled. This only proves that "external course conflict + I-20" was once approved — it does not imply that personal travel, tourism, or ordinary schedule conflicts will be approved.
+
+If your situation is not a course conflict, send your evidence to your counselor first to ask whether it's worth applying. Do not buy non-refundable tickets first and then expect the college to bail you out.
+
+## Step 4: Fill Out the Application Form
+
+Blank sections must be handwritten, one form per course. You cannot use one form for multiple courses. Required fields include:
+
+* Name, student ID, home college, and major;
+* Course name and instructor;
+* Original exam time;
+* Whether you have read and understood the relevant regulations;
+* Reason for application;
+* Student signature and date.
+
+Verify the course name and exam time from the academic system or exam notice before filling in — don't rely on abbreviations. Supporting documents do not need to be glued to the form, but you must bring the originals or verifiable materials when processing.
+
+## Step 5: Complete the Approval and Three Official Stamps
+
+In the tested case where the home college and course-offering college were the same, a single teaching secretary handled both "Vice Dean's Opinion" columns. The sequence was:
+
+1. Review the application reason and evidence;
+2. Write the approval opinion;
+3. Apply the vice dean's signature stamp;
+4. Stamp both the "Home College" and "Course-Offering College" official seals;
+5. Stamp the "Deferred Exam Receipt" with the course-offering college seal one more time.
+
+Even when both colleges are the same, the two columns cannot be combined — the form requires three college stamps in total. The signature stamp and college stamps may be handled in different offices. With complete materials and all relevant staff present, approval took about 10 minutes in practice. The real delay comes from finding the wrong office or the responsible person being away.
+
+If the course-offering college is not your home college, follow the order of "home college first, then course-offering college," and confirm the teaching secretaries for both colleges in advance. The cross-college route has not been personally tested — do not copy the School of Civil and Transportation's office arrangements.
+
+## Step 6: File, Submit the Receipt, and Keep Evidence
+
+The form's printed instructions require:
+
+* After approval, submit to the course-offering college's academic affairs office before the exam;
+* The top portion is retained by the course-offering college for filing;
+* The bottom receipt, stamped by the course-offering college, is given to the course instructor.
+
+In practice, if the office returns the entire form to you, do not guess which section to cut. Ask on the spot: "Which part does the college keep, and which part does the instructor receive?" Before handing over any paper, take a clear photo showing the handwriting and all three stamps.
+
+If you cannot submit in person, a classmate can do it for you, but at minimum:
+
+1. Send the complete stamped version to your instructor before the exam;
+2. Tell the person clearly who to give it to and which part to submit;
+3. Have the instructor or your classmate confirm delivery;
+4. Save the chat records and the complete photo.
+
+When the instructor enters grades for this term, the course will be marked as "deferred exam." The paper receipt's purpose is to ensure the instructor knows this is not an unauthorized absence.
+
+## Step 7: Don't Forget to Enroll Next Semester
+
+Approval for a deferred exam only resolves "why you didn't take it this time" — it does not automatically enroll you for the next sitting.
+
+At the start of the next semester, the college will notify students to log into the academic system. The menu path is:
+
+> Applications → Retake Enrollment Confirmation
+
+For example, in the 2025–2026 academic year, second semester notification opened from Wednesday of the first week to Wednesday of the second week — a window of only one week. Specific dates change each semester; only the current semester's notice is authoritative.
+
+After enrolling, check two sources for arrangements:
+
+* Public courses: check the Undergraduate Academic Affairs Office or the course-offering college's retake schedule;
+* Major-specific courses: check the course-offering college's official website for undergraduate academic notices.
+
+Deferred exam students typically sit the same exam as makeup and retake students, but this is only a shared exam arrangement. An approved deferred exam grade is not recorded as a retake grade. The overall course assessment still follows the original evaluation method, and your usual performance score is not voided.
+
+You only get one retake opportunity. If you miss the "retake enrollment confirmation" window, or enroll but fail to show up, the only remaining option is course retaking. Don't leave a one-week window to your memory — set a reminder on the first day of the semester.
+
+## Four Common Pitfalls
+
+1. **"The instructor agreed, so I'm good."** No. The instructor is just informed — final approval requires both colleges.
+2. **"One stamp from the same college is enough."** No. The home college column, course-offering college column, and receipt each have their own stamp.
+3. **"Any reason works."** Not true. The published rules cover illness or course conflict. Other reasons are at the college's discretion.
+4. **"Once approved, I just wait."** No. You must actively confirm enrollment in the academic system next semester.
+
+## Sources and Timeliness
+
+* [SCUT Full-Time Undergraduate Academic Management Regulations (2021 Revision)](https://xxgk.scut.edu.cn/2021/0815/c71a3558/page.htm), Articles 29, 30, and 39: deferred exam conditions, pre-exam written application, dual-college approval, next-semester retake, grade recording, and GPA calculation.
+* [Undergraduate Handbook](/assets/pdf/scut_undergraduate_handbook_2024.pdf#page=69), PDF pp. 69–70 (handbook pp. 67–68): same regulations and grade recording provisions.
+* [Retake Enrollment Notice for 2025–2026 Academic Year, Second Semester](https://www2.scut.edu.cn/marine/2026/0116/c39453a617522/page.htm): one-week enrollment window, academic system path, only retake option if missed, and arrangement publication channels for public and major-specific courses.
+* [Deferred Exam Application Form Download Page](https://www2.scut.edu.cn/ep/2018/1102/c19008a293383/page.htm): older version posted on the university website, for backup only. Confirm the current version with your counselor before proceeding.
+
+Policies, forms, and office assignments may change. This page can compress information for you, but it cannot stamp forms for you. Always defer to the current semester's Undergraduate Academic Affairs Office, course-offering college, and counselor notices.
 
 ---
 
@@ -9229,6 +9395,161 @@ description: 华南理工大学 概率论与数理统计课程的学习笔记
 ---
 
 ---
+url: /learn/curricular/deferred_exam.md
+description: 华南理工大学本科生因病或课程冲突申请缓考的条件、材料、审批、回执和重考确认流程
+---
+
+# 缓考申请攻略：别把缺考赌成缓考
+
+缓考不是“这次不去，下学期再考”，而是**考试前完成书面申请并获得批准**。没有办完手续就缺考，性质不是缓考，而是未经批准缺考。学校现行学籍管理办法规定，缓考适用于两类情况：
+
+* 因病不能参加考核，并附医院证明；
+* 课程时间冲突，不能参加考核。
+
+申请人需要在考前向所在学院和开课学院提出书面申请，经双方学院主管教学副院长批准，才能参加下一学期初的课程重考。虽然和重考学生使用同一场考试，但成绩**不按重考成绩记载**。
+
+::: info 实测范围
+下面的线下流程来自土木与交通学院学生在 2025—2026 学年办理的两次缓考：一次因高烧，一次因 UC Berkeley 暑校开课时间与华工考试冲突。两次申请中，所在学院和开课学院都是土木与交通学院。
+
+跨学院申请、考试当天突发疾病能否补办，没有亲测。遇到这两种情况，先找辅导员确认，不要拿本页赌学籍。
+:::
+
+## 一页执行清单
+
+1. 问辅导员拿本学期可用的缓考申请单，并确认教学秘书和盖章办公室。
+2. 微信告知任课老师：你准备申请缓考，避免被当成无故缺考。
+3. 准备能够覆盖考试时间的证明材料。
+4. 一门课填写一张申请单。
+5. 找教学秘书处理所在学院和开课学院的审批意见。
+6. 依次完成教学院长签名章、两处审批栏的学院公章和回执公章。
+7. 拍照留档，把申请单按要求交开课学院备案，并在考试前把盖章回执交给任课老师。
+8. 下一学期开学后，在教务系统完成“重考报名确认”，再查考试安排。
+
+## 第一步：先问辅导员，不要先在网上捡表
+
+学校网站可以找到[缓考申请单下载页](https://www2.scut.edu.cn/ep/2018/1102/c19008a293383/page.htm)，但公开页面发布于 2018 年，申请单页脚标注的制表时间更早。更稳的做法是直接问辅导员：
+
+> 我需要申请 XX 课程缓考。请问本学期使用哪一版申请单？所在学院和开课学院的审批分别找哪位教学秘书，需要去哪些办公室盖章？
+
+辅导员的价值不是替你审批，而是给出当前版本和真实的办公室路线。学校表格写的是“主管教学副院长批准”，实际办理可能由授权的教学秘书处理签名章和公章。
+
+## 第二步：向任课老师报备
+
+任课老师不是最终审批人，但必须提前知道你不是无故缺考。可以直接发：
+
+> 老师您好，我是 XX 班的 XXX，学号 XXXXX，选修您的《XX》。原定考试时间是 X 月 X 日 X 时，我因 XX 无法参加，准备按学院流程申请缓考，先向您报备。审批完成后，我会在考试前把盖章材料发给您，并递交纸质回执。
+
+实测中，老师通过微信口头同意即可继续办理，“主讲教师”一栏可以由学生自己填写。老师的同意是报备，不等于学院已经批准。
+
+## 第三步：把证明做实
+
+### 因病
+
+实测路径是：
+
+1. 到校医院挂号并就诊；
+2. 请接诊医生如实开具诊断；
+3. 取得明确的医生建议，例如“建议休息 1 天”；
+4. 办理审批时出示诊断和医生建议。
+
+一次实际申请中，诊断记录了最高体温 `39.5℃` 等症状，医生建议休息 1 天。校医院当时最多只能开 1—2 天的休息建议。学院没有收走材料，但盖签名章的老师需要现场查看。
+
+真正有用的不是“发热”两个字，而是**症状记录、诊断结论和覆盖考试时间的休息建议**。医生写什么必须以真实诊疗结果为准，不要指挥医生伪造措辞。
+
+学校正式规则只要求附医院证明，并未在公开条款中限定必须是校医院，也没有规定固定模板。使用校外医院材料、需要更长休息时间或病情紧急时，先让辅导员确认材料要求。
+
+### 课程冲突
+
+不要把“因事”理解成“有张机票就能缓考”。正式规则写的是**课程冲突**。
+
+一次实际获批案例是：UC Berkeley 暑校在 7 月 6 日开课，华工课程在 7 月 7 日考试。申请人出示 I-20 后通过审批，没有被要求补交机票或解释为什么不能改期。这只能证明“外校课程冲突＋I-20”曾成功获批，不能推出私人旅行、旅游或普通行程冲突也会获批。
+
+如果你的情况不是课程冲突，先把证明发给辅导员判断是否值得申请。别先买不可退的票，再逼学院替你的决策兜底。
+
+## 第四步：填写申请单
+
+空白部分手写，一门课程一张，不能用一张表申请多门课程。需要填写：
+
+* 姓名、学号、所在学院和专业；
+* 申请缓考课程、主讲教师；
+* 原考试时间；
+* 是否已了解相关规定；
+* 申请事由；
+* 学生签名和日期。
+
+填表前从教务系统或考试通知中核对课程名称和考试时间，不要凭简称填写。证明材料不用粘死在申请单上，但办理时必须带着原件或可核验文件。
+
+## 第五步：跑完审批和三处公章
+
+在所在学院和开课学院相同的实测案例中，同一位教学秘书处理了左右两个“教学院长意见”栏。顺序是：
+
+1. 审核申请理由和证明；
+2. 填写审批意见；
+3. 盖教学院长签名章；
+4. 在“所在学院公章”和“开课学院公章”处分别盖章；
+5. 在下方“缓考回执”的“开课学院公章”处再盖一次。
+
+即使所在学院和开课学院相同，左右两栏也不能合并，整张表共需三处学院公章。签意见、盖签名章和盖学院公章可能分布在不同办公室。材料齐全且相关老师都在时，实测审批约 10 分钟；真正容易耗时的是找错办公室或负责人不在。
+
+如果开课学院不是本学院，按“所在学院先审批、开课学院后审批”的顺序走，并提前问清两个学院的教学秘书。跨学院路线没有亲测，不要照搬土木与交通学院的办公室安排。
+
+## 第六步：备案、交回执、留证据
+
+申请单印刷说明要求：
+
+* 审批完成后，在考试前递交开课学院教务员；
+* 上联由开课学院教务备案；
+* 下联回执经开课学院盖章后交任课老师。
+
+实操中，如果办公室把整张申请单交还给你，不要自行猜测该裁哪一段，现场问清“学院留哪部分、老师收哪部分”。交出任何纸质材料前，拍摄一张字迹和三处公章都清晰的完整照片。
+
+本人不方便递交时可以请同学代交，但至少做到：
+
+1. 考试前把完整盖章版发给任课老师；
+2. 明确告诉代交人要交给谁、交哪一联；
+3. 让任课老师或代交人确认材料已经送达；
+4. 保存聊天记录和完整照片。
+
+任课老师在录入本次成绩时，会把该课程标记为“缓考”。纸质回执的作用就是让老师知道：这不是缺考。
+
+## 第七步：下一学期别忘了报名
+
+缓考获批只解决“这次为什么不考”，不会自动替你报名下一场。
+
+下一学期开学后，学院会通知学生登录教务系统。操作入口是：
+
+> 报名申请 → 重考报名确认
+
+以 2025—2026 学年第二学期通知为例，报名从开学第一周星期三开放，到第二周星期三结束，窗口只有一周。具体日期每学期都会变化，只认当学期通知。
+
+报名后继续查两类信息：
+
+* 公共课：查看本科生院或公共课开课学院发布的重考安排；
+* 专业课：查看开课学院官网的本科生教务通知。
+
+缓考学生通常和补考、重考学生参加同一场考试，但这只是共用考试安排。经批准的缓考成绩不按重考成绩记载，课程总评仍按该课程原有考核方式计算，平时成绩不会凭空消失。
+
+重考机会只有一次。没有在规定时间完成“重考报名确认”，或者报名后没有参加考试，之后只能重修。别把一周窗口交给记忆力：开学第一天就设提醒。
+
+## 四个容易翻车的误区
+
+1. **“老师同意就行。”** 不行。老师只是知情，最终需要两边学院批准。
+2. **“同一个学院盖一个章就够了。”** 不够。所在学院栏、开课学院栏和回执各有一处章。
+3. **“有事都可以申请。”** 不成立。公开规则写的是因病或课程冲突，其他事由是否批准由学院判断。
+4. **“批完以后等通知就行。”** 不行。下一学期还要在教务系统主动确认报名。
+
+## 依据与时效
+
+* [《华南理工大学全日制本科学生学籍管理办法（2021 年修订）》](https://xxgk.scut.edu.cn/2021/0815/c71a3558/page.htm)第二十九、三十和三十九条：缓考适用情形、考前书面申请、双方学院审批、下一学期参加重考、不按重考成绩记载，以及缓考成绩的绩点计算。
+* [《本科生手册》](/assets/pdf/scut_undergraduate_handbook_2024.pdf#page=69)PDF 第 69—70 页（手册第 67—68 页）：同一办法的缓考与成绩记载条款。
+* [2025—2026 学年第二学期重考报名通知](https://www2.scut.edu.cn/marine/2026/0116/c39453a617522/page.htm)：一周报名窗口、教务系统入口、错过报名只能重修，以及公共课和专业课安排的发布方式。
+* [缓考申请单下载页](https://www2.scut.edu.cn/ep/2018/1102/c19008a293383/page.htm)：学校网站公开的旧版申请单，仅作备用。实际办理前应向辅导员确认当前版本。
+
+政策、表格和办公室分工可能调整。本页能替你压缩信息，不能替学院盖章。最终以当学期本科生院、开课学院和辅导员通知为准。
+
+---
+
+---
 url: /learn/curricular/self_study_science_technology.md
 description: 面向大学期末考试的目标分数管理、自学策略与 Agent 交互学习方法
 ---
@@ -10016,6 +10337,52 @@ https://github.com/Wh1te358/skills-by-Wh1te/tree/codex/exam-hacker-skill/exam-ha
 ---
 
 ---
+url: /learn/curricular/transfer_major_information_engineering_2026.md
+description: 华南理工大学转专业至电子与信息学院（信息工程专业）的经验分享，含笔试内容、面试标准与备考建议
+---
+
+# 转信工经验分享 十七（材料—信工）
+
+## 开篇及介绍
+
+专业方面，华工的电子与信息学院下设有两个专业，一个是信息工程专业，另一个是电子科学与技术。专业课程上稍有区别，电科更偏射频天线一点，其他课程的话大差不差。需要注意的是，信工往年都是以转专业班的形式组建，而电科是插入班内，两个的优势缺点可以自己考量考量，想转入哪个专业。
+
+总体来说，转入电信学院的难度没有想象中的高，按照近几年都有均分在 15％ 左右的同学成功转入，没有特别强调高绩点。没有很高绩点的同学可以靠笔试和面试来翻盘，包容程度相对较高。当然要参考当年的报录比，报录比越低，容错率越高。25 级时候大概接近 70％ 的成功率，淘汰率是往年最低。笔者的微积分不满足机械的硬性条件，但是成功转入信息工程专业。（？问就是第一个学期玩飞了）
+
+![2025 年华南理工大学电子与信息学院转专业要求](./2025_see.jpg)
+
+## 转专业条件和流程
+
+转专业政策解释：电信学院是有调剂选项的，25 级是信工报满了而电科没有报满，有信工的同学调剂到电子科学与技术专业去（取综合分最后两个转电科，到时候会有老师联系你愿不愿意去）。数学门槛的话比较固定，不算很高，有学长说是电信学院单科百分之五十，划线作为参考标准。电信给的名额是都会用完的，录取人数是固定的，不存在录不满。
+
+比如我是 25 级的，24 级信工如果有 7 个名额，只报名了 2 个的话，会将 24 级没有用完的 5 名额下放给 25 级的学生。不要单看你一级的报录比，实际的报录比要低一些（有上一级的名额放下来），这一点可以仔细看一下转专业要求第 9 条。25 中法班是因为报名人数比较少，在报名截至最后一天的时候通知大家取消了，不知道 26 级能不能组建成班（前提是人数要够）。中法班会出国研学，学习法语课程，但是没有保研资格，有意愿去这个班的人比较少。
+
+大一下时候四月下旬，会公布转专业的门槛和笔试的内容，信工与电科的考试是一起进行的，范围相同，物理部分是四十分（大一下才开，大一上一般没有这个课程），高数＋线代是六十分。如果考虑转电信学院的话，在出门槛和考试范围后就可以开始准备了，五一少玩点嗷。
+
+## 笔试及面试
+
+在五月初的时候（五一后，大概是 5.7 日左右）进行笔试，笔试后大概两天就会出面试名单，面试完一至两天出总录取名单。题目在信工转专业群里面有比较完整版（由其他学长学姐整理的），考试时间很紧张，11 道数学小题，6 道数学大题，其中线代部分考的很难，有一道半的证明题。大物好像是 10 填空 10 选择吧，加起来是两个小时时间，题量很大，要抓紧写。题目可以进群里面找，去年和往年有部分重复。（群号最后给了，第二个学期确定转信工，再进都来得及）
+
+## 面试标准及老师提问
+
+参考标准大概如下：
+
+1. **绩点**，和学习能力相关。即使你是不相关的专业，你的均分最好也要好看些，这是老师评判你学习能力的一大标准，老师没那么多功夫去一点点看你的成绩，只能是扫一眼，均分越高越有优势。注意要仔细看每一门课的学分和考核要求，别按自己想的来，有的水课很占分，想转专业的话还是蛮重要的。思政课别太低，可以认过来。
+2. **英语水平**
+3. **科研及竞赛潜质**，如果有比赛经历和项目实践等会有较大优势
+4. **表现的心理素质**
+
+提问的话比较随机，因为我们当时笔试结束后就已经是确定录取名额了，老师更侧重于和学生聊天。面试一个人是三分钟自我介绍，四分钟老师提问，等待面试期间不能玩电子设备，会上交，面完可以拿手机走了。一般就是根据你的自我介绍，来提一些相关的问题，所以如果你不确定的话／有编的成分，就要谨慎一些，老师可能会就某个感兴趣的部分提问了。还会提问一些和专业相关的内容，比如你为了转信工做了些什么，有没有相关的竞赛或者实践，来考验你的潜质，建议这方面多准备一点点。
+
+我记得当时有一个老师负责教人工智能导论，她就提问了人工智能网课相关的东西，但是我全是刷过去的也不知道什么，瞎编了。另一个老师提问了社团相关的问题。
+
+## 总结
+
+转信工的难度并没有想象的高，但是千万别掉以轻心，最重要的是大一上的均分好看些，数学和英语考的高一点。大概这些，如果还有不懂的就进信工转专业群里面来提问：1037507331
+
+---
+
+---
 url: /learn/curricular/transfer_major_information_engineering_fish_2026.md
 description: 华南理工大学转专业至电子与信息学院（信息工程专业）的经验分享，含笔试内容、面试标准与备考建议
 ---
@@ -10107,52 +10474,6 @@ description: 华南理工大学转专业至电子与信息学院（信息工程�
 ![图片4](/root-assets/transfer_major/InformationEngineering_fish_2026/images/image4.png)
 
 ![图片5](/root-assets/transfer_major/InformationEngineering_fish_2026/images/image5.png)
-
----
-
----
-url: /learn/curricular/transfer_major_information_engineering_2026.md
-description: 华南理工大学转专业至电子与信息学院（信息工程专业）的经验分享，含笔试内容、面试标准与备考建议
----
-
-# 转信工经验分享 十七（材料—信工）
-
-## 开篇及介绍
-
-专业方面，华工的电子与信息学院下设有两个专业，一个是信息工程专业，另一个是电子科学与技术。专业课程上稍有区别，电科更偏射频天线一点，其他课程的话大差不差。需要注意的是，信工往年都是以转专业班的形式组建，而电科是插入班内，两个的优势缺点可以自己考量考量，想转入哪个专业。
-
-总体来说，转入电信学院的难度没有想象中的高，按照近几年都有均分在 15％ 左右的同学成功转入，没有特别强调高绩点。没有很高绩点的同学可以靠笔试和面试来翻盘，包容程度相对较高。当然要参考当年的报录比，报录比越低，容错率越高。25 级时候大概接近 70％ 的成功率，淘汰率是往年最低。笔者的微积分不满足机械的硬性条件，但是成功转入信息工程专业。（？问就是第一个学期玩飞了）
-
-![2025 年华南理工大学电子与信息学院转专业要求](./2025_see.jpg)
-
-## 转专业条件和流程
-
-转专业政策解释：电信学院是有调剂选项的，25 级是信工报满了而电科没有报满，有信工的同学调剂到电子科学与技术专业去（取综合分最后两个转电科，到时候会有老师联系你愿不愿意去）。数学门槛的话比较固定，不算很高，有学长说是电信学院单科百分之五十，划线作为参考标准。电信给的名额是都会用完的，录取人数是固定的，不存在录不满。
-
-比如我是 25 级的，24 级信工如果有 7 个名额，只报名了 2 个的话，会将 24 级没有用完的 5 名额下放给 25 级的学生。不要单看你一级的报录比，实际的报录比要低一些（有上一级的名额放下来），这一点可以仔细看一下转专业要求第 9 条。25 中法班是因为报名人数比较少，在报名截至最后一天的时候通知大家取消了，不知道 26 级能不能组建成班（前提是人数要够）。中法班会出国研学，学习法语课程，但是没有保研资格，有意愿去这个班的人比较少。
-
-大一下时候四月下旬，会公布转专业的门槛和笔试的内容，信工与电科的考试是一起进行的，范围相同，物理部分是四十分（大一下才开，大一上一般没有这个课程），高数＋线代是六十分。如果考虑转电信学院的话，在出门槛和考试范围后就可以开始准备了，五一少玩点嗷。
-
-## 笔试及面试
-
-在五月初的时候（五一后，大概是 5.7 日左右）进行笔试，笔试后大概两天就会出面试名单，面试完一至两天出总录取名单。题目在信工转专业群里面有比较完整版（由其他学长学姐整理的），考试时间很紧张，11 道数学小题，6 道数学大题，其中线代部分考的很难，有一道半的证明题。大物好像是 10 填空 10 选择吧，加起来是两个小时时间，题量很大，要抓紧写。题目可以进群里面找，去年和往年有部分重复。（群号最后给了，第二个学期确定转信工，再进都来得及）
-
-## 面试标准及老师提问
-
-参考标准大概如下：
-
-1. **绩点**，和学习能力相关。即使你是不相关的专业，你的均分最好也要好看些，这是老师评判你学习能力的一大标准，老师没那么多功夫去一点点看你的成绩，只能是扫一眼，均分越高越有优势。注意要仔细看每一门课的学分和考核要求，别按自己想的来，有的水课很占分，想转专业的话还是蛮重要的。思政课别太低，可以认过来。
-2. **英语水平**
-3. **科研及竞赛潜质**，如果有比赛经历和项目实践等会有较大优势
-4. **表现的心理素质**
-
-提问的话比较随机，因为我们当时笔试结束后就已经是确定录取名额了，老师更侧重于和学生聊天。面试一个人是三分钟自我介绍，四分钟老师提问，等待面试期间不能玩电子设备，会上交，面完可以拿手机走了。一般就是根据你的自我介绍，来提一些相关的问题，所以如果你不确定的话／有编的成分，就要谨慎一些，老师可能会就某个感兴趣的部分提问了。还会提问一些和专业相关的内容，比如你为了转信工做了些什么，有没有相关的竞赛或者实践，来考验你的潜质，建议这方面多准备一点点。
-
-我记得当时有一个老师负责教人工智能导论，她就提问了人工智能网课相关的东西，但是我全是刷过去的也不知道什么，瞎编了。另一个老师提问了社团相关的问题。
-
-## 总结
-
-转信工的难度并没有想象的高，但是千万别掉以轻心，最重要的是大一上的均分好看些，数学和英语考的高一点。大概这些，如果还有不懂的就进信工转专业群里面来提问：1037507331
 
 ---
 
