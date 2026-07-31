@@ -173,6 +173,7 @@ const sidebarEn: Sidebar = {
       collapsed: false,
       items: [
         { text: "Overview", link: "/en/infra/index" },
+        { text: "Dorm E", link: "/en/infra/hemc/dorm-e" },
         {
           text: "HEMC",
           collapsed: true,
@@ -252,10 +253,66 @@ const sidebarEn: Sidebar = {
             },
             { text: "Majors", link: "/en/learn/curricular/majors" },
             { text: "Exam", link: "/en/learn/curricular/exam" },
+            {
+              text: "Deferred Exam",
+              link: "/en/learn/curricular/deferred_exam",
+            },
             { text: "GPA", link: "/en/learn/curricular/gpa" },
             {
               text: "Transfer Major",
               link: "/en/learn/curricular/transfer_major",
+            },
+            {
+              text: "Self-Study Science & Technology",
+              link: "/en/learn/curricular/self_study_science_technology",
+            },
+            {
+              text: "Transfer Guides",
+              collapsed: true,
+              items: [
+                {
+                  text: "2024 Guide",
+                  link: "/en/learn/curricular/transfer_major_2024",
+                },
+                {
+                  text: "Quick Guide",
+                  link: "/en/learn/curricular/transfer_major_quick",
+                },
+                {
+                  text: "IE 2026",
+                  link: "/en/learn/curricular/transfer_major_information_engineering_2026",
+                },
+                {
+                  text: "IE Fish 2026",
+                  link: "/en/learn/curricular/transfer_major_information_engineering_fish_2026",
+                },
+                {
+                  text: "ME Fish 2026",
+                  link: "/en/learn/curricular/transfer_major_mechanical_fish_2026",
+                },
+                {
+                  text: "EE 2026",
+                  link: "/en/learn/curricular/transfer_major_electrical_2026",
+                },
+              ],
+            },
+            {
+              text: "Advanced Topics",
+              collapsed: true,
+              items: [
+                {
+                  text: "Math Tutorial",
+                  link: "/en/learn/curricular/majors/math/math_tutorial",
+                },
+                {
+                  text: "Distribution Gallery",
+                  link: "/en/learn/curricular/common/probalistics_and_statistics/distribution_gallery",
+                },
+                {
+                  text: "PLT Notes",
+                  link: "/en/learn/curricular/common/probalistics_and_statistics/plt_note",
+                },
+              ],
             },
           ],
         },
@@ -265,6 +322,14 @@ const sidebarEn: Sidebar = {
           items: [
             { text: "SRP", link: "/en/learn/extra/srp" },
             { text: "Contests", link: "/en/learn/extra/contest" },
+            {
+              text: "ACM",
+              link: "/en/learn/extra/contest/ACM",
+            },
+            {
+              text: "CMC",
+              link: "/en/learn/extra/contest/cmc",
+            },
             {
               text: "Innovation/Humanities Credits",
               link: "/en/learn/extra/innovation_humanities_scores",
