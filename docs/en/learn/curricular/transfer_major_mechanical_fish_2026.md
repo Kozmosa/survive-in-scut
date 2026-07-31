@@ -1,5 +1,6 @@
 ---
-lang: en
+lang: en-US
+llm_translated: true
 title: Transfer to Mechanical Engineering Experience (2026)
 description: Experience sharing for transferring to the School of Mechanical and Automotive Engineering at SCUT, covering applicant-to-acceptance ratios, interview preparation, common questions, and preparation tips
 date: 2026-07-26

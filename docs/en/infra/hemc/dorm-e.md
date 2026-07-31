@@ -1,5 +1,6 @@
 ---
-lang: en
+lang: en-US
+llm_translated: true
 title: Dorm E
 description: Overview of Dorm E at the South China University of Technology University Town Campus
 ---

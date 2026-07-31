@@ -1,5 +1,6 @@
 ---
-lang: en
+lang: en-US
+llm_translated: true
 title: Transfer to Information Engineering Experience (2026)
 description: Experience sharing for transferring to the School of Electronic and Information Engineering (Information Engineering major) at SCUT, covering written exam content, interview criteria, and preparation tips
 date: 2026-07-20

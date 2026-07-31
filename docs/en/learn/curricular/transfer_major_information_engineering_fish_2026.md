@@ -1,11 +1,11 @@
 ---
-lang: en
+lang: en-US
+llm_translated: true
 title: Transfer to Information Engineering Experience Sharing (2026)
 description: Experience sharing for transferring to the School of Electronic and Information Engineering (Information Engineering) at South China University of Technology, including written exam content, interview criteria, and preparation tips
 date: 2026-07-26
 author: fish152363
 sidebarDepth: 2
-disclaimer: true
 ---
 
 # Information Engineering Major Transfer Experience

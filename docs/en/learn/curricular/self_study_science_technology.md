@@ -1,5 +1,6 @@
 ---
-lang: en
+lang: en-US
+llm_translated: true
 title: The Science and Technology of Self-Study — An Anti-Involution Guide to University Survival Engineering
 description: Goal-oriented grade management, self-study strategies, and agent-based interactive learning for university final exams
 disclaimer: true
