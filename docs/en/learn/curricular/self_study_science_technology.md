@@ -11,7 +11,7 @@ disclaimer: true
 
 ### The Brutal Reality
 
-The *Shanghai Jiao Tong University Survival Guide* opens with a naked exposé of the state of Chinese higher education:
+The _Shanghai Jiao Tong University Survival Guide_ opens with a naked exposé of the state of Chinese higher education:
 
 "The undergraduate teaching at the vast majority of domestic universities is not on the verge of collapse — it collapsed long ago."
 
@@ -29,13 +29,13 @@ So if you ever encounter a teacher who lectures with patience and care, shares t
 
 Now let's talk about the curriculum. Here's a shocking conclusion: university curricula lag behind industry by at least 5 years. Falling behind by 10 or even 20 years is hardly unusual.
 
-Take big data as an example. Big data began drawing attention from top-tier internet companies around 2008. By 2013 it was gaining widespread attention from government, capital, and media. In 2014 it was first written into the *Government Work Report*. By 2016 it was exploding into practical applications across major sectors. In 2021, laws like the *Data Security Law* were introduced and regulation tightened. Today, big data is no longer an unfamiliar term to any of us.
+Take big data as an example. Big data began drawing attention from top-tier internet companies around 2008. By 2013 it was gaining widespread attention from government, capital, and media. In 2014 it was first written into the _Government Work Report_. By 2016 it was exploding into practical applications across major sectors. In 2021, laws like the _Data Security Law_ were introduced and regulation tightened. Today, big data is no longer an unfamiliar term to any of us.
 
 Yet the corresponding major — Data Science and Big Data Technology — was only approved by the Ministry of Education in 2016, with Peking University, Central South University, and others among the first to offer it. The earliest undergraduates from this program graduated in 2020 at best. Postgraduates? Not until 2023.
 
 Students in this major perfectly missed the industry's golden window.
 
-And that's a *new* field. For disciplines with centuries of accumulated scientific and technological heritage, the lag is even more severe. Much of the content is still stuck in the early 2000s. The teachers themselves have never touched the industry frontier — and even when they have, it rarely goes beyond inviting some "big names" to give a talk on campus.
+And that's a _new_ field. For disciplines with centuries of accumulated scientific and technological heritage, the lag is even more severe. Much of the content is still stuck in the early 2000s. The teachers themselves have never touched the industry frontier — and even when they have, it rarely goes beyond inviting some "big names" to give a talk on campus.
 
 I once screenshotted a passage from a lecture slide and sent it to an industry heavyweight. His first response was that half of what this teacher was saying was flat-out wrong — there's no way this person had ever set foot on the front lines.
 
@@ -85,7 +85,7 @@ As your GPA climbs higher and higher, you'll find that grinding for it delivers 
 
 The grind gods in popular majors at good schools all have averages above 90. Let's say your average is 80. The time and energy you spend maintaining your average versus what a 90+ grinder spends maintaining theirs — these two things aren't even in the same universe.
 
-The only uses of GPA are for graduate school recommendations and studying abroad. But graduate school recommendations look at your GPA *rank*, not the GPA number itself. And for studying abroad, you can endlessly retake courses to "brush up" your GPA.
+The only uses of GPA are for graduate school recommendations and studying abroad. But graduate school recommendations look at your GPA _rank_, not the GPA number itself. And for studying abroad, you can endlessly retake courses to "brush up" your GPA.
 
 Different score bands are qualitatively different:
 
@@ -101,7 +101,7 @@ That 0.2 points might matter if you're on the borderline for graduate school rec
 
 If someone treats the policy scoring rubric as holy scripture, then they've become the policy's biggest victim. Yet the reality is: in popular majors, people fight tooth and nail in the "bubble zone" just to avoid falling behind. Even the "winners" of this system can't escape being sacrificed.
 
-After all, exams are a game we know well. The rules are clear, and it's comfortable and safe. Just keep playing the same way you did in high school. Everyone's packed onto the same narrow bridge — it would be weirder if they *weren't* grinding themselves to death.
+After all, exams are a game we know well. The rules are clear, and it's comfortable and safe. Just keep playing the same way you did in high school. Everyone's packed onto the same narrow bridge — it would be weirder if they _weren't_ grinding themselves to death.
 
 The rational strategy is "cutting your losses": once you reach your target line, stop investing extra effort. Just aim to "hold steady" so you don't drop out of the safe zone.
 
@@ -123,7 +123,7 @@ Why are we so addicted to this illusion? Because it delivers a lethal dopamine h
 
 Whether you're in a physical classroom or watching a recorded lecture, your train of thought follows the teacher's logic. The derivations flow seamlessly. The example problems seem doable. Everything feels great.
 
-In reality, you're just being "carried" by the teacher. These paths are ones the teacher walked you through — you haven't actually walked them yourself. You *feel* like you understood, but it's really just the comfortable sensation of a brain massage.
+In reality, you're just being "carried" by the teacher. These paths are ones the teacher walked you through — you haven't actually walked them yourself. You _feel_ like you understood, but it's really just the comfortable sensation of a brain massage.
 
 Try reciting what you just learned, or solving a problem — you'll freeze instantly. Because you never truly mastered that logic.
 
@@ -159,11 +159,11 @@ HR sorts graduates into three tiers: those with substantial project experience, 
 
 You graduate at 22. If the only new things you can put on your résumé are course grades and nothing else, then those four years are a blank.
 
-So what *can* go on a résumé? How should you allocate those four years?
+So what _can_ go on a résumé? How should you allocate those four years?
 
 - **Year 1**: Everyone's a rookie at this stage. There's not much you can do beyond coursework. Put 80% of your time into courses like Advanced Mathematics, University Physics, and so on — push those foundational course grades as high as you can. Courses like Advanced Math, Physics, and Probability Theory carry huge credit weight. Nailing them gives you a massive GPA advantage. Here's a brutal truth: later specialized courses don't carry that much credit. Your Year 1 GPA ranking is pretty much your ranking for the entire four years. So the first year requires some hard work on coursework — it buys you margin for error over the next two years.
 
-- **Year 2**: Time spent on coursework should be under 60% of the total class hours for required exam courses. After a year of fumbling your way through campus life, you've got some knowledge under your belt, you've figured out some exam hacks, and you've built up some information channels. The focus now is *exploration*. Reach out to professors and join a research group. Form teams for competitions. Get involved in clubs. Learn skills. Or, like me, write a practical PDF guide. Whatever you do, there must be output — achievements beyond coursework, even if the achievements themselves aren't that impressive.
+- **Year 2**: Time spent on coursework should be under 60% of the total class hours for required exam courses. After a year of fumbling your way through campus life, you've got some knowledge under your belt, you've figured out some exam hacks, and you've built up some information channels. The focus now is _exploration_. Reach out to professors and join a research group. Form teams for competitions. Get involved in clubs. Learn skills. Or, like me, write a practical PDF guide. Whatever you do, there must be output — achievements beyond coursework, even if the achievements themselves aren't that impressive.
 
 - **Year 3**: This is the year to lock in your direction. Employment, postgraduate entrance exams, graduate school recommendation, studying abroad — even starting a business. Every path lies before you, and once you pick one, you have to go all in. If employment, find internships boldly. If postgraduate exams, camp out in the library and grind practice problems. If further study, go all-out on competitions and publishing papers. If entrepreneurship, run your project like a maniac. Don't delude yourself into thinking you can shine on multiple fronts — most people struggle just to walk a single path well. By this point the courses are mostly whatever, with maybe only one high-credit course left. If you're still too scared to skip class for fear of losing attendance points, or still staying up late chasing perfect homework scores — like a Year 1 student — then you're a "strategic infant."
 
@@ -219,11 +219,11 @@ I'm not saying grinding is wrong — I'm saying there's a more efficient way. An
 
 There's no positive correlation between attendance and grades. If anything, it's negative.
 
-By now, it's an unspoken truth that professors don't actually teach seriously. But what are *you* doing in class?
+By now, it's an unspoken truth that professors don't actually teach seriously. But what are _you_ doing in class?
 
 Listening intently? You'll learn nothing. If you've actually absorbed the earlier sections of this essay, that thought shouldn't even cross your mind.
 
-Scrolling on your phone, slacking off? Look around. Most of your classmates have their heads down, staring at glowing screens. Scrolling TikTok, playing Honor of Kings, doing whatever. They're just being driven by the primal instinct of "I don't want to listen" — with zero concept of *why* they're not listening.
+Scrolling on your phone, slacking off? Look around. Most of your classmates have their heads down, staring at glowing screens. Scrolling TikTok, playing Honor of Kings, doing whatever. They're just being driven by the primal instinct of "I don't want to listen" — with zero concept of _why_ they're not listening.
 
 Bodies in jail, minds wandering.
 
@@ -247,7 +247,7 @@ If you physically skip: treat your roommate to a meal in advance, give them a li
 
 If you mentally skip: just saying "I don't know" isn't the end of the world. You feel embarrassed in the moment, but most people will forget your embarrassing scene right after class. If you're really scared, just tune out during roll call and generate an answer with AI.
 
-Even if you actually get marked absent — it's just the price of 90 minutes of freedom. When the payoff of a lecture is far below its opportunity cost, *staying* is the real waste.
+Even if you actually get marked absent — it's just the price of 90 minutes of freedom. When the payoff of a lecture is far below its opportunity cost, _staying_ is the real waste.
 
 Skipping class isn't a "bad student" label. It's an investment. Getting docked on participation is just the transaction's penalty fee.
 
@@ -261,7 +261,7 @@ As for how to catch up on what you missed, we'll get into that in detail later.
 
 Most professors do grade-lift borderline cases — but don't take it for granted.
 
-Put yourself in the professor's shoes. Facing a student you have zero impression of, who never does homework, and whose exam scores are a disaster — would *you* feel like lifting them?
+Put yourself in the professor's shoes. Facing a student you have zero impression of, who never does homework, and whose exam scores are a disaster — would _you_ feel like lifting them?
 
 Professors are human. Students they remember — especially those they remember fondly — naturally get higher participation grades. Their final exam grading might even be looser.
 
@@ -343,7 +343,7 @@ What information do you specifically need?
 2. **Lecture slides**: Slides are the condensed version of the textbook. They consolidate all potentially testable knowledge points in one place. Your professor's slides might be older than you are, but that doesn't stop you from studying them carefully.
 3. **Notes and exam experience from seniors**: If you know seniors with great notes, do everything you can to get them. Probe them about exam difficulty and review strategies. After getting the goods, send a small red packet — don't just say "thanks." Whether they accept it is their business; you need to show the attitude that you're not a freeloader.
 4. **Past exam papers**: The absolute top priority. The vast majority of university final exams haven't changed in a decade, especially in STEM. The professor is highly likely to take past exam questions, tweak a few numbers, or wrap them in a different scenario. Even if the question types shift somewhat, you'll still know roughly which topics get tested and at what difficulty level. If possible, get at least 3 sets.
-5. **Key-point review sessions**: Some professors will dedicate an entire class near finals to highlighting key points. Even if you've tuned out all semester, *this* class you must seize. Listen with full attention. Identify what's key, what won't be tested, what shows up as short questions, what shows up as long questions. If anything's still unclear, chase the professor down after class. Ideally, keep asking until they get annoyed.
+5. **Key-point review sessions**: Some professors will dedicate an entire class near finals to highlighting key points. Even if you've tuned out all semester, _this_ class you must seize. Listen with full attention. Identify what's key, what won't be tested, what shows up as short questions, what shows up as long questions. If anything's still unclear, chase the professor down after class. Ideally, keep asking until they get annoyed.
 
 With this information, your exam prep foundation is basically set. If you're missing some of it, don't worry — we still have AI. Due to space constraints, I won't go into detail here. We'll cover how to use AI specifically in a future update.
 
@@ -370,7 +370,7 @@ Outsiders might see them as try-hards, but in reality, most excellent people onl
 
 So if you can step up and volunteer — tell them "I won't be dead weight," or even "I can trade you something in return" — they'll usually welcome it.
 
-Use your strengths — information asymmetry, AI tool proficiency, or simply treating them to a meal — to trade for their notes and homework. I said *trade*. Trade. Fucking *trade*.
+Use your strengths — information asymmetry, AI tool proficiency, or simply treating them to a meal — to trade for their notes and homework. I said _trade_. Trade. Fucking _trade_.
 
 Don't just waltz up and go "hey bro/sis, can I borrow your notes?" Nobody likes being freeloaded off. They might not say no, but one-way value output never lasts. Value exchange is the only stable model.
 
@@ -384,7 +384,7 @@ So where's the "external computing unit" for top-tier students?
 
 Beyond individuals, study groups are also a highly efficient approach. The reason group projects are so inefficient is that nobody steps up to lead, allocate tasks, and drive progress.
 
-So *you* have to be the one who organizes. *You* have to push everyone forward.
+So _you_ have to be the one who organizes. _You_ have to push everyone forward.
 
 Three to four weeks before exams, gather those above-average, average, and just-want-to-pass students. Don't invite the grinders — they probably have their own review plans and don't want to be interrupted.
 
@@ -709,7 +709,7 @@ You don't have 3 days — you only have 24 hours.
 
 But the good news is: you don't need to learn the entire textbook; you only need to learn the entire exam paper.
 
-Final exams are looming, and you haven't even started "pre-studying." You haven't read *Self-Study Science and Technology* either, so you decide to brute-force it and push yourself — 8 hours of study per day. Most speed-run courses on Bilibili are about 3–5 hours; let's take the average of 4 hours. Assume you still haven't grasped some parts after the first pass, so you listen a second time and summarize a rough outline from the textbook. The first day's 8 hours are gone just like that.
+Final exams are looming, and you haven't even started "pre-studying." You haven't read _Self-Study Science and Technology_ either, so you decide to brute-force it and push yourself — 8 hours of study per day. Most speed-run courses on Bilibili are about 3–5 hours; let's take the average of 4 hours. Assume you still haven't grasped some parts after the first pass, so you listen a second time and summarize a rough outline from the textbook. The first day's 8 hours are gone just like that.
 
 Day 2: you find past exam papers, or you have AI generate a mock exam for you. First attempt: 2 hours of simulated exam time passes, and the results are brutal — you start doubting whether you can even pass.
 
@@ -755,7 +755,7 @@ A while ago, I was chatting with a high school classmate who's now in the Electr
 
 They're stuck right on the edge of not qualifying for guaranteed admission, constantly worrying about their prospects, and have even considered taking the graduate entrance exam to go to the neighboring Southeast University instead.
 
-Teachers, parents, and society expect us to "stand out from the crowd," but no one has ever asked us: what do *you* want?
+Teachers, parents, and society expect us to "stand out from the crowd," but no one has ever asked us: what do _you_ want?
 
 Before the Gaokao, we were trained to be excellent exam-takers. After the Gaokao, we're pushed to become question-makers. And the four years of university are the time we spend transitioning from exam-taker to question-maker.
 
@@ -781,6 +781,6 @@ My thanks to Gemini and ChatGPT for their tireless support of my writing. It sud
 
 ## Reader Feedback
 
-Scan the QR code below to fill out the *Self-Study Science and Technology* reader feedback questionnaire.
+Scan the QR code below to fill out the _Self-Study Science and Technology_ reader feedback questionnaire.
 
 ![Self-Study Science and Technology Reader Feedback Questionnaire QR Code](./self_study_science_technology_assets/reader_feedback_questionnaire.png)

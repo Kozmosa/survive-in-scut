@@ -90,22 +90,22 @@ Although the rooms are not large, the facilities are quite new as the building w
 
 Dorm E is indeed relatively far from various campus locations. Below are routes and times to some important campus destinations (using **E3** as an example; E2 is about 50m closer, E1 about 100m closer):
 
-| Destination                                   | Distance/Time   | Notes                                                                |
-| --------------------------------------------- | --------------- | -------------------------------------------------------------------- |
-| **Teaching Buildings A5–A1**                  | 500m – 700m     | Farthest to closest; A1 is a tall building — try to bike, leave at least 15 min early |
-| **Library**                                   | ~800m           | Adjacent to A1                                                       |
-| **Teaching Zone Sports Ground / Gymnasium**   | ~800–900+m      | ~20 min commute                                                      |
-| **Lab Buildings (B-prefix)**                  | 15–25 min       | Varies by building                                                   |
-| **Parcel Pickup**                             | E3 downstairs / near Canteen 2 | Occasionally also near C10 downstairs                |
-| **Food Delivery (North Gate)**                | ~8 min          | Relatively convenient to pick up                                     |
-| **Suishi Village**                            | ~15 min         | Nearby food and shopping area                                        |
-| **Canteen 3**                                 | ~15 min         |                                                                      |
-| **Near Canteen 2 (Luckin / Meet Noodles / McDonald's)** | ~10 min  |                                                                      |
-| **Gogo New World**                            | ~25 min         |                                                                      |
-| **Nanting Village**                           | ~30 min         |                                                                      |
-| **Beiting Village**                           | ~40 min         |                                                                      |
-| **Shengwu Island**                            | 50+ min         | Not recommended to bike                                              |
-| **Metro Station (University City Station)**  | ~20 min         | From North Gate to Exit D; via campus interior from West Gate to Exit F |
+| Destination                                             | Distance/Time                  | Notes                                                                                 |
+| ------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------- |
+| **Teaching Buildings A5–A1**                            | 500m – 700m                    | Farthest to closest; A1 is a tall building — try to bike, leave at least 15 min early |
+| **Library**                                             | ~800m                          | Adjacent to A1                                                                        |
+| **Teaching Zone Sports Ground / Gymnasium**             | ~800–900+m                     | ~20 min commute                                                                       |
+| **Lab Buildings (B-prefix)**                            | 15–25 min                      | Varies by building                                                                    |
+| **Parcel Pickup**                                       | E3 downstairs / near Canteen 2 | Occasionally also near C10 downstairs                                                 |
+| **Food Delivery (North Gate)**                          | ~8 min                         | Relatively convenient to pick up                                                      |
+| **Suishi Village**                                      | ~15 min                        | Nearby food and shopping area                                                         |
+| **Canteen 3**                                           | ~15 min                        |                                                                                       |
+| **Near Canteen 2 (Luckin / Meet Noodles / McDonald's)** | ~10 min                        |                                                                                       |
+| **Gogo New World**                                      | ~25 min                        |                                                                                       |
+| **Nanting Village**                                     | ~30 min                        |                                                                                       |
+| **Beiting Village**                                     | ~40 min                        |                                                                                       |
+| **Shengwu Island**                                      | 50+ min                        | Not recommended to bike                                                               |
+| **Metro Station (University City Station)**             | ~20 min                        | From North Gate to Exit D; via campus interior from West Gate to Exit F               |
 
 > **Tip**: Biking back to Dorm E from Exit F is a nice downhill ride the whole way!
 

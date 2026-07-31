@@ -25,40 +25,40 @@ At the end of April, each school publishes its transfer admission requirements �
 
 ## Transfer Success Rates
 
-| Major                             | Slots | Applicants | Admitted | Same-Year Transfer | Acceptance Rate |
-| --------------------------------- | ----- | ---------- | -------- | ------------------ | --------------- |
-| Mechatronic Engineering           | 18    | 18         | 13        | 8                  | 0.72            |
-| Mechanical Engineering            | 23    | 18         | 18        | 9                  | 1.00            |
-| Intelligent Vehicle Engineering   | 18    | 5          | 3         | 3                  | 0.60            |
+| Major                           | Slots | Applicants | Admitted | Same-Year Transfer | Acceptance Rate |
+| ------------------------------- | ----- | ---------- | -------- | ------------------ | --------------- |
+| Mechatronic Engineering         | 18    | 18         | 13       | 8                  | 0.72            |
+| Mechanical Engineering          | 23    | 18         | 18       | 9                  | 1.00            |
+| Intelligent Vehicle Engineering | 18    | 5          | 3        | 3                  | 0.60            |
 
 In summary: Mechanical Engineering interviews are non-eliminatory (no one is rejected). Mechatronic Engineering and Vehicle Engineering both adhere to "quality over quantity." Regarding whether liberal arts students face discrimination and whether they can opt for a grade-level downgrade transfer: in the 2025 cohort, Mechatronic Engineering admitted 1 out of 3 liberal arts applicants; Vehicle Engineering had no liberal arts applicants; Mechanical Engineering didn't reject anyone. Overall, if you're a strong liberal arts student, you can absolutely apply for Mechanical Engineering. The academic affairs officer said at the time that whether a downgrade transfer is required would be decided by the school based on credit recognition. In the entire 2025 cohort transfer document, no liberal arts student had a same-year transfer, so liberal arts students hoping to transfer without downgrading should think carefully.
 
 ### Transferred into 2025 Cohort (No Grade Downgrade Required)
 
-| Original Major                                     | Original School                          | Count |
-| -------------------------------------------------- | ---------------------------------------- | ----- |
-| Smart Transportation                               | School of Civil Engineering and Transportation | 6     |
-| Biopharmaceuticals                                 | School of Food Science and Engineering   | 3     |
-| Energy Chemical Engineering                        | School of Light Industry Science and Engineering | 3     |
-| Food Science and Engineering                       | School of Food Science and Engineering   | 3     |
-| Naval Architecture and Ocean Engineering           | School of Civil Engineering and Transportation | 1     |
-| Bioengineering                                     | School of Food Science and Engineering   | 1     |
-| Materials Science and Engineering                  | School of Materials Science and Engineering | 1     |
-| Engineering Mechanics                              | School of Civil Engineering and Transportation | 1     |
-| Biotechnology                                      | School of Bioscience and Bioengineering  | 1     |
+| Original Major                           | Original School                                  | Count |
+| ---------------------------------------- | ------------------------------------------------ | ----- |
+| Smart Transportation                     | School of Civil Engineering and Transportation   | 6     |
+| Biopharmaceuticals                       | School of Food Science and Engineering           | 3     |
+| Energy Chemical Engineering              | School of Light Industry Science and Engineering | 3     |
+| Food Science and Engineering             | School of Food Science and Engineering           | 3     |
+| Naval Architecture and Ocean Engineering | School of Civil Engineering and Transportation   | 1     |
+| Bioengineering                           | School of Food Science and Engineering           | 1     |
+| Materials Science and Engineering        | School of Materials Science and Engineering      | 1     |
+| Engineering Mechanics                    | School of Civil Engineering and Transportation   | 1     |
+| Biotechnology                            | School of Bioscience and Bioengineering          | 1     |
 
 ### Transferred into 2026 Cohort (Grade Downgrade Required)
 
-| Original Major                                     | Original School                          | Count |
-| -------------------------------------------------- | ---------------------------------------- | ----- |
-| Industrial Design                                  | School of Design                         | 5     |
-| Public Administration                              | School of Public Administration          | 2     |
-| Business English                                   | School of Foreign Languages              | 2     |
-| "Urban and Rural Planning + Big Data Management and Application" Dual Degree | School of Architecture  | 1     |
-| Architecture                                       | School of Architecture                   | 1     |
-| Communication Studies                              | School of Journalism and Communication   | 1     |
-| Clinical Medicine                                  | School of Medicine                       | 1     |
-| Tourism Management                                 | Department of Tourism Management         | 1     |
+| Original Major                                                               | Original School                        | Count |
+| ---------------------------------------------------------------------------- | -------------------------------------- | ----- |
+| Industrial Design                                                            | School of Design                       | 5     |
+| Public Administration                                                        | School of Public Administration        | 2     |
+| Business English                                                             | School of Foreign Languages            | 2     |
+| "Urban and Rural Planning + Big Data Management and Application" Dual Degree | School of Architecture                 | 1     |
+| Architecture                                                                 | School of Architecture                 | 1     |
+| Communication Studies                                                        | School of Journalism and Communication | 1     |
+| Clinical Medicine                                                            | School of Medicine                     | 1     |
+| Tourism Management                                                           | Department of Tourism Management       | 1     |
 
 (The above data is compiled from the overall 2025 Transfer List. Some students may have voluntarily chosen to downgrade. For reference only.)
 
@@ -75,6 +75,7 @@ Attached: Interview PPT Requirements — The personal statement time is 5 minute
 **Mechatronic Engineering questions**: My first question was whether I could accept a downgrade transfer (the tone was very harsh — scared me QAQ). Later they asked about the SolidWorks models in my PPT, the working principle of a reduction gearbox (I knew a bit about this and the teacher seemed quite satisfied), how I did the modeling, and whether I had learned any programming or had any exposure to electrical-related courses.
 
 From other students, questions also included:
+
 1. The role of eigenvectors in mechanical engineering
 2. How to prove conservation of mechanical energy (connecting to calculus)
 3. What's the difference between digital circuits and analog circuits? Give one example of each in a mechatronic system
@@ -85,6 +86,7 @@ From other students, questions also included:
 8. What preparations have you made for transferring into Mechatronic Engineering?
 
 **Mechanical Engineering questions**:
+
 1. My PPT had a hypercube — he asked about it based on my PPT
 2. Your original major ranks very highly at SCUT — why do you want to switch to Mechanical Engineering?
 3. Have you done any mechanical engineering-related projects?
@@ -93,8 +95,9 @@ From other students, questions also included:
 6. If you transfer, what kind of work do you want to do?
 
 **Vehicle Engineering questions**:
+
 1. Why choose Vehicle Engineering? Why not transfer to Automation?
-2. What is the object of study in *Theoretical Mechanics*?
+2. What is the object of study in _Theoretical Mechanics_?
 3. During vehicle braking, is it better to brake hard all at once or to pump the brakes?
 4. In your original major's studies, what aspects do you think would help with transferring into Intelligent Vehicle Engineering? What connections exist between your original major and Intelligent Vehicle Engineering?
 5. During your fleet internship, what kind of work did you do?
