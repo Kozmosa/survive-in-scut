@@ -681,7 +681,7 @@ AI帮我们代劳了总结，拆解，模拟出题，但是学习的决策权，
 
 然后打开你电脑上的powershell，确认电脑上有node.js后输入以下命令：
 
-`npx -y skills add Wh1te358/skills-by-Wh1te -g --all`
+`npx -y skills add Wh1te358/exam-hacker -g --all`
 
 这样skill就安装好了。把资料按照上面的格式整理好，按照以下步骤使用：
 
@@ -697,7 +697,7 @@ AI帮我们代劳了总结，拆解，模拟出题，但是学习的决策权，
 
 这个skill为本人开发，并且已经开源在GitHub上，链接如下：
 
-https://github.com/Wh1te358/skills-by-Wh1te/tree/codex/exam-hacker-skill/exam-hacker
+https://github.com/Wh1te358/exam-hacker
 
 如果还有什么想要skill实现的功能，可以在issue中留言，每一条建议我都会认真对待的。
 

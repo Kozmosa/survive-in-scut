@@ -682,7 +682,7 @@ First, download an agent tool -- Claude Code, Codex, Trae, or WorkBuddy, whateve
 
 Then open PowerShell on your computer, confirm Node.js is installed, and enter the following command:
 
-`npx -y skills add Wh1te358/skills-by-Wh1te -g --all`
+`npx -y skills add Wh1te358/exam-hacker -g --all`
 
 With that, the skill is installed. Organize your materials in the format above and use it as follows:
 
@@ -698,7 +698,7 @@ With that, the skill is installed. Organize your materials in the format above a
 
 I developed this skill myself and have open-sourced it on GitHub, at the following link:
 
-https://github.com/Wh1te358/skills-by-Wh1te/tree/codex/exam-hacker-skill/exam-hacker
+https://github.com/Wh1te358/exam-hacker
 
 If there is any feature you would like this skill to have, leave a comment in the issues -- I take every suggestion seriously.
 
