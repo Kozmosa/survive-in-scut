@@ -218,6 +218,7 @@
 - [华南理工大学数学系学生 大一自救指南](/learn/curricular/majors/math/math_tutorial.md): 介绍华南理工大学的数学系的学习教程，也提供一些所需的资源
 - [华南理工大学转专业指南（2024版）](/learn/curricular/transfer_major_2024.md): 华南理工大学转专业指南（2024版），参考2024级政策编写
 - [华工转专业的快速认知](/learn/curricular/transfer_major_quick.md): 面向华南理工大学转专业新生的快速认知，围绕 5 月学校自主转专业介绍机制、选择和准备节奏
+- [图片工具箱](/others/image-toolbox.md): 对图片进行处理以满足综测平台的图片要求的工具合集
 - [概率分布图像工具](/learn/curricular/common/probalistics_and_statistics/distribution_gallery.md): 概率论与数理统计常见分布函数图像的交互学习工具
 - [概率论与数理统计学习笔记](/learn/curricular/common/probalistics_and_statistics/plt_note.md): 华南理工大学 概率论与数理统计课程的学习笔记
 - [缓考申请攻略](/learn/curricular/deferred_exam.md): 华南理工大学本科生因病或课程冲突申请缓考的条件、材料、审批、回执和重考确认流程

@@ -9381,6 +9381,14 @@ description: 面向华南理工大学转专业新生的快速认知，围绕 5 �
 ---
 
 ---
+url: /others/image-toolbox.md
+description: 对图片进行处理以满足综测平台的图片要求的工具合集
+---
+
+
+---
+
+---
 url: /learn/curricular/common/probalistics_and_statistics/distribution_gallery.md
 description: 概率论与数理统计常见分布函数图像的交互学习工具
 ---
