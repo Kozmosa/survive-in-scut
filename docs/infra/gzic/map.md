@@ -7,6 +7,9 @@ author: Kozumi
 
 # 国际指北
 
+<img width="540" height="405" alt="gj" src="https://github.com/user-attachments/assets/7f41e2f4-6366-4b72-b69f-d2507e6f56b5" />
+
+
 ## 学习与图书资源
 
 - **E3 座中心图书馆**：国际校区主图书馆，配备自习室和阅览区域，藏书丰富，自习位置充足
