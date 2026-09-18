@@ -172,6 +172,81 @@ Mastering the basic syntax above will let you handle 90% of your document format
 
 <MarkdownEditor />
 
-TODO: Add documentation compilation guidelines (file naming, source attribution, external link standards, time-sensitive information markers, translation sync rules, writing conventions for citing official information).
+## Documentation Guidelines
 
-TODO: Establish an annual update process (onboarding, campus buses, maps, major transfers, university hospital, nearby info, and other time-sensitive pages should be reviewed at least once per academic year).
+### 1. File Naming Conventions
+
+Asset files go under `docs/public/`, organized by category or campus.
+
+- **Language**: Use English filenames
+- **Separator priority**: underscore `_` > hyphen `-` > dot `.`
+- **Examples**:
+  - `campus_map_hemc_2026.pdf` — HEMC campus map
+  - `bus_schedule_autumn_2026.pdf` — campus bus schedule
+  - `logo.scut_cat.1.png` — logo icon
+
+### 2. Source Attribution
+
+#### Citing official information
+
+Use Markdown footnotes:
+
+```markdown
+According to university regulations, transfer applications must be submitted by the end of the first academic year[^1].
+
+[^1]: SCUT Undergraduate Transfer Administration Guidelines, https://www.scut.edu.cn/...
+```
+
+#### Republishing and curation
+
+- Republished or curated information should cite sources where possible.
+- For intranet or non-archivable links, note the source in plain text (e.g., "Data sourced from the university's internal academic affairs system").
+- **Disclaimer**: Pages containing republished/curated content should set `disclaimer: true` in frontmatter. The system will automatically inject a unified disclaimer banner, avoiding inconsistencies from per-page manual notes.
+
+#### Ephemeral resources
+
+- If the contributor holds original files (PDFs, screenshots), archive them under the appropriate subdirectory of `docs/public/`.
+- If no original file is available, footnote the source as described above.
+
+### 3. External Link Standards
+
+- **Internal links**: Use root-relative paths (e.g., `/learn/curricular/exam`) to avoid breakage on page moves.
+- **External links**: Use full URLs with `https://` prefix.
+- **Source preference**: Official and authoritative sources are encouraged; no hard requirement for contributors.
+- **Dead links**: Fix on sight during maintenance. Unfixable external dead links should be marked with `(this link is no longer available)` after the original URL.
+
+### 4. Time-Sensitive Information
+
+- **Unified annotation**: Time-sensitive pages should note at the top: `This page was last verified in July 2026`.
+- **Replace-on-sight content**: Completely outdated info like freshman guides and bus schedules should be overwritten in place; old versions are preserved in Git history.
+- **Accumulated content**: Historically useful content like past transfer experience posts should be kept across years, with the year noted in the title or summary; index pages (e.g., the transfer overview) should be overwritten.
+
+### 5. Translation Sync Rules
+
+Once Chinese content is finalized, an English version should be generated via LLM translation promptly, or the Chinese content copied as a placeholder for the English page section.
+
+## Annual Update Process
+
+Time-sensitive pages should be reviewed at least once per academic year.
+
+- **Update window**: Every summer (July–August).
+- **Responsibility**: Project maintainers ensure the annual review is completed. Any contributor who finds outdated information may file an Issue and submit a PR to update it.
+- **Tracking**: Use the checklist below to track progress.
+
+### Annual Update Checklist
+
+#### 2026
+
+- [ ] Freshman Guide — `get-started.md`
+- [ ] Campus Bus Schedule — `life/time/bus.md`
+- [ ] HEMC Campus Map — `infra/hemc/map.md`
+- [ ] Wushan Campus Map — `infra/wushan/map.md`
+- [ ] GZIC Campus Map — `infra/gzic/map.md`
+- [ ] HEMC Campus & Surroundings — `infra/hemc/nearby.md`
+- [ ] Suishi Village Info — `infra/hemc/suishi.md`
+- [ ] Wushan Campus & Surroundings — `infra/wushan/nearby.md`
+- [ ] GZIC Campus & Surroundings — `infra/gzic/nearby.md`
+- [ ] University Hospital Guide — `health/medical_care.md`
+- [ ] Transfer Major Policy — `learn/curricular/transfer_major.md`
+
+> At the start of each summer, maintainers should copy the previous year's checklist, create a new entry, and review each item.
