@@ -1,1 +1,5 @@
 * text=auto eol=lf
+
+# Fix linguist language stats
+docs/** linguist-documentation=false
+docs/**/*.md linguist-documentation
