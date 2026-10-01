@@ -123,23 +123,52 @@ function detectRecommendedPlatform() {
 }
 
 async function fetchLatestVersion() {
-  for (const sourceUrl of VERSION_MANIFEST_SOURCES) {
-    try {
+  const settled = await Promise.allSettled(
+    VERSION_MANIFEST_SOURCES.map(async (sourceUrl) => {
       const response = await fetch(sourceUrl, { cache: "no-store" });
       if (!response.ok) {
         throw new Error(`HTTP ${response.status}`);
       }
       const data = await response.json();
       const version = data?.latest?.version;
-      if (typeof version === "string" && version.trim()) {
-        return version.trim();
+      if (typeof version !== "string" || !version.trim()) {
+        throw new Error("manifest missing latest.version");
       }
-      throw new Error("manifest missing latest.version");
-    } catch (err) {
-      console.error("[AppLanding] version source failed", sourceUrl, err);
+      return version.trim();
+    }),
+  );
+
+  const versions = settled
+    .filter((item) => item.status === "fulfilled")
+    .map((item) => item.value);
+  if (versions.length === 0) {
+    console.error("[AppLanding] all version sources failed");
+    return "";
+  }
+
+  // 任一源可能带边缘缓存（如 jsDelivr 对分支引用的缓存可达数小时），取数值版本最高者
+  return versions.reduce((best, current) =>
+    compareVersion(current, best) > 0 ? current : best,
+  );
+}
+
+function compareVersion(left, right) {
+  const parse = (value) =>
+    value
+      .replace(/^v/, "")
+      .split(".")
+      .map((segment) => Number(segment.match(/^\d+/)?.[0] ?? 0));
+  const leftParts = parse(left);
+  const rightParts = parse(right);
+  const length = Math.max(leftParts.length, rightParts.length);
+  for (let index = 0; index < length; index += 1) {
+    const leftValue = leftParts[index] ?? 0;
+    const rightValue = rightParts[index] ?? 0;
+    if (leftValue !== rightValue) {
+      return leftValue - rightValue;
     }
   }
-  return "";
+  return 0;
 }
 
 function handlePlatformAction(platform) {
