@@ -42,7 +42,18 @@
 import { computed, onMounted, ref } from "vue";
 import { useLocaleText } from "../composables/useLocaleText";
 
-const releaseData = ref(null);
+// 永久下载别名由 MySCUT 发版 CI 每次覆盖，页面跳转不受 CORS 限制
+const APK_LATEST_URL =
+  "https://pub-2d4ca40983644b4295125ec388670de9.r2.dev/kozmos/releases/latest/qmm-latest.apk";
+
+// 版本号仅为展示信息，尽力获取：jsDelivr 与 raw.githubusercontent 均带 CORS 头；
+// R2 公网地址不带 Access-Control-Allow-Origin，浏览器端无法使用
+const VERSION_MANIFEST_SOURCES = [
+  "https://cdn.jsdelivr.net/gh/Kozmosa/MySCUT@main/versions.json",
+  "https://raw.githubusercontent.com/Kozmosa/MySCUT/main/versions.json",
+];
+
+const latestVersion = ref("");
 const recommendedPlatform = ref("android");
 const ui = useLocaleText(
   {
@@ -76,24 +87,6 @@ const PLATFORM_TEXT = {
   pwa: "PWA",
 };
 
-const latestVersion = computed(() => releaseData.value?.latest?.version || "");
-const apkUrl = computed(() => {
-  const apkAsset = releaseData.value?.latest?.assets?.apk;
-  if (typeof apkAsset === "string") {
-    return apkAsset;
-  }
-
-  const apkCandidates = releaseData.value?.latest?.assets?.apk_candidates;
-  if (Array.isArray(apkCandidates) && apkCandidates.length > 0) {
-    const firstCandidate = apkCandidates.find(
-      (item) => item && typeof item.url === "string" && item.url.trim(),
-    );
-    return firstCandidate?.url || "";
-  }
-
-  return "";
-});
-
 const recommendedButtonText = computed(() => {
   const platformText = PLATFORM_TEXT[recommendedPlatform.value] || "Android";
   return `${ui.value.recommendedDownload}${platformText}`;
@@ -101,7 +94,7 @@ const recommendedButtonText = computed(() => {
 
 onMounted(async () => {
   recommendedPlatform.value = detectRecommendedPlatform();
-  releaseData.value = await fetchReleaseData();
+  latestVersion.value = await fetchLatestVersion();
 });
 
 function detectRecommendedPlatform() {
@@ -129,28 +122,29 @@ function detectRecommendedPlatform() {
   return "android";
 }
 
-async function fetchReleaseData() {
-  try {
-    const response = await fetch("/assets/app/release.json", {
-      cache: "no-store",
-    });
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
+async function fetchLatestVersion() {
+  for (const sourceUrl of VERSION_MANIFEST_SOURCES) {
+    try {
+      const response = await fetch(sourceUrl, { cache: "no-store" });
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+      const data = await response.json();
+      const version = data?.latest?.version;
+      if (typeof version === "string" && version.trim()) {
+        return version.trim();
+      }
+      throw new Error("manifest missing latest.version");
+    } catch (err) {
+      console.error("[AppLanding] version source failed", sourceUrl, err);
     }
-    return await response.json();
-  } catch (err) {
-    console.error("[AppLanding] Unable to fetch release data", err);
-    return null;
   }
+  return "";
 }
 
 function handlePlatformAction(platform) {
   if (platform === "android") {
-    if (apkUrl.value) {
-      window.location.href = apkUrl.value;
-      return;
-    }
-    window.alert("Coming soon");
+    window.location.href = APK_LATEST_URL;
     return;
   }
 
