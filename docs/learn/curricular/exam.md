@@ -22,9 +22,15 @@ TODO: 补充考核规章与应考细则：
 
 ## 期末复习工具
 
-如果复习时间有限、资料零散，可以使用 [Exam Hacker](https://github.com/Wh1te358/skills-by-Wh1te/tree/codex/exam-hacker-skill/exam-hacker) 将教材、课件、真题和笔记整理成目标分数导向的复习方案。
+如果复习时间有限、资料零散，可以使用 [Exam Hacker](https://github.com/Wh1te358/exam-hacker) 将教材、课件、真题和笔记整理成目标分数导向的复习方案。
 
-该 Skill 主要用于评估目标分数、压缩核心概念、逆向拆解真题、梳理综合题知识链，以及生成 A4 复习提纲，可辅助在有限时间内进行优先级判断和策略性取舍。
+它由一个入口 Skill 和五个专用 Skill 组成：先分诊资料、目标和时间，再按需要压缩知识链、完整解题、主动练习，并根据掌握证据重排计划。对于扫描版 PDF，它会先检测可读性；只有实际检查过的页面才会被当作视觉证据。
+
+## 课程 PDF 下载工具
+
+课程中心里的 PDF 课件只有预览入口、没有下载按钮时，可以使用 Chrome 扩展 [SCUT Course PDF Downloader](https://github.com/Wh1te358/scut-course-pdf-downloader)。它支持 PDF 直链，以及地址中包含原始 PDF 的 PDF.js 预览页。
+
+当前版本只处理 PDF，不识别 PPT、PPTX、视频或课程主页。仓库 README 提供了安装、测试和使用步骤。
 
 ## 大学物理
 
