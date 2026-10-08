@@ -8,6 +8,39 @@ type TodoOptions = {
   todoKeywords?: string[];
   fileExtensions?: string[];
   excludeDirs?: string[];
+  enOutput?: boolean;
+};
+
+type TodoItem = { file: string; line: number; text: string };
+
+type LocaleLabels = {
+  frontmatterLang: string | null;
+  frontmatterTitle: string;
+  heading: string;
+  lastUpdated: (timestamp: string) => string;
+  itemCount: (count: number) => string;
+  lineLabel: (line: number) => string;
+  viewSource: string;
+};
+
+const ZH_LABELS: LocaleLabels = {
+  frontmatterLang: null,
+  frontmatterTitle: "TODO 汇总",
+  heading: "TODO 汇总",
+  lastUpdated: (timestamp) => `最后更新时间: ${timestamp} (UTC+8)`,
+  itemCount: (count) => `共找到 ${count} 个 TODO 项`,
+  lineLabel: (line) => `第 ${line} 行`,
+  viewSource: "查看源文件",
+};
+
+const EN_LABELS: LocaleLabels = {
+  frontmatterLang: "en-US",
+  frontmatterTitle: "TODO Summary",
+  heading: "TODO Summary",
+  lastUpdated: (timestamp) => `Last updated: ${timestamp} (UTC+8)`,
+  itemCount: (count) => `${count} TODO items found in total`,
+  lineLabel: (line) => `Line ${line}`,
+  viewSource: "View source",
 };
 
 const DEFAULTS: Required<TodoOptions> = {
@@ -23,6 +56,7 @@ const DEFAULTS: Required<TodoOptions> = {
     "others",
     ".temp",
   ],
+  enOutput: true,
 };
 
 export default function todoCollector(options: TodoOptions = {}): Plugin {
@@ -49,35 +83,33 @@ export default function todoCollector(options: TodoOptions = {}): Plugin {
     });
   };
 
-  const generate = (rootDir: string) => {
-    const formatToUtc8 = (date: Date) =>
-      new Intl.DateTimeFormat("sv-SE", {
-        year: "numeric",
-        month: "2-digit",
-        day: "2-digit",
-        hour: "2-digit",
-        minute: "2-digit",
-        second: "2-digit",
-        hour12: false,
-        timeZone: "Asia/Shanghai",
-      }).format(date);
+  const formatToUtc8 = (date: Date) =>
+    new Intl.DateTimeFormat("sv-SE", {
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+      hour: "2-digit",
+      minute: "2-digit",
+      second: "2-digit",
+      hour12: false,
+      timeZone: "Asia/Shanghai",
+    }).format(date);
 
-    const sourceDir = rootDir;
-    const outputDirPath = path.resolve(sourceDir, cfg.outputDir);
-    if (!fs.existsSync(outputDirPath)) {
-      fs.mkdirSync(outputDirPath, { recursive: true });
-    }
-
-    const outputPath = path.resolve(outputDirPath, cfg.outputFile);
-    const todoList: { file: string; line: number; text: string }[] = [];
+  // 扫描 scanRoot（相对该目录计算排除规则），返回相对 scanRoot 的文件路径
+  const collectTodos = (scanRoot: string, outputPath: string): TodoItem[] => {
+    const todoList: TodoItem[] = [];
 
     const scanDir = (dir: string) => {
       const entries = fs.readdirSync(dir);
       entries.forEach((entry) => {
         const fullPath = path.join(dir, entry);
-        const relPath = path.relative(sourceDir, fullPath);
+        const relPath = path.relative(scanRoot, fullPath);
 
-        if (path.resolve(fullPath) === outputPath || isExcluded(relPath)) {
+        if (path.resolve(fullPath) === path.resolve(outputPath)) {
+          return;
+        }
+
+        if (isExcluded(relPath)) {
           return;
         }
 
@@ -107,40 +139,79 @@ export default function todoCollector(options: TodoOptions = {}): Plugin {
       });
     };
 
-    scanDir(sourceDir);
+    scanDir(scanRoot);
+    return todoList;
+  };
 
-    const todosByFile: Record<string, typeof todoList> = {};
+  const renderTodoPage = (
+    todoList: TodoItem[],
+    linkPrefix: string,
+    labels: LocaleLabels,
+    timestamp: string,
+  ) => {
+    const todosByFile: Record<string, TodoItem[]> = {};
     todoList.forEach((item) => {
       if (!todosByFile[item.file]) todosByFile[item.file] = [];
       todosByFile[item.file].push(item);
     });
 
-    const lines: string[] = [
-      "---",
-      "title: TODO 汇总",
-      "outline: [2, 3]",
-      "---",
-      "",
-      "# TODO 汇总",
-      "",
-      `> 最后更新时间: ${formatToUtc8(new Date())} (UTC+8)`,
-      "",
-      `共找到 ${todoList.length} 个 TODO 项`,
-      "",
-    ];
+    const lines: string[] = ["---"];
+    if (labels.frontmatterLang) {
+      lines.push(`lang: ${labels.frontmatterLang}`);
+    }
+    lines.push(`title: ${labels.frontmatterTitle}`);
+    lines.push("outline: [2, 3]");
+    lines.push("---", "", `# ${labels.heading}`, "");
+    lines.push(`> ${labels.lastUpdated(timestamp)}`, "");
+    lines.push(labels.itemCount(todoList.length), "");
 
     Object.entries(todosByFile).forEach(([file, items]) => {
       lines.push(`## ${file}`);
       lines.push("");
       items.forEach((item) => {
-        lines.push(`- **第 ${item.line} 行**: ${item.text}`);
-        lines.push(`  - [查看源文件](/${item.file})`);
+        lines.push(`- **${labels.lineLabel(item.line)}**: ${item.text}`);
+        lines.push(`  - [${labels.viewSource}](${linkPrefix}/${item.file})`);
       });
       lines.push("");
     });
 
-    fs.writeFileSync(outputPath, lines.join("\n"), "utf-8");
-    return outputPath;
+    return lines.join("\n");
+  };
+
+  const generate = (rootDir: string) => {
+    const timestamp = formatToUtc8(new Date());
+    const writtenPaths: string[] = [];
+
+    const writePage = (
+      outputDir: string,
+      enOnly: boolean,
+      linkPrefix: string,
+      labels: LocaleLabels,
+    ) => {
+      const outputDirPath = path.resolve(rootDir, outputDir);
+      if (!fs.existsSync(outputDirPath)) {
+        fs.mkdirSync(outputDirPath, { recursive: true });
+      }
+
+      const outputPath = path.resolve(outputDirPath, cfg.outputFile);
+      const scanRoot = enOnly ? path.resolve(rootDir, "en") : rootDir;
+      const todoList = collectTodos(scanRoot, outputPath);
+
+      fs.writeFileSync(
+        outputPath,
+        renderTodoPage(todoList, linkPrefix, labels, timestamp),
+        "utf-8",
+      );
+      writtenPaths.push(outputPath);
+    };
+
+    writePage(cfg.outputDir, false, "", ZH_LABELS);
+
+    if (cfg.enOutput) {
+      writePage(path.posix.join("en", cfg.outputDir), true, "/en", EN_LABELS);
+    }
+
+    return writtenPaths;
   };
 
   return {
@@ -154,8 +225,8 @@ export default function todoCollector(options: TodoOptions = {}): Plugin {
     },
     configureServer(server) {
       sourceDir = server.config.root;
-      const outputPath = generate(sourceDir);
-      server.watcher.add(outputPath);
+      const outputPaths = generate(sourceDir);
+      outputPaths.forEach((outputPath) => server.watcher.add(outputPath));
     },
   };
 }

@@ -457,7 +457,7 @@ export default defineConfig({
           "dist",
           ".vitepress",
           ".temp",
-          "en", // English pages currently mirror the canonical Chinese content.
+          "en", // The zh TODO list only tracks zh pages; the en list is generated separately from docs/en.
         ],
       }),
       contributorsCollector(),
