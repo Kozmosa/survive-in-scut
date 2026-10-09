@@ -3622,12 +3622,25 @@ description: An introduction to Suishi Village
 
 # Suishi Village
 
-TODO: Supplement Suishi Village living and travel guide:
+Suishi Village sits right next to University Town Campus — walk straight along the road between the Library and the A1 teaching building for about 3 minutes and you reach it right outside the school gate. It is a great place for everyday meals out and shopping.
 
-* \[ ] Food & night market recommendations: well-reviewed eats and tips for avoiding pitfalls
-* \[ ] Daily shopping & supermarkets: nearby large supermarkets, wet markets, and fruit shops
-* \[ ] Rental & short-term housing info: common areas for postgrad exam prep / internship rentals and tips for avoiding scams
-* \[ ] Transit connections: best walking and cycling routes to metro stations / bus stops
+## Dining
+
+* **Noodles/rice**: Zhenya Beef Noodles, Longjiang Pork Knuckle Rice
+* **Full meals/group dinners**: Beidiaor'er Copper Pot Chicken, Northeastern Chinese food, Wuhan stir-fry, Xianmiao Roast Chicken, chicken pot (jigongbao)
+* **Drinks**: Mixue, ChaPanda, Lucky Cup
+
+## Daily Shopping
+
+Suishi Village has privately run supermarkets slightly larger than the on-campus Xiya Xing'an Comprehensive Supermarket, but no large chain supermarkets like RT-Mart or Walmart. Everyday fruit, snacks, and sundries can all be bought here.
+
+## Transit Connections
+
+To return to campus from Suishi Village, enter through the **East Gate**. Getting to the metro station requires crossing the entire teaching area, so compared with going to University Town South Station from West Gate 1 of the living area, Suishi Village is not particularly convenient for metro access.
+
+## Rentals
+
+Suishi Village has rooms available for student renters, suitable for postgraduate exam preparation, internships, and similar situations. Students with relevant experience are welcome to add detailed rental advice.
 
 ---
 
@@ -3638,13 +3651,68 @@ description: An overview of places near SCUT University Town Campus
 
 # Around University Town Campus
 
-TODO: Supplement travel and living guides for the area around University Town Campus:
+The main places to eat, drink, and have fun around University Town Campus are concentrated in four urban villages: **Nanting, Beiting, Beigang, and Suishi**. Among them, gogo New World (gogo 新天地) in Beigang Village is the most-visited shopping complex in University Town.
 
-* \[ ] Food & night market recommendations: well-reviewed eats and tips for avoiding pitfalls (including Suishi Village, Beigang Village)
-* \[ ] Daily shopping & supermarkets: nearby large supermarkets, wet markets, and fruit shops
-* \[ ] Rental & short-term housing info: common areas for postgrad exam prep / internship rentals and tips for avoiding scams
-* \[ ] Transit connections: best walking and cycling routes to metro stations / bus stops
-* \[ ] Leisure & entertainment: nearby shopping malls, cinemas, gyms, parks, and other facilities
+## Dining & Night Markets
+
+### Beigang Village & gogo New World (gogo 新天地)
+
+About 15 minutes on foot from Area C gets you to gogo New World. It has common chain restaurant brands such as KFC, McDonald's, and Saizeriya, plus milk tea shops like Yidiandian and HEYTEA.
+
+### Suishi Village
+
+Suishi Village is the closest to campus — walk straight along the road between the Library and the A1 teaching building for about 3 minutes and you reach it right outside the school gate. Main dining options:
+
+* **Noodles/rice**: Zhenya Beef Noodles, Longjiang Pork Knuckle Rice
+* **Full meals/group dinners**: Beidiaor'er Copper Pot Chicken, Northeastern Chinese food, Wuhan stir-fry, Xianmiao Roast Chicken, chicken pot (jigongbao)
+* **Drinks**: Mixue, ChaPanda, Lucky Cup
+* (Suggestions for more shops are welcome)
+
+> gogo New World and Suishi Village each have their own strengths: the former concentrates brand chains and suits shopping trips and group dinners; the latter wins on proximity to campus and variety, making it a great spot for everyday meals out and late-night snacks.
+
+## Daily Shopping & Supermarkets
+
+### On Campus
+
+* **Xiya Xing'an Comprehensive Supermarket**: located in the campus living area; the first floor focuses on food and drinks, while the second floor has food, stationery, and a small number of eateries. Not large, but it covers most everyday necessities and snacks.
+* **FamilyMart**: downstairs in C10 (behind McDonald's).
+* **Fruit shop below C10**: one option for buying fruit on campus.
+
+### Off Campus
+
+* **Suishi Village fruit shop**: close by and within walking distance — the most convenient choice for buying fruit off campus.
+
+> There is no wet market near University Town Campus. If you need to buy groceries and cook, consider online fresh-grocery delivery or a large supermarket nearby.
+
+## Rentals & Short-Term Housing
+
+The urban villages around University Town Campus (Nanting, Beiting, Beigang, and Suishi) all have rooms available for rent, suitable for postgraduate exam preparation, internships, and other situations that call for short- or long-term housing.
+
+> Contributions are welcome from students with relevant experience on rental details (comparisons of common areas, rent levels, landlords, scam-avoidance tips, etc.).
+
+## Transit Connections
+
+### Metro
+
+Exit the living area through **West Gate 1**, turn left, and cross the road at the traffic lights to reach **University Town South Station** — very convenient. You can transfer to the following lines:
+
+* **Line 7**: reaches Guangzhou South Station and commercial hubs such as Nancun Wanbo and Hanxi Changlong
+* **Line 4**: reaches Wanshengwei Station (transfer to Line 8)
+* **Line 12**: reaches places on the island and in Haizhu District
+
+### Shared Bikes
+
+Only **shared bikes** are available on campus; **e-bikes are not allowed**, and there is no shared e-bike service either. The Hello and Qingju shared bikes on campus can be ridden off campus (they are not campus-exclusive bikes), making them suitable for rides to the metro station or anywhere around University Town.
+
+### Leaving the Island
+
+Taking the metro (Line 7, Line 4, or Line 12) is the most convenient way off the island. A few bus routes also cross Pazhou Bridge, the Jinguang Tunnel, and similar links to the mainland; for specific routes and service status, follow announcements from the Guangzhou Bus Group.
+
+## Leisure & Entertainment
+
+* **gogo New World (gogo 新天地)**: the most complete shopping complex in University Town; besides dining it has a cinema, KTV, clothing stores, and more — the first choice for group dinners, shopping, and movies.
+* **Gyms**: the University Town Sports Center has a gym you can use; there is also a gym on the third floor of the Xiya Xing'an Comprehensive Supermarket on campus — look into it for details.
+* **Central Lake Park**: an outdoor spot on Xiaoguwei Island, good for daytime and weekend outings. **Safety reminder**: go with others; in particular, avoid jogging on the inner ring road or strolling in Central Lake Park at night, and stay safe.
 
 ---
 
@@ -3655,13 +3723,44 @@ description: An overview of facilities at SCUT Wushan Campus
 
 # Wushan Guide
 
-TODO: Supplement the following with specific locations, opening hours, and usage guides:
+## Study & Library Resources
 
-* \[ ] Study & library resources: floor functions of the library, study rooms, 24h seminar room booking
-* \[ ] Campus service points: parcel station locations (Cainiao/Shunfeng/Postal), print shops, hair salons, and computer/phone repair shops
-* \[ ] Sports & fitness venues: badminton/table tennis/tennis court booking (via smart service mini-program), swimming pool opening hours and fees
-* \[ ] Administrative offices: locations of Academic Affairs Office, Student Affairs Department, Finance Office, Household Registration Office
-* \[ ] Dining & convenience facilities: cafeteria specialties, campus超市/convenience store locations
+### Wushan Campus Library
+
+* **Location**: near the Sun Yat-sen statue and the East Gate
+* **Opening hours**: opens and closes at fixed times; not open around the clock
+
+***
+
+TODO: Daily service points (parcel stations/print shops/hair salons/repair shops) and administrative offices (Academic Affairs Office/Student Affairs Department/Finance Office/Household Registration Office)
+
+## Sports & Venues
+
+### Daoming Swimming Hall
+
+* **Location**: inside Wushan Campus
+* **Type**: heated indoor swimming hall
+* **Lanes**: the practice area and the competition area are separate, each with 4 or more lanes
+* **Facilities**: showers, lockers, and other basic amenities
+* **Fees**: discounts for SCUT students
+* **Booking & entry**: handled through the WeChat mini program "Hengsheng Sports Venues" (恒生体育场馆)
+
+TODO: Badminton/table tennis/tennis court booking (smart service mini program), opening hours and fees for other sports venues
+
+## Dining & Convenience Facilities
+
+### Canteens
+
+* **West District Canteen**: serves morning tea (dim sum) and has round tables for large group meals
+* **Central District Canteen**: counters for siu mei (Cantonese roast meats), fast food, and more
+* **South District Canteen**: —
+* **North Canteen 1**: its siu mei is famous throughout SCUT
+* **North Canteen 2**: has a Yihetang drinks shop
+* **Fadiansuo Restaurant**: more refined dishes at relatively higher prices
+
+### On-Campus Supermarket
+
+* **Shengjia Supermarket**: near North Canteen 2
 
 ---
 
@@ -3672,13 +3771,37 @@ description: An overview of places near SCUT Wushan Campus
 
 # Around Wushan Campus
 
-TODO: Supplement travel and living guides for the area outside Wushan Campus:
+Wushan Campus sits in the heart of Guangzhou, with the bustling Tianhe District right outside the campus gates and a rich choice of dining, shopping, and entertainment nearby.
 
-* \[ ] Food & night market recommendations: well-reviewed eats and tips for avoiding pitfalls
-* \[ ] Daily shopping & supermarkets: nearby large supermarkets, wet markets, and fruit shops
-* \[ ] Rental & short-term housing info: common areas for postgrad exam prep / internship rentals and tips for avoiding scams
-* \[ ] Transit connections: best walking and cycling routes to metro stations / bus stops
-* \[ ] Leisure & entertainment: nearby shopping malls, cinemas, gyms, and other facilities
+## Dining
+
+* **Around Wushan Station**: exit through the East Gate or the East Side Gate to reach the area around Wushan Station, which is packed with all kinds of restaurants and snack shops
+* **Around Tianhe Coach Terminal**: exit through the North Area North Gate next to Boxue Building, and a walk of a few hundred meters brings you to Tianhe Coach Terminal, with shopping areas such as Tianhe Xintiandi nearby and plenty of dining options
+
+TODO: Daily shopping & supermarkets: nearby large supermarkets, wet markets, and fruit shops
+
+## Rentals
+
+**Xixiu Village** inside Wushan Campus has staff housing available for rent, though prices are relatively high. Students with relevant experience are welcome to add more rental advice for the surrounding area.
+
+## Transit Connections
+
+### Metro
+
+* **Wushan Station (Line 3)**: the most convenient metro station for the West, South, and East areas, reached by exiting through the East Gate or the East Side Gate
+* **Tianhe Coach Terminal (Line 3/Line 6)**: the most convenient metro station for the North Area; exit through the North Area North Gate and walk a few hundred meters
+
+### Cross-Campus Transit
+
+The most convenient and inexpensive way to get to University Town Campus and Guangzhou International Campus is the **campus shuttle bus**. Buses depart from stops such as the on-campus Library and reach University Town Campus and the International Campus via expressways.
+
+* **Travel time**: about 45~60 minutes from Wushan to the University Town Concert Hall; the International Campus falls within the same range, and morning and evening rush hours may make trips longer
+* **Frequency**: more departures on weekdays than on weekends
+
+## Leisure & Entertainment
+
+* **Tianhe Xintiandi**: near Tianhe Coach Terminal, with a shopping mall, a cinema, and other facilities.
+* Students who know of entertainment spots around Wushan Station are welcome to add them.
 
 ---
 
@@ -3689,14 +3812,41 @@ description: An overview of facilities at SCUT Guangzhou International Campus
 
 # GZIC Guide
 
-TODO: Supplement the following with specific locations, opening hours, and usage guides:
+## Study & Library Resources
 
-* \[ ] Study & library resources: floor functions of the library, study rooms, 24h seminar room booking
-* \[ ] Campus service points: parcel station locations (Cainiao/Shunfeng/Postal), print shops, hair salons, and computer/phone repair shops
-* \[ ] Sports & fitness venues: badminton/table tennis/tennis court booking (via smart service mini-program), swimming pool opening hours and fees
-* \[ ] Administrative offices: locations of Academic Affairs Office, Student Affairs Department, Finance Office, and other service windows
-* \[ ] Dining & convenience facilities: cafeteria specialties, campus convenience store locations
-* \[ ] GZIC-specific facilities: D5 Restaurant, residential college dormitory environment, international teaching spaces
+* **E3 Central Library**: The main library of the International Campus, equipped with study rooms and reading areas, offering a rich book collection and plenty of study seats
+* **D1 Wu Xianming Intelligent Engineering College Library**: A small library inside the college
+
+***
+
+## Daily Service Points
+
+Daily services on the International Campus are concentrated **near McDonald's (the area between Buildings D5 and F5)**:
+
+* **Food & drink**: McDonald's, Luckin Coffee, Meet Noodles, Huayuan Yunli
+* **Others**: gym, print shop, hair salon
+
+***
+
+## Sports & Venues
+
+The International Campus has one gymnasium and one swimming hall. Students who know about their opening hours, booking methods, and fees are welcome to add the details.
+
+## Dining & Convenience Facilities
+
+### Cafeterias
+
+* **F5 Cafeteria**: Mixue and a baozi shop on the first floor, Cotti Coffee on the second floor
+* **D5 Cafeteria**: —
+* **B2 Cafeteria**: Serves Luosifen (river snail rice noodles) and grilled meat rice, and has a small campus store
+
+## GZIC-Specific Facilities
+
+* **Undergraduate dormitories**: concentrated in Building D5 (residential college housing)
+
+## Sports Grounds
+
+* **North Gate track field** and **Southwest Gate track field**: the two track and field grounds on campus
 
 ---
 
@@ -3707,13 +3857,28 @@ description: An overview of places near SCUT Guangzhou International Campus
 
 # Around GZIC
 
-TODO: Supplement travel and living guides for the area around Guangzhou International Campus:
+## Dining
 
-* \[ ] Food & night market recommendations: well-reviewed eats and tips for avoiding pitfalls
-* \[ ] Daily shopping & supermarkets: nearby large supermarkets, wet markets, and fruit shops
-* \[ ] Rental & short-term housing info: common areas for postgrad exam prep / internship rentals and tips for avoiding scams
-* \[ ] Transit connections: best walking and cycling routes to metro stations / bus stops
-* \[ ] Leisure & entertainment: nearby shopping malls, cinemas, parks, and other facilities
+* **Around the Southwest Gate**: A few minutes' walk down the alley from the Southwest Gate brings you to the **Nancun shopping area**, with plenty of restaurants along the way and inside the area
+* **Around the North Main Gate**: Turn right outside the North Main Gate to find Shaxian Delicacies and other restaurants
+* **Along the way to Banqiao Station**: B Ji Fish Congee (open in the evenings only) and other shops
+
+## Daily Shopping
+
+The Nancun shopping area has supermarkets and fruit shops, enough to meet everyday needs. There is no wet market nearby for now.
+
+## Rentals
+
+Students with relevant experience are welcome to add rental information for the area around the International Campus.
+
+## Transit Connections
+
+* **Banqiao Station (Line 7)**: relatively close, reachable on foot or by shared bike
+* **Xinzao Station (Line 4)**: reachable by shared bike, but farther away
+
+## Leisure & Entertainment
+
+The Nancun shopping area has KTV, a cinema, and other facilities. Entertainment options around the International Campus are limited; for more choices, head into the city.
 
 ---
 
@@ -4748,11 +4913,11 @@ The core difficulty lies in sample selection and coordinating interviews with re
 
 #### Social Practice Credit Recognition Suggestion
 
-If your school arranges social practice recognition at the start of the semester, the practical成果 from this required course can usually be applied once toward meeting graduation social practice requirements. Watch for school notices to maximize the utility of your practical achievements.
+If your school arranges social practice recognition at the start of the semester, the practical results from this required course can usually be applied once toward meeting graduation social practice requirements. Watch for school notices to maximize the utility of your practical achievements.
 
 #### Volunteer Hour Guide and Channel Suggestions
 
-If you need volunteer hours for graduation, consider using the following official or正规 channels based on your interests and schedule. Note: **Volunteer hours are only one evaluation reference -- do not blindly pursue hours at the expense of practice quality.**
+If you need volunteer hours for graduation, consider using the following official or legitimate channels based on your interests and schedule. Note: **Volunteer hours are only one evaluation reference -- do not blindly pursue hours at the expense of practice quality.**
 
 * **Common Social Volunteer Channels**:
 
@@ -4768,7 +4933,7 @@ If you need volunteer hours for graduation, consider using the following officia
 
   * **Winter Recruitment Volunteer**: Divided into two paths: “University Distribution” and “High School Distribution.”
 
-    * **University Distribution**: Usually requires selection to become a school team member, earning about 8-10 volunteer hours. Follow the **鲤工小招招** official account for details.
+    * **University Distribution**: Usually requires selection to become a school team member, earning about 8-10 volunteer hours. Follow the **鲤工小招招** (a WeChat official account) for details.
 
     * **High School Distribution**: Hour recognition standards are determined by your high school. Communicate with the responsible teacher at your high school in advance.
 
@@ -4806,7 +4971,7 @@ Upperclassmen from the School of Future Technology (SCUT School of Future Techno
 
 (Access may be limited from domestic/campus networks.)
 
-### SCUT CS/AI Research入门 Guide
+### SCUT CS/AI Research Getting-Started Guide
 
 Given the drawback that SCUT's AI and Computer Science training plans offer little to improve research capabilities, [Oplisty](https://github.com/oplisty), together with several classmates from CS and AI programs, created this website to help junior students get started in research and avoid unnecessary detours.
 
@@ -4842,6 +5007,16 @@ TODO: Add exam regulations and guidelines:
 ## Deferred Exam
 
 [Deferred Exam Application Guide](./deferred_exam.md) is a verified SOP based on two actual applications, covering illness and schedule-conflict evidence, the application form, dual-department approval and three official stamps, receipt delivery, and the next-semester retake enrollment confirmation.
+
+## Self-Directed Learning: Science and Technology
+
+[Self-Directed Learning: Science and Technology — Anti-Involution Survival Engineering for College Students](./self_study_science_technology.md) is a complete methodology for university final exams, discussing target score management, subject triage, reverse-engineering past exam papers, exam-room control, and how to use Agents to turn scattered materials into an executable review system.
+
+## Final Review Tools
+
+If your review time is limited and your materials are scattered, you can use [Exam Hacker](https://github.com/Wh1te358/skills-by-Wh1te/tree/codex/exam-hacker-skill/exam-hacker) to organize textbooks, lecture slides, past exam papers, and notes into a target-score-oriented review plan.
+
+This Skill is mainly used to evaluate target scores, compress core concepts, reverse-engineer and break down past exam papers, map out the knowledge chains behind comprehensive questions, and generate A4 review outlines, helping you judge priorities and make strategic trade-offs within limited time.
 
 ## University Physics
 
@@ -5320,11 +5495,11 @@ An introduction to pursuing graduate studies at SCUT through the unified nationa
 
 TODO: Add a SCUT student exam preparation and on-campus application guide:
 
-* \[ ] Target selection: staying at SCUT (admission ratios and re-examination分数线 across schools) vs. applying to external universities
+* \[ ] Target selection: staying at SCUT (admission ratios and re-examination score cutoffs across schools) vs. applying to external universities
 * \[ ] Preparation timeline and public course planning: Politics, English I/II, Math I/II/III, and specialized course review schedules
 * \[ ] On-campus study resources: exam prep study rooms and seat reservation rules at Wushan/University City/GZIC campuses
-* \[ ] Re-examination and调剂: SCUT re-examination procedures, computer-based/written exam requirements, on/off-campus调剂 considerations
-* \[ ] Past data reference: applicant numbers, admission分数线, and admission ratio history by major
+* \[ ] Re-examination and adjustment: SCUT re-examination procedures, computer-based/written exam requirements, on/off-campus adjustment considerations
+* \[ ] Past data reference: applicant numbers, admission score cutoffs, and admission ratio history by major
 
 ---
 
@@ -5344,7 +5519,7 @@ TODO: Add a guide to direct-entry PhD and application-assessment PhD programs:
 
 * \[ ] Supervisor selection and "套磁" (networking): how to contact professors, read lab papers, and determine research direction
 * \[ ] Core hard requirements: undergraduate/master's research output (first-author/co-first-author papers, patents), recommendation letters
-* \[ ] Application process and timeline: PhD招生 announcement release dates, application windows, and document submission checklists by university
+* \[ ] Application process and timeline: PhD admissions announcements release dates, application windows, and document submission checklists by university
 * \[ ] SCUT direct-entry PhD policy: eligibility, quota allocation, and curriculum differences for SCUT undergraduates
 * \[ ] Interview and assessment: written/oral exam formats for the application-assessment system, common questions, and preparation strategies
 
@@ -5369,15 +5544,15 @@ Below is a summary of the key differences between **MSc, MPhil, and PhD** in the
 
 ### Core Comparison Table
 
-| **Program**                 | **MSc (Taught Master's)**                   | **MPhil (Research Master's)**                    | **PhD (Research Doctorate)**                          |
-| --------------------------- | ------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------- |
-| **Duration**                | 1 year (full-time)                          | 2 years (full-time)                              | 4-5 years (full-time)                                 |
-| **Tuition (annual)**        | **12-24万 HKD** (25-35万 RMB) (self-funded) | **4.2万 HKD** (subsidized)                       | **4.2万 HKD** (subsidized)                            |
-| **Scholarship**             | Limited merit-based scholarships            | Yes **HKPFS/Professor funding** (~18万 HKD/year) | Yes **HKPFS/full scholarship** (~25万 HKD/year)       |
-| **Academic Format**         | Courses + exams/thesis                      | Research-focused + few courses                   | **Independent research + academic thesis**            |
-| **Career Path**             | Employment                                  | Stepping stone to PhD                            | Academia/research/high-end industry R\&D               |
-| **Graduation Requirements** | Complete credits + pass thesis              | Publish paper + thesis defense                   | **International journal papers + PhD thesis defense** |
-| **Application Difficulty**  | Moderate (GPA + language scores)            | High (research proposal + supervisor networking) | Very high (top research output + matching supervisor) |
+| **Program**                 | **MSc (Taught Master's)**                     | **MPhil (Research Master's)**                    | **PhD (Research Doctorate)**                          |
+| --------------------------- | --------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------- |
+| **Duration**                | 1 year (full-time)                            | 2 years (full-time)                              | 4-5 years (full-time)                                 |
+| **Tuition (annual)**        | **120-240k HKD** (250-350k RMB) (self-funded) | **42k HKD** (subsidized)                         | **42k HKD** (subsidized)                              |
+| **Scholarship**             | Limited merit-based scholarships              | Yes **HKPFS/Professor funding** (~180k HKD/year) | Yes **HKPFS/full scholarship** (~250k HKD/year)       |
+| **Academic Format**         | Courses + exams/thesis                        | Research-focused + few courses                   | **Independent research + academic thesis**            |
+| **Career Path**             | Employment                                    | Stepping stone to PhD                            | Academia/research/high-end industry R\&D               |
+| **Graduation Requirements** | Complete credits + pass thesis                | Publish paper + thesis defense                   | **International journal papers + PhD thesis defense** |
+| **Application Difficulty**  | Moderate (GPA + language scores)              | High (research proposal + supervisor networking) | Very high (top research output + matching supervisor) |
 
 ***
 
@@ -5452,7 +5627,7 @@ TODO: Add campus safety and psychological first-aid information:
 
 * \[ ] 24-hour emergency contact numbers: Campus Security (Wushan/University City/GZIC), campus hospital emergency, local police station phone numbers
 * \[ ] Mental health support: SCUT Psychological Counseling Center appointment methods, 24-hour mental health hotline
-* \[ ] Campus fraud prevention: common telecom scams (fake advisors/customer service/刷单/refunds), reporting and loss prevention procedures
+* \[ ] Campus fraud prevention: common telecom scams (fake advisors/customer service/fake-order brushing scams/refunds), reporting and loss prevention procedures
 * \[ ] Emergency response: typhoon/heavy rain class suspension criteria and dorm safety precautions
 * \[ ] Daily traffic safety: accident prevention on and off campus, shared bike/electric scooter usage guidelines
 
@@ -5718,8 +5893,8 @@ External consultation reimbursement requires a referral slip. For the specific p
 2. For insured students, the primary care facility for regular outpatient (and emergency) visits is the campus hospital (including Wushan campus, University City campus, and GZIC campus outpatient clinics). The basic medical expenses incurred are shared between the outpatient special fund and the student. When medical needs require visiting an off-campus hospital for outpatient (or emergency) care (hereafter referred to as "external consultation"), the specialist physician shall issue a referral slip to the designated hospital. The referral slip is valid for 30 days from the date of issuance and can only be used once (for follow-up visits requiring examination, it counts as one visit within 7 days). Medical expenses incurred before the referral are not eligible for reimbursement. For sudden acute illnesses (such as fever, trauma, abdominal pain, etc.), patients should seek treatment at the nearest facility and are not subject to the referral requirement.
 3. For external consultations, students pay the medical expenses upfront, keep the relevant documents, and apply for reimbursement to the Medical Insurance Office by April 30 of the following year. **For examination fees, laboratory test fees, treatment fees, and medication costs (for Class B drugs, individuals must first pay 15% out-of-pocket) that fall within the scope of the three major catalogs of Guangzhou Basic Medical Insurance, reimbursement is at 50% (Chinese herbal medicine at 30%; Chinese herbal granules are entirely out-of-pocket). The cumulative annual reimbursement cap for on-campus and off-campus outpatient visits is 1000 RMB per person per year. For hospitalization, the annual cap is 300,000+ RMB, with an additional 400,000+ RMB for serious illness insurance.**
 4. External consultation medical expense reimbursement is processed centrally, **typically during the third week of each month (excluding winter and summer breaks), with one day per campus (Monday: GZIC, Wednesday: University City, Friday: Wushan)**. For specific details, refer to university announcements / the campus hospital website. **Required documents**: (1) Referral slip (for emergency cases without a referral slip, the medical records from that visit must be presented), (2) Medical receipt (invoice) issued under the supervision of finance and tax authorities, (3) Itemized expense list corresponding to the invoice (can be printed for free at the hospital's service desk).
-5. **For external consultations, please bring a valid ID. Outpatient special disease categories (such as hypertension, diabetes), designated single disease categories (rabies vaccination), maternity medical benefits, and hospitalization are not managed by the university.** Students can directly register for medical treatment at designated定点 medical institutions in Guangzhou using valid ID. Their medical expenses will be directly settled by the hospital through the medical insurance system. For details, visit the Guangdong Government Service Website or call the government hotline 12345.
-6. Medical insurance funds will not cover expenses incurred in the following circumstances: (1) Suicide or self-harm (excluding mental illness); (2) Injuries from fights, alcohol intoxication, drug use, or other criminal or public security violations; (3) Injuries from traffic accidents, accidents, or医疗 accidents where compensation responsibilities have been clearly assigned to another party, or expenses clearly covered by work-related injury insurance; (4) Medical treatment abroad or in Hong Kong, Macau, or Taiwan; (5) Other circumstances where payment is not provided by law.
+5. **For external consultations, please bring a valid ID. Outpatient special disease categories (such as hypertension, diabetes), designated single disease categories (rabies vaccination), maternity medical benefits, and hospitalization are not managed by the university.** Students can directly register for medical treatment at designated medical institutions in Guangzhou using valid ID. Their medical expenses will be directly settled by the hospital through the medical insurance system. For details, visit the Guangdong Government Service Website or call the government hotline 12345.
+6. Medical insurance funds will not cover expenses incurred in the following circumstances: (1) Suicide or self-harm (excluding mental illness); (2) Injuries from fights, alcohol intoxication, drug use, or other criminal or public security violations; (3) Injuries from traffic accidents, accidents, or medical accidents where compensation responsibilities have been clearly assigned to another party, or expenses clearly covered by work-related injury insurance; (4) Medical treatment abroad or in Hong Kong, Macau, or Taiwan; (5) Other circumstances where payment is not provided by law.
 7. **Common non-reimbursable expenses**: Physical examination fees, registration fees, material fees, referral transportation fees (ambulance costs, etc.), hospitalization fees (over 70 RMB), vaccinations, psychological counseling, cosmetic surgery, teeth cleaning, tooth extraction, fillings, orthodontics and other dental treatment costs, testing for hepatitis B, hepatitis C, viruses, HIV, genetic tests, immune antibody tests, and diagnostic fees for ultrasound, CT, MRI (MR), gastrointestinal endoscopy, dynamic ECG, etc.
 8. Insured students are strictly prohibited from lending their medical insurance credentials to others or using others' credentials for medical insurance registration or expense reimbursement. Anyone who fraudulently obtains social insurance benefits through fraud, forged documents, or other means will, upon verification, have their medical insurance benefits suspended for 1-3 months (during which all medical expenses must be paid out-of-pocket), be ordered to return the fraudulently obtained social insurance funds, be fined 2 to 5 times the fraudulently obtained amount, and have the matter reported to their school. If the circumstances are serious and constitute a crime, the case will be referred to the Guangzhou Medical Insurance Bureau for criminal prosecution.
 
@@ -5773,11 +5948,14 @@ For hospitalization, go directly with your social security card and ID to check 
 
 # Doctor Reviews
 
-TBD
+TODO: Add visiting experiences and doctor recommendations for the campus hospital's common departments (GP, dental, dermatology, TCM).
 
 # Emergency Experience
 
-TBD
+TODO: Add emergency care experience:
+
+* \[ ] Reimbursement and the retroactive referral slip process for sudden nighttime illness (e.g., acute gastroenteritis, fever, trauma) when going straight to an off-campus 3A (top-tier) hospital emergency department
+* \[ ] An explanation of how emergency care differs from regular outpatient visits and how the costs differ
 
 # Final Words
 
@@ -5975,9 +6153,84 @@ Mastering the basic syntax above will let you handle 90% of your document format
 
 ## Start Markdown Now
 
-TODO: Add documentation compilation guidelines (file naming, source attribution, external link standards, time-sensitive information markers, translation sync rules, writing conventions for citing official information).
+## Documentation Standards
 
-TODO: Establish an annual update process (onboarding, campus buses, maps, major transfers, university hospital, nearby info, and other time-sensitive pages should be reviewed at least once per academic year).
+### 1. Attachment Naming Rules
+
+All resource files are stored under the `docs/public/` directory and managed in folders by category or campus.
+
+* **Language**: File names use English
+* **Separator priority**: Use underscore `_` for the first level, hyphen `-` when a deeper level is needed, then dot `.` when an even deeper level is needed
+* **Examples**:
+  * `campus_map_hemc_2026.pdf` — University City campus map
+  * `bus_schedule_autumn_2026.pdf` — Campus bus schedule
+  * `logo.scut_cat.1.png` — Logo icon
+
+### 2. Source Attribution and Citation
+
+#### Citing Official Information
+
+Use Markdown footnotes consistently:
+
+```markdown
+According to university regulations, major transfer applications must be submitted by the end of the first academic year[^1].
+
+[^1]: SCUT Undergraduate Major Transfer Management Measures, https://www.scut.edu.cn/...
+```
+
+#### Reposts and Compiled Content
+
+* For reposted or compiled information, cite the source whenever possible
+* If the source is an intranet page or a link that is inconvenient to archive, state the origin in plain text (e.g., "This data comes from the university's internal academic affairs system")
+* **Disclaimer**: Reposted/compiled pages must set `disclaimer: true` in their frontmatter. The system automatically injects a unified disclaimer text at the top of the page, avoiding inconsistencies caused by hand-writing it on each page.
+
+#### Volatile Resources
+
+* If you hold the source files (PDF, screenshots, etc.), archive them in the corresponding directory under `docs/public/`
+* If no source files are available, simply mark the source using the footnote format
+
+### 3. External Link Standards
+
+* **Internal links**: Use root-relative paths (e.g., `/learn/curricular/exam`) to avoid broken links after the documentation is migrated
+* **External links**: Must use complete URLs with the `https://` protocol prefix
+* **Source preference**: Citing authoritative official sources is encouraged; no mandatory requirements are imposed on contributors
+* **Dead link handling**: Fix dead links as soon as they are found during maintenance; for external dead links that cannot be fixed, add a note in parentheses after the original link (this link is no longer available)
+
+### 4. Time-Sensitive Information Management
+
+* **Unified labeling**: On pages involving time-sensitive information, add a label at the beginning of the body text: `The information on this page was last verified in July 2026`
+* **Overwrite-style content**: Fully outdated information such as orientation guides and campus bus schedules is directly overwritten with updates; old versions are preserved in Git history
+* **Accumulative content**: Information that remains useful as a reference across years, such as major transfer experience posts, keeps separate versions by year, with the year noted in the title or summary; main index pages (such as the major transfer overview) are directly overwritten
+
+### 5. Translation Sync Rules
+
+Once Chinese content is finalized, generate the English version immediately via LLM translation, or copy the Chinese content directly as a placeholder for the English section.
+
+## Annual Update Process
+
+Highly time-sensitive pages should be verified at least once per academic year to ensure the information stays accurate.
+
+* **Update timing**: Complete the annual update during the summer break each year (July–August)
+* **Owner**: The project maintainers are responsible for checking whether annual updates are completed; any contributor who finds outdated information may file an Issue and submit a PR to update it themselves
+* **Tracking**: Mark progress in the checklist below
+
+### Annual Update Checklist
+
+#### 2026
+
+* \[ ] Orientation guide — `get-started.md`
+* \[ ] Campus bus schedule — `life/time/bus.md`
+* \[ ] University City campus map — `infra/hemc/map.md`
+* \[ ] Wushan campus map — `infra/wushan/map.md`
+* \[ ] International Campus (GZIC) map — `infra/gzic/map.md`
+* \[ ] Around the University City campus — `infra/hemc/nearby.md`
+* \[ ] Suishi Village information — `infra/hemc/suishi.md`
+* \[ ] Around the Wushan campus — `infra/wushan/nearby.md`
+* \[ ] Around the International Campus (GZIC) — `infra/gzic/nearby.md`
+* \[ ] Campus hospital guide — `health/medical_care.md`
+* \[ ] Major transfer policy — `learn/curricular/transfer_major.md`
+
+> At the start of each summer break, maintainers should copy the previous year's checklist to create the new year's entry and verify the items one by one.
 
 ---
 
@@ -6009,7 +6262,7 @@ This roadmap organizes all current TODOs into **7 phases** by priority and conte
 
 ***
 
-## Phase 1 — Foundation & Governance (P0)
+## Phase 1 — Foundation & Governance (P0) ✅
 
 > \~~4 TODOs → 2 completed, 2 items (App capability, Schedule import Issue #23) moved to a separate APP project.~~
 
@@ -6019,11 +6272,15 @@ Establish rules first, then build content. These tasks provide standards and pro
 
 * **Source**: `docs/others/contributing.md` (Line 174)
 * **Task**: Add guidelines for file naming, source attribution, external links, time-sensitive markers, translation sync rules, and citing official information.
+* **Depends on**: None
+* **Acceptance criteria**: `contributing.md` has a dedicated "Documentation Standards" section that contributors can consult.
 
-### 1.2 Annual Update Process
+### 1.2 Annual Update Process ✅
 
 * **Source**: `docs/others/contributing.md` (Line 176)
 * **Task**: Establish an annual review cycle for time-sensitive pages (onboarding, bus schedules, maps, transfer policies, health services, nearby info).
+* **Depends on**: 1.1 (time-marker conventions from the standards)
+* **Acceptance criteria**: A documented checklist exists.
 
 ***
 
@@ -6035,21 +6292,30 @@ Establish rules first, then build content. These tasks provide standards and pro
 
 * **Source**: `docs/get-started.md` (Line 99)
 * **Task**: Rewrite the 2025 edition of the freshman onboarding guide with up-to-date information.
+* **Depends on**: 1.1 (time-sensitive marking rules)
+* **Reference**: The existing `get-started.md` structure is largely sound; year information and time-sensitive content need updating.
+* **Acceptance criteria**: The guide covers registration procedures, campus card, dormitory arrangements, course selection, military training, etc., and clearly marks the valid year.
 
 ### 2.2 Safety & Mental Health
 
 * **Source**: `docs/health/alive_first.md` (Line 11)
 * **Task**: Add daily safety (traffic, anti-fraud), mental health support, and disaster emergency guides.
+* **Depends on**: None
+* **Acceptance criteria**: Response guides covering at least three types of safety scenarios.
 
 ### 2.3 University Hospital Guide
 
 * **Source**: `docs/health/medical_care.md` (Line 106)
 * **Task**: Add clinic visit guides for General Practice, Dentistry, Dermatology, and TCM with doctor recommendations.
+* **Depends on**: None
+* **Acceptance criteria**: Each of the four departments has a paragraph describing the visit experience.
 
 ### 2.4 Emergency Experience
 
 * **Source**: `docs/health/medical_care.md` (Line 110)
-* **Task**: Document emergency procedures, including off-campus ER visits and reimbursement processes.
+* **Task**: Document emergency procedures, including reimbursement and retroactive referral-slip issuance when going straight to an off-campus top-tier (Grade A) hospital at night for a sudden illness.
+* **Depends on**: 2.3 (same page, can be merged)
+* **Acceptance criteria**: Complete step-by-step instructions for seeking emergency care are available.
 
 ***
 
@@ -6057,14 +6323,16 @@ Establish rules first, then build content. These tasks provide standards and pro
 
 > Essential info for freshmen exploring the campus.
 
-| #   | File                     | Task                                             |
-| --- | ------------------------ | ------------------------------------------------ |
-| 3.1 | `infra/gzic/map.md`      | GZIC facility locations, hours, and usage guides |
-| 3.2 | `infra/gzic/nearby.md`   | GZIC nearby transportation and daily life        |
-| 3.3 | `infra/hemc/nearby.md`   | HEMC area surroundings guide                     |
-| 3.4 | `infra/hemc/suishi.md`   | Suishi village living guide                      |
-| 3.5 | `infra/wushan/map.md`    | Wushan campus facility map                       |
-| 3.6 | `infra/wushan/nearby.md` | Wushan campus nearby guide                       |
+| #   | File                              | Task                                             |
+| --- | --------------------------------- | ------------------------------------------------ |
+| 3.1 | `infra/gzic/map.md` (Line 10)     | GZIC facility locations, hours, and usage guides |
+| 3.2 | `infra/gzic/nearby.md` (Line 7)   | GZIC nearby transportation and daily life        |
+| 3.3 | `infra/hemc/nearby.md` (Line 9)   | HEMC area surroundings guide                     |
+| 3.4 | `infra/hemc/suishi.md` (Line 9)   | Suishi village living guide                      |
+| 3.5 | `infra/wushan/map.md` (Line 7)    | Wushan campus facility map                       |
+| 3.6 | `infra/wushan/nearby.md` (Line 7) | Wushan campus nearby guide                       |
+
+> **Tip**: 3.1 and 3.2, and 3.5 and 3.6, each cover the same campus respectively and can be contributed together.
 
 ***
 
@@ -6072,42 +6340,48 @@ Establish rules first, then build content. These tasks provide standards and pro
 
 > Coursework content covering common courses, majors, and exams.
 
-| #       | File                                       | Task                                                                             |
-| ------- | ------------------------------------------ | -------------------------------------------------------------------------------- |
-| 4.1-4.3 | `learn/curricular/common_basic_lessons.md` | Improve Linear Algebra, Probability Theory, Complex Analysis course descriptions |
-| 4.4     | `learn/curricular/exam.md`                 | Add exam regulations and study tips                                              |
-| 4.5     | `learn/curricular/majors.md`               | Add major-specific study guides and open-source resources                        |
+| #       | File                                                           | Task                                                                                                                                       |
+| ------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 4.1-4.3 | `learn/curricular/common_basic_lessons.md` (Lines 76, 91, 101) | Improve the Linear Algebra, Probability Theory, and Complex Analysis course descriptions with recommended textbooks and learning resources |
+| 4.4     | `learn/curricular/exam.md` (Line 9)                            | Add exam regulations, test-taking advice, and exam-room precautions                                                                        |
+| 4.5     | `learn/curricular/majors.md` (Line 11)                         | Add major-specific study guides and open-source resources                                                                                  |
 
 ***
 
 ## Phase 5 — Life & Fun (P2)
 
-| #   | File                              | Task                          |
-| --- | --------------------------------- | ----------------------------- |
-| 5.1 | `life/eat/gzic.md`                | GZIC food guide               |
-| 5.2 | `life/entertainment/hemc_gzic.md` | HEMC/GZIC entertainment guide |
-| 5.3 | `life/entertainment/wushan.md`    | Wushan entertainment guide    |
+> Eating and fun — content that improves quality of life.
+
+| #   | File                                        | Task                          |
+| --- | ------------------------------------------- | ----------------------------- |
+| 5.1 | `life/eat/gzic.md` (Line 11)                | GZIC food guide               |
+| 5.2 | `life/entertainment/hemc_gzic.md` (Line 11) | HEMC/GZIC entertainment guide |
+| 5.3 | `life/entertainment/wushan.md` (Line 11)    | Wushan entertainment guide    |
 
 ***
 
 ## Phase 6 — Beyond SCUT (P2)
 
-| #   | File                                    | Task                               |
-| --- | --------------------------------------- | ---------------------------------- |
-| 6.1 | `beyond/abroad/phd.md`                  | Overseas PhD application guide     |
-| 6.2 | `beyond/mainland/phd.md`                | Domestic PhD application guide     |
-| 6.3 | `beyond/mainland/recommend_graduate.md` | Graduate recommendation full guide |
-| 6.4 | `beyond/mainland/unified_admission.md`  | Graduate entrance exam guide       |
+> High-value content on post-graduation paths — a focused audience with high expectations for content density.
+
+| #   | File                                              | Task                                                                                                                        |
+| --- | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 6.1 | `beyond/abroad/phd.md` (Line 11)                  | Overseas PhD application guide: direct PhD admission, supervisor outreach (套磁), school selection, and personal statements |
+| 6.2 | `beyond/mainland/phd.md` (Line 11)                | Domestic PhD application guide                                                                                              |
+| 6.3 | `beyond/mainland/recommend_graduate.md` (Line 11) | Graduate recommendation full guide                                                                                          |
+| 6.4 | `beyond/mainland/unified_admission.md` (Line 11)  | Graduate entrance exam preparation strategies and notes on applying to SCUT itself                                          |
 
 ***
 
 ## Phase 7 — Contest Deepening (P3)
 
-| #   | File                     | Task                                                                              |
-| --- | ------------------------ | --------------------------------------------------------------------------------- |
-| 7.1 | `learn/extra/contest.md` | Add contest participation guides (Internet+/Challenge Cup, Blue Bridge Cup, etc.) |
-| 7.2 | `learn/extra/contest.md` | Restructure contest directory into 3 entry types                                  |
-| 7.3 | `learn/extra/contest.md` | Add more contest content and guidance                                             |
+> Nice-to-have extension content — highly valuable for specific audiences.
+
+| #   | File                               | Task                                                                                                                                                            |
+| --- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 7.1 | `learn/extra/contest.md` (Line 26) | Add contest participation guides (Internet+/Challenge Cup, Blue Bridge Cup, etc.)                                                                               |
+| 7.2 | `learn/extra/contest.md` (Line 35) | Restructure the contest directory into three entry types: on-campus innovation-credit oriented, academic competition oriented, and employability-skill oriented |
+| 7.3 | `learn/extra/contest.md` (Line 37) | Add more contest content and guidance                                                                                                                           |
 
 ***
 
@@ -6131,7 +6405,7 @@ After completing each Chinese TODO above, update the corresponding English trans
 2. **Branch**: One branch per phase or per TODO; prefix PR title with phase number (e.g., `[Phase 2] Rewrite onboarding guide`)
 3. **Standards**: Follow the documentation standards from Phase 1.1
 4. **Translation**: Update English version within one week of Chinese content finalization
-5. **Pre-merge**: Ensure `npm run docs:build` passes
+5. **Pre-merge**: Ensure `npm run docs:build` passes with no new `TODO` items (unless intentionally left for a later phase)
 
 ***
 
@@ -6741,6 +7015,126 @@ ACM国际大学生程序设计竞赛（ACM International Collegiate Programming 
 ---
 
 ---
+url: /en/infra/hemc/dorm-e.md
+description: An overview of the Area E dormitories at SCUT University Town Campus
+---
+
+# Area E Dorms Overview
+
+## 1. Hardware
+
+### a. Inside the Dorm
+
+The room itself is not large, but since the buildings are newly built, the facilities are all fairly new.
+
+![Full view of the dorm](/assets/hemc/dorm_e_overview.jpg)
+
+**Basic specs:**
+
+* Dorms are generally four-person rooms measuring **5m × 3.6m**
+* Lofted beds with desks underneath, plus your own wardrobe, bookshelf, and luggage rack
+
+**Desk:**
+
+![Desk and storage cabinets](/assets/hemc/dorm_e_desk.jpg)
+
+* Size: **1.2m × 0.6m**
+* One side connects to the stairs of the lofted bed, the other to the wardrobe
+* There is a bookshelf at the back on top, so plan the space wisely
+* The height gap between the bottom of the bookshelf and the desk is **0.6m**
+
+**Wardrobe:**
+
+* Roughly **0.8m × 0.6m × 1.15m**
+* Below it sits a storage cabinet with the same width and length: **0.8m × 0.6m × 0.45m**
+* Next to the wardrobe are four open cubbies (three on top measuring **0.3m × 0.25m × 0.33m** plus one at the very bottom measuring **0.3m × 0.25m × 0.65m**)
+
+**Right-side storage:**
+
+* Drawers and cabinets for daily necessities and personal items
+* Drawers: **0.4m × 0.33m × 0.1m**
+* Cabinet: **0.6m × 0.33m × 0.45m**
+
+**Book cabinets:**
+
+* Three book cabinets overhead, each **0.4m × 0.2m** (open at the top)
+
+**Staircase storage:**
+
+* The stairs up to the bed are on the left/right side, with two storage compartments built into them
+  * **0.5m × 0.65m × 0.25m**
+  * **0.5m × 0.4m × 0.25m**
+* Since two people share one staircase, agree with your roommate on how to use them
+
+**Bed:**
+
+* Size: **1.9m × 0.9m**
+* The school automatically installs guardrails and a frame for hanging a mosquito net
+
+### b. Balcony, Toilet, and Shower
+
+* The balcony is usually **1.8m × 2.15m** (in some dorms a corner is taken up by a wall)
+* There is a washbasin counter and a wash rack
+* The toilet and shower have a **wet/dry separation**, each roughly half the size of the balcony
+* Water: **3.75 RMB/ton**
+* Electricity: **0.6295 RMB/kWh**
+
+![Balcony washbasin](/assets/hemc/dorm_e_balcony.jpg)
+
+![Bathroom shower](/assets/hemc/dorm_e_bathroom.jpg)
+
+![Toilet](/assets/hemc/dorm_e_toilet.jpg)
+
+***
+
+## 2. Software
+
+* Each dorm comes with **air conditioning** and a **fan**
+* **Water dispensers** are at fixed spots on every floor
+* **Lights and power stay on all night** (the campus network does cut out)
+* Each building should have **7 elevators**
+* **e2/e3** have an underground garage with stairs leading straight down (plus one elevator that goes to the garage)
+* Downstairs there are **vending machines** and **food-delivery pickup points** (delivery from the campus canteens or Xiya Supermarket can be sent here)
+* Each building has its own **functional rooms and activity rooms**, for example:
+  * **e2**: kitchen, calligraphy room
+  * **e3**: psychological counseling room
+
+***
+
+## 3. Getting Around
+
+Area E really is quite far from most places on campus. Below are the routes and times to some important places (using **e3** as the example; e2 is about 50m closer, and e1 about 100m closer):
+
+| Destination                                                                     | Distance/Time                | Notes                                                                                                         |
+| ------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Teaching buildings a5~a1**                                                    | 500m ~ 700m                  | Listed from farthest to nearest; a1 is a tall building — cycle if you can and leave at least 15 minutes early |
+| **Library**                                                                     | about 800m                   | Right next to a1                                                                                              |
+| **Teaching area sports field/gym**                                              | about 800~900+m              | About 20 minutes one way                                                                                      |
+| **Lab buildings (starting with b)**                                             | 15~25 minutes                | Varies from building to building                                                                              |
+| **Package pickup point**                                                        | Below e3 / next to Canteen 2 | Occasionally it is the one below c10                                                                          |
+| **Food delivery (North Gate)**                                                  | about 8 minutes              | Pickup is fairly convenient                                                                                   |
+| **Suishi Village**                                                              | about 15 minutes             | Food and shopping nearby                                                                                      |
+| **Canteen 3**                                                                   | about 15 minutes             |                                                                                                               |
+| **Next to Canteen 2 (Luckin Coffee / 遇见小面 (Yujian Xiaomian) / McDonald's)** | about 10 minutes             |                                                                                                               |
+| **GOGO Xintiandi (gogo新天地)**                                                 | about 25 minutes             |                                                                                                               |
+| **Nanting (南亭)**                                                              | about 30 minutes             |                                                                                                               |
+| **Beiting Village (北亭村)**                                                    | about 40 minutes             |                                                                                                               |
+| **Bio Island**                                                                  | 50 minutes or more           | Better not to cycle                                                                                           |
+| **Metro station (University Town Station)**                                     | about 20 minutes             | From the North Gate to Exit D; through campus and out the West Gate to Exit F                                 |
+
+> **Tip**: Riding back to Area E from Exit F is a satisfying downhill all the way!
+
+***
+
+## 4. Advice
+
+However nice the dorm is, what matters most is the **people**. Learn how to get along with your roommates, be as accommodating to one another as you can, and sort out responsibilities in advance.
+
+Hope you have a wonderful time living in Area E at University Town!
+
+---
+
+---
 url: /en/learn/extra/contest/cmc.md
 description: >-
   Introduction to the Chinese Mathematics Competition (CMC) and a simple
@@ -6985,6 +7379,55 @@ Policies, forms, and office assignments may change. This page can compress infor
 ---
 
 ---
+url: /en/learn/curricular/transfer_major_information_engineering_2026.md
+description: >-
+  Experience sharing on transferring into the School of Electronic and
+  Information Engineering (Information Engineering) at SCUT, covering the
+  written exam content, interview criteria, and preparation advice
+---
+
+# Experience Sharing: Transferring into Information Engineering — 十七 (Materials to Information Engineering)
+
+## Introduction
+
+In terms of majors, SCUT's School of Electronic and Information Engineering offers two programs: Information Engineering, and Electronic Science and Technology. The curricula differ slightly — Electronic Science and Technology leans a bit more toward RF and antennas, while the rest of the courses are largely the same. Note that in past years, Information Engineering was organized as a dedicated class of transfer students, while Electronic Science and Technology students were inserted into existing classes. Weigh the pros and cons of the two yourself when deciding which one you want to transfer into.
+
+Overall, transferring into the School of Electronic and Information Engineering is not as hard as you might imagine. In recent years, students with averages around the 15th percentile have transferred in successfully, and there is no particular emphasis on a high GPA. Students without very high GPAs can turn things around through the written exam and interview — it is relatively forgiving. Of course, factor in that year's application-to-admission ratio: the lower the ratio, the higher your margin for error. For the class of 2025, the success rate was close to 70%, the lowest elimination rate in years. My own calculus grade did not meet Mechanical Engineering's hard threshold, yet I still successfully transferred into Information Engineering. (Why? Let's just say I completely slacked off in my first semester.)
+
+![2025 SCUT School of Electronic and Information Engineering transfer requirements](./2025_see.jpg)
+
+## Transfer Requirements and Process
+
+A note on transfer policy: the School of Electronic and Information Engineering does have an adjustment option. For the class of 2025, Information Engineering filled up while Electronic Science and Technology did not, so some Information Engineering applicants were reassigned to Electronic Science and Technology (the two lowest comprehensive scores were moved to Electronic Science and Technology; a teacher will contact you at the time to ask whether you are willing to go). The math threshold is fairly fixed and not particularly high — one senior said the school sets it at 50% of the per-subject average, with that cutoff line serving as the reference standard. All of the slots the school offers do get used; the number admitted is fixed, and it never ends up under-filled.
+
+For example, I am from the class of 2025. If Information Engineering had 7 slots for the class of 2024 and only 2 people applied, the 5 unused slots would be passed down to class-of-2025 students. Do not look only at the application-to-admission ratio within your own cohort — the real ratio is somewhat lower (slots are handed down from the cohort above). You can check item 9 of the transfer requirements for this detail. As for the class-of-2025 Sino-French class, it was canceled because too few people applied — everyone was notified on the final day of registration. Whether it can be formed for the class of 2026 is unknown (the precondition is that enough people sign up). The Sino-French class goes abroad for study tours and takes French courses, but it carries no graduate recommendation (baoyan) eligibility, so not many people want to join it.
+
+In late April of the second semester of freshman year, the transfer thresholds and the written exam content are announced. Information Engineering and Electronic Science and Technology hold their exams together with the same scope: the physics portion is worth 40 points (University Physics is only offered in the second semester, so first-semester students generally have not taken it yet), and Advanced Mathematics + Linear Algebra are worth 60 points. If you are considering transferring into this school, you can start preparing as soon as the thresholds and exam scope come out. Cut back on the fun during the May Day holiday, okay?
+
+## The Written Exam and Interview
+
+The written exam takes place in early May (after the May Day holiday, around May 7). About two days after the exam, the interview list comes out, and the final admission list follows one or two days after the interviews. Fairly complete compilations of the questions (put together by other seniors) circulate in the Information Engineering transfer group chat. The exam time is very tight: 11 short math questions and 6 long math problems, with the Linear Algebra portion being quite difficult — about one and a half proof questions. University Physics was something like 10 fill-in-the-blank and 10 multiple-choice. Two hours in total, a huge volume of questions, so write quickly. You can find the questions in the group chat; last year's overlapped in part with earlier years. (The group number is given at the end — even if you only make up your mind about transferring in the second semester, joining then is still soon enough.)
+
+## Interview Criteria and Questions from the Teachers
+
+The evaluation criteria are roughly as follows:
+
+1. **GPA**, which is tied to learning ability. Even if you come from an unrelated major, your average should look decent — it is a major yardstick the teachers use to judge your learning ability. Teachers do not have the time to go through your transcript course by course; they can only glance over it, so the higher your average, the better your odds. Be sure to check each course's credits and assessment requirements carefully rather than going by your own assumptions — some low-effort courses carry a lot of weight, which matters quite a bit if you want to transfer. Do not let your ideological and political theory course grades fall too low; those can still be brought back up.
+2. **English proficiency**
+3. **Research and competition potential** — prior competition experience or project practice gives you a significant advantage
+4. **Composure during the interview**
+
+The questions themselves are fairly random. In our case, the admission slots had already been settled once the written exam ended, so the teachers leaned more toward just chatting with the students. Each interview was a three-minute self-introduction followed by four minutes of questions from the teachers. You may not use electronic devices while waiting for your interview — they are collected — and you get your phone back when you are done. The questions are generally based on your self-introduction, so if there is anything you are unsure about or made up, be careful: the teacher may dig into whatever part catches their interest. They will also ask some major-related questions, such as what you have done to prepare for transferring into Information Engineering and whether you have related competitions or practical experience, to gauge your potential. It is worth preparing a little extra on this front.
+
+I remember one of the teachers taught Introduction to Artificial Intelligence, and she asked about the AI online course — I had just blazed through the videos without actually learning anything, so I improvised. Another teacher asked about student clubs.
+
+## Summary
+
+Transferring into Information Engineering is not as hard as it seems, but do not let your guard down. What matters most is making your first-semester average look good and scoring high in math and English. That is about it — if anything is still unclear, join the Information Engineering transfer group and ask: 1037507331
+
+---
+
+---
 url: /infra/hemc/dorm-e.md
 description: 华南理工大学大学城校区E区宿舍概况
 ---
@@ -7143,7 +7586,7 @@ I recommend Xie Huimin's Mathematical Analysis exercise collection for advanced 
 
 ![text](./image-1.png)
 
-Note: Only the reference problems at the end of each chapter have answers. Answers for the exercises after each section need to be found separately. Two Bilibili content creators -- **aceaccce** and **分析学爱好者** -- both provide solutions to Xie Huimin's problem set.
+Note: Only the reference problems at the end of each chapter have answers. Answers for the exercises after each section need to be found separately. Two Bilibili content creators -- **aceaccce** and **Analysis Enthusiast (分析学爱好者)** -- both provide solutions to Xie Huimin's problem set.
 
 Of course, Pei Liwen's and Demidovich's Mathematical Analysis problem collections are also excellent. I just personally prefer Xie Huimin's.
 
@@ -7222,6 +7665,16 @@ Search for the mini-program "拾壹工具箱" on WeChat -- it basically has all 
 ---
 
 ---
+url: /en/others/image-toolbox.md
+description: >-
+  A collection of tools for processing images to meet the image requirements of
+  the comprehensive evaluation platform
+---
+
+
+---
+
+---
 url: >-
   /en/learn/curricular/common/probalistics_and_statistics/distribution_gallery.md
 description: >-
@@ -7274,7 +7727,7 @@ Each year, the university opens one regular major transfer window, concentrated 
 
 ### Basic Rules
 
-You can only apply to one major in one school -- no调剂 (adjustment) opportunities. The university generally doesn't restrict transfers out. The first year is the main window; second-year students have limited slots but often need to drop a grade level. After transferring, courses already taken in the original major that the new major doesn't recognize are converted into general elective or cross-major elective credits, which are basically useless and won't count toward the GPA needed for graduate recommendation.
+You can only apply to one major in one school -- no adjustment opportunities. The university generally doesn't restrict transfers out. The first year is the main window; second-year students have limited slots but often need to drop a grade level. After transferring, courses already taken in the original major that the new major doesn't recognize are converted into general elective or cross-major elective credits, which are basically useless and won't count toward the GPA needed for graduate recommendation.
 
 ### Slots
 
@@ -7286,7 +7739,7 @@ The process is unified, but selection methods vary greatly by school. Two things
 
 Thresholds determine if you can even apply. Lenient schools only require no failed required courses (some even allow failures!) plus basic disciplinary requirements. Strict schools additionally require specific scores in first-semester math and English -- miss them and you're disqualified outright (currently, no school uses GPA as a threshold). Assessment generally comes in only two forms: pure interview, or written exam plus interview. Schools with strict thresholds are more likely to add a written exam. Written exams typically cover math, physics, or C++, set by the school. Interviews usually assess field knowledge and overall quality, possibly with an English oral component.
 
-Beyond regular programs, a small number of teaching reform classes (note: this doesn't include卓越 classes or other key classes) are available for transfer during the May window. These classes are often highly experimental, offered irregularly, not recruited through Gaokao, and filled entirely with students from other majors. Their conditions vary greatly and are subject to frequent change. Some have completely independent processes, so this article's reference value for them is limited -- always check the latest announcements.
+Beyond regular programs, a small number of teaching reform classes (note: this doesn't include Excellence Classes (卓越班) or other key classes) are available for transfer during the May window. These classes are often highly experimental, offered irregularly, not recruited through Gaokao, and filled entirely with students from other majors. Their conditions vary greatly and are subject to frequent change. Some have completely independent processes, so this article's reference value for them is limited -- always check the latest announcements.
 
 In 2026, some teaching reform classes directly factored first-semester GPA into their transfer assessment scores, though this remains a very small minority of cases. Still worth noting.
 
@@ -7346,7 +7799,7 @@ The most direct reward of transferring is entering a field you genuinely want to
 
 For students aiming at popular majors, our advice is: don't rush into specialized transfer preparation in the first semester. Put your energy into required courses, especially math and English. Six reasons: First, most popular majors have thresholds -- miss them and you can't even apply. Second, even without explicit GPA-based assessment, our statistics show a clear correlation between first-semester grades and interview performance. Third, after first-semester exams end, there are still nearly 5 months until the May assessment -- plenty of time for transfer preparation; doing it early has little benefit. Fourth, first-semester grades are one of the best indicators for assessing which competition level to target -- often you need these grades first to roughly know your options. Fifth, required course GPA is inherently crucial, especially for those planning further study. Finally, many students enter university feeling disoriented -- spending a few months learning more, thinking more, and adapting before deciding where to go is perfectly fine.
 
-Prepare well for final exams and major assignments while also ensuring your平时成绩 (ongoing assessment score). Core courses like math and linear algebra typically have final exams worth 60%-70% -- prepare seriously. Homework accuracy directly affects your ongoing score, so don't slack off. For political education, English, and similar courses, actively participate in class -- presentations, answering questions. Complete online content on MOOC, Rain Classroom, etc., on time.
+Prepare well for final exams and major assignments while also ensuring your regular grades. Core courses like math and linear algebra typically have final exams worth 60%-70% -- prepare seriously. Homework accuracy directly affects your ongoing score, so don't slack off. For political education, English, and similar courses, actively participate in class -- presentations, answering questions. Complete online content on MOOC, Rain Classroom, etc., on time.
 
 ### After First Semester: Formally Choose Your Target
 
@@ -7495,9 +7948,9 @@ In 2025, SCUT underwent certain reforms in admissions, schools, and programs. I 
 
 ### Note on "Dual Degrees"
 
-As of now, SCUT does not have "true" dual degree classes. What's called "dual degree" is more accurately a track分流 at the end of the second year based on grades, into one of two program directions. Upon graduation, the分流 direction becomes the primary degree, and the other exists as a minor. Just a heads up.
+As of now, SCUT does not have "true" dual degree classes. What's called "dual degree" is more accurately a track streaming at the end of the second year based on grades, into one of two program directions. Upon graduation, the streaming direction becomes the primary degree, and the other exists as a minor. Just a heads up.
 
-In other words, if you're a Computer Science + Finance dual degree student and分流 places you in Finance, then Finance is your final degree and CS is your minor. Whether this will change in the future is unknown -- consult target program faculty when applying.
+In other words, if you're a Computer Science + Finance dual degree student and streaming places you in Finance, then Finance is your final degree and CS is your minor. Whether this will change in the future is unknown -- consult target program faculty when applying.
 
 ## First-Year/Second-Year "Voluntary Transfer" -- Where Most People End Up
 
@@ -7559,7 +8012,7 @@ Reviews:
 
 * "2024 cohort, transferred from Light Industry to Mechatronics in 2025 (end of first year). Interview about 10 min/person, required PPT. First 5 min self-presentation, last 5 min Q\&A. Questions weren't very professional -- mostly about PPT content. Overall not too stressful. Results mainly depended on weighted average. I saw the lowest admitted was around 86, some with 87 got screened, basically no one with 88+ got screened. Note that Mechanical likely discriminates against liberal arts (e.g., Economics, Finance) -- unless you have 90+ average, top-ranked liberal arts students should still be cautious." -- Automne (2024)
 
-* "2024 cohort, female, Food Science and Engineering → Mechatronic Engineering, no projects, weighted average ~87 at transfer, ranked 10/144 in original school. Process: 5 min self-intro + 5 min interview Q\&A. About 10 teachers in the room, generally approachable, not too pressuring. Questions mainly around PPT content + academic performance. Asked about: reason for lower calculus score, engineering drawing score (91) + self-assessment of spatial ability, how to balance student work, how to handle heavy course load after transfer (reflecting afterward, felt they might have been asking about grade-level demotion). Switching from Food to Mechatronics requires catching up on A LOT of courses: due to different credit hours, besides Chemistry/Linear Algebra/概论, pretty much everything else like Calculus/University Physics/Engineering Drawing needs retaking, plus C++ and Mechanical概论." -- Anonymous (2024)
+* "2024 cohort, female, Food Science and Engineering → Mechatronic Engineering, no projects, weighted average ~87 at transfer, ranked 10/144 in original school. Process: 5 min self-intro + 5 min interview Q\&A. About 10 teachers in the room, generally approachable, not too pressuring. Questions mainly around PPT content + academic performance. Asked about: reason for lower calculus score, engineering drawing score (91) + self-assessment of spatial ability, how to balance student work, how to handle heavy course load after transfer (reflecting afterward, felt they might have been asking about grade-level demotion). Switching from Food to Mechatronics requires catching up on A LOT of courses: due to different credit hours, besides Chemistry/Linear Algebra/the Introduction course (概论), pretty much everything else like Calculus/University Physics/Engineering Drawing needs retaking, plus C++ and Introduction to Mechanical Engineering (机械概论)." -- Anonymous (2024)
 
 **(2) Intelligent Vehicle Engineering**
 
@@ -7627,7 +8080,7 @@ Program code: 082901 (Safety Science and Engineering)
 
 Core courses: Principles of Safety Science, Safety System Engineering, Safety Ergonomics, Safety Management and Accident Investigation, Smart Safety and Emergency Management, Safety Information Management and Data Analysis, Safety Inspection and Intelligent Monitoring Technology, Mechanical and Electrical Safety, Occupational Health and Safety Management Systems, Safety Psychology and Safety Culture.
 
-2025 registration: Safety Engineering is special -- it doesn't appear in the regular voluntary transfer process. Instead, it recruits in a second batch after voluntary transfer. As of now, Safety Engineering is not among the分流 targets of the Intelligent Equipment and Advanced Manufacturing class (the Mechanical major). All class members are admitted through transfer.
+2025 registration: Safety Engineering is special -- it doesn't appear in the regular voluntary transfer process. Instead, it recruits in a second batch after voluntary transfer. As of now, Safety Engineering is not among the streaming targets of the Intelligent Equipment and Advanced Manufacturing class (the Mechanical major). All class members are admitted through transfer.
 
 2025 assessment: Interview only
 
@@ -7721,7 +8174,7 @@ Recent four-year assessment: Written exam + interview.
 
 Using 2025 as example: Written exam: University Physics (I) (Mechanics, vibrations/waves, optics/interference) 40 pts; Calculus II (including all of part I and chapters 7-8 of part II) + Linear Algebra (linear algebra portion) combined 60 pts. Total 100 pts. Minimum per subject: year-level subject average x 0.7. No overall written exam minimum. Interviews conducted by year level, assessing STEM background, learning ability, psychological fitness, etc. Total 100 pts.
 
-Admission: Comprehensive score = written x 0.4 + interview x 0.6. Ranked by year level,择优录取. Same total score: higher written score wins. Interview fail (< 60) = no admission. If 2023 cohort slots remain, they can be opened to 2024 cohort.
+Admission: Comprehensive score = written x 0.4 + interview x 0.6. Ranked by year level, merit-based selection. Same total score: higher written score wins. Interview fail (< 60) = no admission. If 2023 cohort slots remain, they can be opened to 2024 cohort.
 
 Reviews: (None)
 
@@ -8060,6 +8513,795 @@ Reviews: (None)
 ---
 
 ---
+url: /en/learn/curricular/self_study_science_technology.md
+description: >-
+  Target-score management, self-study strategies, and Agent-based interactive
+  learning methods aimed at university final exams
+---
+
+# Self-Directed Learning: Science and Technology -- Anti-Involution Survival Engineering for University
+
+## Zero: Schooling vs. Learning
+
+### The Brutal Reality
+
+The *Shanghai Jiao Tong University Survival Handbook* (《上海交通大学生存手册》) opens by laying bare the state of Chinese higher education:
+
+"Undergraduate teaching at the vast majority of universities in this country is not on the verge of collapse -- it collapsed long ago."
+
+Eighteen years later, that line still holds.
+
+The department's goal is to secure research funding and build up some "XX discipline." That is how the department survives. As for undergraduates -- what does whether you learned anything have to do with their funding? Whether you sink or swim is nobody's problem. Even if somebody did care, the cost-benefit of looking after master's and PhD students would still be better.
+
+For university teachers, teaching is a "side gig," even a "chore." Their energy all goes into research. Only good research wins funding and titles. Teaching -- especially teaching undergraduates -- is a thankless job: do it well, no reward; do it badly, punishment.
+
+Even "lecturers" without heavy research loads -- don't assume they will teach carefully. Teaching earnestly earns the same salary as phoning it in, so why not slack off? As for whether the students understood anything, what business is that of theirs?
+
+From PPTs older than we are to soporific lectures, from cookie-cutter exams to course content recycled from ten years ago -- that line has kept getting confirmed everywhere for eighteen years and counting.
+
+So if you run into a teacher who is patient and thorough in class, shares the frontier of the field, and tells you how the industry actually stands -- treasure them. They are a scarce resource on campus.
+
+Now, about the training plans. Let me throw out a jaw-dropping conclusion first: the curriculum of university classrooms is at least 5 years behind the industry, and 10 or even 20 years behind is commonplace.
+
+Take big data as an example. Big data started drawing attention from top internet companies around 2008; from 2013 it drew wide attention from government, capital, and media; in 2014 it was written into the Government Work Report for the first time; from 2016 its applications exploded across every major field; and in 2021 the Data Security Law and related regulations came out, tightening oversight. By now, "big data" is hardly an unfamiliar word to us.
+
+The corresponding major, Data Science and Big Data Technology, was approved by the Ministry of Education in 2016, with Peking University, Central South University, and others in the first batch. The earliest its first undergraduates could graduate was 2020; master's students, 2023.
+
+The students of this major perfectly missed the industry's dividend period.
+
+And this is a brand-new major. For those programs with centuries of accumulated science and technology, the lag is far worse. Much of the content is stuck in the early 2000s; the teachers themselves have never touched the industry frontier, and when they have, it goes no further than inviting some "big names" to campus for a lecture.
+
+I once screenshotted a passage from a PPT and showed it to an industry heavyweight. His very first sentence was that half of what that teacher said was wrong, and that they had absolutely never worked on the front line.
+
+If the teachers themselves don't know where the industry stands, how could they possibly avoid producing outdated training plans?
+
+What's more, several hundred students in a major share one training plan, while everyone's minds, knowledge backgrounds, and receptiveness differ. How could that plan possibly work effectively for every single person?
+
+It is like the cafeteria frying one giant wok of food: either undercooked or scorched, never evenly fried. Teachers can only pursue the group optimum; the individual optimum is out of reach.
+
+Here we have to talk about something: the "innovation class." Many 985 universities love to run such classes -- "Excellence Classes," "Academician Classes" -- some even establish a whole college just to herd every "innovation class" on campus into one place.
+
+In their promotional material, these classes come with labels like "integrated bachelor's-master's-PhD track," "advisor system," and "small-class teaching." The favorable policies may be real, but set against the dark side behind them, those perks are, at best, insignificant.
+
+Under the glossy surface of these classes, there are several giant pits:
+
+1. GPA "deflation"
+
+In an innovation class, the homework load is 2x an ordinary class and the exams 3x harder, but the GPA ceiling is still a 4.0. When it comes to graduate recommendation and study-abroad applications, teachers at other schools or admissions officers abroad will not care whether you took "Advanced Quantum Mechanics (all-English instruction)" or plain physics. They only look at numbers. (Your own school is an exception.) The 3.6 you ground out on hell difficulty loses, on the application market, to the breezy 3.8 of an ordinary class. It is a trade in which effort and reward are grossly mismatched.
+
+2. An involution battle royale
+
+Innovation classes, especially in hot majors, gather grind kings (卷王) from every corner of the country. In an ordinary class you might reach the upper-middle with little pressure; here you can only serve as a foil for the grind gods and honestly play the denominator.
+
+Last semester I chatted with a grinder who had transferred into a good class of a hot major. They told me the grinders there average 92+ in every course, snatch national scholarships at will, carry competition certificates thicker than a dictionary, and do not even spare volunteering and activities.
+
+"Even the sports-meet events in our class get fought over, because they add conduct points." They even grind places with near-zero marginal effect.
+
+So if you are not doing well in such a class, it is not that you are incapable -- you were placed in the wrong coordinate system.
+
+3. Research consumables reserve
+
+The department's goal is not to train you into an outstanding engineer or an industry leader; it is to lock you onto the "PhD-at-this-school" track as cheap research labor. Once you discover mid-way that research is not for you, you will find that your dragon-slaying skills are useless on the job market.
+
+Research, too, is a cruel competition where "the success of one general is built upon ten thousand withered bones." Even at the very top of your class, you cannot guarantee that you will be that "one general."
+
+They promise to train you into a scientist; in reality they are training you into a consumable on the research assembly line. The department does not care whether you live or die -- only whether papers and results come out. As for who happens to produce those results: if you won't do it, someone else will.
+
+4. No exit mechanism
+
+Many "innovation classes" run last-place elimination, but almost none offer a voluntary exit. Even if you are not at the bottom, trying to leave or transfer into an ordinary class means enormous administrative pressure and psychological shame. Those who quit are treated as failures; those who stay can only be denominators for the grind kings. So the students who were never happy to begin with sink deeper into depression under the double pressure. One road, blocked at both ends.
+
+### The Diminishing Marginal Returns of GPA Grinding
+
+GPA is cash, not an asset.
+
+As your GPA climbs higher, you will notice the cost-effectiveness of grinding it keeps dropping.
+
+The grind kings in hot majors at good schools all average 90+. Suppose your average is 80. The time and energy you spend holding your 80, versus what a 90+ grinder spends holding theirs, are not even in the same weight class.
+
+GPA's usefulness is limited to graduate recommendation and study abroad. But graduate recommendation looks at your GPA ranking, not the GPA itself, and for study abroad you can keep retaking courses to "farm" your GPA.
+
+Between score bands, things are simply different.
+
+* 60-80: this band is the "foundation zone." As long as you master the basic concepts and memorize the formulas, you won't fail, and with some luck you will even get a decent-looking score.
+* 80-90: this band is the "improvement zone." Here you need to nail the exam's key points and common traps, and the time invested slowly grows.
+* 90-100: this band is the "bubble zone." For one or two extra points you may have to memorize the entire book, or even psychoanalyze the question-setter.
+
+Going from 65 to 70 takes maybe 5 extra hours; going from 90 to 95 might not be enough even with 50. And once those 5 points get weighted into the GPA, the effect may show up as a mere 0.2.
+
+Crazier still: for those crumbs of points, people will not even spare the class-rep post of a fluff course -- another place with near-zero marginal effect. To keep others from getting that crumb, they would rather spend ten times the time and energy.
+
+That 0.2 might matter right at the graduate-recommendation cutoff, but in recommendation interviews and graduate-entrance re-examinations its payoff is 0. Teachers do not care what makes a 95 stronger than a 90; but at one glance they can tell whether you are someone who has "completed a real project" or someone who "only knows how to do problem sets."
+
+If someone treats the policy's scoring rubric as gospel, then they are the biggest victim of that very policy. And the reality is that in hot majors, everyone fights bloody battles in the "bubble zone" just to avoid falling behind -- even the "winners" of this system cannot escape becoming its victims.
+
+After all, exams are the game we know best: clear rules, comfortable and safe; you just keep playing the high-school way. Everyone crowding onto one single-log bridge -- of course it turns into a grind.
+
+The rational strategy is to "cut your losses": once you reach your target line, stop the extra investment and merely "hold steady" so you do not fall out of the safe zone.
+
+How to hold steady is what the rest of this document covers.
+
+### Is Attending Lectures the Same as Learning?
+
+Schooling and learning are two different concepts.
+
+Our learning path from childhood on has been "preview -- attend class -- take notes -- do homework -- take exams." Along this path we sit in the position of passive reception; nothing is actively constructed.
+
+From elementary school to middle school to high school, and then university, we have repeated this path over and over. For the first 18 years we had no choice. But now we have the internet, we have AI, and oceans of usable resources are waiting for us.
+
+Having read everything above, you probably already believe that university teachers have no intention of teaching seriously, and that we can absolutely choose to self-study.
+
+But for many people, so-called "self-study" merely means finding an online course and re-watching the lecture they failed to understand offline, online. They still have not left the passive-reception path.
+
+Why are we so attached to this illusion? Because it delivers a lethal hit of pleasure.
+
+Whether in class or watching an online course, your thoughts follow the teacher's logic. The derivations go smoothly, the worked examples seem doable, everything feels fine.
+
+In reality, you are only being "carried along." Those roads were walked once with the teacher leading you -- you never truly walked them yourself. You feel like you understood; that feeling is just the comfort of a brain massage.
+
+Ask yourself to restate what was just covered, or to solve one problem, and you will stall instantly. Because you never actually owned that logic.
+
+Input only, no output: it clicks during the lecture, it dies on the problem set. Using lectures to dodge output is nothing but a cowardly escape.
+
+Real "learning" is painful; it is full of chaos and uncertainty, like tearing muscle at the gym so it can regrow. Lectures are comfortable and full of certainty.
+
+Most people would rather read the book ten times than derive a formula once; would rather rewatch an online course five times than solve one problem independently.
+
+And this inertia -- "chase certainty," "avoid pain," "performative diligence" -- is precisely the trap the schooling system was carefully designed to spring on you.
+
+Schooling is a "finite game." The goal is out-grinding others or satisfying metrics. Everyone grinds, so you get swept into grinding too; it is kill-or-be-killed, the evaluation system is single, and the game ends the moment the results come out.
+
+Learning is an "infinite game." The goal is building cognition and solving problems, driven by curiosity and passion. The evaluation system is diverse and immediate, and the game's greatest purpose is to keep the game going.
+
+So "schooling" is merely a job we are forced to do, while "learning" is the cause worth investing in.
+
+Yet what we face is a zero-sum situation: school not only refuses to teach you anything useful, it also tries to occupy all of your time, so that you have none left for real learning.
+
+Just look at school: meaningless activities, performative group projects, dull team-building. All of them plunder your attention, keeping you running on fumes, unable to settle down and construct knowledge actively.
+
+So for the sake of learning, we must resist the school's existing model.
+
+### De-Studentization
+
+As the last stop before entering society, what university should be doing is "de-studentizing" you.
+
+The dean once shared an insight with me: the time undergraduates spend on coursework should decrease with each year of study, and the time freed up should go toward "things that can be written into a resume."
+
+Graduates I have interviewed told me that what you learn in university is less than a tenth of what jobs require -- and that is engineering majors who found jobs in their own field.
+
+HR sorts students into three tiers: those with hardcore project experience; those with strong all-around ability but high training costs; and those with nothing but GPA and student-leader titles.
+
+You graduate at 22. If the only new things you can put on a resume are course scores, then those 4 years were a blank page.
+
+So what can be written into a resume? How should the 4 years be divided?
+
+* Freshman year: everyone is a newbie at this point and cannot do much beyond coursework. Put 80% of your time into courses like Advanced Math (calculus) and College Physics, and grind those foundational scores as high as possible. Courses like calculus, physics, and probability theory carry a lot of credits; chewing them down builds a huge GPA cushion. A brutal truth: later major courses do not carry that many credits, so your freshman GPA ranking is almost your GPA ranking for the entire 4 years. So the first year deserves extra sweat on coursework, leaving room for error in the following 2 years.
+
+* Sophomore year: the time spent on coursework should drop below 60% of the required course hours you must sit exams for. After a year of feeling your way around campus, you have some knowledge base, some feel for how exams work, and some information channels. The focus now is "exploration." Contact advisors and join a research group, form a team for competitions, get into clubs, learn skills, or -- like me -- write a practical PDF document. In short, you must have output, achievements beyond coursework, even if the results themselves do not look pretty.
+
+* Junior year: this is the year to settle your direction. Employment, graduate-entrance exams, graduate recommendation, study abroad, even entrepreneurship -- every road is laid out in front of you, and once you choose, you go all in. For employment, boldly hunt internships; for entrance exams, burrow into the library and grind problems; for further study, attack competitions and publish papers; for entrepreneurship, run your project like crazy. Do not imagine you can bloom on multiple fronts -- most people struggle to walk even one road well. Courses at this stage are mostly whatever; maybe one of them carries high credits. If you are still, like a freshman, afraid to skip class for the full-attendance points or staying up late to make your homework excellent, then you are a "strategic giant baby."
+
+* Senior year: everyone scatters onto their own paths. Courses are almost gone; each person drifts farther along their own road, collecting the results that belong to them. Nothing more to say.
+
+A pretty GPA with nothing else shining looks perfect but is extremely fragile. When the people competing on the same stage as you all hold transcripts averaging 90+, how exactly are you going to stand out?
+
+Coursework is your "cash flow" -- keeping it above the safety line is enough. Projects and competitions are your "assets" -- they decide your future worth. As the years go up, you must frantically convert cash flow into assets, instead of hugging a pile of depreciating cash (GPA) and feeling smug about it.
+
+### Beyond Review
+
+In university, there is no relationship between learning well and testing well.
+
+Since schooling is just a job we cannot avoid, our mindset should shift: trade the shortest time and the least energy for the expected score.
+
+I did the math: this semester I spent about 45 hours on "schooling," while the required courses with exams totaled 162 class hours. On less than a third of that time, I still managed 80+ in every course and held first place in GPA.
+
+So everything below rests on one assumption: you do not plan to attend lectures and have decided to self-study the whole way through. You want to free up that 2/3 of your time for the things you actually want to do, no matter how heretical those things look in the eyes of the outside world.
+
+You do not need to learn everything the way you did in high school.
+
+University finals are nothing like high school exams. High school is selective testing; university is qualifying testing. University exams do not exist to filter geniuses but to verify qualified products. Our goal is not a perfect 100 but the best value for effort: 85+, or just passing.
+
+So from the very start, drop the high-school playbook of "grind through problem sets furiously." In university you have time, you have the power to choose, and you can freely reach the internet and AI. Using every tool you can reach to maximize efficiency is how this game is played. It is exactly this playbook that got me first place in major GPA even while cramming.
+
+Many courses were designed from the start to allow cramming.
+
+If you do not believe it, search Bilibili for a speedrun course of that class. The vast majority of public courses and a good share of major courses can be found. But have you ever wondered: teachers keep insisting you study steadily all semester, so why do these speedrun courses rack up several million views? Is it really just because most students do not study during the term?
+
+At minimum, such courses prove that learning an entire course in a few hours is entirely feasible.
+
+Maybe you resent teachers for "watering down" their lectures, hate the baffling homework, and only discover near the final that you have learned nothing. No need to panic: high school exams are a marathon, while university is interval running.
+
+High school requires steady accumulation all term long; university requires yanking your memory to its peak right before the exam.
+
+High school knowledge points are simple, but the question types vary endlessly and the tricks abound, which is what makes it "hard." University has many knowledge points but simple question types: what you study is what gets tested, there are few variations, and they generally do not take detours or set traps.
+
+For teachers, failing students also means trouble for themselves. So most teachers will give you as many points as they can, and even if their estimate of your score is off, do not worry too much -- your score usually lands higher than you expected.
+
+So in university, the core skill is not "how to learn well" but "how to test well."
+
+## One: The Day-to-Day Work
+
+Burying your head in books is diligence at the tactical level and laziness at the strategic level.
+
+You can observe the high-GPA people around you and sort them roughly into two types: those who grind hard from the first day of term all the way to finals, and those who are exceptionally good at taking exams.
+
+Which type do you choose?
+
+I am not saying burying your head in books is wrong -- only that we have a more efficient way. And I suspect that if you were truly the head-down grinder type, you probably would not have read this far.
+
+### "Skipping Class"
+
+There is no positive correlation between attendance and grades -- the correlation may even be negative.
+
+That teachers do not teach seriously is already a fact we all take for granted. But then, what are *you* doing in the classroom?
+
+Listening carefully? You will learn nothing. If you had digested the content above, this thought would not even occur to you.
+
+Scrolling your phone, slacking off? Look up and glance around: most of your classmates have their heads down, staring at that glowing screen. Watching Douyin, playing Honor of Kings, or doing something else. They are merely driven by the instinct of "don't want to listen," with zero concept of "why not listen."
+
+Body in prison, mind in exile.
+
+Doing your own thing? Sounds good -- but doing what? Homework? Your own online courses? The PPT for a group project? Or your own project?
+
+If you are certain that the knowledge density of the teacher's lecture is lower than the knowledge density of reading the material yourself, then skip without hesitation, or practice "invisible skipping": your body sits in the classroom while you do your own thing. Body checked in, soul offline.
+
+I personally support skipping class, and as class monitor I kept the cost of "legal skipping" -- taking leave -- remarkably low. Write yourself a leave note, give me a heads-up, no signatures needed, and the leave was granted.
+
+There are far, far more interesting things in this world than sitting in a lecture.
+
+As the saying goes: if you skip, don't fear; if you fear, don't skip. Skipping class is an art of risk management -- while your body escapes, minimize your loss of routine points as much as possible.
+
+Figure out the teacher's roll-call pattern, have your roommates answer for you, sign the sheet for you. When there is a policy from above, there is a countermeasure from below. If you want to skip, there is no class you cannot skip.
+
+Only show up when necessary, and even when you do show up, decisively do your own thing. The classroom is our "miscellaneous-tasks processing center."
+
+But what about in-class roll calls?
+
+If you choose physical skipping: treat your roommates to a meal in advance, give them a little benefit, state your request clearly, and ask them for the favor. A mouth that has eaten goes short, a hand that has taken goes soft.
+
+If you choose mental skipping: just saying "I don't know" will not hurt you. You feel mortified, but most people will forget your awkward moment right after class. If you are truly terrified, mentally check out during the roll call and use AI to generate an answer.
+
+Even if you do get marked at a roll call, that is merely the price of 90 minutes of freely disposable time. When a lecture's payoff is far below its opportunity cost, *not* skipping is the real waste.
+
+Skipping class is not a "bad student" label -- it is an investment, and losing routine points is merely the penalty clause of the deal.
+
+Let me also share a method for defeating Rain Classroom (雨课堂) random roll calls:
+
+Scan the QR code to check in as normal, but during roll-call windows, disconnect every one of your devices from the network -- on a computer you can log out of WeChat. The core is keeping WeChat offline, and then you will not get picked. This trick works great in big lectures with huge enrollment, especially the various politics courses.
+
+As for how to make up what you missed after skipping, that will be covered in detail later.
+
+### Impression-Score Management
+
+That most teachers will fish students up at the end does not mean being fished up is owed to you.
+
+If you were the teacher, facing a student you have zero impression of, who never does homework and whose exam is a disaster -- would you feel any urge to fish them up?
+
+Teachers are human too. It is perfectly natural for students they remember, or remember fondly, to receive more routine points and looser grading on the final.
+
+Even if routine points carry little weight, they can decide whether your final score is 59 or 60, whether your GPA is 3.7 or 4.0.
+
+Moreover, compared with grinding through final review, routine points are absurdly easy to earn. Do not look down on these points. Your score is added up point by point -- not deducted point by point.
+
+The detailed rules for routine points may leave little room to maneuver, but rules are dead and people are alive. Leaving a good impression on the teacher never hurts, and it can pay off when you least expect it.
+
+You do not have to listen in every lecture, but in the key sessions -- the first and the last -- visibly make your presence felt.
+
+"Class monitor" and "study commissioner" are two identities that make presence easy to show. Approach the teacher with this identity and they have no reason to turn you away; besides, many teachers can only put names to these two roles.
+
+If you hold neither role, no problem. Use AI in advance to prepare a question that could only come from someone who previewed the material, and ask it right after class. The teacher will think you are "eager to learn" and remember your face and name.
+
+That is fine -- we are asking the question for the sake of asking the question itself.
+
+If you missed that chance, there are still options. Whenever you do attend class, sit in the first row. Even if you are doing something else on your laptop, the teacher will default to "the ones in the front row are the good students."
+
+The emotional value that sitting in the front row delivers to a teacher far exceeds sleeping in the last row.
+
+In the second semester of my freshman year, I sat in the first row of every session of high-credit courses like calculus. Those teachers could all call me by name, and would even often call me up to the board to explain problems.
+
+### Learning Rhythm
+
+Why is a university lecture about 90 minutes (45 x 2)?
+
+Because it makes scheduling convenient for the academic affairs office, letting you trek to the teaching building only once or twice a week. That is all.
+
+The school timetable was never designed for better absorption by your brain -- it is merely a compromise with the teachers' free hours. Yet the human attention limit is around 40 minutes. Setting course length right at the limit is like setting off on a road trip with exactly enough gas and zero margin: the slightest detour strands you. If you could genuinely get through a lecture without slacking for a single minute, you probably would not be reading this.
+
+Factor in forgetting, too. When you show up the next Tuesday for Thursday's course, you have already forgotten the previous lecture completely. The teacher has to spend the first 15 minutes reviewing for you, then force-feed you new knowledge with whatever time remains.
+
+Repeat this for a dozen-odd weeks, each time rewriting data into a freshly "formatted" brain. The efficiency is abysmal.
+
+Likewise, different subject types suit different learning rhythms. Memorization-and-recitation content thrives on short, high-frequency stimulation, while mathematical-logical content needs one large block of time for deep immersion.
+
+The school makes no distinction between these two types of courses. It stuffs every course indiscriminately into the 45 x 2 timetable and then expects us to actually learn something.
+
+That alone is absurd enough.
+
+Attending class is a form of "brain massage": the teacher pretends to have explained clearly, the students pretend to have understood, and everyone feels comfortable.
+
+But without forced overload, there is no real consolidation. Everything beneficial is uncomfortable. Chewing through formulas, memorizing provisions, debugging code -- these tasks carry built-in discomfort. And it is exactly that discomfort which lights up new neural connections.
+
+For memorization-and-recitation subjects, such as the various politics courses, our operating logic is "small meals, many times."
+
+Invest about an hour a day, but not in one block: split it into 3 chunks of 20 minutes each, dedicated to reciting this content, repeatedly and frequently stimulating the relevant neurons.
+
+This is relatively relaxed, keeps you from being crushed by so-called "quota" pressure, and since you memorize while attention is at its sharpest, the brain absorbs the most and forgets the least.
+
+Reciting vocabulary once a week for 7 straight hours is self-deception: after the first hour your brain has already refused to write anything in. Reciting 45 minutes a day, split into three sittings, letting those neurons fire over and over -- that is the play that obeys biology.
+
+For highly procedural and structural knowledge, such as calculus, mechanics, and coding, we need the "immersive experience."
+
+Here, any fragmented interruption breaks our continuity -- even standing up for a bathroom trip can wipe out the line of thought you just had.
+
+If you are deriving a complicated mechanics formula, or configuring a machine-learning environment, do not interrupt yourself with the so-called "Pomodoro Technique." This kind of knowledge has an enormous cold-start cost, like bringing water to a boil: if you turn off the flame every few minutes, the water will never boil.
+
+In these moments, what you need is to go to the library, put down your phone, and give yourself an absolutely immersive 3-hour block to reach a flow state.
+
+If you happen to have a free afternoon and want to study something to make finals easier, you do not have to hammer away at one subject -- you can "interleave":
+
+First do about 90 minutes of high-intensity computation (for example, working through College Physics example problems), then rest 10 minutes. You can stand up and move around, use the bathroom, but absolutely no phone.
+
+The moment you open your phone, dopamine levels in your brain spike instantly and it becomes hard to return to a focused state. And by the time you put the phone down and get ready to continue, an hour has probably slipped by.
+
+For the next hour, review memorization-type content: recite some politics, do a couple of English reading passages. This activates the brain's "language" region while the "logic" region rests.
+
+After another 10-minute break, finish with organizing and output. By switching between different subject types, mental fatigue drops dramatically.
+
+### Information Channels
+
+The final exam is not only a contest of learning ability -- it is also a contest of information channels.
+
+What information exactly do you need?
+
+1. Textbook: all knowledge and all exam content originate in the textbook, but do not read it word by word. Treat the textbook as a "dictionary" -- look things up wherever you are unclear.
+2. PPT: the PPT is a condensed textbook, gathering every knowledge point that could possibly be tested. The teacher's PPT may be older than you are, but that does not stop you from reading it carefully.
+3. Notes and exam experience from seniors: if you know seniors with well-made notes, try hard to get their notes, and probe them about the exam's difficulty and review tips. When you ask, send a small red packet as thanks -- do not just say "thank you." Whether they accept is their business; you must show a "no freeloading" attitude.
+4. Past exam papers: the most important of all. The vast majority of university final exams do not change for 10 years, especially in STEM. There is a good chance the teacher takes a past problem and changes a few numbers, or swaps in a fresh scenario shell. Even if the question types shift somewhat, you will still know roughly which knowledge points get tested and at what difficulty. If conditions allow, prepare at least 3 sets.
+5. Key-points lecture: some teachers devote a whole lecture near the end of term to marking what matters. Even if you have not listened all term, seize this lecture. Listen with total concentration: what is emphasized, what will not be tested, what shows up as small questions, what shows up as big ones. Whatever is still unclear, chase the teacher after class and keep asking -- ideally until the teacher runs out of patience.
+
+With this information in hand, the preparation for review is basically complete. If you are missing some of it, no problem -- we still have AI. Space is limited, so I will not cover it here; how to use AI is a topic we may update later.
+
+None of this means attending lectures during the term is unimportant. If you are aiming for graduate recommendation or study abroad, or you do not want enormous pressure at finals, listening carefully during the term is still very necessary.
+
+Which courses deserve careful listening?
+
+* High-credit courses. As a rule, courses worth 3 or more credits are fairly hard: calculus, linear algebra, College Physics, and so on. The credit values for each course are listed in your college's training plan on its official website -- every major spells them out.
+* Courses whose speedrun videos have huge view counts. At the start of term, go online and look for speedrun courses to gauge their popularity, so you know where you stand. These courses are harder and likely need repeated listening to master.
+
+Although I choose the speedrun route, I still study certain key courses seriously. Serious study has another benefit: with a good impression, the teacher may give you more routine points. Everyone knows routine points can drag a 59 up to a 60 -- but what if they could drag an 89 up to a 90, too?
+
+The 90+ formula: careful study during the term + efficient cramming at the end + high-quality information channels.
+
+### Distributed Computing
+
+Those 90+ grind kings are your external computers.
+
+The zero-sum gaokao left us no room to cooperate -- we could only fight our way out alone. But in university, everyone has room to cooperate.
+
+Especially those students with upper-middle grades who listen attentively in class, keep detailed notes, and take homework seriously. They are the best resource channels.
+
+Outsiders might think they are grinders, but in reality, most excellent people only care about themselves. Their attention is on "making myself better," not "crushing so-and-so down the rankings."
+
+So at this point, if you volunteer yourself and tell them "I won't drag you down," or even "I have things I can trade with you," they will usually welcome you.
+
+Use your strengths -- an information edge, mastery of AI tools, or a treated meal -- to trade for their notes and homework. I said trade. Trade. A goddamn trade.
+
+Do not open with "hey bro/sis, can I take a look at your notes?" Nobody likes being freeloaded off. They may not refuse, but one-sided value extraction never lasts. Value exchange is the most stable model.
+
+Also do not complain in front of them about "this course is so hard" or "I understand nothing" (unless it is a script you designed). Nobody likes someone who spreads negativity without acting.
+
+Once you have the materials? Scan and copy the notes, copy the homework outright. Where you copy something you do not understand, have AI explain it. In university, copying homework is actually a way to raise efficiency.
+
+The top-ranked student in my major once let slip that he copies homework all the time too, especially in "recitation courses" -- it saves a lot of time.
+
+So where do the top students' "external computers" come from?
+
+Beyond individuals, study groups are also an efficient way to learn. Group projects finish slowly precisely because nobody steps up to lead the room, assign tasks, and push progress.
+
+So you have to be the one who organizes the whole thing. You have to push everyone.
+
+Three to 4 weeks before the exam, gather the upper-middle students, the average ones, and those who just want to pass. No need to invite the grind kings -- they almost certainly have their own review plan and will not want to be interrupted.
+
+Then, for the harder subjects -- analog electronics, theoretical mechanics, say -- each person studies 1 chapter, and 2 days later everyone reconvenes and teaches each other, answering whatever the others cannot. The act of explaining is itself learning.
+
+This way, each person learns 8 chapters in the time it takes to learn 1. An 8x efficiency lever, stronger than going it alone.
+
+That is distributed computing. Others handle front-end data collection; you handle back-end cramming.
+
+## Two: Subject Triage -- Know Your Opponent
+
+The school applies a one-size-fits-all cut to course hours, and then applies a one-size-fits-all cut to review methods, too.
+
+Whatever the major, whatever the subject, the review method we are fed is "read the book -- grind problems -- memorize answers." Calculus works that way, and so do the politics courses.
+
+The biggest problem with this model is how crude it is. It assumes every type of subject can be handled the same way, but reality is certainly nothing of the sort.
+
+Subjects differ in type. Some people can easily score 95+ in calculus but barely pass politics; others can effortlessly memorize codes and provisions but blue-screen the moment numbers appear.
+
+### Three Types of Subjects
+
+Different subject types call for different review methods. But before choosing a method, we need to classify the subject:
+
+1. Mathematical-logical
+   Mainly tests formulas, reasoning, and computation. Obvious markers: lots of computation on the paper, a single correct answer, and a high share of points for working steps. Typical examples: calculus, linear algebra, mechanics, circuits.
+
+2. Memorization-recitation
+   Mainly tests memory and understanding of key concepts, codes, and provisions. Obvious markers: term explanations, short answers, and essays on the paper; answers are open but with standard scoring points. Typical examples: politics courses, law.
+
+3. Hybrid
+   Shows the features of both types above at once. Obvious markers: term explanations, short-answer questions, and computation problems all appear on the same paper, and the same concept appears in different question types in different ways. Typical examples: economics, and most major courses.
+
+This step matters, especially for hybrid subjects: only when you have the type sorted out can you avoid reviewing like a headless fly.
+
+The subject is hybrid, but each question type is singular. It is rare for one problem to test both your memory of a concept and your computation at once.
+
+If you can get past papers, or the teacher has told you the question types, the first thing to do is judge each type's weight.
+
+Take one of my own major courses as an example: it was 60% memorization + 40% math-logic, and a few special chapters tested both concepts and computation. So I chose this rhythm: 3 hours in the morning attacking computation problems, and 30 minutes x 3 sittings after dinner memorizing concepts.
+
+### A Trap
+
+For hybrid subjects, one concept can very likely be tested in more than one way.
+
+The term explanation tests your memory of the concept; the short-answer question tests your grasp of where the concept applies; the computation problem tests how the concept slots into a formula.
+
+The same concept: you may be fluent at plugging it into formulas, yet when you see it in a short-answer question your mind goes blank.
+
+And the most awkward case is when you have covered most of the concept's tested angles, forgotten one -- and that one is exactly what shows up on the final.
+
+So for concepts in these subjects, do a fast pass before the exam: what is this concept, what does it look like inside a short-answer question, and what does it look like inside a computation problem.
+
+## Three: Concepts -- Lossless Compression of Knowledge
+
+### First Principles
+
+The mediocre student memorizes 100 question templates; the smart student masters 1 concept.
+
+High school pays little attention to concepts: a quick sketch, then straight into problems. That runs completely counter to the underlying logic of learning. Whether you are learning knowledge or a skill, concepts are always the deepest, most foundational layer. Everything built on top is organized around them.
+
+This is especially true in STEM. Every problem is an unfolding of basic concepts and laws under different boundary conditions.
+
+For STEM, as important as concepts are derivations. The logic chain a derivation displays shows where a formula comes from, and understanding that logic beats force-memorizing the formula.
+
+Within a derivation, understanding the logic chain matters more than the arithmetic. Calculation is a mechanical process; understanding requires deep thought.
+
+Most people learn concepts the "language-class way": brute-force memorization. STEM concepts should be learned the "parameter way": understand what every parameter means.
+
+Take Taylor's formula: failing to compute each coefficient is not a big deal. The key is understanding that the formula approximates a function using addition and multiplication, that the approximation proceeds by repeatedly differentiating, and how the remainder term is pinned down.
+
+To test your understanding of concepts and formulas, test your grasp of a concept the way you would test code:
+
+1. **Zero/infinity test**: what happens if some parameter goes to zero / tends to infinity?
+2. **Reverse test**: if you flip cause and effect, does the theorem still hold?
+3. **Extreme test**: under what conditions does this formula **absolutely not apply**?
+
+If you cannot answer these questions, ask AI directly to help you understand.
+
+For subjects leaning toward memorization and recitation, we can memorize and understand like this:
+
+1. **Dimensionality reduction of the text**: take a definition or an argument, delete every adjective and modifier, and keep only the 3-5 scoring keywords.
+2. **Plain-language substitution**: imagine you must explain this concept clearly to a kindergartner, and explain the keywords and terms using everyday words you know well.
+
+Back to review. At the start you can go through the book against its table of contents, or have AI summarize you a list of concepts (which is not the same as a list of knowledge points). First make sure your understanding is sound, then memorize as much as you can.
+
+If you have ample time, this step should take the lion's share. Only with the foundation laid can the skyscraper slowly rise.
+
+## Three: Internalization -- Reverse-Engineering the Exam Paper
+
+### Reverse Engineering
+
+If doing homework is only about producing the right answer, why not just hand it to a homework-search app and AI?
+
+The traditional problem-grinding path is "read the problem -- solve it -- check the answer -- correct it." While solving problems is a decent way to check your mastery, in university, learning well and testing well have nothing to do with each other.
+
+Stopping at merely completing the assignment has no effect beyond building familiarity -- it is linear, inefficient diligence. However complicated the problem, it remains a mechanical process.
+
+If you have read this far, you surely no longer want the traditional "sea of problems" tactic -- you want to internalize and master efficiently.
+
+So what we must do is work backward from the answer to the question-setter's intent.
+
+### The Answer-Backtracking Method
+
+1. Problem selection
+
+Internalization starts from worked examples and homework.
+
+From a review standpoint, worked examples and homework are of moderate difficulty and test only simple applications of knowledge points, so they will not slap you with extreme difficulty right away.
+
+The worked examples on the PPT and the homework deserve serious attention. Teachers are busy with research and have no time to write exam papers; many final-exam questions are most likely worked examples or exercises with changed numbers, sometimes outright copies of problems from the textbook -- and past final questions may well be hiding in there too.
+
+2. Read the answer first
+
+Do not solve it yourself first -- read the answer first. Look at three things: the answer's structure, the scoring points, and the discipline's terminology. First locate what you do not understand, then work backward from the final result. Where did this number come from? From the data of the previous step. Why did that step use this formula? Because the problem gave that condition.
+
+Backtrack step by step until you arrive at the problem's original conditions, and then at the knowledge point being tested. You will discover that the problem is just a clumsy bundling of conditions, and which knowledge point each problem tests becomes visible at a glance.
+
+3. Independent replay
+
+Being able to follow the answer does not mean you can solve the problem. Cover the answer and independently write out the problem's logic chain once. Skip the actual arithmetic if you like -- grasping the core logic is what matters. Wherever you get stuck, that sticking point is your review priority.
+
+Repeat this process until you have eliminated every sticking point.
+
+4. One problem, three passes
+
+Do not do 3 problems -- do 1 problem 3 times.
+
+First pass: read the answer and make the logic click. Second pass: solve it independently, producing the output yourself, to check whether you truly understand. Third pass: mutate the problem. Ask yourself: if this condition were removed, could the problem still be solved? If it asked for B instead of A, would the solution change? The moment you can produce variants of a problem, you are riding the question-setter.
+
+## Four: Precise Output -- Strike Where You Aim
+
+### Extreme Score Orientation
+
+Only extreme score orientation produces extreme output efficiency.
+
+This step is where those prepared past papers come in. Go to the library, set a timer, put down your phone, no music, no mid-exam bathroom trips -- simulate the real exam scene as faithfully as possible, and when you finish, grade yourself as strictly as you can. Be honest with yourself.
+
+Your first paper will usually go poorly. That is fine -- the first paper's main job is to expose the holes in your review. You can even be brutal about it: leave blank anything you are unsure of.
+
+While grading, record your sticking points and common errors. Ask AI about anything you do not understand -- AI is highly intelligent and on call around the clock. AI does hallucinate now and then, but that should not stop you from using it boldly. Squeeze this paper dry by every means available; do not touch a new paper until this one is fully digested.
+
+A few days later, find time for the second paper. Follow the same procedure, simulate the exam environment again, and check whether the earlier problems got fixed and whether new ones appeared. If a mistake you made before shows up again, go back to where you first made it and redo that one problem. Repeatedly digesting one problem beats skimming over 100 problems like a dragonfly on water.
+
+The third paper is best taken 3 days before the exam. By now your review is mostly done, and this run deepens impressions and keeps your touch sharp while catching any last holes.
+
+By this stage you should have a sheet of paper summarizing question-type approaches, common errors, and other pitfalls.
+
+### The Cheat-Sheet Mindset
+
+Disclaimer: the following is a review technique, not an incitement to cheat on exams.
+
+If the teacher suddenly allowed you one A4 sheet of notes, what would you write on it?
+
+Basic concepts? Formulas? Key and difficult points? Or problem-solving patterns?
+
+Whatever you write, to shrink the content as far as possible you must compress ruthlessly, distill formulas, and summarize patterns. The process itself forces you to produce output.
+
+If it were me, I would also consult the A4 sheet produced by the past-paper work above and write in every pit I have personally fallen into, giving myself early warning for the mistakes I am likely to make.
+
+Once these things are written down, your brain remembers them automatically, and you will not even need to bring the sheet into the exam. So it is best done the night before the exam -- write it, then go straight to sleep to consolidate the memory.
+
+The most advanced form of cheating is photocopying the textbook into your own head.
+
+### The Grading Algorithm
+
+Teachers hate grading papers. They have no time to admire your prose; their eyes sweep like scanners, hunting for scoring points. But they will also stretch as far as they can from the standard answer to keep you from failing -- a failing student means trouble for both sides.
+
+Your answers are written for a "manual keyword-retrieval algorithm."
+
+Treat answering like writing code, and match that algorithm:
+
+1. Never leave blanks. The vast majority of teachers will give you whatever points they can. Whether or not you know the answer, first translate the problem's conditions into mathematical notation -- for example, "at rest" can be written as v=0. Just writing these down often freeloads 1-2 points. If you write nothing at all, the teacher cannot give you points even if they want to.
+2. Answer point by point. This goes for both the humanities and STEM. Lay out your answer line by line, and explain as clearly as possible. It makes grading easier for the teacher, too.
+3. Formula first. Before any actual computation, write the original formula. This shows the teacher that you did not guess your way through -- you know a clear logic chain. As long as the formula is right, you collect most of the points even if every bit of computation is wrong. If you bury the formula inside the calculation, the teacher cannot see your reasoning, and all you can do is pray.
+
+## Five: Exam-Room Control Engineering
+
+### The Minus-20 Law
+
+Energy always loses something in transmission -- and so do points.
+
+Review is the "input-side power," while the exam is the "output-side power." In between lies a chain of losses: walking out of the dorm, arriving at the exam hall, meeting unfamiliar problems, sweaty palms, a fogged-up brain, a mistyped calculator key. That loss is about 20 points.
+
+Review aiming at 100, and you usually land in the low 80s; aim at 80, and you usually land in the low 60s, scraping past the line; aim at 60, and you usually land in the low 40s -- start waiting for the make-up exam and retake.
+
+If you want to pass, you absolutely cannot fixate only on the "just let me pass" content -- you must leave a safety margin for those 20 points of loss.
+
+In the 5 minutes before the exam, your brain is still foggy. Do not rush into the problems. After writing your name and student ID, skim the whole paper to get familiar with the questions, and while your memory is still fresh, write the formulas down on scratch paper immediately, right now.
+
+### The Exam Procedure
+
+Maybe you are this kind of person: well prepared during review, but the moment you enter the exam hall your palms sweat and your heart races; the instant the paper lands, your mind goes blank; you scribble through the paper in a panic, and can only regret it at the moment you hand it in.
+
+I am not a completely nerves-of-steel player either. If you have met me offline, you know I get very nervous giving speeches. But for exams I have distilled a procedure for your reference:
+
+1. Change your bed sheets and duvet cover 3 days before the exam. If it has been over a month, change them once so you sleep more comfortably. Sleep underwrites all your energy. Do not fantasize about sacrificing sleep for review -- unless you have only 3 days to cram.
+2. The night before, read carefully through that sheet covered in solution approaches, common errors, and pitfalls, and anticipate what could plausibly go wrong the next day. Write them down so your mind has expectations. Fear comes from the unknown. If you have already thought through many scenarios in advance, they will not rattle you as much when they actually happen.
+3. Prepare some tissues. Students with severe sweaty hands should pay extra attention here. Clothing alone cannot dry hand sweat; keep some paper to wipe with or lay under the exam paper, and you will feel much more at ease.
+4. No reading in the last 30 minutes. If you have honestly completed every step above, there is no need -- more reading only breeds panic. Sit with your eyes closed and meditate, settle yourself, and cut the mental noise.
+5. Skip any problem you have no idea about within 2 minutes. Even though university finals have relatively uniform question types, that does not mean zero variation, and you cannot predict whether the next problem will click for you. Grinding away at one problem only makes you more rattled; secure the points you can get first, and do not lose the big for the small.
+6. Keep your scratch paper neat too. If you finish early and want to check your work, or you worry about mistakes, reviewing the scratch paper is a highly effective way to catch latent arithmetic errors.
+7. No post-exam discussion. The moment the paper is handed in, nothing about it can change; discussing it is not only pointless, it wrecks your mindset. What if you check answers afterward and find you missed a bunch? Give up on yourself? Console yourself? Finals do not finish in one day. Do not let one subject's slip-up poison the rest.
+
+## Six: The Ultimate Weapon -- Agent-Based Interactive Learning
+
+Absorb everything above and you can triple your efficiency. The approach that follows raises it by an order of magnitude and completely flattens traditional review.
+
+"The first 18 weeks tell you I'm in college; the last 2 weeks tell you why I got into college" will no longer be a joke about final-week cramming -- it will simply be the way things are.
+
+In the AI era, refusing to use AI is squandering a treasure. Yet most people's AI usage stops at the web chat window: searching for answers to problems, or asking it to explain some concept.
+
+And what they tell the AI is just empty talk like "explain concept XX to me," so what they get back is naturally encyclopedic, hollow, dreary preaching.
+
+Any web-based AI carries two limitations: 1, it can only solve problems one at a time, never a whole class of problems at once. 2, a large model's context capacity is limited -- once the conversation runs too long or too many files pile up, it gets dumber.
+
+So as this kind of interaction goes on, the results keep degrading and the AI's output grows more and more "moronic" -- missing key concepts, botching calculations, with these amateur errors appearing again and again.
+
+Our approach is to use an agent: first hand it a set of operating instructions, then have it read local files and generate markdown documents, turning the conversation into nodes that double as prompts for the next round. It also stops blindly pulling in random files and memories that produce bizarre answers.
+
+As for what teachers say -- "even with AI, the real thinking you must do yourself" -- treat such correct platitudes as a bit of entertainment. They almost certainly cannot use AI properly themselves.
+
+### 1. Identity Definition
+
+AI should not be "a smarter Baidu" -- it should be "a senior collaborator."
+
+AI is a probabilistic prediction model. It has swallowed the corpus of the entire internet, yet it has no idea whether you listened carefully in class today, and no idea of your course teacher's question-setting habits.
+
+Without being told these things, it can only output the "least likely to be wrong" average -- and the average means mediocrity and patronizing preaching.
+
+First tell the AI "who you are." Once its identity is defined, it can give answers that hit the vital point instead of useless, bloated platitudes.
+
+And in the first conversation, you must tell it not only who it is, but also "who I am": for example, I have only 3 days to prepare for this exam, and I know nothing about XX.
+
+Even a ridiculous identity like "I am a PhD student of subpar intelligence" beats saying nothing.
+
+Never let the AI decide which face to show you. If you do not define it, it will fob you off with maximum mediocrity.
+
+### 2. Context Hegemony
+
+Even after telling the AI "who you are" and "who I am," its output may still miss the point and fail to solve your actual final-exam questions.
+
+AI holds all the knowledge in the world, but it lacks exactly one thing: the context of this very moment. It does not know your textbook edition, the difficulty of your lectures, or your teacher's question-setting style.
+
+Garbage in, garbage out -- in AI interaction this is absolute truth.
+
+It is like a PhD student fluent in every subject who knows nothing about your situation; you have to feed it your background. So never open with "summarize the key points of calculus for me." Instead, throw in everything: the textbook you used, the homework you wrote, the past papers you worked.
+
+You can use the following directory structure as a reference:
+
+```text
+course-root/
+  reference/
+    textbook/
+    ppt/
+    photos/
+    homework/
+    past-papers/
+    answer-keys/
+    senior-notes/
+  progress/
+```
+
+With these materials, the AI has context. It can study for the knowledge points and the exam you actually face, and its answers drift off-target far less often.
+
+Tell it "I want to review chapter 4," and the AI will not hand you content that looks important but is never tested -- it will genuinely summarize the testable points from your files.
+
+Putting reference materials in folders has one more benefit: the AI is not influenced by its "memory" feature, will not cross-contaminate subjects, and will not recall bizarre things where memory has no business being involved.
+
+Add the prompts from above, and the AI knows not only "who I am" but also "who you are." Knowing both sides, its answers strike the vital point far more reliably.
+
+### 3. You Are the Master of the AI
+
+A week before the gaokao, I was walking along the river when I stumbled on a tarot stall. I had a reading done; most details have faded, but one sentence I remember vividly:
+
+"You must seize the initiative and never let go, just like the Queen gripping her scepter."
+
+AI can summarize for us, break things down for us, generate practice questions for us -- but the decision-making power over learning must stay in our hands. Hand everything over to the AI and you may well be led straight into a pit.
+
+The driving can be delegated, but where the car is headed must be decided by us.
+
+When we normally use AI to help solve problems, we probably end with vague phrases like "what do you think?" or "help me break this down." The AI then outputs mountains of steps -- maybe correct, maybe diverging from the reference answer -- but one thing is always certain: nothing stands out, and you have no idea where to start.
+
+Same line as before: garbage in, garbage out. The input was an unclear instruction, so for "safety" the AI's output naturally avoids emphasizing anything. It is afraid its "key points" are not your actual test points -- exactly like how, in class, you are afraid of answering wrong when suddenly called on.
+
+Command the AI with clear, forceful instructions, such as "which 3 terms must appear in this short answer?" or "explain this theorem to me in words a high schooler could understand."
+
+Then the AI stops fearing a wrong output and, following your requirements, dares to output boldly.
+
+Never forget: you are the driver of this game called learning; AI is merely your navigator and your engine. Do not let the tool turn master and make strategic plans on your behalf.
+
+### 4. Agent Setup
+
+First, download an agent tool -- Claude Code, Codex, Trae, or WorkBuddy, whatever. Anything that can read local files and install skills will do.
+
+Then open PowerShell on your computer, confirm Node.js is installed, and enter the following command:
+
+`npx -y skills add Wh1te358/skills-by-Wh1te -g --all`
+
+With that, the skill is installed. Organize your materials in the format above and use it as follows:
+
+1. Survival outline. You input the subject type, target score, time remaining, quality of materials, and exam question types. The Agent judges whether the target is realistic, generates a survival outline, ranks chapters by priority, lists the must-test concepts and formulas, and builds you an initial review plan.
+
+2. Concept compression. For mathematical-logical content it uses parameter tests, deepening your grasp of concepts by varying parameters. For memorization content it uses keywords, keeping only keywords to guarantee you hit the scoring points.
+
+3. Reverse breakdown of past papers. It does not start from "explaining knowledge points" but works backward from answers and scoring points: which formula written first earns the step points, which problem trigger word maps to which operation, which step is most likely to stall you, and the minimum you should write when you are completely lost.
+
+4. Knowledge graph. STEM exams love testing the connections between knowledge points. The skill outputs: 知识节点表.md (knowledge node table), 知识连接图.md (knowledge connection graph), and 综合题型地图.md (comprehensive question-type map).
+
+5. A4 cheat sheet. This step is not for cheating -- it forces you to compress high-frequency knowledge points, essential formulas, common errors, and scoring points.
+
+I developed this skill myself and have open-sourced it on GitHub, at the following link:
+
+https://github.com/Wh1te358/skills-by-Wh1te/tree/codex/exam-hacker-skill/exam-hacker
+
+If there is any feature you would like this skill to have, leave a comment in the issues -- I take every suggestion seriously.
+
+## Seven: If You Only Have Three Days
+
+### You Only Have 24 Hours
+
+You do not have 3 days. You have 24 hours.
+
+But the good news is you do not need to learn the whole book -- only the whole exam paper.
+
+The final is imminent and you have not even started "previewing." You have not read *Self-Directed Learning: Science and Technology* (《自学科学与技术》) either, so you decide to use the dumb method and push yourself: 8 hours of study a day. Bilibili speedrun courses mostly run 3-5 hours, so we take the midpoint of 4 hours. Suppose some parts still do not stick on the first pass, so you listen again and sketch out a rough outline against the book. Day one's 8 hours are gone.
+
+Day two: you dig up past papers, or have AI generate a set. First attempt, 2 hours of simulation, and the result is unspeakable -- you start doubting whether you can even pass.
+
+To avoid failing, you decide to squeeze dry whatever is easiest to score. The simple fill-in-the-blanks and multiple-choice get chewed down one by one; the big problems at the front fall step by step; the hard stuff at the back is strategically abandoned. 4 hours used. And for insurance, you even memorize the answer format for big problems, so that even if your mind goes blank in the hall you can still harvest some step points. Another 2 hours.
+
+Day three: despite all the preparation, you are still panicked, convinced it is truly too late. But you still have 8 hours today -- you can still rescue this. At the very end, you go over the outlines and papers from the previous two days again and again, still feel uneasy, so you copy out a full set of answers by hand to find your touch. The morning's 4 hours are earnestly spent. But this review does not calm you -- it only makes you more panicked -- so you simply spend the afternoon's 4 hours gaming, and glance one last time at your prepared material before bed.
+
+For passing, this is completely enough. Completely, completely, completely enough.
+
+All right. The accounting is done. Now for the hands-on part.
+
+### Just-In-Time
+
+First, the mindset: with only 3 days left, do not hope for a high score. Unless the teacher is kind enough to fish you up hard, be mentally prepared to scrape by with a 60-something. For those 90+ grind kings, a course in the 60s might be a devastating blow -- which is exactly why I hope such students skip this section.
+
+Counting 6 chapters per course, 24 hours works out to about 4 hours per chapter. Within those 4 hours, even trying to "understand" one difficult concept is a waste of time. In the 3-day cramming mode, understanding is a luxury; memory is the necessity.
+
+Three days before the exam, "seeking deep understanding" is the fastest road to failing. Be an emotionless problem-solving machine. You may forget all this knowledge the moment the exam ends -- but that is a post-exam matter.
+
+Our principle: do not learn what will not be tested; brute-force memorize what is hard to understand; abandon what carries few points.
+
+First prepare the textbook and the PPT -- but do not read either front to back. They are for the table of contents and for lookup. Spend 3 hours rapidly producing a knowledge outline against the textbook and PPT.
+
+Then pull out the past papers and mark every point that has ever been tested onto that outline. The denser the marks, the more important the review; everywhere left blank, strategically abandon.
+
+If you want AI to do the summarizing, put the textbook or PPT into the folder and tell it: "I have only 2 hours to review this chapter. Skip all background knowledge and derivations and tell me directly: 1. What are the 3 formulas that are guaranteed to be tested here? 2. When facing this question type, what is usually the first step of the standard solution?"
+
+Whatever you do not understand, memorize outright. Drop the "why" and keep only the "what." See "find the limit," and L'Hôpital's rule launches immediately; see "extremum," and your reflex fires: set the derivative equal to zero.
+
+Cut the same question type from the last 3 years of papers and paste them together; read 10 in a row. You will find they all look identical -- only the numbers changed.
+
+Memorize the shape of the solution steps, and do not ask why. In the exam hall, even if you cannot finish it, writing down the overall steps collects most of the points.
+
+Decisively abandon that hardest 20% of finale problems, and spend the time on the 80% of basic ones. Better a full score on easy problems than zero on the hard ones.
+
+## Eight: The Very Last
+
+"Once you get into university, it gets easy." We all heard that line growing up, more or less. The truth is that even in university, the moment you want to take it easy, the atmosphere around you sweeps you up and you have no choice but to grind.
+
+The better the school and the better the major, the fiercer the grinding and the more extreme the grade inflation.
+
+A while ago I chatted with a high school classmate in Electronic Information at Nanjing University. They vented to me that the average-score cutoff for graduate recommendation had reached 91 -- and two years ago, that number was 83.
+
+They sat right at the edge of missing recommendation, worrying about their prospects at every moment, even toying with taking the entrance exam to cross over to Southeast University next door.
+
+Teachers, parents, and society expect us to be "outstanding," yet nobody has ever asked us what we ourselves want.
+
+Before the gaokao, we were trained into excellent answerers. After the gaokao, we are forced to become question-setters. And the 4 years of university are exactly the transition from answerer to question-setter.
+
+We stop waiting for others to hand us exam papers; we start finding problems ourselves, defining problems ourselves, iterating and trial-and-erroring ourselves.
+
+So the purpose of this document is to "steal" time away from coursework for you -- time to practice setting questions. If you graduate from university with nothing but a slightly larger pile of useless knowledge than you had in high school, that is the saddest ending of all.
+
+Here, everything I wanted to say has been said. I hope this document gives you something to take away, and inspires you to look at final exams -- and at university as a whole -- in a new light. For any comments or suggestions, you can give feedback through the survey linked at the end of the document or through this project's [GitHub Issue](https://github.com/Kozmosa/survive-in-scut/issues).
+
+I am walking the university road together with you -- you are not alone.
+
+And finally, at the very last: may you pass your finals smoothly and get the score you want. And with the time you steal back, go walk a legendary road that belongs to you alone.
+
+## Acknowledgments
+
+Thanks to Teacher Hu Nan (胡楠), Associate Dean of the School of Civil Engineering and Transportation at South China University of Technology (SCUT). The occasion for this book was Teacher Hu reaching out to me to pass review techniques for College Physics on to younger students. So I simply wrote the whole methodology into a PDF document, and iterated it step by step into what it is today.
+
+Thanks to South China University of Technology for sparing my life. Even when freshman me was arrogant enough to mouth off at heaven and earth alike, the school chose tolerance.
+
+Thanks to Gemini and ChatGPT for their tireless support of my writing. I suddenly feel rather lucky to have been born in this era. Without AI, the progress of this e-book would certainly have slowed to a crawl.
+
+(A blank is reserved here to thank my future partner. The day I find them, I will fill it in.)
+
+## Reader Feedback
+
+Scan the QR code below to fill in the reader feedback questionnaire for *Self-Directed Learning: Science and Technology*.
+
+![QR code for the Self-Directed Learning: Science and Technology reader feedback questionnaire](./self_study_science_technology_assets/reader_feedback_questionnaire.png)
+
+---
+
+---
 url: /en/learn/curricular/transfer_major_electrical_2026.md
 description: >-
   Experience sharing on transferring to SCUT's School of Electric Power
@@ -8137,7 +9379,7 @@ I have a strong interest in the power field. My math/physics foundation is solid
 
 **Q: Did you consider Electrical Engineering during Gaokao?**
 
-When filling out Gaokao志愿, I listed Electrical Engineering as a key意向 program, but wasn't admitted due to志愿 gradient and score ranking. After entering my current program, I've always followed the Electrical Engineering field. Competitions have further strengthened my determination to study it.
+When filling out Gaokao preferences, I listed Electrical Engineering as a key intended program, but wasn't admitted due to the preference gradient and score ranking. After entering my current program, I've always followed the Electrical Engineering field. Competitions have further strengthened my determination to study it.
 
 **Q: What's your study plan after transferring?**
 
@@ -8157,7 +9399,7 @@ I'll accept it gracefully, continue maintaining good grades in my current major,
 
 (Recommended to use the STAR framework.)
 
-Poor initial planning left me behind schedule. After National Day, I started an intensive突击. The hardest parts were triple integrals and curve/surface integrals. I devoted myself fully every day, discussed with classmates, and broke down the难点. Eventually I earned the provincial second prize. This experience trained my self-discipline and resilience.
+Poor initial planning left me behind schedule. After National Day, I started intensive cramming. The hardest parts were triple integrals and curve/surface integrals. I devoted myself fully every day, discussed with classmates, and broke down the difficulties. Eventually I earned the provincial second prize. This experience trained my self-discipline and resilience.
 
 **Q: What difficulties did you encounter in mathematical modeling?**
 
@@ -8173,9 +9415,9 @@ The math competition developed my self-study ability, time planning, and perseve
 
 The paper writer's core job isn't translation -- it's logic and technical content. I was responsible for drafting in Chinese, creating charts, and formatting. After machine translation, I proofread terminology sentence by sentence, and teammates reviewed together. I controlled the core content throughout.
 
-**Q: Your CET-4 score isn't high. Can you keep up with English文献?**
+**Q: Your CET-4 score isn't high. Can you keep up with English literature?**
 
-I'm preparing intensively for CET-6 and have completed two rounds of memorization for over 3,000 core vocabulary words. Simultaneously, I'm accumulating Electrical Engineering English terminology, starting with classic review papers for intensive reading. Exam scores aren't the终点 -- I have the执行力 to build solid academic English.
+I'm preparing intensively for CET-6 and have completed two rounds of memorization for over 3,000 core vocabulary words. Simultaneously, I'm accumulating Electrical Engineering English terminology, starting with classic review papers for intensive reading. Exam scores aren't the end goal -- I have the execution to build solid academic English.
 
 **Q: What is your biggest weakness?**
 
@@ -8189,7 +9431,7 @@ Carbon peak by 2030, carbon neutrality by 2060. The core is energy transition, a
 
 **Q: What bottleneck technologies does new energy grid integration currently face?**
 
-Three categories: high-end power chips rely on imports; specialized simulation software is dominated by foreign companies; critical sensors and insulation materials lack sufficient domestic production. It's precisely because of these短板 that the country urgently needs Electrical Engineering professionals.
+Three categories: high-end power chips rely on imports; specialized simulation software is dominated by foreign companies; critical sensors and insulation materials lack sufficient domestic production. It's precisely because of these weaknesses that the country urgently needs Electrical Engineering professionals.
 
 **Q: Besides joining the grid, what other career paths does Electrical Engineering offer?**
 
@@ -8197,11 +9439,11 @@ Power generation groups, power design institutes; new energy and energy storage 
 
 **Q: What are the future development trends for the Electrical Engineering industry?**
 
-Three major trends: green and low-carbon (wind/solar + new power systems); intelligent digitalization (smart grid upgrades); and自主可控 (overcoming bottleneck technologies, domesticating core equipment).
+Three major trends: green and low-carbon (wind/solar + new power systems); intelligent digitalization (smart grid upgrades); and independent and controllable (自主可控) development (overcoming bottleneck technologies, domesticating core equipment).
 
 **Q: What do you think about new energy storage?**
 
-The core role of new energy storage is to solve the intermittency problem of renewable energy -- store excess electricity when available, release it when needed, turning unstable renewables into stable, usable power. The National Energy Administration has clearly indicated new energy storage is a "必须品" component for building new power systems.
+The core role of new energy storage is to solve the intermittency problem of renewable energy -- store excess electricity when available, release it when needed, turning unstable renewables into stable, usable power. The National Energy Administration has clearly indicated new energy storage is a "necessity" component for building new power systems.
 
 ### 4.6 Other Frequent Questions
 
@@ -8223,6 +9465,205 @@ Yes, independently. I found a clean, suitable template online and tailored it to
 * [Quick Guide to Major Transfer at SCUT](/en/learn/curricular/transfer_major_quick)
 
 ## VI. Appendix: Interview PPT Preview
+
+---
+
+---
+url: /en/learn/curricular/transfer_major_information_engineering_fish_2026.md
+description: >-
+  Experience sharing on transferring to SCUT's School of Electronic and
+  Information Engineering (Information Engineering), including written exam
+  content, interview criteria, and preparation advice
+---
+
+# Transferring to Information Engineering - Experience Sharing
+
+(School of Electronic and Information Engineering transfer group number: 1037507331)
+
+I. Choice
+
+Since you have clicked into this article, I will get straight to the point:
+
+If you feel you can accept your current major, then you can reasonably take a shot at the popular engineering majors with fierce competition (Computer Science, Software, Information Engineering, Automation, Electrical, plus Mechanical and Automotive). These popular engineering majors generally have very high application-to-admission ratios, intense competition, and an even higher risk of failure.
+
+If you cannot accept your current major and its situation is truly terrible, then you should weigh your own circumstances carefully when deciding. Although the popular engineering majors do offer better prospects, their failure rates are genuinely higher. You can look at other engineering majors (Energy and Power, Materials, etc.) — first make sure you can get out at all. If you fail to get out in your first year, the pressure will be much greater whether you go for a grade-down transfer (降转) in your second year or sit the postgraduate entrance exam in a different field.
+
+Of course, as for how to weigh risk against reward, you can judge based on your own situation.
+
+Overview:
+
+The transfer acceptance situation of the School of Electronic and Information Engineering is as follows:
+
+Other reminders:
+
+For the 2025 cycle, the Sino-French class (中法班) was not offered because there were not enough applicants, but the 2026 cycle still has an admission plan for the Sino-French class. For details, ask in the School of Electronic and Information Engineering transfer group.
+
+III. Process
+
+The general process is as follows:
+
+Other reminders:
+
+The number of applicants can be seen on the major transfer application page (only before applications close — after that it is no longer visible; if someone in the transfer group has tallied the numbers, you can check it in the group).
+
+IV. Specific Preparation
+
+Transferring into Information Engineering consists of a written exam and an interview:
+
+The written exam (around May 7 in the spring semester of freshman year) — requirements are shown in the image below.
+
+How to divide up the preparation work:
+
+In the first semester of freshman year, the main preparation is to raise your Advanced Math, Linear Algebra, and overall GPA as much as possible.
+
+Over the freshman-year winter break, you can do some light practice to keep your feel for Advanced Math and Linear Algebra.
+
+In the spring semester, the main focus should be studying Advanced Math II and University Physics seriously (do not completely drop your other major courses like Probability Theory either, or you will suffer at finals). Around mid-April you can start grinding practice problems (University Physics, Linear Algebra, Advanced Math).
+
+Usually the teachers can finish covering the courses within the transfer exam scope before the written exam, but the time left for review and problem grinding may not be enough, so it is still advisable to preview ahead of time and leave yourself enough time.
+
+Notes on exam content:
+
+In the 2025 written exam, the Advanced Math and University Physics questions were fairly standard — practicing past papers is enough.
+
+But Linear Algebra was tested very hard, every bit as difficult as the final exam if not more. The big questions had none of the usual formulaic positive-definite-matrix problems; instead there was one capstone proof question. It is hard to give a review strategy for that — just go over the material as usual.
+
+Other reminders:
+
+Calculators are allowed in the Information Engineering written exam. It is recommended to just buy a Casio calculator — you will need it for the University Physics final anyway. (Some Linear Algebra and University Physics problems may require a calculator.)
+
+Interview (about a week after the written exam):
+
+Requirements are shown in the image below:
+
+How to divide up the preparation work:
+
+After the written exam you have less than a week to prepare for the interview. For the self-introduction part, you can talk about your study methods, the SRP (Student Research Program) project you participated in, and so on — just write it according to your own situation. (You can mention your CET-4 score and your Gaokao score and provincial ranking; they seemed to ask about those quite a lot.)
+
+The teachers ask questions based on your self-introduction — in my case they asked about my SRP project and some of my hobbies. The interview is mostly about your ability to think on your feet, so just relax and answer naturally.
+
+Other reminders:
+
+On interview day you need to go to the Wushan Campus. You can take the metro, the campus bus, or a taxi — as shown in the image:
+
+V. Conclusion
+
+Having read this article, whether you have decided on a different major based on your own situation or have solidified your goal of transferring into the School of Electronic and Information Engineering, I sincerely wish you success. Everyone who transfers majors may have their own unspoken reasons, and this summer may not have been so beautiful. But you still finished reading this article — I hope it can put a perfect full stop at the end of the story. So plant a seed, and look forward to the harvest a year from now — and this article is my harvest.
+
+Wishing everyone a smooth transfer and a brilliant future!
+
+## Image Materials
+
+![Image 1](/root-assets/transfer_major/InformationEngineering_fish_2026/images/image1.png)
+
+![Image 2](/root-assets/transfer_major/InformationEngineering_fish_2026/images/image2.png)
+
+![Image 3](/root-assets/transfer_major/InformationEngineering_fish_2026/images/image3.png)
+
+![Image 4](/root-assets/transfer_major/InformationEngineering_fish_2026/images/image4.png)
+
+![Image 5](/root-assets/transfer_major/InformationEngineering_fish_2026/images/image5.png)
+
+---
+
+---
+url: /en/learn/curricular/transfer_major_mechanical_fish_2026.md
+description: >-
+  Experience sharing on transferring to SCUT's School of Mechanical and
+  Automotive Engineering, including application-to-admission ratios, interview
+  preparation, common questions, and preparation advice
+---
+
+# Transferring to Mechanical Engineering - Personal Experience and FAQ
+
+2025 cohort, Mechatronics Engineering, fish
+
+Mechanical transfer chat group: 238483743
+
+Introduction to the School of Mechanical and Automotive Engineering and My Journey
+
+The School of Mechanical and Automotive Engineering at SCUT mainly has three majors: Mechatronics Engineering, Mechanical Engineering, and Intelligent Vehicle Engineering (I do not know much about Safety Engineering, Process Equipment and Control Engineering, or Material Forming and Control Engineering). Compared with the other two, Mechatronics has some extra electronics courses, such as Circuits, Digital Electronics, and Analog Electronics, so the course load is a bit heavier. If you want to find a job right after your bachelor's, choose Mechatronics; if you plan to pursue graduate studies, the three majors differ little — you can check the curricula on the official website. For students transferring out of Computer Science, Software, Automation, Information Engineering, and Electrical, Mechanical feels like the best choice. Welcome to the School of Mechanical and Automotive Engineering!
+
+For the 2025 cohort, because most people chose Mechanical during the academician class (院士班) stream split, the split within the school caused the transfer policy to tighten, making the transfer situation very different from previous years. The requirements were Advanced Math ≥ 90 and English ≥ 85 (a big jump from the 2024 threshold), which screened out many people — the number of applicants never exceeded the number of acceptance slots. Back then I felt Computer Science, Software, Automation, Information Engineering, and Electrical were too cutthroat, and I badly wanted to escape my "天坑" (dead-end) major. On top of that, the raised threshold meant less competition. Also, compared with other majors, Mechanical has many competitions to join, such as RM, RC, ACM, Formula Student, Smart Car, the Engineering Training Contest, and the Electronic Design Contest, and the academic pressure is not very heavy, so there is more time for competitions. In the School of Mechanical and Automotive Engineering you can learn hands-on, practical things and become an engineer. Of course, Mechanical involves a lot of drawing (you can search "mechanical engineering drawing" online) and mechanics, such as Mechanics of Materials and Theoretical Mechanics — before transferring, think carefully about whether you can accept that. Some Mechanical students have transferred out precisely because they disliked drawing or could not get the hang of mechanics. In short, the make-up coursework pressure of transferring is considerable, and things are hard both before and after the transfer. A major transfer is a challenge in itself, and daring to take it on is already great!
+
+Transfer Requirements
+
+At the end of April, each school publishes its transfer admission requirements, which can be seen on each school's official website. In 2025 the School of Mechanical and Automotive Engineering was one of the later ones — the document came out right before the May Day holiday (五一). I advise students planning to transfer to use the May Day holiday to prepare well. Since Mechanical is interview-only, the only channels for getting to know you are the interview PPT and your weighted average. Study hard in the first semester of freshman year and push your math and English grades — it pays off either way, whether or not the transfer succeeds. If your weighted average is not very high, I suggest putting some Mechanical-related skills in your PPT, such as SW (SolidWorks) and AutoCAD — must-know software for mechanical engineers; having these two gets you most of the way there. I taught myself SolidWorks at the time and put a few modeling screenshots in my PPT. You can learn SolidWorks over the May Day break; relevant project experience also works, and competitions you have entered can go in as well (math competitions, or even "水赛" (easy, low-threshold contests), are fine).
+
+About Transfer Success Rates
+
+Major Slots Applicants Admitted Same-grade Transfers Application-to-Admission Ratio
+
+***
+
+Mechatronics Engineering 18 18 13 8 0.72
+Mechanical Engineering 23 18 18 9 1
+Intelligent Vehicle Engineering 18 5 3 3 0.6
+
+To sum up, the Mechanical Engineering interview does not cut people, while Mechatronics and Intelligent Vehicle both prefer vacancies over unqualified candidates. As for whether Mechanical discriminates against liberal arts students, and whether liberal arts students can choose a grade-down transfer (降转): in the 2025 cohort Mechatronics admitted one of three liberal arts applicants, Intelligent Vehicle had no liberal arts applicants, and Mechanical Engineering cut no one. In short, liberal arts students who are excellent enough can also apply to Mechanical. The academic affairs officer said at the time that whether a grade-down transfer applies is decided by the school based on credit recognition (学分认定). According to the full set of 2025 transfer documents, no liberal arts students received same-grade transfers (平转), so liberal arts students who want a same-grade transfer should think carefully.
+
+Transfers into the 2025 cohort (majors not requiring a grade-down)
+
+***
+
+Outgoing Major Outgoing School Count
+Smart Transportation School of Civil Engineering and Transportation 6
+Biopharmacy School of Food Science and Engineering 3
+Energy Chemical Engineering School of Light Industry Science and Engineering 3
+Food Science and Engineering School of Food Science and Engineering 3
+Naval Architecture and Ocean Engineering School of Civil Engineering and Transportation 1
+Bioengineering School of Food Science and Engineering 1
+Materials Science and Engineering School of Materials Science and Engineering 1
+Engineering Mechanics School of Civil Engineering and Transportation 1
+Biotechnology School of Biology and Biological Engineering 1
+Transfers into the 2026 cohort (majors requiring a grade-down)\
+Outgoing Major Outgoing School Count
+Industrial Design School of Design 5
+Public Administration School of Public Administration 2
+Business English School of Foreign Languages 2
+"Urban and Rural Planning + Big Data Management and Application" Double Degree School of Architecture 1
+Architecture School of Architecture 1
+Communication Studies School of Journalism and Communication 1
+Clinical Medicine School of Medicine 1
+Tourism Management Department of Tourism Management 1
+
+(The data above is compiled from the overall 2025 transfer list; some students may have chosen the grade-down option on their own initiative — for reference only.)
+
+Transfer Process
+
+After registration closes, around the May Day holiday you will receive the interview notification by phone, and an interview announcement will come out in the academic affairs system shortly after (note: not on the school's website). After joining the Mechanical transfer interview group, the day before the interview there is a draw to decide the interview order, and you email your interview PPT to the academic affairs teacher. The interview may start quite early — around eight or nine in the morning. Everyone waits in one classroom, and the teachers call people in (a bit like a queue-number system).
+
+The waiting is agonizing, so be prepared for it — though you can also ask the people ahead of you what the teachers asked them. I was the last one that day. Sitting late in the order means a long wait, but it does help break some information gaps. The interview is a 5-minute self-introduction plus 5 minutes of questions, with a timer on the screen — do not run over time. The questions are mainly based on what is in your PPT, so do not write random things in it and do not oversell yourself too much; they may probe every single detail. The teachers were generally quite kind. They may ask some rather hard questions — do not be nervous; being open and composed is good enough. Feel free to go all out against the teachers (jk). And if you are asked whether you can accept a grade-down transfer, do not be nervous either — engineering majors do not have grade-down transfers.
+
+Attached are the interview PPT requirements: the personal statement lasts 5 minutes and is delivered with a PPT. The content mainly covers your basic personal and family situation, basic academic status, your reasons for applying for the transfer and your understanding of the target major, your academic plans going forward, your outstanding personal potential, hobbies and strengths, and so on. It mainly assesses the student's awareness of the target major, innovative thinking, mastery of the public foundation courses, ability to complete the degree, willingness and aspiration to work in the field in the future, and psychological resilience, among other things.
+
+Possible Interview Questions
+
+Mechatronics interview questions: my first question was whether I could accept a grade-down transfer (the tone was so stern it scared me QAQ). Then they asked about the SolidWorks modeling shown in my PPT, the working principle of a gearbox (I knew something about this, and the teachers seemed quite satisfied), and how I did the modeling. Later they asked whether I had learned any programming and whether I knew anything about the electricity-related courses.
+
+According to other students, questions also included: 1. The role of eigenvectors in mechanical engineering 2. How to prove the conservation of mechanical energy (linking it with calculus) 3. What is the difference between digital circuits and analog circuits? Give one example from a mechatronic system for each 4. The differences between linear algebra, analytic geometry, and calculus 5. Mechanics and mechanical energy in University Physics — related knowledge 6. Is mechanical energy a state quantity? 7. Have you considered other majors? 8. What preparation have you made for transferring into Mechatronics?
+
+Mechanical Engineering interview questions: 1. There was a hypercube in my PPT, and he asked me a question based on my PPT. 2. Your major ranks very high at SCUT — why come choose Mechanical? 3. Have you done any mechanical-related projects? 4. What is the use of linear algebra? 5. Why transfer into this major? 6. If you transfer into this major, what kind of work do you want to do?
+
+Intelligent Vehicle interview questions: 1. Why choose Vehicle Engineering? Why not transfer to Automation?
+
+2. What is the object of study of Theoretical Mechanics?
+
+3. When a car is braking, is it better to brake to a full stop in one go, or to brake with light, repeated presses?
+
+4. How does what you learned in your original major help you transfer into Intelligent Vehicle Engineering? What connections does your original major have with Intelligent Vehicle Engineering?
+
+5. During your time interning with the racing team, what work did you do?
+
+(Compiled from fragments of classmates' recollections — not very specific, for reference only.)
+
+Conclusion
+
+Transferring majors takes great determination and a lot of hard work. I hope that in the first semester of freshman year and before the transfer you can keep working hard and stay firm on your goal. Whether it succeeds or not, and whichever major you end up in, transferring is an experience and a tempering that challenges yourself — you can learn a lot from it, and also summarize and reflect on your own shortcomings. No matter which major you are in afterwards, you need to keep grinding, grinding, and grinding. Finally, I wish everyone success in transferring, and welcome to the School of Mechanical and Automotive Engineering!
+
+(Attached: the Mechanical credit recognition table)
+
+![Mechanical credit recognition table](/root-assets/transfer_major/MechanicalEngineering_2026/images/credit_table.png)
 
 ---
 

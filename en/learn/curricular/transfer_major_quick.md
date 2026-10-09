@@ -29,7 +29,7 @@ Each year, the university opens one regular major transfer window, concentrated 
 
 ### Basic Rules
 
-You can only apply to one major in one school -- no调剂 (adjustment) opportunities. The university generally doesn't restrict transfers out. The first year is the main window; second-year students have limited slots but often need to drop a grade level. After transferring, courses already taken in the original major that the new major doesn't recognize are converted into general elective or cross-major elective credits, which are basically useless and won't count toward the GPA needed for graduate recommendation.
+You can only apply to one major in one school -- no adjustment opportunities. The university generally doesn't restrict transfers out. The first year is the main window; second-year students have limited slots but often need to drop a grade level. After transferring, courses already taken in the original major that the new major doesn't recognize are converted into general elective or cross-major elective credits, which are basically useless and won't count toward the GPA needed for graduate recommendation.
 
 ### Slots
 
@@ -41,7 +41,7 @@ The process is unified, but selection methods vary greatly by school. Two things
 
 Thresholds determine if you can even apply. Lenient schools only require no failed required courses (some even allow failures!) plus basic disciplinary requirements. Strict schools additionally require specific scores in first-semester math and English -- miss them and you're disqualified outright (currently, no school uses GPA as a threshold). Assessment generally comes in only two forms: pure interview, or written exam plus interview. Schools with strict thresholds are more likely to add a written exam. Written exams typically cover math, physics, or C++, set by the school. Interviews usually assess field knowledge and overall quality, possibly with an English oral component.
 
-Beyond regular programs, a small number of teaching reform classes (note: this doesn't include卓越 classes or other key classes) are available for transfer during the May window. These classes are often highly experimental, offered irregularly, not recruited through Gaokao, and filled entirely with students from other majors. Their conditions vary greatly and are subject to frequent change. Some have completely independent processes, so this article's reference value for them is limited -- always check the latest announcements.
+Beyond regular programs, a small number of teaching reform classes (note: this doesn't include Excellence Classes (卓越班) or other key classes) are available for transfer during the May window. These classes are often highly experimental, offered irregularly, not recruited through Gaokao, and filled entirely with students from other majors. Their conditions vary greatly and are subject to frequent change. Some have completely independent processes, so this article's reference value for them is limited -- always check the latest announcements.
 
 In 2026, some teaching reform classes directly factored first-semester GPA into their transfer assessment scores, though this remains a very small minority of cases. Still worth noting.
 
@@ -101,7 +101,7 @@ The most direct reward of transferring is entering a field you genuinely want to
 
 For students aiming at popular majors, our advice is: don't rush into specialized transfer preparation in the first semester. Put your energy into required courses, especially math and English. Six reasons: First, most popular majors have thresholds -- miss them and you can't even apply. Second, even without explicit GPA-based assessment, our statistics show a clear correlation between first-semester grades and interview performance. Third, after first-semester exams end, there are still nearly 5 months until the May assessment -- plenty of time for transfer preparation; doing it early has little benefit. Fourth, first-semester grades are one of the best indicators for assessing which competition level to target -- often you need these grades first to roughly know your options. Fifth, required course GPA is inherently crucial, especially for those planning further study. Finally, many students enter university feeling disoriented -- spending a few months learning more, thinking more, and adapting before deciding where to go is perfectly fine.
 
-Prepare well for final exams and major assignments while also ensuring your平时成绩 (ongoing assessment score). Core courses like math and linear algebra typically have final exams worth 60%-70% -- prepare seriously. Homework accuracy directly affects your ongoing score, so don't slack off. For political education, English, and similar courses, actively participate in class -- presentations, answering questions. Complete online content on MOOC, Rain Classroom, etc., on time.
+Prepare well for final exams and major assignments while also ensuring your regular grades. Core courses like math and linear algebra typically have final exams worth 60%-70% -- prepare seriously. Homework accuracy directly affects your ongoing score, so don't slack off. For political education, English, and similar courses, actively participate in class -- presentations, answering questions. Complete online content on MOOC, Rain Classroom, etc., on time.
 
 ### After First Semester: Formally Choose Your Target
 

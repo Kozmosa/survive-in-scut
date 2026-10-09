@@ -204,15 +204,21 @@
 
 - [ACM Programming Competition](/en/learn/extra/contest/ACM.md): Introduction to the ACM Programming Competition (ACM-XCPC) and participation guide, covering team recruitment, training schedules, competition rules, and more
 - [ACM程序设计竞赛](/learn/extra/contest/ACM.md): ACM程序设计竞赛（ACM-XCPC）简介及参赛指南，涵盖集训队招新、训练安排、比赛规则等内容
+- [Area E Dorms](/en/infra/hemc/dorm-e.md): An overview of the Area E dormitories at SCUT University Town Campus
 - [Chinese Mathematics Competition (CMC)](/en/learn/extra/contest/cmc.md): Introduction to the Chinese Mathematics Competition (CMC) and a simple participation guide
 - [Deferred Exam Application Guide](/en/learn/curricular/deferred_exam.md): Conditions, documentation, approval, receipt, and retake confirmation process for SCUT undergraduates applying for a deferred exam due to illness or schedule conflict
+- [Experience Sharing: Transferring into Information Engineering (2026)](/en/learn/curricular/transfer_major_information_engineering_2026.md): Experience sharing on transferring into the School of Electronic and Information Engineering (Information Engineering) at SCUT, covering the written exam content, interview criteria, and preparation advice
 - [E区宿舍](/infra/hemc/dorm-e.md): 华南理工大学大学城校区E区宿舍概况
 - [First-Year Survival Guide for SCUT Math Students](/en/learn/curricular/majors/math/math_tutorial.md): A study guide for SCUT's math department, including resources for learning
+- [Image Toolbox](/en/others/image-toolbox.md): A collection of tools for processing images to meet the image requirements of the comprehensive evaluation platform
 - [Probability Distribution Gallery](/en/learn/curricular/common/probalistics_and_statistics/distribution_gallery.md): An interactive learning tool for visualizing common distribution functions in Probability Theory and Mathematical Statistics
 - [Probability Theory and Mathematical Statistics Study Notes](/en/learn/curricular/common/probalistics_and_statistics/plt_note.md): Study notes for SCUT's Probability Theory and Mathematical Statistics course
 - [Quick Guide to Major Transfer at SCUT](/en/learn/curricular/transfer_major_quick.md): A quick primer for SCUT freshmen on major transfer, covering the May university-wide transfer mechanism, choices, and preparation timeline
 - [SCUT Major Transfer Guide (2024 Edition)](/en/learn/curricular/transfer_major_2024.md): SCUT Major Transfer Guide (2024 Edition), based on the 2024 cohort policies
+- [Self-Directed Learning: Science and Technology -- Anti-Involution Survival Engineering for University](/en/learn/curricular/self_study_science_technology.md): Target-score management, self-study strategies, and Agent-based interactive learning methods aimed at university final exams
 - [Transferring to Electrical Engineering (2026)](/en/learn/curricular/transfer_major_electrical_2026.md): Experience sharing on transferring to SCUT's School of Electric Power (Electrical Engineering and Its Automation), including interview preparation, common questions, and answer strategies
+- [Transferring to Information Engineering (2026)](/en/learn/curricular/transfer_major_information_engineering_fish_2026.md): Experience sharing on transferring to SCUT's School of Electronic and Information Engineering (Information Engineering), including written exam content, interview criteria, and preparation advice
+- [Transferring to Mechanical Engineering (2026)](/en/learn/curricular/transfer_major_mechanical_fish_2026.md): Experience sharing on transferring to SCUT's School of Mechanical and Automotive Engineering, including application-to-admission ratios, interview preparation, common questions, and preparation advice
 - [Untitled](/en.md)
 - [全国大学生数学竞赛](/learn/extra/contest/cmc.md): 全国大学生数学竞赛（CMC）简介及简单的参赛指导
 - [华南理工大学数学系学生 大一自救指南](/learn/curricular/majors/math/math_tutorial.md): 介绍华南理工大学的数学系的学习教程，也提供一些所需的资源

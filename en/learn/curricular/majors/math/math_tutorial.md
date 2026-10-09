@@ -37,7 +37,7 @@ I recommend Xie Huimin's Mathematical Analysis exercise collection for advanced 
 
 ![text](./image-1.png)
 
-Note: Only the reference problems at the end of each chapter have answers. Answers for the exercises after each section need to be found separately. Two Bilibili content creators -- **aceaccce** and **分析学爱好者** -- both provide solutions to Xie Huimin's problem set.
+Note: Only the reference problems at the end of each chapter have answers. Answers for the exercises after each section need to be found separately. Two Bilibili content creators -- **aceaccce** and **Analysis Enthusiast (分析学爱好者)** -- both provide solutions to Xie Huimin's problem set.
 
 Of course, Pei Liwen's and Demidovich's Mathematical Analysis problem collections are also excellent. I just personally prefer Xie Huimin's.
 
