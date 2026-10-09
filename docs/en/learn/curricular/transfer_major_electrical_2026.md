@@ -78,7 +78,7 @@ I have a strong interest in the power field. My math/physics foundation is solid
 
 **Q: Did you consider Electrical Engineering during Gaokao?**
 
-When filling out Gaokao志愿, I listed Electrical Engineering as a key意向 program, but wasn't admitted due to志愿 gradient and score ranking. After entering my current program, I've always followed the Electrical Engineering field. Competitions have further strengthened my determination to study it.
+When filling out Gaokao preferences, I listed Electrical Engineering as a key intended program, but wasn't admitted due to the preference gradient and score ranking. After entering my current program, I've always followed the Electrical Engineering field. Competitions have further strengthened my determination to study it.
 
 **Q: What's your study plan after transferring?**
 
@@ -98,7 +98,7 @@ I'll accept it gracefully, continue maintaining good grades in my current major,
 
 (Recommended to use the STAR framework.)
 
-Poor initial planning left me behind schedule. After National Day, I started an intensive突击. The hardest parts were triple integrals and curve/surface integrals. I devoted myself fully every day, discussed with classmates, and broke down the难点. Eventually I earned the provincial second prize. This experience trained my self-discipline and resilience.
+Poor initial planning left me behind schedule. After National Day, I started intensive cramming. The hardest parts were triple integrals and curve/surface integrals. I devoted myself fully every day, discussed with classmates, and broke down the difficulties. Eventually I earned the provincial second prize. This experience trained my self-discipline and resilience.
 
 **Q: What difficulties did you encounter in mathematical modeling?**
 
@@ -114,9 +114,9 @@ The math competition developed my self-study ability, time planning, and perseve
 
 The paper writer's core job isn't translation -- it's logic and technical content. I was responsible for drafting in Chinese, creating charts, and formatting. After machine translation, I proofread terminology sentence by sentence, and teammates reviewed together. I controlled the core content throughout.
 
-**Q: Your CET-4 score isn't high. Can you keep up with English文献?**
+**Q: Your CET-4 score isn't high. Can you keep up with English literature?**
 
-I'm preparing intensively for CET-6 and have completed two rounds of memorization for over 3,000 core vocabulary words. Simultaneously, I'm accumulating Electrical Engineering English terminology, starting with classic review papers for intensive reading. Exam scores aren't the终点 -- I have the执行力 to build solid academic English.
+I'm preparing intensively for CET-6 and have completed two rounds of memorization for over 3,000 core vocabulary words. Simultaneously, I'm accumulating Electrical Engineering English terminology, starting with classic review papers for intensive reading. Exam scores aren't the end goal -- I have the execution to build solid academic English.
 
 **Q: What is your biggest weakness?**
 
@@ -130,7 +130,7 @@ Carbon peak by 2030, carbon neutrality by 2060. The core is energy transition, a
 
 **Q: What bottleneck technologies does new energy grid integration currently face?**
 
-Three categories: high-end power chips rely on imports; specialized simulation software is dominated by foreign companies; critical sensors and insulation materials lack sufficient domestic production. It's precisely because of these短板 that the country urgently needs Electrical Engineering professionals.
+Three categories: high-end power chips rely on imports; specialized simulation software is dominated by foreign companies; critical sensors and insulation materials lack sufficient domestic production. It's precisely because of these weaknesses that the country urgently needs Electrical Engineering professionals.
 
 **Q: Besides joining the grid, what other career paths does Electrical Engineering offer?**
 
@@ -138,11 +138,11 @@ Power generation groups, power design institutes; new energy and energy storage 
 
 **Q: What are the future development trends for the Electrical Engineering industry?**
 
-Three major trends: green and low-carbon (wind/solar + new power systems); intelligent digitalization (smart grid upgrades); and自主可控 (overcoming bottleneck technologies, domesticating core equipment).
+Three major trends: green and low-carbon (wind/solar + new power systems); intelligent digitalization (smart grid upgrades); and independent and controllable (自主可控) development (overcoming bottleneck technologies, domesticating core equipment).
 
 **Q: What do you think about new energy storage?**
 
-The core role of new energy storage is to solve the intermittency problem of renewable energy -- store excess electricity when available, release it when needed, turning unstable renewables into stable, usable power. The National Energy Administration has clearly indicated new energy storage is a "必须品" component for building new power systems.
+The core role of new energy storage is to solve the intermittency problem of renewable energy -- store excess electricity when available, release it when needed, turning unstable renewables into stable, usable power. The National Energy Administration has clearly indicated new energy storage is a "necessity" component for building new power systems.
 
 ### 4.6 Other Frequent Questions
 

@@ -6,9 +6,9 @@ outline: [2, 3]
 
 # TODO Summary
 
-> Last updated: 2026-10-08 20:59:00 (UTC+8)
+> Last updated: 2026-10-09 09:50:46 (UTC+8)
 
-34 TODO items found in total
+31 TODO items found in total
 
 ## beyond/abroad/phd.md
 
@@ -35,34 +35,23 @@ outline: [2, 3]
 - **Line 12**: TODO: Add campus safety and psychological first-aid information:
   - [View source](/en/health/alive_first.md)
 
-## infra/gzic/map.md
+## health/medical_care.md
 
-- **Line 11**: TODO: Supplement the following with specific locations, opening hours, and usage guides:
-  - [View source](/en/infra/gzic/map.md)
-
-## infra/gzic/nearby.md
-
-- **Line 10**: TODO: Supplement travel and living guides for the area around Guangzhou International Campus:
-  - [View source](/en/infra/gzic/nearby.md)
-
-## infra/hemc/nearby.md
-
-- **Line 10**: TODO: Supplement travel and living guides for the area around University Town Campus:
-  - [View source](/en/infra/hemc/nearby.md)
-
-## infra/hemc/suishi.md
-
-- **Line 10**: TODO: Supplement Suishi Village living and travel guide:
-  - [View source](/en/infra/hemc/suishi.md)
+- **Line 113**: TODO: Add visiting experiences and doctor recommendations for the campus hospital's common departments (GP, dental, dermatology, TCM).
+  - [View source](/en/health/medical_care.md)
+- **Line 117**: TODO: Add emergency care experience:
+  - [View source](/en/health/medical_care.md)
 
 ## infra/wushan/map.md
 
-- **Line 10**: TODO: Supplement the following with specific locations, opening hours, and usage guides:
+- **Line 19**: TODO: Daily service points (parcel stations/print shops/hair salons/repair shops) and administrative offices (Academic Affairs Office/Student Affairs Department/Finance Office/Household Registration Office)
+  - [View source](/en/infra/wushan/map.md)
+- **Line 32**: TODO: Badminton/table tennis/tennis court booking (smart service mini program), opening hours and fees for other sports venues
   - [View source](/en/infra/wushan/map.md)
 
 ## infra/wushan/nearby.md
 
-- **Line 10**: TODO: Supplement travel and living guides for the area outside Wushan Campus:
+- **Line 17**: TODO: Daily shopping & supermarkets: nearby large supermarkets, wet markets, and fruit shops
   - [View source](/en/infra/wushan/nearby.md)
 
 ## introduction.md
@@ -124,10 +113,6 @@ outline: [2, 3]
 
 - **Line 10**: You can join our editorial team to submit contributions, or directly submit a PR to this project to contribute content! Before getting started, we recommend reading the [Maintenance Roadmap](/en/others/roadmap.html) and [TODO Summary](/en/others/todo.html) first, so you can direct your contributions to high-priority gaps.
   - [View source](/en/others/contributing.md)
-- **Line 175**: TODO: Add documentation compilation guidelines (file naming, source attribution, external link standards, time-sensitive information markers, translation sync rules, writing conventions for citing official information).
-  - [View source](/en/others/contributing.md)
-- **Line 177**: TODO: Establish an annual update process (onboarding, campus buses, maps, major transfers, university hospital, nearby info, and other time-sensitive pages should be reviewed at least once per academic year).
-  - [View source](/en/others/contributing.md)
 
 ## others/index.md
 
@@ -140,9 +125,9 @@ outline: [2, 3]
   - [View source](/en/others/roadmap.md)
 - **Line 11**: > Based on [TODO Summary](./todo) with 32 items (Chinese) + 5 independent English items
   - [View source](/en/others/roadmap.md)
-- **Line 135**: After completing each Chinese TODO above, update the corresponding English translation. Independent English TODOs:
+- **Line 156**: After completing each Chinese TODO above, update the corresponding English translation. Independent English TODOs:
   - [View source](/en/others/roadmap.md)
-- **Line 137**: | TODO | File |
+- **Line 158**: | TODO | File |
   - [View source](/en/others/roadmap.md)
-- **Line 159**: Mark each phase as completed upon finishing. See [TODO Summary](./todo) for detailed item status.
+- **Line 180**: Mark each phase as completed upon finishing. See [TODO Summary](./todo) for detailed item status.
   - [View source](/en/others/roadmap.md)

@@ -17,15 +17,15 @@ Below is a summary of the key differences between **MSc, MPhil, and PhD** in the
 
 ### Core Comparison Table
 
-| **Program**                 | **MSc (Taught Master's)**                   | **MPhil (Research Master's)**                    | **PhD (Research Doctorate)**                          |
-| --------------------------- | ------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------- |
-| **Duration**                | 1 year (full-time)                          | 2 years (full-time)                              | 4-5 years (full-time)                                 |
-| **Tuition (annual)**        | **12-24万 HKD** (25-35万 RMB) (self-funded) | **4.2万 HKD** (subsidized)                       | **4.2万 HKD** (subsidized)                            |
-| **Scholarship**             | Limited merit-based scholarships            | Yes **HKPFS/Professor funding** (~18万 HKD/year) | Yes **HKPFS/full scholarship** (~25万 HKD/year)       |
-| **Academic Format**         | Courses + exams/thesis                      | Research-focused + few courses                   | **Independent research + academic thesis**            |
-| **Career Path**             | Employment                                  | Stepping stone to PhD                            | Academia/research/high-end industry R&D               |
-| **Graduation Requirements** | Complete credits + pass thesis              | Publish paper + thesis defense                   | **International journal papers + PhD thesis defense** |
-| **Application Difficulty**  | Moderate (GPA + language scores)            | High (research proposal + supervisor networking) | Very high (top research output + matching supervisor) |
+| **Program**                 | **MSc (Taught Master's)**                     | **MPhil (Research Master's)**                    | **PhD (Research Doctorate)**                          |
+| --------------------------- | --------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------- |
+| **Duration**                | 1 year (full-time)                            | 2 years (full-time)                              | 4-5 years (full-time)                                 |
+| **Tuition (annual)**        | **120-240k HKD** (250-350k RMB) (self-funded) | **42k HKD** (subsidized)                         | **42k HKD** (subsidized)                              |
+| **Scholarship**             | Limited merit-based scholarships              | Yes **HKPFS/Professor funding** (~180k HKD/year) | Yes **HKPFS/full scholarship** (~250k HKD/year)       |
+| **Academic Format**         | Courses + exams/thesis                        | Research-focused + few courses                   | **Independent research + academic thesis**            |
+| **Career Path**             | Employment                                    | Stepping stone to PhD                            | Academia/research/high-end industry R&D               |
+| **Graduation Requirements** | Complete credits + pass thesis                | Publish paper + thesis defense                   | **International journal papers + PhD thesis defense** |
+| **Application Difficulty**  | Moderate (GPA + language scores)              | High (research proposal + supervisor networking) | Very high (top research output + matching supervisor) |
 
 ---
 
