@@ -45,7 +45,9 @@ If these files are added later, treat them as higher-priority instructions and u
 - Sync legacy VuePress public assets to VitePress: `npm run docs:sync:vitepress-public`
 - Format check: `npm run docs:fmt`
 - Auto-format: `npm run docs:fmt:fix`
-- Pre-commit hook: managed by `simple-git-hooks` + `lint-staged` (runs `prettier --write` on staged files).
+- Chinese typography check (zhlint): `npm run docs:zhlint`
+- Chinese typography auto-fix: `npm run docs:zhlint:fix`
+- Pre-commit hook: managed by `simple-git-hooks` + `lint-staged` (runs `node scripts/zhlint-run.js --fix` then `prettier --write` on staged `*.md`; other extensions only get `prettier --write`).
 - Pre-push hook: managed by `simple-git-hooks` (runs `bash scripts/pre-push-check.sh`, which executes `npm run docs:build` and restores auto-generated metadata).
 
 ### Lint/test reality in this repo
@@ -53,15 +55,25 @@ If these files are added later, treat them as higher-priority instructions and u
 - There is no dedicated lint script (ESLint not configured in repo root).
 - There is no automated unit/integration test runner configured (no Vitest/Jest/Playwright config detected).
 - Formatting is enforced by two quality gates:
-  - CI (`npm run docs:fmt` in `.github/workflows/format.yml`).
-  - Pre-commit hook (`simple-git-hooks` + `lint-staged`, runs `prettier --write`).
+  - CI (`npm run docs:fmt` plus `npm run docs:zhlint` in `.github/workflows/format.yml`).
+  - Pre-commit hook (`simple-git-hooks` + `lint-staged`, runs `prettier --write` and `zhlint --fix` for markdown).
 - Pre-push hook (`simple-git-hooks`, runs `bash scripts/pre-push-check.sh` — full VitePress build + cleanup).
+
+### Chinese typography linting (zhlint)
+
+- Tool: [zhlint](https://github.com/zhlint-project/zhlint), run through the fault-tolerant wrapper `scripts/zhlint-run.js` (per-file isolation so a zhlint internal crash skips one file with a warning instead of aborting; strips YAML frontmatter; supports explicit file lists for lint-staged).
+- Config: `.zhlintrc` at repo root. It keeps the default preset except: fullwidth parentheses `（）` are preserved (`halfwidthPunctuation: ""`) and curly quotes are treated as fullwidth (`adjustedFullwidthPunctuation: ""`), matching this site's established typography.
+- Scope: `docs/**/*.md` + `README.md`, excluding `docs/en/` (Chinese rules would mangle English punctuation) and the auto-generated `docs/others/todo.md` / `docs/en/others/todo.md` (`.zhlintignore`).
+- `.zhlintcaseignore` lists exact text fragments exempt from the rules (CJK inside underscore emphasis, tight fullwidth operators like `成绩×30%`).
+- zhlint's unpaired quote/bracket detections ("引号未匹配/未闭合" etc.) are reported as non-blocking warnings because English apostrophes (`SCUT's`) trigger them constantly in bilingual text.
+- Single-file check: `node scripts/zhlint-run.js docs/path/to/file.md`; add `--fix` to auto-fix.
 
 ### "Single test" guidance (important)
 
 Because no test framework exists yet, use targeted checks:
 
 - Single-file formatting check: `npx prettier --check "docs/path/to/file.md"`
+- Single-file Chinese typography check: `node scripts/zhlint-run.js "docs/path/to/file.md"`
 - Single JS/JSON/MD/Vue/TS/HTML/YML reformat: `npx prettier --write "docs/path/to/file.md"`
 - Build validation (closest to integration test): `npm run docs:build`
 - Focused runtime/manual check: `npm run docs:dev` and open the specific page/component route.

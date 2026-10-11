@@ -12,10 +12,16 @@
     "docs:sync:legacy-public": "node scripts/sync-vitepress-public.js",
     "docs:fmt": "prettier --check '**/*.{js,ts,json,md,vue,html,yml}'",
     "docs:fmt:fix": "prettier --write '**/*.{js,ts,json,md,vue,html,yml}'",
+    "docs:zhlint": "node scripts/zhlint-run.js",
+    "docs:zhlint:fix": "node scripts/zhlint-run.js --fix",
     "prepare": "simple-git-hooks"
   },
   "lint-staged": {
-    "*.{js,ts,json,md,vue,html,yml}": "prettier --write"
+    "*.{js,ts,json,vue,html,yml}": "prettier --write",
+    "*.md": [
+      "node scripts/zhlint-run.js --fix",
+      "prettier --write"
+    ]
   },
   "simple-git-hooks": {
     "pre-commit": "npx lint-staged",
@@ -29,7 +35,8 @@
     "simple-git-hooks": "^2.13.1",
     "vitepress": "^2.0.0-alpha.17",
     "vitepress-plugin-llms": "^1.13.3",
-    "vue": "^3.5.16"
+    "vue": "^3.5.16",
+    "zhlint": "^0.8.2"
   },
   "dependencies": {
     "@waline/client": "^3.5.7",

@@ -12,3 +12,6 @@ jobs:
 
       - name: Check Formatting with auto fixing
         run: npm run docs:fmt
+
+      - name: Check Chinese typography
+        run: npm run docs:zhlint

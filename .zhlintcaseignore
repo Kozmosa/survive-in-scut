@@ -1,0 +1,19 @@
+# zhlint mis-parses CJK inside underscore emphasis marks (positions drift,
+# validations point into the wrong characters and can never be auto-fixed),
+# so these exact text fragments are ignored globally.
+_是_
+_不是_
+_热_
+_还要配肉松_
+
+# Fullwidth math operators (× ＋) inside formula-like fragments: the repo
+# keeps them tight against surrounding text and zhlint's mixed-width space
+# rule produces asymmetric spacing around them.
+冲突＋I-20
+30分钟×3次
+成绩×30%
+成绩×40%
+笔试×0.5
+高数＋线代
+电＋机电
+介绍＋5分钟
