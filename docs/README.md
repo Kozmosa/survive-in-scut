@@ -27,7 +27,7 @@ features:
 footer: CC0 1.0 Licensed | Copyright © 2025-present Kozumi & 转群 & 卷群
 ---
 
-此页为首页. 更多内容请切换到[简介页面][introduction-page]了解.
+此页为首页。更多内容请切换到[简介页面][introduction-page]了解。
 
 关于本项目的内容，及本项目所涉及、采用的资源的[版权声明][copyrights-page]
 
