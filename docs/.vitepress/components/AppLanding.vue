@@ -42,7 +42,18 @@
 import { computed, onMounted, ref } from "vue";
 import { useLocaleText } from "../composables/useLocaleText";
 
-const releaseData = ref(null);
+// 永久下载别名由 MySCUT 发版 CI 每次覆盖，页面跳转不受 CORS 限制
+const APK_LATEST_URL =
+  "https://pub-2d4ca40983644b4295125ec388670de9.r2.dev/kozmos/releases/latest/qmm-latest.apk";
+
+// 版本号仅为展示信息，尽力获取：jsDelivr 与 raw.githubusercontent 均带 CORS 头；
+// R2 公网地址不带 Access-Control-Allow-Origin，浏览器端无法使用
+const VERSION_MANIFEST_SOURCES = [
+  "https://cdn.jsdelivr.net/gh/Kozmosa/MySCUT@main/versions.json",
+  "https://raw.githubusercontent.com/Kozmosa/MySCUT/main/versions.json",
+];
+
+const latestVersion = ref("");
 const recommendedPlatform = ref("android");
 const ui = useLocaleText(
   {
@@ -76,24 +87,6 @@ const PLATFORM_TEXT = {
   pwa: "PWA",
 };
 
-const latestVersion = computed(() => releaseData.value?.latest?.version || "");
-const apkUrl = computed(() => {
-  const apkAsset = releaseData.value?.latest?.assets?.apk;
-  if (typeof apkAsset === "string") {
-    return apkAsset;
-  }
-
-  const apkCandidates = releaseData.value?.latest?.assets?.apk_candidates;
-  if (Array.isArray(apkCandidates) && apkCandidates.length > 0) {
-    const firstCandidate = apkCandidates.find(
-      (item) => item && typeof item.url === "string" && item.url.trim(),
-    );
-    return firstCandidate?.url || "";
-  }
-
-  return "";
-});
-
 const recommendedButtonText = computed(() => {
   const platformText = PLATFORM_TEXT[recommendedPlatform.value] || "Android";
   return `${ui.value.recommendedDownload}${platformText}`;
@@ -101,7 +94,7 @@ const recommendedButtonText = computed(() => {
 
 onMounted(async () => {
   recommendedPlatform.value = detectRecommendedPlatform();
-  releaseData.value = await fetchReleaseData();
+  latestVersion.value = await fetchLatestVersion();
 });
 
 function detectRecommendedPlatform() {
@@ -129,28 +122,58 @@ function detectRecommendedPlatform() {
   return "android";
 }
 
-async function fetchReleaseData() {
-  try {
-    const response = await fetch("/assets/app/release.json", {
-      cache: "no-store",
-    });
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
-    }
-    return await response.json();
-  } catch (err) {
-    console.error("[AppLanding] Unable to fetch release data", err);
-    return null;
+async function fetchLatestVersion() {
+  const settled = await Promise.allSettled(
+    VERSION_MANIFEST_SOURCES.map(async (sourceUrl) => {
+      const response = await fetch(sourceUrl, { cache: "no-store" });
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+      const data = await response.json();
+      const version = data?.latest?.version;
+      if (typeof version !== "string" || !version.trim()) {
+        throw new Error("manifest missing latest.version");
+      }
+      return version.trim();
+    }),
+  );
+
+  const versions = settled
+    .filter((item) => item.status === "fulfilled")
+    .map((item) => item.value);
+  if (versions.length === 0) {
+    console.error("[AppLanding] all version sources failed");
+    return "";
   }
+
+  // 任一源可能带边缘缓存（如 jsDelivr 对分支引用的缓存可达数小时），取数值版本最高者
+  return versions.reduce((best, current) =>
+    compareVersion(current, best) > 0 ? current : best,
+  );
+}
+
+function compareVersion(left, right) {
+  const parse = (value) =>
+    value
+      .replace(/^v/, "")
+      .split(".")
+      .map((segment) => Number(segment.match(/^\d+/)?.[0] ?? 0));
+  const leftParts = parse(left);
+  const rightParts = parse(right);
+  const length = Math.max(leftParts.length, rightParts.length);
+  for (let index = 0; index < length; index += 1) {
+    const leftValue = leftParts[index] ?? 0;
+    const rightValue = rightParts[index] ?? 0;
+    if (leftValue !== rightValue) {
+      return leftValue - rightValue;
+    }
+  }
+  return 0;
 }
 
 function handlePlatformAction(platform) {
   if (platform === "android") {
-    if (apkUrl.value) {
-      window.location.href = apkUrl.value;
-      return;
-    }
-    window.alert("Coming soon");
+    window.location.href = APK_LATEST_URL;
     return;
   }
 

@@ -123,9 +123,9 @@ In 2025, SCUT underwent certain reforms in admissions, schools, and programs. I 
 
 ### Note on "Dual Degrees"
 
-As of now, SCUT does not have "true" dual degree classes. What's called "dual degree" is more accurately a track分流 at the end of the second year based on grades, into one of two program directions. Upon graduation, the分流 direction becomes the primary degree, and the other exists as a minor. Just a heads up.
+As of now, SCUT does not have "true" dual degree classes. What's called "dual degree" is more accurately a track streaming at the end of the second year based on grades, into one of two program directions. Upon graduation, the streaming direction becomes the primary degree, and the other exists as a minor. Just a heads up.
 
-In other words, if you're a Computer Science + Finance dual degree student and分流 places you in Finance, then Finance is your final degree and CS is your minor. Whether this will change in the future is unknown -- consult target program faculty when applying.
+In other words, if you're a Computer Science + Finance dual degree student and streaming places you in Finance, then Finance is your final degree and CS is your minor. Whether this will change in the future is unknown -- consult target program faculty when applying.
 
 ## First-Year/Second-Year "Voluntary Transfer" -- Where Most People End Up
 
@@ -187,7 +187,7 @@ Reviews:
 
 - "2024 cohort, transferred from Light Industry to Mechatronics in 2025 (end of first year). Interview about 10 min/person, required PPT. First 5 min self-presentation, last 5 min Q&A. Questions weren't very professional -- mostly about PPT content. Overall not too stressful. Results mainly depended on weighted average. I saw the lowest admitted was around 86, some with 87 got screened, basically no one with 88+ got screened. Note that Mechanical likely discriminates against liberal arts (e.g., Economics, Finance) -- unless you have 90+ average, top-ranked liberal arts students should still be cautious." -- Automne (2024)
 
-- "2024 cohort, female, Food Science and Engineering → Mechatronic Engineering, no projects, weighted average ~87 at transfer, ranked 10/144 in original school. Process: 5 min self-intro + 5 min interview Q&A. About 10 teachers in the room, generally approachable, not too pressuring. Questions mainly around PPT content + academic performance. Asked about: reason for lower calculus score, engineering drawing score (91) + self-assessment of spatial ability, how to balance student work, how to handle heavy course load after transfer (reflecting afterward, felt they might have been asking about grade-level demotion). Switching from Food to Mechatronics requires catching up on A LOT of courses: due to different credit hours, besides Chemistry/Linear Algebra/概论, pretty much everything else like Calculus/University Physics/Engineering Drawing needs retaking, plus C++ and Mechanical概论." -- Anonymous (2024)
+- "2024 cohort, female, Food Science and Engineering → Mechatronic Engineering, no projects, weighted average ~87 at transfer, ranked 10/144 in original school. Process: 5 min self-intro + 5 min interview Q&A. About 10 teachers in the room, generally approachable, not too pressuring. Questions mainly around PPT content + academic performance. Asked about: reason for lower calculus score, engineering drawing score (91) + self-assessment of spatial ability, how to balance student work, how to handle heavy course load after transfer (reflecting afterward, felt they might have been asking about grade-level demotion). Switching from Food to Mechatronics requires catching up on A LOT of courses: due to different credit hours, besides Chemistry/Linear Algebra/the Introduction course (概论), pretty much everything else like Calculus/University Physics/Engineering Drawing needs retaking, plus C++ and Introduction to Mechanical Engineering (机械概论)." -- Anonymous (2024)
 
 **(2) Intelligent Vehicle Engineering**
 
@@ -255,7 +255,7 @@ Program code: 082901 (Safety Science and Engineering)
 
 Core courses: Principles of Safety Science, Safety System Engineering, Safety Ergonomics, Safety Management and Accident Investigation, Smart Safety and Emergency Management, Safety Information Management and Data Analysis, Safety Inspection and Intelligent Monitoring Technology, Mechanical and Electrical Safety, Occupational Health and Safety Management Systems, Safety Psychology and Safety Culture.
 
-2025 registration: Safety Engineering is special -- it doesn't appear in the regular voluntary transfer process. Instead, it recruits in a second batch after voluntary transfer. As of now, Safety Engineering is not among the分流 targets of the Intelligent Equipment and Advanced Manufacturing class (the Mechanical major). All class members are admitted through transfer.
+2025 registration: Safety Engineering is special -- it doesn't appear in the regular voluntary transfer process. Instead, it recruits in a second batch after voluntary transfer. As of now, Safety Engineering is not among the streaming targets of the Intelligent Equipment and Advanced Manufacturing class (the Mechanical major). All class members are admitted through transfer.
 
 2025 assessment: Interview only
 
@@ -349,7 +349,7 @@ Recent four-year assessment: Written exam + interview.
 
 Using 2025 as example: Written exam: University Physics (I) (Mechanics, vibrations/waves, optics/interference) 40 pts; Calculus II (including all of part I and chapters 7-8 of part II) + Linear Algebra (linear algebra portion) combined 60 pts. Total 100 pts. Minimum per subject: year-level subject average x 0.7. No overall written exam minimum. Interviews conducted by year level, assessing STEM background, learning ability, psychological fitness, etc. Total 100 pts.
 
-Admission: Comprehensive score = written x 0.4 + interview x 0.6. Ranked by year level,择优录取. Same total score: higher written score wins. Interview fail (< 60) = no admission. If 2023 cohort slots remain, they can be opened to 2024 cohort.
+Admission: Comprehensive score = written x 0.4 + interview x 0.6. Ranked by year level, merit-based selection. Same total score: higher written score wins. Interview fail (< 60) = no admission. If 2023 cohort slots remain, they can be opened to 2024 cohort.
 
 Reviews: (None)
 

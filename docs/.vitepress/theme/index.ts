@@ -11,6 +11,7 @@ import ExpandableCard from "../components/ExpandableCard.vue";
 import PdfViewer from "../components/PdfViewer.vue";
 import PageContributors from "../components/PageContributors.vue";
 import CommentService from "../components/CommentService.vue";
+import ImageToolbox from "../components/ImageToolbox.vue";
 
 export default {
   extends: DefaultTheme,
@@ -29,5 +30,6 @@ export default {
     app.component("PdfViewer", PdfViewer);
     app.component("PageContributors", PageContributors);
     app.component("CommentService", CommentService);
+    app.component("ImageToolbox", ImageToolbox);
   },
 };

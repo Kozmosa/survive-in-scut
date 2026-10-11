@@ -30,7 +30,7 @@ Upperclassmen from the School of Future Technology (SCUT School of Future Techno
 
 (Access may be limited from domestic/campus networks.)
 
-### SCUT CS/AI Research入门 Guide
+### SCUT CS/AI Research Getting-Started Guide
 
 Given the drawback that SCUT's AI and Computer Science training plans offer little to improve research capabilities, [Oplisty](https://github.com/oplisty), together with several classmates from CS and AI programs, created this website to help junior students get started in research and avoid unnecessary detours.
 

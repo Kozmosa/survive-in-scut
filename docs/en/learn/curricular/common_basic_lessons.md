@@ -172,11 +172,11 @@ The core difficulty lies in sample selection and coordinating interviews with re
 
 #### Social Practice Credit Recognition Suggestion
 
-If your school arranges social practice recognition at the start of the semester, the practical成果 from this required course can usually be applied once toward meeting graduation social practice requirements. Watch for school notices to maximize the utility of your practical achievements.
+If your school arranges social practice recognition at the start of the semester, the practical results from this required course can usually be applied once toward meeting graduation social practice requirements. Watch for school notices to maximize the utility of your practical achievements.
 
 #### Volunteer Hour Guide and Channel Suggestions
 
-If you need volunteer hours for graduation, consider using the following official or正规 channels based on your interests and schedule. Note: **Volunteer hours are only one evaluation reference -- do not blindly pursue hours at the expense of practice quality.**
+If you need volunteer hours for graduation, consider using the following official or legitimate channels based on your interests and schedule. Note: **Volunteer hours are only one evaluation reference -- do not blindly pursue hours at the expense of practice quality.**
 
 - **Common Social Volunteer Channels**:
 
@@ -192,6 +192,6 @@ If you need volunteer hours for graduation, consider using the following officia
 
   - **Winter Recruitment Volunteer**: Divided into two paths: “University Distribution” and “High School Distribution.”
 
-    - **University Distribution**: Usually requires selection to become a school team member, earning about 8-10 volunteer hours. Follow the **鲤工小招招** official account for details.
+    - **University Distribution**: Usually requires selection to become a school team member, earning about 8-10 volunteer hours. Follow the **鲤工小招招** (a WeChat official account) for details.
 
     - **High School Distribution**: Hour recognition standards are determined by your high school. Communicate with the responsible teacher at your high school in advance.

@@ -138,6 +138,7 @@ const navZh = [
       { text: "App", link: "/others/app" },
       { text: "品牌素材", link: "/others/branding" },
       { text: "提问的智慧", link: "/others/ask-the-smart-way" },
+      { text: "图片工具箱", link: "/others/image-toolbox" },
       { text: "版权声明", link: "/copyrights" },
     ],
   },
@@ -283,6 +284,7 @@ const navEn = [
       { text: "App", link: "/en/others/app" },
       { text: "Brand Assets", link: "/en/others/branding" },
       { text: "How to Ask Questions", link: "/en/others/ask-the-smart-way" },
+      { text: "Image Toolbox", link: "/others/image-toolbox" },
       { text: "Copyrights", link: "/en/copyrights" },
     ],
   },
@@ -455,7 +457,7 @@ export default defineConfig({
           "dist",
           ".vitepress",
           ".temp",
-          "en", // English pages currently mirror the canonical Chinese content.
+          "en", // The zh TODO list only tracks zh pages; the en list is generated separately from docs/en.
         ],
       }),
       contributorsCollector(),
