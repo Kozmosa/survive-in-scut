@@ -3,3 +3,4 @@
 # Fix linguist language stats
 docs/** linguist-documentation=false
 docs/**/*.md linguist-documentation
+docs/.vitepress/components/probability/gallerySource.html linguist-generated
