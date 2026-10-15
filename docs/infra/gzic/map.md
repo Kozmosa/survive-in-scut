@@ -7,7 +7,7 @@ author: Kozumi
 
 # 国际指北
 
-<img width="540" height="405" alt="gj" src="https://github.com/user-attachments/assets/7f41e2f4-6366-4b72-b69f-d2507e6f56b5" />
+<img width="540" height="405" alt="gj" src="./docs/public/assets/gzic.png" />
 
 
 ## 学习与图书资源
