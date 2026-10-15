@@ -38,6 +38,14 @@ Given the drawback that SCUT's AI and Computer Science training plans offer litt
 
 [Website Link](https://lin-ze-pengsorganization.gitbook.io/aidiy/)
 
+### RoboPrep - Embodied AI Interview Preparation Platform
+
+An open-source interview preparation platform also maintained by [Oplisty](https://github.com/oplisty), for those seeking Embodied AI / Robot Learning positions: it collects real interview experiences contributed by the community, curates knowledge and coding question banks (with an online judge for hand-written PyTorch problems), and provides company intelligence searchable by company, position, round, and topic.
+
+[GitHub Repository Link](https://github.com/oplisty/RoboPrep)
+
+[Website Link](https://roboprep.dpdns.org) (Backup: https://robo-prep.vercel.app )
+
 ### SCUTEEE - SCUT Electrical and Electronics Engineering Knowledge Base
 
 SCUTEEE is like IEEE. SCUT stands for South China University of Technology, and EEE stands for Electrical and Electronics Engineers. SCUTEEE focuses on similar areas as IEEE: electrical engineering, electronics, microelectronics, computer science, automation, and related fields. These areas have significant overlap, with many shared courses that can provide mutual reference.

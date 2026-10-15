@@ -1197,6 +1197,12 @@ description: 大学城校区与广州国际校区同属番禺区，周边商圈�
 
 TODO: 大学城校区与广州国际校区周边商圈及娱乐设施，公园啥的我觉得也可以写写
 
+## 找音游机厅
+
+[全球音游街机地图 Nearcade](https://nearca.de/) 由华工校友 [Naptie](https://github.com/Naptie) 开发，收录全球音游街机点位，覆盖舞萌 DX、中二节奏、太鼓之达人、beatmania IIDX 等主流机种。支持按高校（含华工各校区）和半径搜索附近机厅，并提供高校街机密度排行与社团社区，出门打音游前可以先查查去哪儿。
+
+[GitHub 项目地址](https://github.com/Naptie/nearcade)
+
 ---
 
 ---
@@ -1209,6 +1215,12 @@ description: 介绍五山校区周边的娱乐设施及去处
 介绍五山校区周边的娱乐去处
 
 TODO: 五山校区周边的娱乐去处
+
+## 找音游机厅
+
+[全球音游街机地图 Nearcade](https://nearca.de/) 由华工校友 [Naptie](https://github.com/Naptie) 开发，收录全球音游街机点位，覆盖舞萌 DX、中二节奏、太鼓之达人、beatmania IIDX 等主流机种。支持按高校（含华工各校区）和半径搜索附近机厅，并提供高校街机密度排行与社团社区，出门打音游前可以先查查去哪儿。
+
+[GitHub 项目地址](https://github.com/Naptie/nearcade)
 
 ---
 
@@ -1627,6 +1639,14 @@ TODO: 补充以下大院的专业课学习攻略与开源资源库链接：
 [GitHub 项目地址](https://github.com/oplisty/SCUT-AIdiy)
 
 [网页访问地址](https://lin-ze-pengsorganization.gitbook.io/aidiy/)
+
+### RoboPrep 具身智能面试准备平台
+
+同样由 [Oplisty](https://github.com/oplisty) 维护的开源面试准备平台，面向具身智能（Embodied AI）/ 机器人学习岗位求职：收录社区贡献的真实面经，整理知识与 coding 题库（支持 PyTorch 手写题在线评测），并提供公司情报，可按公司、岗位、轮次和主题检索。
+
+[GitHub 项目地址](https://github.com/oplisty/RoboPrep)
+
+[网页访问地址](https://roboprep.dpdns.org)（备用地址：https://robo-prep.vercel.app ）
 
 ### SCUTEEE 华南理工电力电子类专业知识库
 
@@ -4539,6 +4559,12 @@ HEMC and Guangzhou International Campus are both located in Panyu District, with
 
 TODO: Shopping areas and entertainment facilities around HEMC and Guangzhou International Campus. Parks and such could also be worth writing about.
 
+## Finding Rhythm Game Arcades
+
+[Nearcade, the global rhythm game arcade map](https://nearca.de/), is developed by SCUT alumnus [Naptie](https://github.com/Naptie). It covers arcade locations worldwide across major titles such as maimai DX, CHUNITHM, Taiko no Tatsujin, and beatmania IIDX, lets you search for arcades near a university (including SCUT campuses) or within a custom radius, and offers campus arcade-density rankings and club communities — handy for planning where to play before heading out.
+
+[GitHub Repository Link](https://github.com/Naptie/nearcade)
+
 ---
 
 ---
@@ -4551,6 +4577,12 @@ description: An introduction to entertainment facilities and places around Wusha
 An introduction to entertainment options around Wushan Campus
 
 TODO: Entertainment options around Wushan Campus
+
+## Finding Rhythm Game Arcades
+
+[Nearcade, the global rhythm game arcade map](https://nearca.de/), is developed by SCUT alumnus [Naptie](https://github.com/Naptie). It covers arcade locations worldwide across major titles such as maimai DX, CHUNITHM, Taiko no Tatsujin, and beatmania IIDX, lets you search for arcades near a university (including SCUT campuses) or within a custom radius, and offers campus arcade-density rankings and club communities — handy for planning where to play before heading out.
+
+[GitHub Repository Link](https://github.com/Naptie/nearcade)
 
 ---
 
@@ -4978,6 +5010,14 @@ Given the drawback that SCUT's AI and Computer Science training plans offer litt
 [GitHub Repository Link](https://github.com/oplisty/SCUT-AIdiy)
 
 [Website Link](https://lin-ze-pengsorganization.gitbook.io/aidiy/)
+
+### RoboPrep - Embodied AI Interview Preparation Platform
+
+An open-source interview preparation platform also maintained by [Oplisty](https://github.com/oplisty), for those seeking Embodied AI / Robot Learning positions: it collects real interview experiences contributed by the community, curates knowledge and coding question banks (with an online judge for hand-written PyTorch problems), and provides company intelligence searchable by company, position, round, and topic.
+
+[GitHub Repository Link](https://github.com/oplisty/RoboPrep)
+
+[Website Link](https://roboprep.dpdns.org) (Backup: https://robo-prep.vercel.app )
 
 ### SCUTEEE - SCUT Electrical and Electronics Engineering Knowledge Base
 
