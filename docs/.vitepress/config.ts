@@ -90,6 +90,7 @@ const navZh = [
         items: [
           { text: "SRP", link: "/learn/extra/srp" },
           { text: "竞赛", link: "/learn/extra/contest" },
+          { text: "创业", link: "/learn/extra/startup" },
           {
             text: "科创/人文分",
             link: "/learn/extra/innovation_humanities_scores",
