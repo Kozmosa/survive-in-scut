@@ -12,6 +12,7 @@ import PdfViewer from "../components/PdfViewer.vue";
 import PageContributors from "../components/PageContributors.vue";
 import CommentService from "../components/CommentService.vue";
 import ImageToolbox from "../components/ImageToolbox.vue";
+import AcademicCalendar from "../components/AcademicCalendar.vue";
 
 export default {
   extends: DefaultTheme,
@@ -31,5 +32,6 @@ export default {
     app.component("PageContributors", PageContributors);
     app.component("CommentService", CommentService);
     app.component("ImageToolbox", ImageToolbox);
+    app.component("AcademicCalendar", AcademicCalendar);
   },
 };
