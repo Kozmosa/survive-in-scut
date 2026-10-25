@@ -40,6 +40,7 @@
 - [国际/大学城时间](/life/time/hemc_gzic.md): 广州国际校区与大学城校区共享同一套作息时间表
 - [五山时间](/life/time/wushan.md): 五山校区作息时间
 - [校巴时间](/life/time/bus.md): 2026 春季学期校巴时间参考表（具体时间以学校官方最新通知为准）
+- [校历](/life/time/academic_calendar.md): 华南理工大学校历（学期周次表），自动高亮今天与当前周
 
 #### 吃饭
 
@@ -137,6 +138,7 @@
 - [HEMC / GZIC Schedule](/en/life/time/hemc_gzic.md): Guangzhou International Campus and Higher Education Mega Center share the same class schedule
 - [Wushan Schedule](/en/life/time/wushan.md): Wushan Campus class schedule
 - [Campus Bus Schedule](/en/life/time/bus.md): Spring 2026 semester campus bus schedule reference (subject to the latest official notice)
+- [Academic Calendar](/en/life/time/academic_calendar.md): SCUT academic calendar (semester week grid) that highlights today and the current week automatically
 
 #### Eat
 
