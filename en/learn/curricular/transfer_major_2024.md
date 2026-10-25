@@ -197,12 +197,6 @@ Core courses: Introduction to Intelligent Vehicles, Circuits and Electronics, Au
 
 2025 assessment: Same as Mechatronic Engineering
 
-Review:
-
-* "Finance, 85 average, failed to transfer to Intelligent Vehicles (IV). IV has always preferred quality over quantity. Estimated ratio was 1.5 at registration, rose to 2 at admission. Only interview: 5 min self-intro (own PPT, stop immediately when timer ends) + 5 min Q\&A. Self-intro focused on academics, extracurriculars, and understanding of IV. Q\&A targeted your PPT and basic vehicle knowledge. IV-specific questions include 'types of lithium batteries,' 'car components,' 'most important part of a car,' 'chassis structure,' 'car parts,' 'transmission methods.' If you mentioned 'high school subject strengths,' they'd ask about Gaokao scores. Students with high math scores were asked calculus and linear algebra concepts. Others got puzzling questions like 'what car companies are in Guangzhou,' 'do you know Euler's formula,' 'why is there a gear in your PPT' -- probably intentional to test composure. This year, STEM students with 85+ had decent chances. Liberal arts/business kids, run.
-
-My preparation: 1. Modeled an aircraft engine in SolidWorks (relatively useful). 2. Learned Raspberry Pi (interviewers didn't care). 3. YOLO CLI commands (asked about underlying principles, couldn't answer). 4. Built a DeepFace-based project with AI, got 9 stars on GitHub, 2k likes on Xiaohongshu (motivating, but useless). Half a year of preparation became a cautionary tale, but it was worth it." -- Nanjing Beauty Forced to Learn SSE (2024)
-
 **(3) Mechanical Engineering**
 
 Program code: 080201 (Mechanical)
@@ -254,10 +248,6 @@ Core courses: Principles of Safety Science, Safety System Engineering, Safety Er
 2025 registration: Safety Engineering is special -- it doesn't appear in the regular voluntary transfer process. Instead, it recruits in a second batch after voluntary transfer. As of now, Safety Engineering is not among the streaming targets of the Intelligent Equipment and Advanced Manufacturing class (the Mechanical major). All class members are admitted through transfer.
 
 2025 assessment: Interview only
-
-Reviews:
-
-* "If your first transfer attempt fails and you don't want to wait another year, Safety Engineering can be your 'second choice.' It's very easy -- basically anyone who doesn't fail courses gets in. This year they recruited 40, only 26 applied, and 3 were eliminated. The interview teachers were super friendly. They specifically came from Wushan Campus to University Town Campus for us! Other programs in the school require going to Wushan for interviews. The teachers even asked 'is this time okay for you?' Interview was about 8 minutes, flexible timing. Self-intro wasn't strictly limited to 5 minutes. Even if you can't answer questions, the teacher would smile and say 'you answered well.' Most interviews were casual chatting. Since my PPT mentioned national-level innovation project and math modeling competition, the teachers asked more related questions (mostly to verify if I was just name-dropping). If you're set on Safety Engineering, prepare well for the interview and treat it as introducing yourself to a future advisor! Safety Engineering welcomes everyone!" -- Nanjing Beauty Forced to Learn SSE (2024)
 
 #### School of Materials Science and Engineering
 
