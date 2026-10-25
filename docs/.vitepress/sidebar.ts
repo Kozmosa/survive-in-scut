@@ -53,6 +53,7 @@ const sidebarZh: Sidebar = {
             { text: "大学城/国际", link: "/life/time/hemc_gzic" },
             { text: "五山", link: "/life/time/wushan" },
             { text: "校巴", link: "/life/time/bus" },
+            { text: "校历", link: "/life/time/academic_calendar" },
           ],
         },
         {
@@ -212,6 +213,10 @@ const sidebarEn: Sidebar = {
             { text: "HEMC/GZIC", link: "/en/life/time/hemc_gzic" },
             { text: "Wushan", link: "/en/life/time/wushan" },
             { text: "Campus Bus", link: "/en/life/time/bus" },
+            {
+              text: "Academic Calendar",
+              link: "/en/life/time/academic_calendar",
+            },
           ],
         },
         {
