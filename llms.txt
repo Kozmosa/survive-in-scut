@@ -70,6 +70,7 @@
 
 - [SRP](/learn/extra/srp.md): 什么是SRP，SRP有什么用，如何报名参加SRP，你将会有那些收获，你需要做些什么
 - [竞赛目录及简介](/learn/extra/contest.md): 目前华南理工大学加分的竞赛
+- [创业指北](/learn/extra/startup.md): 本科生科技创业的入门路径：黑客松、创业孵化器、李泽湘科创体系与奇绩创坛。
 - [创新分与人文分](/learn/extra/innovation_humanities_scores.md): 什么是创新分，创新分有什么用，如何获得创新分。本文章以电力学院为例
 
 ### 飞跃
