@@ -8,6 +8,8 @@ llm_translated: true
 
 # Self-Directed Learning: Science and Technology -- Anti-Involution Survival Engineering for University
 
+Author: X [@Ryo_onmyway](https://x.com/Ryo_onmyway)
+
 ## Zero: Schooling vs. Learning
 
 ### The Brutal Reality
@@ -20,7 +22,7 @@ Eighteen years later, that line still holds.
 
 The department's goal is to secure research funding and build up some "XX discipline." That is how the department survives. As for undergraduates -- what does whether you learned anything have to do with their funding? Whether you sink or swim is nobody's problem. Even if somebody did care, the cost-benefit of looking after master's and PhD students would still be better.
 
-For university teachers, teaching is a "side gig," even a "chore." Their energy all goes into research. Only good research wins funding and titles. Teaching -- especially teaching undergraduates -- is a thankless job: do it well, no reward; do it badly, punishment.
+For university teachers, teaching is a "side gig," even a "part-time job." Their energy all goes into research. Only good research wins funding and titles. Teaching -- especially teaching undergraduates -- is a thankless job: do it well, no reward; do it badly, punishment.
 
 Even "lecturers" without heavy research loads -- don't assume they will teach carefully. Teaching earnestly earns the same salary as phoning it in, so why not slack off? As for whether the students understood anything, what business is that of theirs?
 
@@ -78,11 +80,15 @@ They promise to train you into a scientist; in reality they are training you int
 
 Many "innovation classes" run last-place elimination, but almost none offer a voluntary exit. Even if you are not at the bottom, trying to leave or transfer into an ordinary class means enormous administrative pressure and psychological shame. Those who quit are treated as failures; those who stay can only be denominators for the grind kings. So the students who were never happy to begin with sink deeper into depression under the double pressure. One road, blocked at both ends.
 
+Of course, the fact that innovation classes have these problems does not mean ordinary classes are free of them. As long as rewards depend on relative ranking, competition is unavoidable -- and it can be even fiercer.
+
+Ordinary classes get fewer graduate-recommendation slots and also have to absorb students transferring in from other majors. And the ones who transfer in happen to be the "grind kings" of their original majors. Majors that were already popular become even more involuted; at my school, quite a few students in good majors have even started attacking the people who transferred in.
+
+Too many monks, too little porridge -- and still more, even stronger "monks" keep pouring in and taking the original slots. Who wouldn't be angry?
+
 ### The Diminishing Marginal Returns of GPA Grinding
 
-GPA is cash, not an asset.
-
-As your GPA climbs higher, you will notice the cost-effectiveness of grinding it keeps dropping.
+As your GPA climbs higher, the cost-effectiveness of grinding it keeps dropping.
 
 The grind kings in hot majors at good schools all average 90+. Suppose your average is 80. The time and energy you spend holding your 80, versus what a 90+ grinder spends holding theirs, are not even in the same weight class.
 
@@ -91,22 +97,54 @@ GPA's usefulness is limited to graduate recommendation and study abroad. But gra
 Between score bands, things are simply different.
 
 - 60-80: this band is the "foundation zone." As long as you master the basic concepts and memorize the formulas, you won't fail, and with some luck you will even get a decent-looking score.
-- 80-90: this band is the "improvement zone." Here you need to nail the exam's key points and common traps, and the time invested slowly grows.
-- 90-100: this band is the "bubble zone." For one or two extra points you may have to memorize the entire book, or even psychoanalyze the question-setter.
+- 80-90: this band is the "qualification zone." Here you need to nail the exam's key points and common traps, and the time invested slowly grows.
+- 90-100: this band is the "bubble zone." Pushing higher may do little more than make the number look nicer. For one or two extra points you may have to memorize the entire book, or even psychoanalyze the question-setter.
 
 Going from 65 to 70 takes maybe 5 extra hours; going from 90 to 95 might not be enough even with 50. And once those 5 points get weighted into the GPA, the effect may show up as a mere 0.2.
 
-Crazier still: for those crumbs of points, people will not even spare the class-rep post of a fluff course -- another place with near-zero marginal effect. To keep others from getting that crumb, they would rather spend ten times the time and energy.
+But today, the graduate-recommendation average cutoffs for hot majors at good schools almost all sit right around the "bubble zone," so the time and energy people pour into that zone are wildly out of proportion to the return.
 
-That 0.2 might matter right at the graduate-recommendation cutoff, but in recommendation interviews and graduate-entrance re-examinations its payoff is 0. Teachers do not care what makes a 95 stronger than a 90; but at one glance they can tell whether you are someone who has "completed a real project" or someone who "only knows how to do problem sets."
+In this GPA arms race, nobody dares to stop. Everyone raises the stakes together, and the threshold rises right along with them.
+
+Crazier still: for those crumbs of points, people will not even spare the class-rep post of a fluff course -- another place with near-zero marginal effect. To keep others from getting that crumb, they would rather spend ten times the time and energy.
 
 If someone treats the policy's scoring rubric as gospel, then they are the biggest victim of that very policy. And the reality is that in hot majors, everyone fights bloody battles in the "bubble zone" just to avoid falling behind -- even the "winners" of this system cannot escape becoming its victims.
 
-After all, exams are the game we know best: clear rules, comfortable and safe; you just keep playing the high-school way. Everyone crowding onto one single-log bridge -- of course it turns into a grind.
+First figure out whether your target is a fixed requirement or a relative ranking, then decide whether to keep investing. Reaching last year's cutoff does not mean you are safe this year.
 
-The rational strategy is to "cut your losses": once you reach your target line, stop the extra investment and merely "hold steady" so you do not fall out of the safe zone.
+But does the competition over GPA stay confined to the exams themselves?
 
-How to hold steady is what the rest of this document covers.
+### When Competition Turns to the Rules
+
+A few days ago I was volunteering at freshman orientation, and while slacking off midway I chatted with someone from the electrical engineering major.
+
+They told me that in their Electric Machinery exam, the teacher often grades harshly.
+
+So some students, to avoid being dragged down in next semester's comprehensive evaluation (综测), chose to apply for a deferred exam. That way the grade would not be counted yet, and their average at evaluation time would look better.
+
+When the school discovered this "malicious deferral" practice, it ruled that any deferred exam without a grade yet would be counted as 60.
+
+What an evaluation system measures can be influenced by rules that have nothing to do with how well you know the material. Once there is little room left to optimize the metric itself, going after the rules becomes the grind kings' choice.
+
+To avoid harsh grading, they chose to defer without being sick and without any scheduling conflict. What they optimized was not just the grade, but also the point in time at which the grade gets counted.
+
+And to keep things from spiraling into vicious competition, the school chose "record it as 60." The measure is not necessarily good, but there is no better one for this situation either.
+
+Worse still, more than 30 students in the electronic information major at my school deferred the same exam at the same time -- purely to give themselves more review time.
+
+No illness, no scheduling conflict.
+
+After the school found out, students with legitimate reasons for deferral had a hard time getting approved afterward.
+
+Those who exploited the loophole first got the extra review time, while those who came later paid the price.
+
+The predecessors cut down the trees; their successors bake in the sun.
+
+Later I will talk about how to "use the rules," but those methods will never rest on false information, and never on making others bear the consequences for you.
+
+A teacher can have a great impression of you and of other students at the same time. Studying the rules does not mean fabricating reasons to get favors, and it does not mean building your own gain on costs shifted onto those who come after you.
+
+If we are going to compete, then win fair and square, and lose with a clear conscience.
 
 ### Is Attending Lectures the Same as Learning?
 
@@ -120,7 +158,7 @@ Having read everything above, you probably already believe that university teach
 
 But for many people, so-called "self-study" merely means finding an online course and re-watching the lecture they failed to understand offline, online. They still have not left the passive-reception path.
 
-Why are we so attached to this illusion? Because it delivers a lethal hit of pleasure.
+But why are we so attached to this illusion? Because it delivers a lethal hit of pleasure.
 
 Whether in class or watching an online course, your thoughts follow the teacher's logic. The derivations go smoothly, the worked examples seem doable, everything feels fine.
 
@@ -130,11 +168,15 @@ Ask yourself to restate what was just covered, or to solve one problem, and you 
 
 Input only, no output: it clicks during the lecture, it dies on the problem set. Using lectures to dodge output is nothing but a cowardly escape.
 
-Real "learning" is painful; it is full of chaos and uncertainty, like tearing muscle at the gym so it can regrow. Lectures are comfortable and full of certainty.
+Going further, the speed at which we take in information by listening is far lower than by sight. Humans get roughly 80% to 90% of their information through vision.
+
+Reading has another advantage: you allocate your own attention. Skip what you don't understand, flip back when something similar shows up later, put passages side by side when you need to tell them apart. Lectures, by contrast, are bound to the teacher's pace, and you are often too embarrassed to ask about the parts you missed.
+
+But faster input does not mean faster mastery.
 
 Most people would rather read the book ten times than derive a formula once; would rather rewatch an online course five times than solve one problem independently.
 
-And this inertia -- "chase certainty," "avoid pain," "performative diligence" -- is precisely the trap the schooling system was carefully designed to spring on you.
+This inertia -- "chase certainty," "avoid pain," "performative diligence" -- is precisely the trap the schooling system was carefully designed to spring on you.
 
 Schooling is a "finite game." The goal is out-grinding others or satisfying metrics. Everyone grinds, so you get swept into grinding too; it is kill-or-be-killed, the evaluation system is single, and the game ends the moment the results come out.
 
@@ -172,7 +214,7 @@ So what can be written into a resume? How should the 4 years be divided?
 
 A pretty GPA with nothing else shining looks perfect but is extremely fragile. When the people competing on the same stage as you all hold transcripts averaging 90+, how exactly are you going to stand out?
 
-Coursework is your "cash flow" -- keeping it above the safety line is enough. Projects and competitions are your "assets" -- they decide your future worth. As the years go up, you must frantically convert cash flow into assets, instead of hugging a pile of depreciating cash (GPA) and feeling smug about it.
+Coursework is your "ticket": without it you cannot get a seat at the next table, but frantically hoarding tickets does not make you any more valuable.
 
 ### Beyond Review
 
@@ -230,31 +272,31 @@ Body in prison, mind in exile.
 
 Doing your own thing? Sounds good -- but doing what? Homework? Your own online courses? The PPT for a group project? Or your own project?
 
-If you are certain that the knowledge density of the teacher's lecture is lower than the knowledge density of reading the material yourself, then skip without hesitation, or practice "invisible skipping": your body sits in the classroom while you do your own thing. Body checked in, soul offline.
+If you are certain that the knowledge density of the teacher's lecture is lower than the knowledge density of reading the material yourself, practice "invisible skipping": your body sits in the classroom while you do your own thing. Body checked in, soul offline.
 
 I personally support skipping class, and as class monitor I kept the cost of "legal skipping" -- taking leave -- remarkably low. Write yourself a leave note, give me a heads-up, no signatures needed, and the leave was granted.
 
-There are far, far more interesting things in this world than sitting in a lecture.
+The method I use now is UU Remote (UU远程): I control my computer from a tablet.
+
+My computer is heavy and drains its battery fast, so it is inconvenient to carry around, but a lot of my work depends on it. So I control it remotely and do vibe coding in class.
+
+The teacher is still lecturing up front, though, and you have to look up now and then. So class time suits tasks that can be split into chunks; for tasks that need continuous thinking, like writing, I recommend carving out a separate large block of time.
+
+Using AI to do what you actually want to do is far more interesting than listening to a lecture.
 
 As the saying goes: if you skip, don't fear; if you fear, don't skip. Skipping class is an art of risk management -- while your body escapes, minimize your loss of routine points as much as possible.
 
-Figure out the teacher's roll-call pattern, have your roommates answer for you, sign the sheet for you. When there is a policy from above, there is a countermeasure from below. If you want to skip, there is no class you cannot skip.
+Figure out the teacher's roll-call pattern and skip selectively. When there is a policy from above, there is a countermeasure from below. If you want to skip, there is no class you cannot skip.
 
 Only show up when necessary, and even when you do show up, decisively do your own thing. The classroom is our "miscellaneous-tasks processing center."
 
 But what about in-class roll calls?
 
-If you choose physical skipping: treat your roommates to a meal in advance, give them a little benefit, state your request clearly, and ask them for the favor. A mouth that has eaten goes short, a hand that has taken goes soft.
-
-If you choose mental skipping: just saying "I don't know" will not hurt you. You feel mortified, but most people will forget your awkward moment right after class. If you are truly terrified, mentally check out during the roll call and use AI to generate an answer.
+Just saying "I don't know" will not hurt you. You feel mortified, but most people will forget your awkward moment right after class. If you are truly terrified, mentally check out during the roll call and use AI to generate an answer.
 
 Even if you do get marked at a roll call, that is merely the price of 90 minutes of freely disposable time. When a lecture's payoff is far below its opportunity cost, _not_ skipping is the real waste.
 
 Skipping class is not a "bad student" label -- it is an investment, and losing routine points is merely the penalty clause of the deal.
-
-Let me also share a method for defeating Rain Classroom (雨课堂) random roll calls:
-
-Scan the QR code to check in as normal, but during roll-call windows, disconnect every one of your devices from the network -- on a computer you can log out of WeChat. The core is keeping WeChat offline, and then you will not get picked. This trick works great in big lectures with huge enrollment, especially the various politics courses.
 
 As for how to make up what you missed after skipping, that will be covered in detail later.
 
@@ -314,7 +356,7 @@ Invest about an hour a day, but not in one block: split it into 3 chunks of 20 m
 
 This is relatively relaxed, keeps you from being crushed by so-called "quota" pressure, and since you memorize while attention is at its sharpest, the brain absorbs the most and forgets the least.
 
-Reciting vocabulary once a week for 7 straight hours is self-deception: after the first hour your brain has already refused to write anything in. Reciting 45 minutes a day, split into three sittings, letting those neurons fire over and over -- that is the play that obeys biology.
+Reciting vocabulary once a week for 7 straight hours is self-deception: after the first hour your brain has already refused to write anything in. Reciting 60 minutes a day, split into three sittings, letting those neurons fire over and over -- that is the play that obeys biology.
 
 For highly procedural and structural knowledge, such as calculus, mechanics, and coding, we need the "immersive experience."
 
@@ -513,7 +555,13 @@ Repeat this process until you have eliminated every sticking point.
 
 Do not do 3 problems -- do 1 problem 3 times.
 
-First pass: read the answer and make the logic click. Second pass: solve it independently, producing the output yourself, to check whether you truly understand. Third pass: mutate the problem. Ask yourself: if this condition were removed, could the problem still be solved? If it asked for B instead of A, would the solution change? The moment you can produce variants of a problem, you are riding the question-setter.
+First pass: read the answer and make the logic click. Second pass: solve it independently, producing the output yourself, to check whether you truly understand. Third pass: mutate the problem. Ask yourself: if this condition were removed, could the problem still be solved? If it asked for B instead of A, would the solution change?
+
+Past papers are the training set; this year's final is the test set. Stopping at memorizing question types is overfitting to the training set.
+
+When I reviewed probability theory, I worked through every past paper I could find. Then the final changed its question types drastically, and I -- along with plenty of others -- paid for it.
+
+But if you can produce variants of a problem and clearly explain its conditions, its line of reasoning, and the boundaries where it applies, you are riding the question-setter.
 
 ## Four: Precise Output -- Strike Where You Aim
 
@@ -599,13 +647,13 @@ In the AI era, refusing to use AI is squandering a treasure. Yet most people's A
 
 And what they tell the AI is just empty talk like "explain concept XX to me," so what they get back is naturally encyclopedic, hollow, dreary preaching.
 
-Any web-based AI carries two limitations: 1, it can only solve problems one at a time, never a whole class of problems at once. 2, a large model's context capacity is limited -- once the conversation runs too long or too many files pile up, it gets dumber.
-
-So as this kind of interaction goes on, the results keep degrading and the AI's output grows more and more "moronic" -- missing key concepts, botching calculations, with these amateur errors appearing again and again.
+Just tossing questions to AI for answers is not progress; using a more advanced model is not progress; using AI to rewrite your review workflow -- that is progress.
 
 Our approach is to use an agent: first hand it a set of operating instructions, then have it read local files and generate markdown documents, turning the conversation into nodes that double as prompts for the next round. It also stops blindly pulling in random files and memories that produce bizarre answers.
 
-As for what teachers say -- "even with AI, the real thinking you must do yourself" -- treat such correct platitudes as a bit of entertainment. They almost certainly cannot use AI properly themselves.
+Many teachers ban AI because they need to judge whether the homework was really done by you; otherwise they have no way to grade it.
+
+But exams care only about results. The teacher does not care how you reviewed -- only whether you can work the paper.
 
 ### 1. Identity Definition
 
@@ -678,29 +726,47 @@ Never forget: you are the driver of this game called learning; AI is merely your
 
 ### 4. Agent Setup
 
-First, download an agent tool -- Claude Code, Codex, Trae, or WorkBuddy, whatever. Anything that can read local files and install skills will do.
+First, get an agent tool. Which one does not matter -- the tools update faster than this book does. It only has to meet two conditions: it can read and write files on your computer, and it can install skills.
 
-Then open PowerShell on your computer, confirm Node.js is installed, and enter the following command:
+Then open a terminal (PowerShell on Windows), confirm Node.js is installed, and enter the following command:
 
-`npx -y skills add Wh1te358/exam-hacker -g --all`
+`npx -y skills add Ryoonmyway/exam-hacker -g --all`
 
-With that, the skill is installed. Organize your materials in the format above and use it as follows:
+That installs the whole set of skills -- six in total. After installing, start a new conversation.
 
-1. Survival outline. You input the subject type, target score, time remaining, quality of materials, and exam question types. The Agent judges whether the target is realistic, generates a survival outline, ranks chapters by priority, lists the must-test concepts and formulas, and builds you an initial review plan.
+First, its boundaries: this skill set only handles mathematical-logical content -- computation, derivation, and proof problems that have standard answers and can be checked right or wrong. Memorization subjects, and the parts of mixed subjects that need memorizing, will not be forced into the problem-solving workflow; handle those yourself with the methods from sections Two and Three.
 
-2. Concept compression. For mathematical-logical content it uses parameter tests, deepening your grasp of concepts by varying parameters. For memorization content it uses keywords, keeping only keywords to guarantee you hit the scoring points.
+In normal use, you only need to remember one entry point:
 
-3. Reverse breakdown of past papers. It does not start from "explaining knowledge points" but works backward from answers and scoring points: which formula written first earns the step points, which problem trigger word maps to which operation, which step is most likely to stall you, and the minimum you should write when you are completely lost.
+Use `$exam-hacker` to help me start reviewing course XX. The exam date is..., the target is..., and I can still put in... hours. The materials are in reference/.
 
-4. Knowledge graph. STEM exams love testing the connections between knowledge points. The skill outputs: 知识节点表.md (knowledge node table), 知识连接图.md (knowledge connection graph), and 综合题型地图.md (comprehensive question-type map).
+It chains the rest together on its own. The full flow is: initial diagnosis → current module → extra explanation when needed → practice problems → grading and logging → plan adjustment when needed → next task.
 
-5. A4 cheat sheet. This step is not for cheating -- it forces you to compress high-frequency knowledge points, essential formulas, common errors, and scoring points.
+If you want to jump to a specific step, you can also call it by name:
 
-I developed this skill myself and have open-sourced it on GitHub, at the following link:
+| What you want to do right now                                                            | Which one to use        |
+| ---------------------------------------------------------------------------------------- | ----------------------- |
+| Start reviewing, not sure what to do first, or continue in a new conversation            | `$exam-hacker`          |
+| Judge what to shore up most right now, and whether there is enough time                  | `$exam-hacker-triage`   |
+| Learn how to review a module, or get an explanation of a step you are stuck on           | `$exam-hacker-compress` |
+| See the full solution to a problem                                                       | `$exam-hacker-solve`    |
+| Do problems, have it set problems, submit answers to test yourself                       | `$exam-hacker-drill`    |
+| Your practice performance, newly obtained materials, or remaining time changed -- replan | `$exam-hacker-replan`   |
 
-https://github.com/Wh1te358/exam-hacker
+A few design choices exist specifically to keep you from "feeling good about yourself":
 
-If there is any feature you would like this skill to have, leave a comment in the issues -- I take every suggestion seriously.
+1. When you say "I get it," it records that, but does not count it as "mastered." Only an answer you actually submit counts.
+2. A problem whose full answer you have already seen can no longer be used to prove you know it. Verification requires new problems.
+3. Exam scope and point values must have a source. Your own feeling that "this chapter won't be tested" does not count as evidence. Strategically abandoning a chapter also requires writing down the basis, the cost, and the conditions under which you would pick it back up.
+4. AI-generated problems and answers are labeled with their source and verification status, and never pose as real past papers.
+
+All progress is stored in Markdown files in the progress/ folder -- you do not need to create them yourself. In a new conversation, just say "Use `$exam-hacker` to continue; read progress/progress.md first" in the same course folder, and you pick up right where you left off.
+
+I developed this skill set myself and have open-sourced it on GitHub:
+
+https://github.com/Ryoonmyway/exam-hacker
+
+If there is any feature you would like these skills to have, leave a comment in the issues -- I take every suggestion seriously.
 
 ## Seven: If You Only Have Three Days
 
@@ -738,7 +804,7 @@ Then pull out the past papers and mark every point that has ever been tested ont
 
 If you want AI to do the summarizing, put the textbook or PPT into the folder and tell it: "I have only 2 hours to review this chapter. Skip all background knowledge and derivations and tell me directly: 1. What are the 3 formulas that are guaranteed to be tested here? 2. When facing this question type, what is usually the first step of the standard solution?"
 
-Whatever you do not understand, memorize outright. Drop the "why" and keep only the "what." See "find the limit," and L'Hôpital's rule launches immediately; see "extremum," and your reflex fires: set the derivative equal to zero.
+Whatever you do not understand, memorize outright. Drop the "why" and keep only the "what." See "find a 0/0-type limit," and L'Hôpital's rule launches immediately; see "extremum," and your reflex fires: set the derivative equal to zero.
 
 Cut the same question type from the last 3 years of papers and paste them together; read 10 in a row. You will find they all look identical -- only the numbers changed.
 
@@ -776,7 +842,7 @@ Thanks to Teacher Hu Nan (胡楠), Associate Dean of the School of Civil Enginee
 
 Thanks to South China University of Technology for sparing my life. Even when freshman me was arrogant enough to mouth off at heaven and earth alike, the school chose tolerance.
 
-Thanks to Gemini and ChatGPT for their tireless support of my writing. I suddenly feel rather lucky to have been born in this era. Without AI, the progress of this e-book would certainly have slowed to a crawl.
+Thanks to Gemini, ChatGPT, and Claude for their tireless support of my writing. I suddenly feel rather lucky to have been born in this era. Without AI, the progress of this e-book would certainly have slowed to a crawl.
 
 (A blank is reserved here to thank my future partner. The day I find them, I will fill it in.)
 
