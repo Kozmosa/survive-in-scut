@@ -9,6 +9,7 @@ const CONTRIBUTOR_ALIASES: Record<string, string> = {
   Kozmosa: "Kozumi",
   "Yuyun Chen": "Rotioki",
   fish152363: "Fish.",
+  Wh1te358: "在路上的小凉",
 };
 
 const EXCLUDED_DIRECTORIES = new Set([
