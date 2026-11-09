@@ -18,6 +18,12 @@ TODO: Add study guides and open-source resource links for the following major sc
 - [ ] School of Software Engineering / School of Computer Science & Engineering
 - [ ] School of Materials Science & Engineering / School of Environment & Energy
 
+## Civil Engineering, Mechanical Engineering, and Related Programs
+
+[Studying Theoretical Mechanics and Mechanics of Materials](/en/learn/curricular/mechanics_study_2025)
+
+A personal account by 在路上的小凉 of taking these courses in 2025. It describes using lecture slides, worked examples, homework, and past papers to prepare for finals, including the different difficulties encountered in each course. Some programs combine the subjects into Engineering Mechanics; readers should refer to their own course scope.
+
 ## School of Future Technology
 
 ### School of Future Technology Course Guide
