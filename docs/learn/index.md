@@ -21,4 +21,5 @@ description: 华南理工大学课程体系、考试制度、绩点计算、转�
 
 - [SRP](./extra/srp) — 学生研究计划参与指南
 - [竞赛](./extra/contest) — 各类学科竞赛介绍与备赛建议
+- [暑期访学](/learn/extra/berkeley_summer_visit) — 伯克利六周访学的费用、选课和生活经历
 - [科创/人文分](./extra/innovation_humanities_scores) — 创新学分与人文素养学分获取指南
