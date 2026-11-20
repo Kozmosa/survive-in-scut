@@ -101,6 +101,7 @@ const sidebarZh: Sidebar = {
           items: [
             { text: "SRP", link: "/learn/extra/srp" },
             { text: "竞赛", link: "/learn/extra/contest" },
+            { text: "暑期访学", link: "/learn/extra/berkeley_summer_visit" },
             { text: "创业", link: "/learn/extra/startup" },
             {
               text: "科创/人文分",

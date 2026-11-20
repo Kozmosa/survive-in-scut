@@ -18,6 +18,7 @@ description: 介绍华南理工大学与转专业有关的政策制度，及给�
 
 ## 经验分享
 
+- [转专业报名前，找上一届的同学问什么？](/learn/curricular/transfer_major_interviews)（三位华工学生的访谈，涵盖备考、面试与补课）
 - [转电气经验分享（2026）](./transfer_major_electrical_2026)（作者：淬）—— 面向转专业至电力学院（电气工程及其自动化）的面试准备与常见问题
 - [转信工经验分享（2026）](./transfer_major_information_engineering_2026)（作者：十七）—— 面向转专业至电子与信息学院（信息工程）的笔试内容、面试标准与备考建议
 - [转信工经验分享（2026）](./transfer_major_information_engineering_fish_2026)（作者：orz）—— 面向转专业至电子与信息学院（信息工程）的专业抉择、笔试面试流程与备考时间线
